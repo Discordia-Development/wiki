@@ -18,7 +18,7 @@ Voice channels allow guild members to talk to each other using their voices. The
 Guilds contain roles which - when assigned - give users certain permissions and a custom name-color (if set). Guilds typically use roles to assign special permissions or signify a rank on an external website.
 
 ## Custom Emoji
-Each guild is allowed to upload 50 custom emoji, which can be used by any member (with the permission) on the guild. If a user has Nitro, they may use the guild's custom emoji on any other guild or private message that allows it. To upload custom emoji (if you have the 'Manage Emojis' permission) go to Server Settings and click the Emoji button. Once there, you will be promoted you may upload emoji and rename them. You may also delete emoji from this page. More information may be found [http://discordia.me/emoji here].
+Each guild is allowed to upload 50 custom emoji, which can be used by any member (with the permission) on the guild. If a user has Nitro, they may use the guild's custom emoji on any other guild or private message that allows it. To upload custom emoji (if you have the 'Manage Emojis' permission) go to Server Settings and click the Emoji button. Once there, you will be promoted you may upload emoji and rename them. You may also delete emoji from this page. More information may be found at http://discordia.me/emoji.
 # Verification Levels
 Guild administrators may toggle the verification level. When a verification level is set, members must meet the criteria before they can create a direct message with someone in the guild or send messages in a text channel. If a member is assigned a role, they will bypass the verification.
 
