@@ -1,5 +1,5 @@
 <!-- TITLE: Libraries -->
-<!-- SUBTITLE: A quick summary of Libraries -->
+<!-- SUBTITLE: Discord API Libraries -->
 
 The following libraries allow users to create applications and [bots](https://discordia.me/bots) that interact with the [Discord API](https://discordapp.com/developers/docs/intro).
 
