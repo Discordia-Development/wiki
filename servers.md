@@ -1,5 +1,5 @@
-<!-- TITLE: Guild -->
-<!-- SUBTITLE: A quick summary of Guilds -->
+<!-- TITLE: Servers -->
+<!-- SUBTITLE: A quick summary of Servers -->
 A Guild (commonly referred to as a *Server*) is the main feature on Discord.
 
 
