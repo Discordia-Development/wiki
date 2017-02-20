@@ -31,6 +31,8 @@ Some of the most accessed pages are listed below:
 * https://discordia.me/stable
 * https://discordia.me/ptb 
 * https://discordia.me/canary
+* https://discordia.me/libraries
+* https://discordia.me/bots
 # Disclaimers and Legal Information
 Hey there! Welcome to The Discord Wiki! We're strong believers in transparency, so before you jump in, please take a look at our [Terms of Service](https://discordia.me/terms) and our [Privacy Policy](https://discordia.me/privacy) in order for you to know all the legal stuff you need to know regarding our services!
 
