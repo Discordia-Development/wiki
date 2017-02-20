@@ -1,4 +1,4 @@
-<!-- TITLE: Stable -->
+<!-- TITLE:Discord Stable -->
 
 Discord Stable is the main Discord client. 
 The main client is called Stable because it has very little bugs.
