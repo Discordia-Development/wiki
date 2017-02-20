@@ -7,6 +7,8 @@
 We're a small team of Discord enthusiasts, aiming to raise awareness of a great text and voice chat platform, Discord.
 
 # Test to see if I can actually get this bs to stop breaking
+
+```text
 We're no strangers to love
 You know the rules and so do I
 A full commitment's what I'm thinking of
@@ -50,4 +52,6 @@ Never gonna give you up, never gonna let you down
 Never gonna run around and desert you
 Never gonna make you cry, never gonna say goodbye
 Never gonna tell a lie and hurt you
+```
+
 
