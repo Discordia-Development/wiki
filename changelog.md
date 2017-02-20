@@ -37,4 +37,22 @@ Full changelog [here](https://blog.discordapp.com/11-22-16-change-log-d03ff38578
 * Significant voice improvements.
 * Embeds.
 * Server capacity increased.
-
+# 11/03/2016
+Full changelog [here](https://blog.discordapp.com/11-3-2016-change-log-2039f87ba47a#.zg3dcte88)
+## Desktop
+* Emoji reactions released.
+* New API.
+* Server speed doubled.
+## iOS
+* Upload photos from any album.
+* Ban and delete message history.
+# 10/13/2016
+Full changelog [here](https://blog.discordapp.com/10-13-2016-change-log-fc1bf2703763?source=collection_home---4------7----------)
+## Desktop
+* Sync League of Legends.
+* Discord begins virus scans if uploaded files.
+## Android
+* Ability to change your status to Do Not Disturb or Invisible.
+* Respond to friend suggestions.
+## iOS
+* Manage roles and members.
