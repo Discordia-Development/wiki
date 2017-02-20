@@ -3,6 +3,8 @@
 A Guild (commonly referred to as a *Server*) is the main feature on Discord.
 
 
+![alt text](http://i.imgur.com/ChQcUuc.png?1 "Guild")
+
 # Joining a Guild
 Users can join guilds by going to the invite link in their browser or by scrolling down to the bottom of their guild list and clicking the + icon.
 ## Creating a Guild
