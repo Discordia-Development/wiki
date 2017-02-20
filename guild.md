@@ -4,6 +4,7 @@ A Guild (commonly referred to as a *Server*) is the main feature on Discord.
 
 
 ![alt text](http://i.imgur.com/ChQcUuc.png?2 "Guild")
+
 *A Guild with 1 text channel and two voice channels.*
 
 # Joining a Guild
