@@ -15,14 +15,15 @@ This'll bring up a screen with several options, of which we will choose the one 
 
 ![Emoji Settings](http://imgur.com/sa5xrB3.png)
 
-Now, you'll be able to pick any image (up to 128x128px) and upload it! 
-> NOTE: There ***is*** a small catch in which any images you upload will be downscaled to 32x32px, but that's just meander stuff, right?
+Now, you'll be able to pick any image and upload it! 
+> NOTE: There ***is*** a small catch in which any images you upload will be downscaled to 32x32px, but that's just meager stuff, right?
 
 ![Emojis](http://imgur.com/BshV2VS.png)
 
 Whenever you finish making your new emote, you can edit the emoji's name by clicking on the name, then changing it according to how you feel is appropriate :3
 > All emoji names *are* case-sensitive, meaning that :discord: is different than :Discord:
->At the current time of publication, servers are only allowed to have 50 custom emojis.
+> 
+> At the current time of publication, servers are only allowed to have 50 custom emojis.
 
 ![Discord](http://i.thedrutribe.us/92a46ce9.png)
 
