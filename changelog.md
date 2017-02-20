@@ -1,7 +1,7 @@
 <!-- TITLE: Changelog -->
 <!-- SUBTITLE: Discord Changelog -->
 
-This is the changelog/release date for public features. PTB and Canary might have received some features sooner than the date listed below.
+This is the changelog/release date for major features or significant changes. PTB and Canary might have received some features sooner than the date listed below.
 
 # 01/31/2017
 Full changelog [here](https://blog.discordapp.com/31-1-2017-change-log-8d7ebf125e1c#.5avupzgn8)
@@ -10,7 +10,7 @@ Full changelog [here](https://blog.discordapp.com/31-1-2017-change-log-8d7ebf125
 # 01/23/2017
 * Discord Nitro global release.
 
-Blog post [here](https://blog.discordapp.com/boost-your-account-and-support-us-with-discord-nitro-4f894cfb80d9#.rosjjueqo).
+Blog post [here](https://blog.discordapp.com/boost-your-account-and-support-us-with-discord-nitro-4f894cfb80d9#.rosjjueqo)
 # 12/22/2016
 Full changelog [here](https://blog.discordapp.com/2016-12-22-change-log-254262493f4a#.cjpf59rqu)
 ## Desktop
@@ -30,3 +30,11 @@ Full changelog [here](https://blog.discordapp.com/2016-12-22-change-log-25426249
 * Reactions.
 * Re-order channels.
 * Mute channels.
+
+# 11/22/2016
+Full changelog [here](https://blog.discordapp.com/11-22-16-change-log-d03ff38578ff#.euzel4q79)
+
+* Significant voice improvements.
+* Embeds.
+* Server capacity increased.
+
