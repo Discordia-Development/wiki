@@ -13,4 +13,4 @@ Discriminators range from 0001 to 9999 and are randomly assigned. Two users with
 ![ERROR](http://image.prntscr.com/image/c0dc4347023845f8beff47c4a83c7c94.png)
 
 ## Changing your Discriminator
-Changing your discriminator is possible. However, it is not recommended by Discord, and as a result, The Discord Wiki will not teach you how to do it.
+Changing your discriminator is possible. However, it is prohibited to "discriminator farm" (using a bot to change your username until you get the discriminator you wish), and as a result, The Discord Wiki will not condone the use of discriminator farms. We also heavily advise against manually changing your username to find the discriminator you desire, but it is technically permitted.
