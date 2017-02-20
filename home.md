@@ -9,7 +9,7 @@ We're a small team of Discord enthusiasts, aiming to raise awareness of a great 
 [Join us on Discord!](http://discord.gg/WHz5r3N)
 ## Wiki Staff
 ### Administrators
-* @Dru#~~1327~~0785 (Thanks the last user named Test on the planet)
+* @Dru#~~1327~~0785 (Thanks, the last user not named Test on the planet)
 * @Harrison#9100
 * @Mikesky#3456
 * @nullpixel#0012
