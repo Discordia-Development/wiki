@@ -28,12 +28,15 @@ To visit a server, direct message or channel of your choice, type the the intend
 If you want to close the Quick Switcher, click the escape key or click anywhere outside of it.
 
 > NOTE: The prefixes for the different querys are as follows
-> Voice Channel query - '!'
-> Guild/Server query - '*'
-> Channel query - '#'
-> User query - '@'
+
+```text
+Voice Channel query - '!'
+Guild/Server query - '*'
+Channel query - '#'
+User query - '@'
+```
+
 
 Finally, your last visited channel and any unread mentions will display on the Quick Switcher!
-And this is more of less the markdown
 
 
