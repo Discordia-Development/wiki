@@ -14,7 +14,9 @@ A Discord Nitro subscription gives users access to the following features:
 * Max upload size changed from 8mb to 50mb.
 * Discord Nitro badge on profile.
 
-![alt text](http://i.imgur.com/lfcwidp.png?1)
+![alt text](http://i.imgur.com/lfcwidp.png?2)
+
+*The Nitro badge is displayed on a user's profile.*
 # Purchasing Nitro
 To purchase Nitro, click the user prefences cog on the bottom left of your screen and click the Nitro button. Once there select monthly or yearly and enter your credit or debit card and zipcode when promoted. Unfortunatley, Paypal is not supported.
 
