@@ -6,3 +6,5 @@ Welcome to **Discordia** (a.k.a. "**we**" or "**us**" or the "**Company**"). We 
 
 
 We want to keep our relationship with you as lean and informal as possible, but please read the Terms of Service carefully before you start using us, because **by using the Services you accept and agree to be bound and abide by these Terms of Service.**
+
+**SHOULD YOU DISAGREE WITH ANY OF THE PROVISIONS HEREIN, YOU CAN EITHER LEAVE THE WEBSITE, OR CONTACT US AT SUPPORT@THEDRUTRIBE.US.**
