@@ -8,7 +8,7 @@ A Guild (commonly referred to as a *Server*) is the main feature on Discord.
 *A Guild with 1 text channel and two voice channels.*
 
 # Joining a Guild
-Users can join guilds by going to the invite link in their browser or by scrolling down to the bottom of their guild list and clicking the + icon.
+Users can join guilds by going to the invite link in their browser or by scrolling down to the bottom of their guild list, clicking the + icon, and entering the invite code.
 ## Creating a Guild
 Users can create a guild by scrolling to the bottom of their server list and clicking the + icon.
 
