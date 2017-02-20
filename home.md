@@ -6,52 +6,29 @@
 
 We're a small team of Discord enthusiasts, aiming to raise awareness of a great text and voice chat platform, Discord.
 
-# Test to see if I can actually get this bs to stop breaking
+###Zipping around at the speed of sound, Quick Switcher is an entirely new way to access your favorite servers faster than ever before!
 
-```text
-We're no strangers to love
-You know the rules and so do I
-A full commitment's what I'm thinking of
-You wouldn't get this from any other guy
+***
 
-I just want to tell you how I'm feeling
-Gotta make you understand
+What is Quick Switcher, may you ask? Well, Quick Switcher is a panel that allows you to jump between different channels, servers and direct messages *quickly* (duh, like why even make a thing called 'Quick Switcher' if it was slow).
 
-Never gonna give you up, never gonna let you down
-Never gonna run around and desert you
-Never gonna make you cry, never gonna say goodbye
-Never gonna tell a lie and hurt you
+To pull up the Quick Switcher type Control + K if you're on Windows, and Command + K on MacOS.
 
-We've known each other for so long
-Your heart's been aching but you're too shy to say it
-Inside we both know what's been going on
-We know the game and we're gonna play it
+![alt text](image.png "QS1")
 
-And if you ask me how I'm feeling
-Don't tell me you're too blind to see
+To visit a server, direct message or channel of your choice, type the the intended channel name into the box that says "Where would you like to go today?" As you type, suggestions will come up that relate to your query. Once you find a channel, server or direct message you wish to be insta-zapped to, navigate to it with your cursor and click on it.
 
-Never gonna give you up, never gonna let you down
-Never gonna run around and desert you
-Never gonna make you cry, never gonna say goodbye
-Never gonna tell a lie and hurt you
+> NOTE: You can also use the tab/arrow keys to select a channel, if you wish.
 
-Never gonna give you up, never gonna let you down
-Never gonna run around and desert you
-Never gonna make you cry, never gonna say goodbye
-Never gonna tell a lie and hurt you
+If you want to close the Quick Switcher, click the escape key or click anywhere outside of it.
 
-We've known each other for so long
-Your heart's been aching but you're too shy to say it
-Inside we both know what's been going on
-We know the game and we're gonna play it
+> NOTE: The prefixes for the different querys are as follows
+> Voice Channel query - '!'
+> Guild/Server query - '*'
+> Channel query - '#'
+> User query - '@'
 
-I just want to tell you how I'm feeling
-Gotta make you understand
-
-Never gonna give you up, never gonna let you down
-Never gonna run around and desert you
-Never gonna make you cry, never gonna say goodbye
-Never gonna tell a lie and hurt you
-```
+Finally, your last visited channel and any unread mentions will display on the Quick Switcher!
+And this is more of less the markdown
 
 
