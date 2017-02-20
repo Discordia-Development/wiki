@@ -18,7 +18,7 @@ A Discord Nitro subscription gives users access to the following features:
 
 *The Nitro badge is displayed on a user's profile.*
 # Purchasing Nitro
-To purchase Nitro, click the user prefences cog on the bottom left of your screen and click the Nitro button. Once there select monthly or yearly and enter your credit or debit card and zipcode when promoted. Unfortunatley, Paypal is not supported.
+To purchase Nitro, click the user prefences cog on the bottom left of your screen and click the Nitro button. Once there select monthly or yearly and enter your credit or debit card and zipcode when promoted. Unfortunatley, Paypal is not supported at the time of publication.
 
 # More Information
 More information can be found on Nitro at http://discordapp.com/nitro or by accessing the Nitro page on your user preferences on Discord.
