@@ -16,10 +16,10 @@ If you want to close the Quick Switcher, click the escape key or click anywhere 
 
 > NOTE: You can filter your search with a prefix
 > ```text
-> Voice Channel - '!'
-> Guild/Server - '*'
-> Text Channel - '#'
-> User DM - '@'
+> ! for voice channels
+> * for guilds/servers
+> # for text channels
+> @ for users
 > ```
 
 
