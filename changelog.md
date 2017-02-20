@@ -96,3 +96,22 @@ Full changelog [here](https://blog.discordapp.com/8-24-2016-change-log-9cef7746a
 ### Android
 * Channel topics.
 * Some server settings released.
+# 07/11/2016
+Full changelog [here](https://blog.discordapp.com/2016-7-11-change-log-608ad5a54797#.8448rjjah)
+
+* Recent mentions list released.
+* Mentions filter (exclude @everyone or @here).
+* Pinned messages indicator on the top of a server.
+* Verification levels apply to starting DMs.
+* Adjust a user's volume.
+# 06/23/2016
+Full changelog [here](https://blog.discordapp.com/2016-6-23-change-log-f9fbeff727d0#.az4momorr)
+## Desktop
+* Pin messages released.
+* Jump to a message via the pin menu.
+* Jump to oldest unread message.
+* Shorter invite links.
+* Norweigan support.
+## Android
+* Voice channel settings.
+* 
