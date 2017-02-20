@@ -6,7 +6,7 @@
 
 We're a small team of Discord enthusiasts, aiming to raise awareness of a great text and voice chat platform, Discord.
 
-###Zipping around at the speed of sound, Quick Switcher is an entirely new way to access your favorite servers faster than ever before!
+### Zipping around at the speed of sound, Quick Switcher is an entirely new way to access your favorite servers faster than ever before!
 
 ***
 
@@ -14,7 +14,7 @@ What is Quick Switcher, may you ask? Well, Quick Switcher is a panel that allows
 
 To pull up the Quick Switcher type Control + K if you're on Windows, and Command + K on MacOS.
 
-![alt text](image.png "QS1")
+![alt text](http://imgur.com/Dlk9HjD.png "QS1")
 
 To visit a server, direct message or channel of your choice, type the the intended channel name into the box that says "Where would you like to go today?" As you type, suggestions will come up that relate to your query. Once you find a channel, server or direct message you wish to be insta-zapped to, navigate to it with your cursor and click on it.
 
