@@ -6,7 +6,7 @@
 * [Discord Testers](http://discord.gg/discord-testers)
 * [Discord Gamenight](http://discord.gg/gamenight)
 * [Discord Events](http://discord.gg/events)
-* [Discord Linux](https://discordapp.com/invite/MzzfY8g)
+
 
 # Community Driven Discord Resources
 * [Discord API](http://discord.gg/discord-api)
@@ -14,4 +14,5 @@
 * [Translating Discord to Pirate English](https://discordapp.com/invite/N2SEsmn)
 * [Discord Bots](https://discordapp.com/invite/MzzfY8g)
 * [Discord Guide](https://discordapp.com/invite/guide)
+* [Discord Linux](https://discordapp.com/invite/MzzfY8g)
 * [Carbonitex](https://carbonitex.net/)
