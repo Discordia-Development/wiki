@@ -1,5 +1,5 @@
 <!-- TITLE: Quickswitcher -->
-<!-- SUBTITLE: Zipping around at the speed of ~~sound~~ light, Quick Switcher is an entirely new way to access your favorite servers faster than ever before! -->
+<!-- SUBTITLE: Zipping around at the speed of light, Quick Switcher is an entirely new way to access your favorite servers faster than ever before! -->
 
 
 What is Quick Switcher, may you ask? Well, Quick Switcher is a panel that allows you to jump between different channels, servers and direct messages *quickly* (duh, like why even make a thing called 'Quick Switcher' if it was slow).
