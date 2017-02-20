@@ -1,4 +1,4 @@
 <!-- TITLE: Server -->
 <!-- SUBTITLE: A quick summary of Server -->
 
-# Header
+For information about Discord Servers, see http://discordia.me/guild
