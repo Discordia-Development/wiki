@@ -1,4 +1,4 @@
-<!-- TITLE: servers -->
+<!-- TITLE: Servers -->
 <!-- SUBTITLE: A quick summary of servers -->
 A server (occasionally referred to as a *guild* in Discord documentation) is the main feature on Discord.
 
