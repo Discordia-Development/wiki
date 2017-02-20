@@ -1,4 +1,8 @@
-<!-- TITLE: Home -->
-<!-- SUBTITLE: A quick summary of Home -->
+<!-- TITLE: Discord Wiki -->
+<!-- SUBTITLE: The Discord Wiki -->
 
-# Header
+# Welcome
+## Who are we?
+
+We're a small team of discord enthuiasts, aiming to raise awareness of a great platform, such as discord.
+
