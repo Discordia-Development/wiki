@@ -11,4 +11,5 @@ Join us on Discord!  http://discord.gg/WHz5r3N
 # Help Articles
 soon
 # Disclaimer
-Discord is the intellectual and lawful propertly of Discord Inc. This wik is not affiliated in any official capacity with Discord Inc and its staff. The Discord Wiki does not claim to own any of the content on this website. The Discord Wiki does not make money from this website, it is paid completley out of pocket. 
+# Disclaimer
+Discord, the Discord Ghost, and Discordapp (Herein DISCORD) are the intellectual and legal property of Discord Inc. These Services, as listed in the [Terms of Service](https://discordia.me/terms) are not affiliated with Discord Inc or any subsidiaries herein. The Discord Wiki does not claim to own any of DISCORD's intellectual property, please don't sue us.
