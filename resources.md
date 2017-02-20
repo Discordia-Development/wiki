@@ -14,6 +14,4 @@
 * [Discord Guide](https://discordapp.com/invite/guide)
 * [Discordia](https://discordapp.com/invite/WHz5r3N)
 * [Discord Bots](https://discordapp.com/invite/MzzfY8g)
-* [Discord Servers](https://discordservers.com/)
-* [Discord.me](https://discord.me/)
 * [Carbonitex](https://carbonitex.net/)
