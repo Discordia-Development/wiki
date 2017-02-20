@@ -17,7 +17,7 @@ Full changelog [here](https://blog.discordapp.com/2016-12-22-change-log-25426249
 * Right click to google search text.
 * Discord Nitro released in Australia.
 
-## iOS/Android
+## Mobile
 * View recent mentions.
 * Adjust pins and permissions.
 * Long press to pin a message.
@@ -56,3 +56,17 @@ Full changelog [here](https://blog.discordapp.com/10-13-2016-change-log-fc1bf270
 * Respond to friend suggestions.
 ## iOS
 * Manage roles and members.
+# 09/26/2016
+Full changelog [here](https://blog.discordapp.com/26-9-2016-change-log-5ea6ea1b7a6f#.hpqzoxttn)
+## Desktop
+* Change your status to Online, Idle, Do Not Disturb or Invisible.
+* Custom emoji released.
+* Mention indicator.
+* Delete messages from Clyde.
+* @Mentions now autocomplete.
+* Code snippets support many new languages.
+## Mobile
+* Offline list does not show if there are more than 100 people in a guild.
+* Significantly improved server settings.
+### iOS
+* Ability to respond to friend requests.
