@@ -7,7 +7,7 @@ This is the changelog/release date for major features or significant changes. PT
 * Search on iOS.
 # 01/31/2017
 Full changelog [here](https://blog.discordapp.com/31-1-2017-change-log-8d7ebf125e1c#.5avupzgn8)
-* Search on deskptop.
+* Search on desktop.
 
 # 01/23/2017
 * Discord Nitro global release.
@@ -18,7 +18,7 @@ Blog post [here](https://blog.discordapp.com/boost-your-account-and-support-us-w
 # 12/22/2016
 Full changelog [here](https://blog.discordapp.com/2016-12-22-change-log-254262493f4a#.cjpf59rqu)
 ## Desktop
-* Right click to google search text.
+* Right click to Google search text.
 * Discord Nitro released in Australia.
 
 ## Mobile
@@ -77,10 +77,10 @@ Full changelog [here](https://blog.discordapp.com/26-9-2016-change-log-5ea6ea1b7
 # 08/24/2016
 Full changelog [here](https://blog.discordapp.com/8-24-2016-change-log-9cef7746a9f7#.473hqsmqk)
 ## Desktop
-* GIFV supported.
+* GIFV support.
 * System message appears when a message is pinned.
 * Streamable and Twitch clips now play on Discord.
-* Find and replace text command released.
+* Find and replace text command released. *(s/find/replace)*
 * Quick send server invite by right clicking someone.
 * Dock icon bounces on macOS when user receives a call.
 ## Android
