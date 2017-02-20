@@ -2,7 +2,7 @@
 <!-- SUBTITLE: The Discord Wiki -->
 
 # Welcome
-## Who are we?
+## About us
 
-We're a small team of discord enthuiasts, aiming to raise awareness of a great platform, such as discord.
+We're a small team of discord enthusiasts, aiming to raise awareness of a great text and voice chat platform, Discord.
 
