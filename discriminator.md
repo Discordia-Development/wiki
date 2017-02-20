@@ -9,4 +9,4 @@ Discriminators range from 0001 to 9999 and are randomly assigned. Two users with
 Once all the discriminators are taken for a username, Discord will not allow you to make that your username.
 
 ### Changing your Discriminator
-Changing your discriminator is possible. However, it's unreccomended by Discord so this Wiki will not teach you how to do it.
+Changing your discriminator is possible. However, it's unrecommended by Discord so this Wiki will not teach you how to do it.
