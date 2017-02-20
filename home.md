@@ -1,5 +1,5 @@
 <!-- TITLE: Discord Wiki -->
-<!-- SUBTITLE: The Discord Wiki -->
+<!-- SUBTITLE: Welcome to The Discord Wiki! -->
 
 # Welcome
 ## About us
