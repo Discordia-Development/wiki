@@ -28,9 +28,9 @@ Guild administrators may toggle the verification level. When a verification leve
 
 Levels:
 * None
-* Low - Must have a verified email.
-* Medium - Must also be registered on Discord for longer than 5 minutes.
-* (╯°□°）╯︵ ┻━┻ - Must also be on the server for 10 minutes.
+* Low - Must have verified their Discord email adress.
+* Medium - In addition to the "Low" verification level, the user must also be registered on Discord for longer than 5 minutes.
+* (╯°□°）╯︵ ┻━┻ - in addition to the "Low" and "Medium" verification levels, the user must also be in the server for 10 minutes.
 
 # Vanity URLs
 Some servers have custom invite URLs containing words instead of randomly generated numbers and letters. One example of this is http://discord.gg/discord-developers, which links to the Discord Developers server. Servers typically get vanity URLs if they are a Discord Partner. Only Discord Developers can create Vanity URLs.
