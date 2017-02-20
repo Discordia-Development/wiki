@@ -147,3 +147,24 @@ Full changelog [here](https://blog.discordapp.com/2016-5-6-change-log-d7de830a58
 * Nicknames and role mentions show properly.
 * Offline mentioning.
 * Save images.
+# 04/29/2016
+Full changelog [here](https://blog.discordapp.com/2016-4-29-change-log-a6451dfbaac8#.y6f9fsuxi)
+
+* Server nicknames.
+* Custom colors for roles.
+* Role mentions.
+* Right click menu.
+* Click someone's name to mention them.
+* Make guild as read.
+* Mark channel as read.
+* Click someone on the userlist to private message them.
+* Filter people by roles on the server member list.
+# 04/18/2016
+Full changelog [here](https://blog.discordapp.com/2016-4-18-change-log-aa23ef993006#.wxumtfihf)
+## Desktop
+* @here mention.
+* Default notification settings automatically set to all messages for servers under 25 active users.
+* Linux canary.
+* Online user cap changed from 2500 to 5000.
+## Mobile
+* Push notifications.
