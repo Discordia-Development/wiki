@@ -70,3 +70,15 @@ Full changelog [here](https://blog.discordapp.com/26-9-2016-change-log-5ea6ea1b7
 * Significantly improved server settings.
 ### iOS
 * Ability to respond to friend requests.
+# 08/24/2016
+Full changelog [here](https://blog.discordapp.com/8-24-2016-change-log-9cef7746a9f7#.473hqsmqk)
+## Desktop
+* GIFV supported.
+* System message appears when a message is pinned.
+* Streamable and Twitch clips now play on Discord.
+* Find and replace text command released.
+* Quick send server invite by right clicking someone.
+* Dock icon bounces on macOS when user receives a call.
+## Android
+* Android administrator controls.
+* Increased speed of push notifications.
