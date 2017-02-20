@@ -10,5 +10,5 @@ Discriminators range from 0001 to 9999 and are randomly assigned. Two users with
 
 `NOTE: You cannot create a username for which all discriminator spots have been taken. If you attempt to change to a username for which all discriminator slots are taken, Discord will return an error.`
 
-### Changing your Discriminator
+## Changing your Discriminator
 Changing your discriminator is possible. However, it is not recommended by Discord, and as a result, The Discord Wiki will not teach you how to do it.
