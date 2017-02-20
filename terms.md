@@ -7,4 +7,7 @@ Welcome to **Discordia** (a.k.a. "**we**" or "**us**" or the "**Company**"). We 
 
 We want to keep our relationship with you as lean and informal as possible, but please read the Terms of Service carefully before you start using us, because **by using the Services you accept and agree to be bound and abide by these Terms of Service.**
 
-**SHOULD YOU DISAGREE WITH ANY OF THE PROVISIONS HEREIN, YOU CAN EITHER LEAVE THE WEBSITE, OR CONTACT US AT SUPPORT@THEDRUTRIBE.US.**
+**SHOULD YOU DISAGREE WITH ANY OF THE PROVISIONS HEREIN, YOU CAN EITHER LEAVE THE SERVICES, OR CONTACT US AT SUPPORT@THEDRUTRIBE.US.**
+
+# 2. Changes to the Terms of Service and the Services
+Discordia is a work in progress, meaning that a lot will change in the near future. We reserve the right to update the Services as well as these Terms of Service from time to time, at our discretion. We will make sure to announce any major change in a prominent way, but since "major" is a very subjective concept, you can always feel free to return to this page at any time. **Your continued use of the Services following the publishing of updated Terms of Service means that you accept and agree with any changes.**
