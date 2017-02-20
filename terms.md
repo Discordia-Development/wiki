@@ -40,7 +40,7 @@ The Website may contain Content specifically permitted to us, our partners or ou
 
 # 5. User Contributions and Content Standards. Special Disclaimer for Legal Content.
 Discordia, and its affiliates, contain user generated content, and also may contain message boards, personal web pages, forums or other interactive features that allow you to upload, post, submit, publish, display or transmit to other Users Content on or through the Website. All User Content must be lawful, not spammy, and clear of virus or other malware. More specifically, but without limiting the foregoing, it must comply with the following Content Standards:
-				* Not contain any material which is defamatory, obscene, indecent, abusive, offensive, harassing, violent, hateful, inflammatory or otherwise objectionable.
-				* Not promote sexually explicit or pornographic material, violence, or discrimination based on race, sex, religion, nationality, disability, sexual orientation or age.
-				* Not infringe any patent, trademark, trade secret, copyright or other intellectual property rights of any other person.
-				* Not violate the legal rights (including the rights of publicity and privacy) of others or contain any material that could give rise to any civil or criminal liability under applicable laws or regulations or that otherwise may be in conflict with these Terms of Service.
+* Not contain any material which is defamatory, obscene, indecent, abusive, offensive, harassing, violent, hateful, inflammatory or otherwise objectionable.
+* Not promote sexually explicit or pornographic material, violence, or discrimination based on race, sex, religion, nationality, disability, sexual orientation or age.
+* Not infringe any patent, trademark, trade secret, copyright or other intellectual property rights of any other person.
+* Not violate the legal rights (including the rights of publicity and privacy) of others or contain any material that could give rise to any civil or criminal liability under applicable laws or regulations or that otherwise may be in conflict with these Terms of Service.
