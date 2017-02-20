@@ -7,7 +7,13 @@
 We're a small team of Discord enthusiasts, aiming to raise awareness of a great text and voice chat platform, Discord.
 
 [Join us on Discord!](http://discord.gg/WHz5r3N)
-
+## Wiki Editors
+* Dru#1327
+* Harrison#9100
+* Mikesky#3456
+* nullpixel#0012
+* Tiemen#0107
+* 西木野真姫★★★★#9667
 # Help Articles
 ~~soon~~ Eta:Son
 # Disclaimers and Legal Information
