@@ -6,7 +6,7 @@
 
 We're a small team of Discord enthusiasts, aiming to raise awareness of a great text and voice chat platform, Discord.
 
-### Zipping around at the speed of sound, Quick Switcher is an entirely new way to access your favorite servers faster than ever before!
+## Zipping around at the speed of sound, Quick Switcher is an entirely new way to access your favorite servers faster than ever before!
 
 ***
 
