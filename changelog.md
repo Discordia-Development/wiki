@@ -114,4 +114,36 @@ Full changelog [here](https://blog.discordapp.com/2016-6-23-change-log-f9fbeff72
 * Norweigan support.
 ## Android
 * Voice channel settings.
-* 
+# 06/03/2016
+Full changelog [here](https://blog.discordapp.com/2016-6-3-change-log-3ef9ff28dbba#.g0ixkbx9b)
+
+* 2 Factor Authentication released.
+* Optionally require server mods to use 2FA.
+* Requires email check when logging in from new IP.
+* Vine and Soundcloud links embed.
+# 05/29/2016
+Full changelog [here](https://blog.discordapp.com/2016-5-19-change-log-77b9042e6ff#.110rj8un6)
+
+* Server sorting released.
+* Limit amount of users in a voice channel.
+* Move users in voice channels.
+* Right click context menu for server settings.
+* Click accepted invite links to jump to their respective channel/guild.
+* Developer mode released.
+# 05/06/2016
+Full changelog [here](https://blog.discordapp.com/2016-5-6-change-log-d7de830a5850#.h8mxsa3zj)
+## Desktop
+* Set a note on a user's profile.
+* Streaming mode automatically turns on and off.
+* Role hierarchy.
+* Manage Roles vs Administrator permissions.
+* Creating roles simplified.
+* Creating channels simplified.
+* /shrug released.
+## Android
+* Autocomplete for Twitch and regular emoji.
+* Role mentions.
+## iOS
+* Nicknames and role mentions show properly.
+* Offline mentioning.
+* Save images.
