@@ -18,8 +18,19 @@ We're a small team of Discord enthusiasts, aiming to raise awareness of a great 
 
 Want to join our team? Apply [here](https://docs.google.com/forms/d/e/1FAIpQLSc323VGuAwfxnBLOcYdD39TO1XzS21SjIC3LRkGQWAM0bF_0Q/viewform).
 Want to submit an edit? Send it [here](https://docs.google.com/forms/d/e/1FAIpQLSfMCR4h366IQLJjrCnsd-dAwfPLdHjx8WTbT1VRxKRlDiISuA/viewform).
-# Help Articles
-~~soon~~ Eta:Son
+# Pages
+Some of the most accessed pages are listed below:
+
+* https://discordia.me/discriminator
+* https://discordia.me/emoji
+* https://discordia.me/guild
+* https://discordia.me/quickswitcher
+* https://discordia.me/partner
+* https://discordia.me/resources
+* https://discordia.me/changelog
+* https://discordia.me/stable
+* https://discordia.me/ptb 
+* https://discordia.me/canary
 # Disclaimers and Legal Information
 Hey there! Welcome to The Discord Wiki! We're strong believers in transparency, so before you jump in, please take a look at our [Terms of Service](https://discordia.me/terms) and our [Privacy Policy](https://discordia.me/privacy) in order for you to know all the legal stuff you need to know regarding our services!
 
