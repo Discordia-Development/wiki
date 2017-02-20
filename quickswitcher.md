@@ -4,7 +4,7 @@
 
 What is Quick Switcher, may you ask? Well, Quick Switcher is a panel that allows you to jump between different channels, servers and direct messages *quickly* (duh, like why even make a thing called 'Quick Switcher' if it was slow).
 
-To pull up the Quick Switcher type Control + K if you're on Windows, and Command + K on MacOS.
+To pull up the Quick Switcher, press Ctrl + K if you're on Windows, and Cmd + K on macOS. Alternatively, you can also use Ctrl + T on Windows or Cmd + T on macOS.
 
 ![alt text](https://imgur.com/Dlk9HjD.png "QS1")
 
@@ -14,15 +14,17 @@ To visit a server, direct message or channel of your choice, type the the intend
 
 If you want to close the Quick Switcher, click the escape key or click anywhere outside of it.
 
-> NOTE: The prefixes for the different querys are as follows 
+> NOTE: You can filter your search with a prefix
 > ```text
-> Voice Channel query - '!'
-> Guild/Server query - '*'
-> Channel query - '#'
-> User query - '@'
+> Voice Channel - '!'
+> Guild/Server - '*'
+> Text Channel - '#'
+> User DM - '@'
 > ```
 
 
-Finally, your last visited channel and any unread mentions will display on the Quick Switcher!
+Finally, any unread mentions, any unread channels in the current server and your last visited channel will display on the Quick Switcher!
+
+![alt text](http://i.imgur.com/dfFcoyG.png "QS3")
 
 
