@@ -22,8 +22,10 @@ Now, you'll be able to pick any image and upload it!
 
 Whenever you finish making your new emote, you can edit the emoji's name by clicking on the name, then changing it according to how you feel is appropriate :3
 > All emoji names *are* case-sensitive, meaning that :discord: is different than :Discord:
-> If there are two emojis of the same name, such as having two :discord: emotes that are all lowercase, Discord will create a ~number behind it to make :discord~1:, :discord~2:, etc
 > 
+> If there are two emojis of the same name, such as having two :discord: emotes that are all lowercase, Discord will create a ~number behind it to make :discord~1:, :discord~2:, etc
+
+
 > At the current time of publication, servers are only allowed to have 50 custom emojis.
 
 ![Discord](http://i.thedrutribe.us/92a46ce9.png)
