@@ -82,3 +82,17 @@ Full changelog [here](https://blog.discordapp.com/8-24-2016-change-log-9cef7746a
 ## Android
 * Android administrator controls.
 * Increased speed of push notifications.
+# 07/28/2016
+## Desktop
+* Direct calls to friends.
+* Group Direct Messages.
+* Group DM calls.
+* Easily rejoin calls.
+* Stream overlay for OBS and XSplit.
+* Clicking an invite link opens the Discord App.
+* Emoji tooltips.
+## Mobile
+* Mobile calls.
+### Android
+* Channel topics.
+* Some server settings released.
