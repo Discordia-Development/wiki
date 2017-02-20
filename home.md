@@ -23,7 +23,7 @@ Some of the most accessed pages are listed below:
 
 * https://discordia.me/discriminator
 * https://discordia.me/emoji
-* https://discordia.me/guild
+* https://discordia.me/servers
 * https://discordia.me/quickswitcher
 * https://discordia.me/partner
 * https://discordia.me/resources
