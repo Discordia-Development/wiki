@@ -25,6 +25,6 @@ If you want to close the Quick Switcher, click the escape key or click anywhere 
 
 Finally, any unread mentions, any unread channels in the current server and your last visited channel will display on the Quick Switcher!
 
-![alt text](http://i.imgur.com/dfFcoyG.png "QS3")
+![alt text](https://i.imgur.com/dfFcoyG.png "QS3")
 
 
