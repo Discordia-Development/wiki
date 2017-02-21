@@ -23,6 +23,7 @@ Some of the most accessed pages are listed below:
 
 * [Bots](https://discordia.me/bots)
 * [Changelogs](https://discordia.me/changelog)
+* [Developer Mode](https://discordia.me/developermode)
 * [Discord API Libraries](https://discordia.me/libraries)
 * [Discord Canary](https://discordia.me/canary)
 * [Discord PTB](https://discordia.me/ptb)
@@ -32,6 +33,7 @@ Some of the most accessed pages are listed below:
 * [Discord Web](https://discordia.me/web)
 * [Discriminators](https://discordia.me/discriminator)
 * [Emoji](https://discordia.me/emoji)
+* [Mobile](https://discordia.me/mobile)
 * [Quick Switcher](https://discordia.me/quickswitcher)
 * [Search](https://discordia.me/search)
 * [Servers](https://discordia.me/servers)
