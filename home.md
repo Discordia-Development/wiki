@@ -21,18 +21,18 @@ Want to submit an edit? Send it [here](https://docs.google.com/forms/d/e/1FAIpQL
 # Pages
 Some of the most accessed pages are listed below:
 
-* [Discriminators](https://discordia.me/discriminator)
-* [Emoji](https://discordia.me/emoji)
-* [Servers](https://discordia.me/servers)
-* [Quick Switcher](https://discordia.me/quickswitcher)
+* [Bots](https://discordia.me/bots)
+* [Changelogs](https://discordia.me/changelog)
+* [Discord API Libraries](https://discordia.me/libraries)
+* [Discord Canary](https://discordia.me/canary)
+* [Discord PTB](https://discordia.me/ptb)
 * [Discord Partnership](https://discordia.me/partner)
 * [Discord Resources](https://discordia.me/resources)
-* [Changelogs](https://discordia.me/changelog)
 * [Discord Stable](https://discordia.me/stable)
-* [Discord PTB](https://discordia.me/ptb)
-* [Discord Canary](https://discordia.me/canary)
-* [Discord API Libraries](https://discordia.me/libraries)
-* [Bots](https://discordia.me/bots)
+* [Discriminators](https://discordia.me/discriminator)
+* [Emoji](https://discordia.me/emoji)
+* [Quick Switcher](https://discordia.me/quickswitcher)
+* [Servers](https://discordia.me/servers)
 # Disclaimers and Legal Information
 Hey there! Welcome to The Discord Wiki! We're strong believers in transparency, so before you jump in, please take a look at our [Terms of Service](https://discordia.me/terms) and our [Privacy Policy](https://discordia.me/privacy) in order for you to know all the legal stuff you need to know regarding our services!
 
