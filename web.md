@@ -1,0 +1,9 @@
+<!-- TITLE: Discord Web -->
+<!-- SUBTITLE: A quick summary of Web -->
+
+Discord has a web app that allows you to access the service without downloading an application. To access the web app, go to discordapp.com/channels/@me. 
+
+Not all functions are availible on the web version of Discord (such as Push-To-Talk) so it is recommended that you use the downloadable application when possible. 
+
+## Web Canary
+There is a web version of [Discord Canary](https://discordia.me/canary) that may be accessed by going to https://canary.discordapp.com. However, this is an **unsupported version of Discord**.
