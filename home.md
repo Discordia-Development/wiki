@@ -29,6 +29,7 @@ Some of the most accessed pages are listed below:
 * [Discord Partnership](https://discordia.me/partner)
 * [Discord Resources](https://discordia.me/resources)
 * [Discord Stable](https://discordia.me/stable)
+* [Discord Web](https://discordia.me/web)
 * [Discriminators](https://discordia.me/discriminator)
 * [Emoji](https://discordia.me/emoji)
 * [Quick Switcher](https://discordia.me/quickswitcher)
