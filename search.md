@@ -22,4 +22,4 @@ To narrow down your search, use the following markdown along with your search qu
 
 ![alt text](http://i.imgur.com/soJmzMd.png?1)
 
-*Filtering results to show messages sent from DabbitPrime#0896 containing the text 'Discord'.
+*Filtering results to show messages sent from DabbitPrime#0896 containing the text 'Discord'.*
