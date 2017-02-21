@@ -9,8 +9,8 @@ When yu click the search bar, the following dropmenu will appear.
 ![alt text](http://i.imgur.com/IM3xWS3.png)
 
 Type in what you want to search for in the search bar. For example, if you want to see all messages that contain the word "Wumpus", type Wumpus in the search bar. After a few seconds, the search results will appear. You can jump to a message by clicking on it in the results. To see more results (if applicable), click the arrows on the bottom of the results window to scroll between pages. Switch between Recent and Revelant (located on the top left of the results window) to slighty change the search results.
-## Markdown
-To narrow down your search, use the following markdown along with your search query.
+## Filters
+To narrow down your search, use the following filters along with your search query. You may use as many or as little filters as you want.
 
 * from: user - Shows results from a specific user.
 * mentions: user - Shows anytime someone mentioned the specified user. 
@@ -20,6 +20,6 @@ To narrow down your search, use the following markdown along with your search qu
 * after: date - Results only show messages sent after specified date.
 * in: channels - Results only show messages sent in specified channel.
 
-![alt text](http://i.imgur.com/soJmzMd.png?1)
+![alt text](http://i.imgur.com/soJmzMd.png?2)
 
 *Filtering results to show messages sent from DabbitPrime#0896 containing the text 'Discord'.*
