@@ -20,6 +20,6 @@ To narrow down your search, use the following markdown along with your search qu
 * after: date - Results only show messages sent after specified date.
 * in: channels - Results only show messages sent in specified channel.
 
-![alt text](http://i.imgur.com/soJmzMd.png)
+![alt text](http://i.imgur.com/soJmzMd.png?1)
 
 *Filtering results to show messages sent from DabbitPrime#0896 containing the text 'Discord'.
