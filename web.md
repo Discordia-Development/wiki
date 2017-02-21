@@ -8,7 +8,7 @@ Not all functions are availible on the web version of Discord so it is recommend
 ## Web Canary
 There is a web version of [Discord Canary](https://discordia.me/canary) that may be accessed by going to https://canary.discordapp.com. However, this is an **unsupported version of Discord**.
 
-# Unavailible Features
+# Unavailable Features
 The following features do not work on the Discord web client:
 * Push to Talk
 * Game detection
