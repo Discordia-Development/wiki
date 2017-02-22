@@ -8,7 +8,7 @@ We're a small team of Discord enthusiasts, aiming to raise awareness of a great 
 
 [Join us on Discord!](https://discord.gg/WHz5r3N)
 
-[![alt text](https://discordapp.com/api/guilds/268800390961561601/widget.png?style=banner2)](https://discord.gg/WHz5r3N)
+<a href="https://discord.gg/WHz5r3N">![alt text](https://discordapp.com/api/guilds/268800390961561601/widget.png?style=banner2)</a>
 ## Wiki Staff
 ### Administrators
 * @Dru#~~1327~~0785 (Thanks, the last user not named Test on the planet)
