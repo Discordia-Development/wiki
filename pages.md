@@ -14,3 +14,4 @@
 * [Quick Switcher](/quickswitcher)
 * [Search](/search)
 * [Servers](/servers)
+* [Wumpus](/wumpus)
