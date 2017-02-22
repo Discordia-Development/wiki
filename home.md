@@ -23,23 +23,23 @@ Want to submit an edit? Send it [here](https://docs.google.com/forms/d/e/1FAIpQL
 # Pages
 Some of the most accessed pages are listed below:
 
-* [Bots](https://discordia.me/bots)
-* [Changelogs](https://discordia.me/changelog)
-* [Developer Mode](https://discordia.me/developermode)
-* [Discord API Libraries](https://discordia.me/libraries)
-* [Discord Canary](https://discordia.me/canary)
-* [Discord PTB](https://discordia.me/ptb)
-* [Discord Partnership](https://discordia.me/partner)
-* [Discord Resources](https://discordia.me/resources)
-* [Discord Stable](https://discordia.me/stable)
-* [Discord Web](https://discordia.me/web)
-* [Discriminators](https://discordia.me/discriminator)
-* [Emoji](https://discordia.me/emoji)
-* [Mobile](https://discordia.me/mobile)
-* [Quick Switcher](https://discordia.me/quickswitcher)
-* [Search](https://discordia.me/search)
-* [Servers](https://discordia.me/servers)
+* [Bots](/bots)
+* [Developer Mode](/developermode)
+* [Discord API Libraries](/libraries)
+* [Discord Canary](/canary)
+* [Discord Change Logs](/changelog)
+* [Discord PTB](/ptb)
+* [Discord Partnership](/partner)
+* [Discord Resources](/resources)
+* [Discord Stable](/stable)
+* [Discord Web](/web)
+* [Discriminators](/discriminator)
+* [Emoji](/emoji)
+* [Mobile](/mobile)
+* [Quick Switcher](/quickswitcher)
+* [Search](/search)
+* [Servers](/servers)
 # Disclaimers and Legal Information
-Hey there! Welcome to The Discord Wiki! We're strong believers in transparency, so before you jump in, please take a look at our [Terms of Service](https://discordia.me/terms) and our [Privacy Policy](https://discordia.me/privacy) in order for you to know all the legal stuff you need to know regarding our services!
+Hey there! Welcome to The Discord Wiki! We're strong believers in transparency, so before you jump in, please take a look at our [Terms of Service](/terms) and our [Privacy Policy](/privacy) in order for you to know all the legal stuff you need to know regarding our services!
 
-### ***Discord, the Discord Ghost (Clyde™), and Discordapp (Herein DISCORD) are the intellectual and legal property of Discord Inc. These Services, as listed in the [Terms of Service](https://discordia.me/terms) are not affiliated with Discord Inc or any subsidiaries herein. The Discord Wiki does not claim to own any of DISCORD's intellectual property, please don't sue us.***
+### ***Discord, the Discord Ghost (Clyde™), and Discordapp (Herein DISCORD) are the intellectual and legal property of Discord Inc. These Services, as listed in the [Terms of Service](/terms) are not affiliated with Discord Inc or any subsidiaries herein. The Discord Wiki does not claim to own any of DISCORD's intellectual property, please don't sue us.***
