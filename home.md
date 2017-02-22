@@ -9,6 +9,9 @@ We're a small team of Discord enthusiasts, aiming to raise awareness of a great 
 [Join us on Discord!](https://discord.gg/WHz5r3N)
 
 <a href="https://discord.gg/WHz5r3N">![DISCORD EMBED PLUGIN](https://discordapp.com/api/guilds/268800390961561601/widget.png?style=banner2)</a>
+
+# Editorial Staff
+### These are all the people who have the role of Wiki Editor on the Discord, please consult them regarding any issues with spelling and such.
 # Disclaimers and Legal Information
 Hey there! Welcome to The Discord Wiki! We're strong believers in transparency, so before you jump in, please take a look at our [Terms of Service](/terms) and our [Privacy Policy](/privacy) in order for you to know all the legal stuff you need to know regarding our services!
 
