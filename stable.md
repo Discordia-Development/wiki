@@ -2,7 +2,7 @@
 
 Discord Stable is the main Discord client. 
 The main client is called Stable because it has very little bugs.
-All features released on stable have been tested for bugs by users on [Canary](https://discordia.me/canary) and/or the [Public Test Build](https://discordia.me/ptb).
+All features released on stable have been tested for bugs by users on [Canary](/canary) and/or the [Public Test Build](/ptb).
 # Download
 * [macOS Stable](https://discordapp.com/api/download?platform=osx)
 * [Windows Stable](https://discordapp.com/api/download?platform=win)
