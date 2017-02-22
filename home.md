@@ -9,17 +9,6 @@ We're a small team of Discord enthusiasts, aiming to raise awareness of a great 
 [Join us on Discord!](https://discord.gg/WHz5r3N)
 
 <a href="https://discord.gg/WHz5r3N">![alt text](https://discordapp.com/api/guilds/268800390961561601/widget.png?style=banner2)</a>
-## Wiki Staff
-### Administrators
-* @Dru#~~1327~~0785 (Thanks, the last user not named Test on the planet)
-* @Harrison#9100
-* @Mikesky#3456
-* @nullpixel#0012
-* @Tiemen#0107
-* @西木野真姫★★★★#9667
-
-Want to join our team? Apply [here](https://docs.google.com/forms/d/e/1FAIpQLSc323VGuAwfxnBLOcYdD39TO1XzS21SjIC3LRkGQWAM0bF_0Q/viewform).
-Want to submit an edit? Send it [here](https://docs.google.com/forms/d/e/1FAIpQLSfMCR4h366IQLJjrCnsd-dAwfPLdHjx8WTbT1VRxKRlDiISuA/viewform).
 # Pages
 Some of the most accessed pages are listed below:
 
