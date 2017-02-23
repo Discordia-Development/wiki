@@ -24,7 +24,7 @@ Servers contain roles which - when assigned - give users certain permissions and
 > More information regarding Roles may be found at https://discordia.me/roles
 
 ## Custom Emoji
-Each server is allowed to upload 50 custom emoji, which can be used by any member (with the permission) on the server. If a user has Nitro, they may use the server's custom emoji on any other server or private message that allows it. To upload custom emoji (if you have the 'Manage Emojis' permission) go to server Settings and click the Emoji button. Once there, you will be promoted you may upload emoji and rename them. You may also delete emoji from this page.
+Each server is allowed to upload 50 custom emoji, which can be used by any member (with the permission) on the server. If a user has Nitro, they may use the server's custom emoji on any other server or private message that allows it. To upload custom emoji (if you have the 'Manage Emojis' permission) go to Server Settings and click the Emoji button. Once there, you will be promoted you may upload emoji and rename them. You may also delete emoji from this page.
 
 > More information regarding custom emoji may be found at https://discordia.me/emoji
 # Verification Levels
