@@ -4,7 +4,7 @@ Discord created a search function that allows you to easily find messsages witho
 # Using Search
 To use search, click the search bar located on the top right of any server or direct message.
 
-When yu click the search bar, the following dropmenu will appear.
+When you click the search bar, the following dropmenu will appear.
 
 ![alt text](http://i.imgur.com/IM3xWS3.png)
 
