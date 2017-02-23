@@ -1,4 +1,4 @@
-<!-- TITLE: The Discord Wiki -->
+<!-- TITLE: Home -->
 <!-- SUBTITLE: Welcome to The Discord Wiki! -->
 
 # Welcome
@@ -20,6 +20,11 @@ We're a small team of Discord enthusiasts, aiming to raise awareness of a great 
 * @西木野真姫★★★★#9667
 
 # The Discord Wiki Edit Request Form and Wiki Editor Applications
+### These are different Google Forms that allow one to apply to edit The Wiki
+
+[Submit an Edit Request Here!](https://goo.gl/forms/tXAUTq1uWNd5UJo43)
+
+[Apply to Become a Wiki Editor Here!](https://goo.gl/forms/acaEgDcB2wLvAyUs1)
 # Disclaimers and Legal Information
 Hey there! Welcome to The Discord Wiki! We're strong believers in transparency, so before you jump in, please take a look at our [Terms of Service](/terms) and our [Privacy Policy](/privacy) in order for you to know all the legal stuff you need to know regarding our services!
 
