@@ -4,7 +4,7 @@ Canary is Discord's alpha testing program. It's very unstable and has a lot of b
 
 Unlike PTB or Stable, Canary's icon is orange instead of blurple.
 
-There is a canary web version, but it is **unsupported**.
+There is a Canary web version, but it is **unsupported**.
 
 # Download
 * [macOS Canary](https://discordapp.com/api/download/canary?platform=osx)
