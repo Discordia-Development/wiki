@@ -13,7 +13,7 @@ Discord Partners receive the following VIP features:
 * Custom splash screen for their guild;
 * Free Discord Partner hoodie;
 * Free Discord Nitro;
-* Displayable partner badge for their website, twitch channel, etc;
+* Displayable partner badge for their website, Twitch channel, etc;
 * Access to the Discord Partners server with ultra fast support from Discord.
 
 # Becoming a Discord Partner
