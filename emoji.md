@@ -7,7 +7,7 @@
 ---
 
  __Here's how it works:__
-First, navigate yourself to the nice little server settings box at the top of the screen and click on it
+First, navigate yourself to the nice little Server Settings box at the top of the screen and click on it
 
 ![Server Settings](https://imgur.com/pRNsJv4.png)
 
