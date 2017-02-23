@@ -1,6 +1,10 @@
 <!-- TITLE: Developers -->
 <!-- SUBTITLE: An unofficial list of Discord Staff and Developers -->
 
+The official list of Discord Staff (which is not always up to date) may be found [here](https://discordapp.com/company).
+
+Some staff (such as assistants and office managers) do not use public servers and are therefore not listed below.
+
 # Current
 * amadeus#0001 [Amadeus] - 	Frontend
 * Andy#7194	[Andy] - Native Desktop Developer
