@@ -20,7 +20,7 @@ We're a small team of Discord enthusiasts, aiming to raise awareness of a great 
 * @西木野真姫★★★★#9667
 
 # The Discord Wiki Edit Request Form and Wiki Editor Applications
-### These are different Google Forms that allow one to apply to edit The Wiki
+### These are different Google Forms that allow one to edit The Wiki
 
 [Submit an Edit Request Here!](https://goo.gl/forms/tXAUTq1uWNd5UJo43)
 
