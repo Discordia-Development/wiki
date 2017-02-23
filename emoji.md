@@ -28,6 +28,6 @@ Whenever you finish making your new emote, you can edit the emoji's name by clic
 
 > At the current time of publication, servers are only allowed to have 50 custom emojis.
 
-![Discord](https://i.thedrutribe.us/92a46ce9.png)
+![Discord](http://i.thedrutribe.us/92a46ce9.png)
 
 Have fun, stay safe, and keep it happening! Quick final note, in order to use your brand spanking new emoji on other servers, you have to have this cool thing called Discord Nitro, which we'll get into in another article!
