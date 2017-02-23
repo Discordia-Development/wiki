@@ -18,6 +18,8 @@ We're a small team of Discord enthusiasts, aiming to raise awareness of a great 
 * @Tiemen#0107
 * @Mikesky#3456
 * @西木野真姫★★★★#9667
+
+# The Discord Wiki Edit Request Form and Wiki Editor Applications
 # Disclaimers and Legal Information
 Hey there! Welcome to The Discord Wiki! We're strong believers in transparency, so before you jump in, please take a look at our [Terms of Service](/terms) and our [Privacy Policy](/privacy) in order for you to know all the legal stuff you need to know regarding our services!
 
