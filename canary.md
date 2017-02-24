@@ -10,7 +10,7 @@ There is a Canary web version, but it is **unsupported**.
 * [macOS Canary](https://discordapp.com/api/download/canary?platform=osx)
 * [Windows Canary](https://discordapp.com/api/download/canary?platform=win)
 * [Linux Canary](https://discordapp.com/api/download/canary?platform=linux)
-### Update Notes
+### API Notes
 You can find update notes on Discord Canary specific to each version at the links below.
 * [macOS](https://discordapp.com/api/canary/updates?platform=osx)
 * [Windows](https://discordapp.com/api/canary/updates?platform=win)
