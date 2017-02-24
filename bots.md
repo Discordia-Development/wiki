@@ -34,3 +34,4 @@ Users have created many different libraries that make using the Discord API easi
 * [Restcord](https://github.com/restcord/restcord)
 * [Serenity](https://github.com/zeyla/serenity)
 * [SwiftDiscord](https://github.com/nuclearace/SwiftDiscord)
+* [Sword](https://github.com/Azoy/Sword) 
