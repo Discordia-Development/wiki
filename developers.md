@@ -37,7 +37,7 @@ Only staff who use Discord on public servers are listed below. Some staff (such 
 * Penguin#1432	[Cody S] -	Customer Experience
 * Quackers#5220	[Peterson] -	Frontend
 * SFBeanTown#8545	[Andres] -	Director of Business Development
-* Shuu#0001	Cody O] -	Customer Experience
+* Shuu#0001	[Cody O] -	Customer Experience
 * snowyote#6023	[Ben] -	Native Desktop Developer
 * Socrates#0001	[Will] -	Partnerships
 * spaceguts#5471	[Binh] -	Design
