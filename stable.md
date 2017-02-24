@@ -10,3 +10,7 @@ All features released on stable have been tested for bugs by users on [Canary](/
 * [Android Stable](https://play.google.com/store/apps/details?id=com.discord)
 * [Linux deb Stable](https://discordapp.com/api/download?platform=linux&format=deb)
 * [Linux tar.gz Stable](https://discordapp.com/api/download?platform=linux&format=tar.gz)
+### API Notes
+* [macOS](https://discordapp.com/api/stable/updates?platform=osx)
+* [Windows](https://discordapp.com/api/stable/updates?platform=win)
+* [Linux](https://discordapp.com/api/stable/updates?platform=linux)
