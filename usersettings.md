@@ -31,3 +31,17 @@ On the Text & Images tab you may toggle the following options on or off:
 * Show emoji reactions on messages.
 * Convert emoticons to emoji.
 * Hear and use the text-to-speech command.
+
+# Voice
+On the Voice tab you will find a Basic and Advanced menu.
+
+Under the Basic menu you may change your input device, output device and the volume of each device. Also, you may toggle between Push to Talk and Voice Activity. If you choose Push to Talk, you may also indicate a key bind to use to turn your mic on or off when in a voice channel or call. Finally, you also have the ability to change the Push to Talk release delay.
+
+Under the Advanced menu you may toggle the following options on or off:
+* Echo Cancellation.
+* Noise Suppression.
+* Automatic Gain Control.
+* Enable Quality of Service High Packet Priority.
+* Show a warning when no audio is detected from your microphone.
+
+You also have the option to reset voice settings to default from this menu.
