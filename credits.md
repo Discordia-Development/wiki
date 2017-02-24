@@ -2,7 +2,7 @@
 <!-- SUBTITLE: A quick summary of Credits -->
 
 # Credits
-* cats#5485
+* @cats#5485
 * @Dru#~~1327~~0785 (Thanks, the last user not named Test on the planet)
 * @Harrison#9100
 * @Mikesky#3456
