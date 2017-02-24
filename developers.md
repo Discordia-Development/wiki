@@ -47,4 +47,3 @@ Only staff who use Discord on public servers are listed below. Some staff (such 
 * UsagiDbg#0738	[Brishan] -	Contractor
 * Vertical#0001	[Kraig] -	Community and Events Marketing Associate
 * Zencha#5298	[Zac] -	Storyteller
-# Former
