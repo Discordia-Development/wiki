@@ -2,13 +2,13 @@
 <!-- SUBTITLE: A quick summary of Credits -->
 
 # Credits
-
-### Administrators
+* cats#5485
 * @Dru#~~1327~~0785 (Thanks, the last user not named Test on the planet)
 * @Harrison#9100
 * @Mikesky#3456
 * @nullpixel#0012 THE KID WHO LOST ALL THE WIKI (almost) `rm -rf repo`
 * @Tiemen#0107
+* @Wolfiri#7208
 * @西木野真姫★★★★#9667
 
 Want to join our team? Apply [here](https://docs.google.com/forms/d/e/1FAIpQLSc323VGuAwfxnBLOcYdD39TO1XzS21SjIC3LRkGQWAM0bF_0Q/viewform).
