@@ -3,7 +3,7 @@
 
 The official list of Discord Staff (which is not always up to date) may be found [here](https://discordapp.com/company).
 
-Some staff (such as assistants and office managers) do not use public servers and are therefore not listed below.
+Only staff who use Discord on public servers are listed below. Some staff (such as -but not limited to- assistants and office managers) either do not use the service or only access private servers.
 
 # Current
 * amadeus#0001 [Amadeus] - 	Frontend
