@@ -1,6 +1,6 @@
 <!-- TITLE: User Settings -->
 
-The following settings are available to Discord users. *Note: Some of these settings may not be available on the [web](/web) application.*
+The following settings are available to Discord users. *Note: Some of these settings may not be available on the [web](/web) or [mobile](/mobile) applications.*
 
 To access these settings, click the cog icon on the bottom left of the application.
 
