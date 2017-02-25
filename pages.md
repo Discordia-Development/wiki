@@ -14,4 +14,5 @@
 * [Quick Switcher](/quickswitcher)
 * [Search](/search)
 * [Servers](/servers)
+* [User Settings](/usersettings)
 * [Wumpus](/wumpus)
