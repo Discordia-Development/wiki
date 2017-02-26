@@ -6,9 +6,10 @@ The settings below are specific to servers.
 
 ## Overview
 Within the Overview tab, users with the Manage Server permission can change the icon, name, and server region of the server. The Verification level can also be changed. Verification levels include:
-Low - A user must have a verified email on their Discord account.
-Medium - In addition to Low, must be registered for more than 5 minutes. 
-(╯°□°）╯︵ ┻━┻ - In addition to Low and Medium, must be in the server for 10 minutes.
+
+* Low - A user must have a verified email on their Discord account.
+* Medium - In addition to Low, must be registered for more than 5 minutes. 
+* (╯°□°）╯︵ ┻━┻ - In addition to Low and Medium, must be in the server for 10 minutes.
 
 The Default Notification settings are also in this channel, and include "All messages" or "Only @mentions." "Only @mentions" being enabled is recommended for public Discord servers.
 
