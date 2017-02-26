@@ -32,7 +32,7 @@ Server administrators may toggle the verification level. When a verification lev
 
 Levels:
 * None
-* Low - Must have verified their Discord email adress.
+* Low - Must have verified the email address tied to their Discord account.
 * Medium - In addition to the "Low" verification level, the user must also be registered on Discord for longer than 5 minutes.
 * (╯°□°）╯︵ ┻━┻ - In addition to the "Low" and "Medium" verification levels, the user must also be in the server for 10 minutes.
 
