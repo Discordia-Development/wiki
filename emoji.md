@@ -1,10 +1,7 @@
 <!-- TITLE: Emojis -->
-<!-- SUBTITLE: A quick summary of Emoji -->
+<!-- SUBTITLE: A picture is worth a thousand words, so why not have your very own emojis? Thankfully, Discord includes a quick and easy way to add pretty much any image as a custom emote! (That is, as long as you have the "Manage Emojis" permission) -->
 
 ## Custom Emoji
-### A picture is worth a thousand words, so why not have your very own emojis? Thankfully, Discord includes a quick and easy way to add pretty much any image as a custom emote! (That is, as long as you have the "Manage Emojis" permission)
-
----
 
  __Here's how it works:__
 First, navigate yourself to the nice little Server Settings box at the top of the screen and click on it
