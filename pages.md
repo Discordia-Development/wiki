@@ -16,4 +16,5 @@
 * [Search](/search)
 * [Servers](/servers)
 * [User Settings](/usersettings)
+* [Server Settings](/serversettings)
 * [Wumpus](/wumpus)
