@@ -22,6 +22,7 @@ We're a small team of Discord enthusiasts, aiming to raise awareness of a great 
 
 > ***Wiki Editors***
 * @Jet#0038
+* @cats#5485 
 
 # The Discord Wiki Edit Request Form and Wiki Editor Applications
 ### These are different Google Forms that allow one to edit The Wiki
