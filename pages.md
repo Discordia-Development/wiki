@@ -3,6 +3,7 @@
 * [Discord API Libraries](/libraries)
 * [Discord Canary](/canary)
 * [Discord Change Logs](/changelog)
+* [Discord Nitro](/nitro)
 * [Discord PTB](/ptb)
 * [Discord Partnership](/partner)
 * [Discord Resources](/resources)
