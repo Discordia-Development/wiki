@@ -14,6 +14,6 @@ Wumpus is also frequently posted about on Discord's Twitter.
 
 ![alt text](https://i.imgur.com/9rsvKZ8.png)
 # PAX
-At PAX events users may meet Wumpus in real life. Wumpus made his debut at PAX East 2017.
+At PAX events users may meet Wumpus in real life. Wumpus made his debut at PAX South 2017.
 
 ![alt text](https://i.imgur.com/SD7zf6a.png)
