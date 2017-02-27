@@ -8,7 +8,7 @@ The following integrations allow you to link the apps listed below with your Dis
 
 * [Patreon](https://patreon.zendesk.com/hc/en-us/articles/213552323-How-do-I-set-up-Discord-rewards-?utm_medium=partnerships&utm_source=zendesk&utm_campaign=discord0913) - Allow Discord to automatically sync your patrons to a role. This integration also lets you give exclusive permissions to the integrated role.
 * [Nightbot](https://beta.nightbot.tv/integrations) - Nightbot provides many chat commands and auto-moderation tools for your Discord. This includes a blacklist for inappropriate words/phrases and the ability to suppress spamming of excessive symbols, emotes, capital letters, links, copypasta, etc. 
-* [Musky](http://u.muxy.io/dashboard/connections) - Muxy allows customizable alerts for Twitch and your Discord server.
+* [Muxy](http://u.muxy.io/dashboard/connections) - Muxy allows customizable alerts for Twitch and your Discord server.
 * [Twitch](https://support.discordapp.com/hc/en-us/articles/212112068-Twitch-Integration-FAQ) - Allow Discord to automatically sync your Twitch subs to a role. You can also let your Twitch subs use your Twitch emotes globally within Discord. 
 * [Youtube Gaming](https://support.discordapp.com/hc/en-us/articles/215162978-Youtube-Gaming-Integration-FAQ) - Allow Discord to automatically sync your YouTube Gaming sponsors to a role. 
 * [Twinge](http://www.twinge.tv/sys/discord) - Allow Twinge to share analytics and Twitch community interaction within your Discord server. 
