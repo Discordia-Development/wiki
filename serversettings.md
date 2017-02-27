@@ -11,7 +11,7 @@ Within the Overview tab, users with the Manage Server permission can change the 
 * Medium - In addition to Low, must be registered for more than 5 minutes. 
 * (╯°□°）╯︵ ┻━┻ - In addition to Low and Medium, must be in the server for 10 minutes.
 
-The Default Notification settings are also in this channel, and include "All messages" or "Only @mentions." "Only @mentions" being enabled is recommended for public Discord servers.
+The Default Notification settings are also in this tab, and include "All messages" or "Only @mentions." "Only @mentions" being enabled is recommended for public Discord servers.
 
 ## Instant Invites
 In this tab, users with the Manage Server permission can see instant invites created on the server. It shows the duration of an invite, the creator, the channel, and the number of uses on it. Users can also delete these invites by pressing the Revoke button on the right of the invite.
