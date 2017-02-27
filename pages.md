@@ -17,4 +17,5 @@
 * [Servers](/servers)
 * [User Settings](/usersettings)
 * [Server Settings](/serversettings)
+* [StreamKit](/streamkit)
 * [Wumpus](/wumpus)
