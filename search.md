@@ -22,4 +22,4 @@ To narrow down your search, use the following filters along with your search que
 
 ![alt text](http://i.imgur.com/soJmzMd.png?2)
 
-*Filtering results to show messages sent from DabbitPrime#0896 containing the text 'Discord'.*
+*Filtering results to show messages sent from Dabbit Prime#0896 containing the text 'Discord'.*
