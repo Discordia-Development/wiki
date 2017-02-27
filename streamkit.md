@@ -9,10 +9,10 @@ The following integrations allow you to link the apps listed below with your Dis
 * [Patreon](https://patreon.zendesk.com/hc/en-us/articles/213552323-How-do-I-set-up-Discord-rewards-?utm_medium=partnerships&utm_source=zendesk&utm_campaign=discord0913) - Allow Discord to automatically sync your patrons to a role. This integration also lets you give exclusive permissions to the integrated role.
 * [Nightbot](https://beta.nightbot.tv/integrations) - Nightbot provides many chat commands and auto-moderation tools for your Discord. This includes a blacklist for inappropriate words/phrases and the ability to suppress spamming of excessive symbols, emotes, capital letters, links, copypasta, etc. 
 * [Muxy](http://u.muxy.io/dashboard/connections) - Muxy allows customizable alerts for Twitch and your Discord server.
-* [Twitch](https://support.discordapp.com/hc/en-us/articles/212112068-Twitch-Integration-FAQ) - Allow Discord to automatically sync your Twitch subs to a role. You can also let your Twitch subs use your Twitch emotes globally within Discord. 
-* [Youtube Gaming](https://support.discordapp.com/hc/en-us/articles/215162978-Youtube-Gaming-Integration-FAQ) - Allow Discord to automatically sync your YouTube Gaming sponsors to a role. 
+* [Twitch](https://support.discordapp.com/hc/en-us/articles/212112068-Twitch-Integration-FAQ) - Allow Discord to automatically sync your partnered Twitch channel subs to a role. You can also let your Twitch subs use your Twitch emotes globally within Discord. 
+* [Youtube Gaming](https://support.discordapp.com/hc/en-us/articles/215162978-Youtube-Gaming-Integration-FAQ) - Allow Discord to automatically sync your partnered YouTube Gaming channel sponsors to a role. 
 * [Twinge](http://www.twinge.tv/sys/discord) - Allow Twinge to share analytics and Twitch community interaction within your Discord server. 
-* [Beam](https://beam.pro/me/account/settings) - Allow Discord to automatically sync your Beam subscribers to a role. 
+* [Beam](https://watchbeam.zendesk.com/hc/en-us/articles/211272063-Discord-Chat) - Allow Discord to automatically sync your Beam subscribers to a role. 
 * [GameWisp](https://gamewisp.zendesk.com/hc/en-us/articles/222644768) - Allow Discord to automatically sync your GameWisp subscribers to a role.
 * [XSplit](https://streamkit.discordapp.com/overlay) - Customize, promote, and show off your Discord community directly on your stream. 
 * [OBS](https://streamkit.discordapp.com/overlay) - Customize, promote, and show off your Discord community directly on your stream.
