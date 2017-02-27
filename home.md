@@ -13,7 +13,7 @@ We're a small team of Discord enthusiasts, aiming to raise awareness of a great 
 # Editorial Staff
 ### These are all the people who have the role of Wiki Editor on the Discord, please consult them regarding any issues with spelling and such.
 > ***High Council***
-* @Dru#7390
+* @Dru#6043
 * @nullpixel#0012
 * @Harrison#9100
 * @Tiemen#0107
