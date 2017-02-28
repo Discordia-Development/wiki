@@ -20,6 +20,5 @@ http://streetfighter.wikia.com/wiki/Shun_Goku_Satsu) attack from Street Fighter 
 
 To view this easter egg first pull up the Keybord Combo menu by typing 'control /' on a Windows computer or 'Command /' on a Macintosh. This can't be done via the Discord mobile apps. 
 
-Once on the Keybord Combo menu, type the command 'hh[right arrow] nk'. Typing this command will display the following animation on your screen:
-![alt text](http://i.imgur.com/yV4M1jh.gif)
+Once on the Keybord Combo menu, type the command 'hh[right arrow] nk'. Typing this command will display the animation on your screen. You may view the animation [here](http://i.imgur.com/yV4M1jh.gif).
 
