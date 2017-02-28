@@ -79,4 +79,4 @@ A role can have a color from the 22 default colors, have a HEX color, or have no
 
 When adding a bot to a server, it can ask for permissions. If given, this will make an undeletable role that can also not be given to any user manually. If no permissions are given, no role will be created.
 
-The @everyone role cannot be deleted, renamed, given a color, hoisted, or made mentionable. 
+The @everyone role cannot be deleted, renamed, given a color, or hoisted.
