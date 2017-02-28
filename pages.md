@@ -16,6 +16,7 @@
 * [Quick Switcher](/quickswitcher)
 * [Search](/search)
 * [Servers](/servers)
+* [Roles](/roles)
 * [User Settings](/usersettings)
 * [Server Settings](/serversettings)
 * [StreamKit](/streamkit)
