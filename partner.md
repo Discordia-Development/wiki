@@ -10,7 +10,7 @@ A Discord Partner is someone with a large following or server who applies and is
 **Discord Partners receive the following VIP features:**
 * Vanity URL for their guild; (Custom Invite link)
 * VIP servers to host their guild on; (Higher KBPS option in Voice Channels)
-* Custom splash screen for their guild; (Customizeable image on the join screen)
+* Custom splash screen for their guild; (Customizable image on the join screen)
 * Free Discord Partner hoodie; (For Owner)
 * Free Discord Nitro; (For Owner)
 * Displayable partner badge for their website, Twitch channel, etc;
