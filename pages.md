@@ -10,6 +10,7 @@
 * [Discord Stable](/stable)
 * [Discord Web](/web)
 * [Discriminators](/discriminator)
+* [Easter Eggs](/eastereggs)
 * [Emoji](/emoji)
 * [Mobile](/mobile)
 * [Quick Switcher](/quickswitcher)
