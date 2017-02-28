@@ -1,5 +1,5 @@
 <!-- TITLE: Discord Easter Eggs -->
-<!-- SUBTITLE: List of discovered Easter Eggs -->
+<!-- SUBTITLE: List of discovered Discord Easter Eggs -->
 
 An Easter Egg is an undocumented/secret feature in a piece of computer software that is usually included as a joke or for fun.
 
