@@ -15,7 +15,7 @@ Users can create a server by scrolling to the bottom of their server list and cl
 # Features
 Servers may contain text channels, voice channels, roles and custom emojis.
 ## Text Channels
-Text channels are how users communicate with each other on a server. Each server has a default text channel which cannot be deleted or changed so that only certain people may read it. However, it can edited so that only certain people and/or roles may send messages in it. Users with the "Manage Channels" permission may create new text and voice channels. These extra text channels may edited so that only certain roles and/or users may read it. A server must have at least 1 text channel (the default one).
+Text channels are how users communicate with each other on a server. Each server has a default text channel which cannot be deleted or changed so that only certain people may read it. However, it can edited so that only certain people and/or roles may send messages in it. Users with the "Manage Channels" permission may create and delete text and voice channels. These extra text channels may edited so that only certain roles and/or users may read it. A server must have at least 1 text channel (the default one), and this channel cannot be deleted.
 ## Voice Channels
 Voice channels allow server members to talk to each other using their voices. There is no default voice channels and all permissions may be edited for any voice channel. Servers are not required to have voice channels, but they make the party a bit more fun!
 ## Roles
@@ -37,4 +37,4 @@ Levels:
 * (╯°□°）╯︵ ┻━┻ - In addition to the "Low" and "Medium" verification levels, the user must also be in the server for 10 minutes.
 
 # Vanity URLs
-Some servers have custom invite URLs containing words instead of randomly generated numbers and letters. One example of this is https://discord.gg/discord-developers, which links to the Discord Developers server. Servers typically get vanity URLs if they are a Discord Partner. Only Discord Developers or Partnered users can create Vanity URLs for servers that have been partnered.
+Some servers have custom invite URLs containing words instead of randomly generated numbers and letters. One example of this is https://discord.gg/discord-developers, which links to the Discord Developers server. Servers typically get vanity URLs if they are a [Discord Partner](/partner). Only Discord Developers or Partnered users can create Vanity URLs for servers that have been partnered.
