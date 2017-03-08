@@ -17,6 +17,6 @@ Discord Hypesquad members have the hypesquad badge on their profile. The only wa
 
 ![alt text](https://i.imgur.com/0CNTEx7.png?1)
 # Discord Nitro
-Users who have purchased [Discord Nitro](/nitro) have the Discord Nitro badge on their profile. If you hover over the badge, it displays when the user joined Nitro. If they unsubscribe from Nitro, the badge will dissapear. 
+Users who have purchased [Discord Nitro](/nitro) have the Discord Nitro badge on their profile. If you hover over the badge, it displays when the user joined Nitro. If they unsubscribe from Nitro, the badge will disappear. 
 
 ![alt text](https://i.imgur.com/mNJALK4.png?1)
