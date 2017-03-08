@@ -11,11 +11,11 @@ This badge is issued to all Discord Staff. If someone claims to be Discord Staff
 # Discord Partner
 [Discord Partners](/partners) have the partner badge on their profile. The only way you may obtain this badge is by becoming a Discord Partner. 
 
-![alt text](http://i.imgur.com/7JR9UMu.png?1)
+![alt text](http://i.imgur.com/wwR8ZXe.png)
 # Discord Hypesquad
-Discord Hypesquad have the hypesquad badge on their profile. The only way you may obtain this badge is by becoming a Discord Hypesquad member.
+Discord Hypesquad members have the hypesquad badge on their profile. The only way you may obtain this badge is by becoming a Discord Hypesquad member.
 
-![alt text](http://i.imgur.com/LrhtrEE.png?2)
+![alt text](http://i.imgur.com/0CNTEx7.png)
 # Discord Nitro
 Users who have purchased [Discord Nitro](/nitro) have the Discord Nitro badge on their profile. If you hover over the badge, it displays when the user joined Nitro. If they discontinue their Nitro subscription the badge disappears. 
 
