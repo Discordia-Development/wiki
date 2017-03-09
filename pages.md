@@ -1,3 +1,4 @@
+* [Badges](/badges)
 * [Bots](/bots)
 * [Developer Mode](/developermode)
 * [Discord API Libraries](/libraries)
