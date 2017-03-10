@@ -11,8 +11,9 @@ We're a small team of Discord enthusiasts, aiming to raise awareness of a great 
 <a href="https://discord.gg/WHz5r3N">![DISCORD EMBED PLUGIN](https://discordapp.com/api/guilds/268800390961561601/widget.png?style=banner2)</a>
 
 # Editorial Staff
-### These are all the people who have the role of Wiki Editor on the Discord, please consult them regarding any issues with spelling and such.
+###.
 > ***High Council***
+*Responsible for maintaining Discordia and The Discord Wiki (managers).*
 * @Dru#6043
 * @nullpixel#0012
 * @Harrison#9100
@@ -21,8 +22,13 @@ We're a small team of Discord enthusiasts, aiming to raise awareness of a great 
 * @西木野真姫★★★★#9667
 
 > ***Wiki Editors***
+*These are all the people who have the role of Wiki Editor on the Discord, please consult them regarding any issues with spelling and such.*
 * @cats#5485
 * @Jet#0038 
+
+> ***Bot Developers***
+*Contributed to the Discord WikiBot.*
+*HyperCoder#2975
 
 # The Discord Wiki Edit Request Form and Wiki Editor Applications
 ### These are different Google Forms that allow one to edit The Wiki
