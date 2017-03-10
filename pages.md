@@ -12,11 +12,11 @@
 * [Discriminators](/discriminator) <!--discrim;discriminator-->
 * [Profile Badges](/badges) <!--badges;badge-->
 * [Easter Eggs](/eastereggs) <!--easter;eastereggs;konami-->
-* [Emoji](/emoji)
-* [Mobile](/mobile)
+* [Emoji](/emoji) <!--emote;emotes-->
+* [Mobile](/mobile) <!--testflight;android;ios-->
 * [Quick Switcher](/quickswitcher) <!--quickswitcher;fastswitcher;sonic-->
 * [Search](/search)
-* [Servers](/servers)
+* [Servers](/servers) <!--guilds;server;guild-->
 * [Roles](/roles)
 * [User Settings](/usersettings) <!--usettings;usersettings;user-->
 * [Server Settings](/serversettings) <!--ssettings;serversettings-->
