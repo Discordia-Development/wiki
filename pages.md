@@ -1,4 +1,4 @@
-* [Bots](/bots)
+* [Bots](/bots) <!--bot-->
 * [Developer Mode](/developermode) <!--dev mode;dev-mode;developer-->
 * [Discord API Libraries](/libraries) <!--api;libraries;dapi-->
 * [Discord Canary](/canary) <!--alpha;dcanary;almightydabbit;dabbit;daddit;canary;-->
