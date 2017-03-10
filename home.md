@@ -23,13 +23,14 @@ We're a small team of Discord enthusiasts, aiming to raise awareness of a great 
 
 > ***Wiki Editors***
 
-*These are all the people who have the role of Wiki Editor on the Discord, please consult them regarding any issues with spelling and such.*
+*In charge of maintaining the Wiki. Please consult them regarding any issues with spelling and such.*
 * @cats#5485
 * @Jet#0038 
 
 > ***Bot Developers***
 
 *Contributed to the Discord WikiBot.*
+
 *HyperCoder#2975
 
 # The Discord Wiki Edit Request Form and Wiki Editor Applications
