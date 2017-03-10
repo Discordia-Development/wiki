@@ -12,6 +12,7 @@ We're a small team of Discord enthusiasts, aiming to raise awareness of a great 
 
 # Editorial Staff
 > ***High Council***
+
 *Responsible for maintaining Discordia and The Discord Wiki (managers).*
 * @Dru#6043
 * @nullpixel#0012
@@ -21,11 +22,13 @@ We're a small team of Discord enthusiasts, aiming to raise awareness of a great 
 * @西木野真姫★★★★#9667
 
 > ***Wiki Editors***
+
 *These are all the people who have the role of Wiki Editor on the Discord, please consult them regarding any issues with spelling and such.*
 * @cats#5485
 * @Jet#0038 
 
 > ***Bot Developers***
+
 *Contributed to the Discord WikiBot.*
 *HyperCoder#2975
 
