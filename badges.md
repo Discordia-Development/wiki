@@ -13,7 +13,7 @@ This badge is issued to all Discord Staff. If someone claims to be Discord Staff
 
 ![alt text](https://i.imgur.com/wwR8ZXe.png?1)
 # Discord Hypesquad
-Discord Hypesquad members have the hypesquad badge on their profile. The only way you may obtain this badge is by becoming a Discord Hypesquad member.
+Discord Hypesquad members have the Hypesquad badge on their profile. The only way you may obtain this badge is by becoming a Discord Hypesquad member.
 
 ![alt text](https://i.imgur.com/0CNTEx7.png?1)
 # Discord Nitro
