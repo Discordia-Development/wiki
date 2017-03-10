@@ -22,4 +22,5 @@
 * [Server Settings](/serversettings) <!--ssettings;serversettings-->
 * [StreamKit](/streamkit)
 * [Wumpus](/wumpus)
+* [Testus](/pages)
 
