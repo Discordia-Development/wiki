@@ -11,7 +11,6 @@ We're a small team of Discord enthusiasts, aiming to raise awareness of a great 
 <a href="https://discord.gg/WHz5r3N">![DISCORD EMBED PLUGIN](https://discordapp.com/api/guilds/268800390961561601/widget.png?style=banner2)</a>
 
 # Editorial Staff
-###.
 > ***High Council***
 *Responsible for maintaining Discordia and The Discord Wiki (managers).*
 * @Dru#6043
