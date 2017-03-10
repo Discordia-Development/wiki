@@ -17,7 +17,7 @@
 * [Quick Switcher](/quickswitcher) <!--quickswitcher;fastswitcher;sonic-->
 * [Search](/search)
 * [Servers](/servers) <!--guilds;server;guild-->
-* [Roles](/roles)
+* [Roles](/roles) <!--role-->
 * [User Settings](/usersettings) <!--usettings;usersettings;user-->
 * [Server Settings](/serversettings) <!--ssettings;serversettings-->
 * [StreamKit](/streamkit)
