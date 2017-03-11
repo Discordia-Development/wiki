@@ -2,7 +2,7 @@
 
 Wumpus is one of Discord's mascots.
 
-It is thought that the idea of Wumpus came from the early computer game, [Hunt the Wumpus](https://en.wikipedia.org/wiki/Hunt_the_Wumpus)
+It is thought that the idea of Wumpus came from the early computer game, [Hunt the Wumpus](https://en.wikipedia.org/wiki/Hunt_the_Wumpus).
 
 Wumpus can be found in many locations pages on Discord, such on the friends list tabs.
 
