@@ -5,6 +5,7 @@ This is the changelog/release date for major features or significant changes. PT
 
 # 03/10/2017
 * Reactions on iOS. Includes custom emoji reactions. 
+* Wumboji (jumbo emoji). 
 # 02/13/2017
 * Search on iOS.
 # 01/31/2017
