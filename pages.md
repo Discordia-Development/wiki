@@ -10,7 +10,7 @@
 * [Discord Stable](/stable) <!--stable;dstable;download-->
 * [Discord Web](/web) <!--web-->
 * [Discriminators](/discriminator) <!--discrim;discriminator;discordtag-->
-* [Gamenight](/gamenight)<!--twitch;stream;vlog-->
+* [Game Night](/gamenight) <!--twitch;stream;vlog-->
 * [Profile Badges](/badges) <!--badges;badge-->
 * [Easter Eggs](/eastereggs) <!--easter;eastereggs;konami-->
 * [Emoji](/emoji) <!--emote;emotes;emojis;emoticons;emoticon;smileys-->
