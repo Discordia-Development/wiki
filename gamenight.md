@@ -11,12 +11,11 @@ Discord Gamenight is a monthly event where Discord staff stream on their [Twitch
 * [Clip 3](https://www.twitch.tv/discordapp/clips/MagnificentJazzyWolfOSsloth)
 * [Clip 4](https://www.twitch.tv/discordapp/clips/DependableCarelessTildeDeIlluminati)
 
+More clips may be found [here](https://www.twitch.tv/discordapp/clips)
 # Past Stream Dates
 * March 1st 2017
 * November 2nd 2016
 * October 5th 2016
-
-More clips may be found [here](https://www.twitch.tv/discordapp/clips)
 
 # Vlogs
 Unrelated to Gamenight, here are some Discord video logs.
