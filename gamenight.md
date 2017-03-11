@@ -22,5 +22,5 @@ Unrelated to Gamenight, here are some Discord video logs.
 
 * [Discord Official Unofficial Party Vlog](https://www.youtube.com/watch?v=DG_qaabZeQs&feature=youtu.be)
 * [March 1st 2017 Gamenight setup and new office Vlog](https://www.youtube.com/watch?v=cvtf5Wbgdik)
-* [Developer Blog August 2015](https://www.youtube.com/watch?v=9b-CWmwGUKw)
+* [Developer Vlog August 2015](https://www.youtube.com/watch?v=9b-CWmwGUKw)
 
