@@ -9,7 +9,7 @@ This badge is issued to all Discord Staff. If someone claims to be Discord Staff
 
 ![alt text](https://i.imgur.com/3VabPg6.png?1)
 # Discord Partner
-[Discord Partners](/partners) have the partner badge on their profile. The only way you may obtain this badge is by becoming a Discord Partner. 
+[Discord Partners](/partner) have the partner badge on their profile. The only way you may obtain this badge is by becoming a Discord Partner. 
 
 ![alt text](https://i.imgur.com/wwR8ZXe.png?1)
 # Discord Hypesquad
