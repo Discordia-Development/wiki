@@ -1,26 +1,26 @@
 * [Bots](/bots) <!--bot-->
 * [Developer Mode](/developermode) <!--dev mode;dev-mode;developer-->
 * [Discord API Libraries](/libraries) <!--api;libraries;dapi-->
-* [Discord Canary](/canary) <!--alpha;dcanary;almightydabbit;dabbit;daddit;canary;-->
+* [Discord Canary](/canary) <!--alpha;dcanary;almightydabbit;dabbit;daddit;canary;rabbit-->
 * [Discord Change Logs](/changelog)
-* [Discord Nitro](/nitro) <!--zoom;turbo;nitro;fast-->
+* [Discord Nitro](/nitro) <!--zoom;turbo;nitro;fast;premium-->
 * [Discord PTB](/ptb) <!--ptb;dptb;public test build;beta-->
-* [Discord Partnership](/partner) <!--mallorypls;partner;partnership-->
+* [Discord Partnership](/partner) <!--mallorypls;partner;partnership;partnered-->
 * [Discord Resources](/resources) <!--resources;dresources-->
 * [Discord Stable](/stable) <!--stable;dstable;download-->
 * [Discord Web](/web) <!--web-->
-* [Discriminators](/discriminator) <!--discrim;discriminator-->
+* [Discriminators](/discriminator) <!--discrim;discriminator;discordtag-->
 * [Profile Badges](/badges) <!--badges;badge-->
 * [Easter Eggs](/eastereggs) <!--easter;eastereggs;konami-->
-* [Emoji](/emoji) <!--emote;emotes-->
+* [Emoji](/emoji) <!--emote;emotes;emojis;emoticons;emoticon;smileys-->
 * [Mobile](/mobile) <!--testflight;android;ios-->
-* [Quick Switcher](/quickswitcher) <!--quickswitcher;fastswitcher;sonic-->
+* [Quick Switcher](/quickswitcher) <!--quickswitcher;fastswitcher;sonic;qs;speedoflight-->
 * [Search](/search)
 * [Servers](/servers) <!--guilds;server;guild-->
 * [Roles](/roles) <!--role-->
 * [User Settings](/usersettings) <!--usettings;usersettings;user-->
 * [Server Settings](/serversettings) <!--ssettings;serversettings-->
 * [StreamKit](/streamkit)
-* [Wumpus](/wumpus)
+* [Wumpus](/wumpus) <!--thatthingmalloryhates-->
 
 
