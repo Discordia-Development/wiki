@@ -3,6 +3,8 @@
 
 This is the changelog/release date for major features or significant changes. PTB and Canary might have received some features sooner than the date listed below.
 
+# 03/10/2017
+* Reactions on iOS. Includes custom emoji reactions. 
 # 02/13/2017
 * Search on iOS.
 # 01/31/2017
