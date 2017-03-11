@@ -30,8 +30,8 @@ We're a small team of Discord enthusiasts, aiming to raise awareness of a great 
 > ***Bot Developers***
 
 *Contributed to the Discord WikiBot.*
-* HyperCoder#2975
-* Nullpixel#0012
+* @HyperCoder#2975
+* @Nullpixel#0012
 
 # The Discord Wiki Edit Request Form and Wiki Editor Applications
 ### These are different Google Forms that allow one to edit The Wiki
