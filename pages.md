@@ -12,7 +12,7 @@
 * [Discriminators](/discriminator) <!--discrim;discriminator;discordtag-->
 * [Game Night](/gamenight) <!--twitch;stream;vlog;game night-->
 * [Profile Badges](/badges) <!--badges;badge-->
-* [Easter Eggs](/eastereggs) <!--easter;eastereggs;konami-->
+* [Easter Eggs](/eastereggs) <!--easter;eastereggs;konami;easteregg;easter egg;-->
 * [Emoji](/emoji) <!--emote;emotes;emojis;emoticons;emoticon;smileys-->
 * [Mobile](/mobile) <!--testflight;android;ios-->
 * [Quick Switcher](/quickswitcher) <!--quickswitcher;fastswitcher;sonic;qs;speedoflight-->
