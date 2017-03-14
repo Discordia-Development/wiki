@@ -13,7 +13,7 @@ One example of the clickable objects is the question-box towards the top of the 
 
 ![alt text](http://i.imgur.com/IUopgCy.png)
 # Remixed Ringtone
-In ultra-rare cases, users will receive a remixed version of the incoming call ringtone during either a group or two-person voice call. If a user receives the remixed ringtone, it will play for the whole duration of the call instead of ending when the user joins the call. According to Discord staff, this is the rarest easteregg. You may hear the remixed ringtone by downloading it [here](https://cdn.discordapp.com/attachments/258797935712534528/274717813636202496/discord.wav).
+In ultra-rare cases, users will receive a remixed version of the incoming call ringtone during either a group or two-person voice call. If a user receives the remixed ringtone, it will play for the whole duration of the call instead of ending when the user joins the call. According to Discord staff, this is the rarest easteregg. You may hear the remixed ringtone [here](https://canary.discordapp.com/assets/b9411af07f154a6fef543e7e442e4da9.mp3).
 # Secret Keybord Combo
 From the Keyboard Combinations menu you may enter a secret command that plays an animation based on the [Sun Goku Satsu](
 http://streetfighter.wikia.com/wiki/Shun_Goku_Satsu) attack from Street Fighter games.
