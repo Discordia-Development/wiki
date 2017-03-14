@@ -14,7 +14,7 @@ A Discord Partner is someone with a large following or server who applies and is
 * Free Discord Partner hoodie; (For Owner)
 * Free Discord Nitro; (For Owner)
 * Displayable partner badge for their website, Twitch channel, etc;
-* Access to the Discord Partners guild with ultra fast support and collaboration opprotunities with other partners.
+* Access to the Discord Partners guild with ultra fast support and collaboration opportunities with other partners.
 
 ![alt text](http://i.imgur.com/njJBheG.png)
 
