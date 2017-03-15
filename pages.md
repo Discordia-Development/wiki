@@ -9,6 +9,7 @@
 * [Discord Resources](/resources) <!--resources;dresources-->
 * [Discord Stable](/stable) <!--stable;dstable;download-->
 * [Discord Web](/web) <!--web;browser-->
+* [Discord WikiBot](/wikibot)<!--discord wikibot-->
 * [Discriminators](/discriminator) <!--discrim;discriminator;discordtag-->
 * [Game Night](/gamenight) <!--twitch;stream;vlog;game night-->
 * [Profile Badges](/badges) <!--badges;badge-->
