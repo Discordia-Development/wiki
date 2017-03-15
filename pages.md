@@ -3,12 +3,12 @@
 * [Discord API Libraries](/libraries) <!--api;libraries;dapi-->
 * [Discord Canary](/canary) <!--alpha;dcanary;almightydabbit;dabbit;daddit;canary;rabbit-->
 * [Discord Change Logs](/changelog)
-* [Discord Nitro](/nitro) <!--zoom;turbo;nitro;fast;premium-->
+* [Discord Nitro](/nitro) <!--zoom;turbo;nitro;fast;premium;gold-->
 * [Discord PTB](/ptb) <!--ptb;dptb;public test build;beta-->
 * [Discord Partnership](/partner) <!--mallorypls;partner;partnership;partnered-->
 * [Discord Resources](/resources) <!--resources;dresources-->
 * [Discord Stable](/stable) <!--stable;dstable;download-->
-* [Discord Web](/web) <!--web-->
+* [Discord Web](/web) <!--web;browser-->
 * [Discriminators](/discriminator) <!--discrim;discriminator;discordtag-->
 * [Game Night](/gamenight) <!--twitch;stream;vlog;game night-->
 * [Profile Badges](/badges) <!--badges;badge-->
