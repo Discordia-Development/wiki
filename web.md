@@ -8,6 +8,9 @@ Not all functions are available on the web version of Discord so it is recommend
 ## Web Canary
 There is a web version of [Discord Canary](/canary) that may be accessed by going to https://canary.discordapp.com. However, this is an **unsupported version of Discord**.
 
+## Web PTB
+There is a web version of the [Discord Public Test Build](/ptb) that may be accessed by going to https://ptb.discordapp.com. However, this is an **unsupported version of Discord**.
+
 # Unavailable Features
 The following features do not work on the Discord web client:
 * Push to Talk
