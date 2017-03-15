@@ -1,4 +1,4 @@
-<!-- TITLE: Wikibot -->
+<!-- TITLE:Discord Wikibot -->
 <!-- SUBTITLE: Discordia's Discord WikiBot -->
 
 The Discord WikiBot (@Discord WikiBot#7467) is The Discord Wiki and Discordia's bot service that allows users to quickly search through this wiki and the Discord [Helpdesk](https://support.discordapp.com/hc/en-us).
