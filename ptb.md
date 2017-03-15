@@ -16,5 +16,8 @@ The PTB build has the same icon as the Stable build.
 # Mobile PTB
 The Android and iOS apps have independent beta testing programs. If you are interested in participating in these beta programs, join the [Discord Testers](http://discord.gg/discord-testers) server and read the frequently asked questions.
 
+# Web PTB
+There is a web version of the [Discord Public Test Build](/ptb) that may be accessed by going to https://ptb.discordapp.com. However, this is an **unsupported version of Discord**.
+
 # PTB Launch Video
 [video](https://www.youtube.com/watch?v=HhrwPMtv8p4){.youtube}
