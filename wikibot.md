@@ -1,7 +1,7 @@
 <!-- TITLE:Discord WikiBot -->
 <!-- SUBTITLE: Discordia's Discord WikiBot -->
 
-The Discord WikiBot (@Discord WikiBot#7467) is The Discord Wiki and Discordia's bot service that allows users to quickly search through this wiki and the Discord [Helpdesk](https://support.discordapp.com/hc/en-us).
+Discord WikiBot is a simple, yet effective tool that grabs articles from the Discord Wiki and Discord [Helpdesk](https://support.discordapp.com/hc/en-us). It's like a nice little wingman that can grab different books for you at the library! 
 
 Currently the Discord Wikibot is only available on very few servers as it’s intended to be almost exclusively on Discord-run servers. 
 
