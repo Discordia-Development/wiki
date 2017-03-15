@@ -33,4 +33,4 @@ On the Discord [Company Page](https://discordapp.com/company) you can click on t
 # Empathy Banana
 When your [search](/search) leads to no results, Discord will sometimes display an "empathy banana" instead of the usual no results dialogue. This is completely random.
 
-![alt text](https://cdn.discordapp.com/attachments/270310626792964097/291371326088806400/unknown.png)
+![alt text](http://i.imgur.com/fCUoKgQ.png?1)
