@@ -24,3 +24,8 @@ Once on the Keybord Combo menu, type the command 'hh [right arrow] nk'. Typing t
 
 # Rate Limits Documentation Page
 On the [Discord API Rate Limits documentation page](https://discordapp.com/developers/docs/topics/rate-limits) there is a [semicolon](http://i.imgur.com/BkLamTK.png) that when clicked opens [this website](http://takeb1nzyto.space). The website is a fun animation created by b1nzy, Discord's server engineer and rate limiter. This Easter Egg was implimented by Night, another Discord staff member.
+
+# Miguel's Fedora
+On the Discord [Company Page](https://discordapp.com/company) you can click on the different staff member's heads. When you click on a head, an object (such as a pokeball) will fall on it. If you click on Miguel Gaeta's head, one of the objects that might fall is a blurple fedora (amount of clicks until the fedora appears varies). 
+
+![alt text](http://i.imgur.com/K0Yxzvm.png)
