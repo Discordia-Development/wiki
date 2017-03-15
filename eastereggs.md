@@ -23,9 +23,14 @@ To view this easter egg first pull up the Keybord Combo menu by typing 'control 
 Once on the Keybord Combo menu, type the command 'hh [right arrow] nk'. Typing this command will display the animation on your screen. You may view the animation [here](http://i.imgur.com/yV4M1jh.gif).
 
 # Rate Limits Documentation Page
-On the [Discord API Rate Limits documentation page](https://discordapp.com/developers/docs/topics/rate-limits) there is a [semicolon](http://i.imgur.com/BkLamTK.png) that when clicked opens [this website](http://takeb1nzyto.space). The website is a fun animation created by b1nzy, Discord's server engineer and rate limiter. This Easter Egg was implimented by Night, another Discord staff member.
+On the [Discord API Rate Limits documentation page](https://discordapp.com/developers/docs/topics/rate-limits) there is a [colon](http://i.imgur.com/BkLamTK.png) that when clicked opens [this website](http://takeb1nzyto.space). The website is a fun animation created by b1nzy, Discord's server engineer and rate limiter. This Easter Egg was implimented by Night, another Discord staff member.
 
 # Miguel's Fedora
 On the Discord [Company Page](https://discordapp.com/company) you can click on the different staff member's heads. When you click on a head, an object (such as a pokeball) will fall on it. If you click on Miguel Gaeta's head, one of the objects that might fall is a blurple fedora (amount of clicks until the fedora appears varies). 
 
 ![alt text](http://i.imgur.com/K0Yxzvm.png)
+
+# Empathy Banana
+When your [search](/search) leads to no results, Discord will sometimes display an "empathy banana" instead of the usual no results dialogue. This is completely random.
+
+![alt text](https://cdn.discordapp.com/attachments/270310626792964097/291371326088806400/unknown.png)
