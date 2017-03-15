@@ -5,7 +5,7 @@
 * [Discord Change Logs](/changelog)
 * [Discord Nitro](/nitro) <!--zoom;turbo;nitro;fast;premium;gold-->
 * [Discord PTB](/ptb) <!--ptb;dptb;public test build;beta-->
-* [Discord Partnership](/partner) <!--mallorypls;partner;partnership;partnered-->
+* [Discord Partnership](/partner) <!--mallorypls;partner;partnership;partnered;vip-->
 * [Discord Resources](/resources) <!--resources;dresources-->
 * [Discord Stable](/stable) <!--stable;dstable;download-->
 * [Discord Web](/web) <!--web;browser-->
