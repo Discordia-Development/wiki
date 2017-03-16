@@ -19,5 +19,3 @@ At PAX events users may meet Wumpus in real life. Wumpus made his debut at PAX S
 ![alt text](http://i.imgur.com/afGy7sg.jpg?1)
 
 *Mallory (Discord Community Manager) with Wumpus at PAX East 2017.*
-
-tehest
