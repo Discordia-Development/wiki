@@ -24,7 +24,7 @@
 * [Servers](/Servers) <!--guilds;server;guild-->
 * [Server Settings](/Server_Settings) <!--ssettings;serversettings-->
 * [StreamKit](/Streamkit) <!--stream kit-->
-* [Two-Factor Authentication](/Two-Factor_Authentication) <!--two factor authentication;2fa;2-factor authentication;2factor authentication;tfa-->
+* [Two-Factor Authentication](/Two-Factor_Authentication) <!--2fa;2-factor authentication;two factor authentication;tfa-->
 * [User Settings](/User_Settings) <!--usettings;usersettings;user-->
 * [Wumpus](/Wumpus) <!--thatthingmalloryhates-->
 
