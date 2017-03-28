@@ -20,10 +20,11 @@
 * [Mobile](/Mobile) <!--testflight;android;ios-->
 * [Quick Switcher](/Quick_Switcher) <!--quickswitcher;fastswitcher;sonic;qs;speedoflight-->
 * [Roles](/Roles) <!--role-->
-* [Search](/Search)
+* [Search](/Search) <!--where is waldo-->
 * [Servers](/Servers) <!--guilds;server;guild-->
 * [Server Settings](/Server_Settings) <!--ssettings;serversettings-->
-* [StreamKit](/Streamkit)
+* [StreamKit](/Streamkit) <!--stream kit-->
 * [Two-Factor Authentication](/Two-Factor_Authentication) <!--two factor authentication;2fa;2-factor authentication;2factor authentication;tfa-->
 * [User Settings](/User_Settings) <!--usettings;usersettings;user-->
 * [Wumpus](/Wumpus) <!--thatthingmalloryhates-->
+
