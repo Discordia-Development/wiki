@@ -16,6 +16,7 @@
 * [Profile Badges](/Badges) <!--badges;badge-->
 * [Easter Eggs](/Easter_Eggs) <!--easter;eastereggs;konami;easteregg;easter egg;me me big boy-->
 * [Emoji](/Emoji) <!--emote;emotes;emojis;emoticons;emoticon;smileys-->
+* [HypeSquad](/HypeSquad) <!--hype;getschwifty;bestbadge;bestserver-->
 * [Markdown](/Markdown)
 * [Mobile](/Mobile) <!--testflight;android;ios-->
 * [Quick Switcher](/Quick_Switcher) <!--quickswitcher;fastswitcher;sonic;qs;speedoflight-->
@@ -24,7 +25,6 @@
 * [Servers](/Servers) <!--guilds;server;guild-->
 * [Server Settings](/Server_Settings) <!--ssettings;serversettings-->
 * [StreamKit](/Streamkit) <!--stream kit-->
-* [Two-Factor Authentication](/Two-Factor_Authentication) <!--2fa;2-factor authentication;two factor authentication;tfa-->
 * [User Settings](/User_Settings) <!--usettings;usersettings;user-->
 * [Wumpus](/Wumpus) <!--thatthingmalloryhates-->
 
