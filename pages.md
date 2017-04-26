@@ -26,5 +26,5 @@
 * [Server Settings](/Server_Settings) <!--ssettings;serversettings-->
 * [StreamKit](/Streamkit) <!--stream kit-->
 * [User Settings](/User_Settings) <!--usettings;usersettings;user-->
-* [Wumpus](/Wumpus) <!--thatthingmalloryhates-->
+* [Wumpus](/Wumpus) <!---->
 
