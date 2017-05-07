@@ -17,6 +17,7 @@
 * [Discriminators](/discriminator) <!--discrim;discriminator;discordtag-->
 * [Easter Eggs](/easter-eggs) <!--easter;eastereggs;konami;easteregg;easter egg;me me big boy-->
 * [Emoji](/emoji) <!--emote;emotes;emojis;emoticons;emoticon;smileys-->
+* [Friends List](/friends) <!--friends;friend-->
 * [Game Night](/gamenight) <!--twitch;stream;vlog;game night-->
 * [HypeSquad](/hypesquad) <!--hype;getschwifty;bestbadge;bestserver-->
 * [Markdown](/markdown)
