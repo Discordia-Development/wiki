@@ -27,7 +27,7 @@
 * [Servers](/servers) <!--guilds;server;guild-->
 * [Server Settings](/server-settings) <!--ssettings;serversettings-->
 * [StreamKit](/streamkit) <!--stream kit-->
-* [Two-Factor Authentication](/two-factor-authentication) <!--2FA;2-FA;2 FA;2 step;2 step authentication;twofactor authentication;TFA-->
+* [Two-Factor Authentication](/two-factor-authentication) <!--2fa;2-fa;2 fa;2 step;2 step authentication;twofactor authentication;tfa-->
 * [Upcoming Features](/upcoming-features) <!--features;upcomingfeatures;new features;screenshare when;screen share when-->
 * [User Settings](/user-settings) <!--usettings;usersettings;user-->
 * [Wumpus](/wumpus) <!---->
