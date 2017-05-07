@@ -27,6 +27,7 @@
 * [Search](/search) <!--where is waldo-->
 * [Servers](/servers) <!--guilds;server;guild-->
 * [Server Settings](/server-settings) <!--ssettings;serversettings-->
+* [Streamer Mode](/streamer-mode) <!--stream mode;streaming mode;live streaming-->
 * [StreamKit](/streamkit) <!--stream kit-->
 * [Two-Factor Authentication](/two-factor-authentication) <!--2fa;2-fa;2 fa;2 step;two step;2 step authentication;twofactor authentication;tfa-->
 * [Upcoming Features](/upcoming-features) <!--features;upcomingfeatures;new features;screenshare when;screen share when-->
