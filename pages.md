@@ -1,6 +1,7 @@
 * [Audit Logs](/audit-logs) <!--audit log;auditlog;auditlogs;moderation logs;mod logs-->
 * [Bots](/bots) <!--bot;discord bot;discord bots-->
 * [Bug Hunters](/bug-hunters) <!--bughunters;bugs;bug;we are number one;we are bug hunters;almightydabbit;dabbit;daddit;rabbit-->
+* [Clyde](/clyde) <!--nonexistent-->
 * [Developer Mode](/developer-mode) <!--dev mode;dev-mode;developer-->
 * [Discord](/discord)
 * [Discord API Libraries](/libraries) <!--api;libraries;dapi-->
@@ -30,5 +31,5 @@
 * [Two-Factor Authentication](/two-factor-authentication) <!--2fa;2-fa;2 fa;2 step;2 step authentication;twofactor authentication;tfa-->
 * [Upcoming Features](/upcoming-features) <!--features;upcomingfeatures;new features;screenshare when;screen share when-->
 * [User Settings](/user-settings) <!--usettings;usersettings;user-->
-* [Wumpus](/wumpus) <!---->
+* [Wumpus](/wumpus) <!--wumpuses;mascotte-->
 
