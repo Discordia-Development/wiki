@@ -1,3 +1,4 @@
+* [Audit Logs](/audit-logs) <!--audit log;auditlog;auditlogs;moderation logs;mod logs-->
 * [Bots](/bots) <!--bot-->
 * [Developer Mode](/developer-mode) <!--dev mode;dev-mode;developer-->
 * [Discord](/discord)
