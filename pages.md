@@ -16,7 +16,7 @@
 * [Profile Badges](/badges) <!--badges;badge-->
 * [Easter Eggs](/easter-eggs) <!--easter;eastereggs;konami;easteregg;easter egg;me me big boy-->
 * [Emoji](/emoji) <!--emote;emotes;emojis;emoticons;emoticon;smileys-->
-* [HypeSquad](/hypesqquad) <!--hype;getschwifty;bestbadge;bestserver-->
+* [HypeSquad](/hypesquad) <!--hype;getschwifty;bestbadge;bestserver-->
 * [Markdown](/markdown)
 * [Mobile](/mobile) <!--testflight;android;ios-->
 * [Quick Switcher](/quick-switcher) <!--quickswitcher;fastswitcher;sonic;qs;speedoflight-->
