@@ -38,6 +38,7 @@
 * [Two-Factor Authentication](/two-factor-authentication) <!--2fa;2-fa;2 fa;2 step;two step;2 step authentication;twofactor authentication;tfa-->
 * [Upcoming Features](/upcoming-features) <!--features;upcomingfeatures;new features;screenshare when;screen share when-->
 * [User Settings](/user-settings) <!--usettings;usersettings;user-->
+* [User Status](/user-status) <!--userstatus;status-->
 * [Video Chat](/video-chat) <!--video;videochat;videochatting;videocall;videocalling;video calling;video call-->
 * [WikiBot](/wikibot) <!--wiki bot-->
 * [Wumpus](/wumpus) <!--wumpuses;mascotte-->
