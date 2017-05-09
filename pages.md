@@ -39,5 +39,6 @@
 * [Upcoming Features](/upcoming-features) <!--features;upcomingfeatures;new features;screenshare when;screen share when-->
 * [User Settings](/user-settings) <!--usettings;usersettings;user-->
 * [Video Chat](/video-chat) <!--video;videochat;videochatting;videocall;videocalling;video calling;video call-->
+* [WikiBot](/wikibot) <!--wiki bot-->
 * [Wumpus](/wumpus) <!--wumpuses;mascotte-->
 
