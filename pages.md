@@ -3,6 +3,7 @@
 * [Bug Hunters](/bug-hunters) <!--bughunters;bugs;bug;we are number one;we are bug hunters;almightydabbit;dabbit;daddit;rabbit-->
 * [Clyde](/clyde) <!--nonexistent-->
 * [Developer Mode](/developer-mode) <!--dev mode;dev-mode;developer-->
+* [Direct Messages](/direct-messages) <!--direct message;dm;dms-->
 * [Discord](/discord)
 * [Discord API Libraries](/libraries) <!--api;libraries;dapi-->
 * [Discord Canary](/canary) <!--alpha;dcanary;canary-->
@@ -18,20 +19,25 @@
 * [Easter Eggs](/easter-eggs) <!--easter;eastereggs;konami;easteregg;easter egg;me me big boy-->
 * [Emoji](/emoji) <!--emote;emotes;emojis;emoticons;emoticon;smileys-->
 * [Friends List](/friends) <!--friends;friend-->
+* [GameBridge](/gamebridge) <!--game bridge;game sdk-->
 * [Game Night](/gamenight) <!--twitch;stream;vlog;game night-->
 * [HypeSquad](/hypesquad) <!--hype;getschwifty;bestbadge;bestserver-->
-* [Markdown](/markdown)
+* [Markdown](/markdown) <!--mark down-->
+* [Mentions](/mentions) <!--mention-->
 * [Mobile](/mobile) <!--testflight;android;ios-->
 * [Profile Badges](/badges) <!--badges;badge-->
 * [Quick Switcher](/quick-switcher) <!--quickswitcher;fastswitcher;sonic;qs;speedoflight-->
 * [Roles](/roles) <!--role-->
+* [Screen Sharing](/screen-sharing) <!--screensharing;screenshare;screen share-->
 * [Search](/search) <!--where is waldo-->
 * [Servers](/servers) <!--guilds;server;guild-->
 * [Server Settings](/server-settings) <!--ssettings;serversettings-->
 * [Streamer Mode](/streamer-mode) <!--stream mode;streaming mode;live streaming-->
 * [StreamKit](/streamkit) <!--stream kit-->
+* [Text to Speech](/tts) <!--tts;text-to-speech-->
 * [Two-Factor Authentication](/two-factor-authentication) <!--2fa;2-fa;2 fa;2 step;two step;2 step authentication;twofactor authentication;tfa-->
 * [Upcoming Features](/upcoming-features) <!--features;upcomingfeatures;new features;screenshare when;screen share when-->
 * [User Settings](/user-settings) <!--usettings;usersettings;user-->
+* [Video Chat](/video-chat) <!--video;videochat;videochatting;videocall;videocalling;video calling;video call-->
 * [Wumpus](/wumpus) <!--wumpuses;mascotte-->
 
