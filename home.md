@@ -15,7 +15,6 @@ We're a small team of Discord enthusiasts, aiming to raise awareness of a great 
 
 *Responsible for maintaining Discordia and The Discord Wiki (managers).*
 * @Dru#6043
-* @nullpixel#0012
 * @Harrison#9100
 * @Tiemen#0107
 * @Mikesky#3456
@@ -25,13 +24,12 @@ We're a small team of Discord enthusiasts, aiming to raise awareness of a great 
 
 *In charge of maintaining the Wiki. Please consult them regarding any issues with spelling and such.*
 * @cats#5485
-* @Jet#0038 
 
 > ***Bot Developers***
 
 *Contributed to the Discord WikiBot.*
 * @HyperCoder#2975
-* @Nullpixel#0012
+* @Tiemen#0107
 
 # The Discord Wiki Edit Request Form and Wiki Editor Applications
 ### These are different Google Forms that allow one to edit The Wiki
