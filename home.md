@@ -20,11 +20,6 @@ We're a small team of Discord enthusiasts, aiming to raise awareness of a great 
 * @Mikesky#3456
 * @西木野真姫★★★★#9667
 
-> ***Wiki Editors***
-
-*In charge of maintaining the Wiki. Please consult them regarding any issues with spelling and such.*
-* @cats#5485
-
 > ***Bot Developers***
 
 *Contributed to the Discord WikiBot.*
