@@ -23,10 +23,11 @@ If you want to close the Quick Switcher, click the escape key or click anywhere 
 > # for text channels
 > @ for users
 > ```
-> 
 
 Finally, any unread mentions, any unread channels in the current server and your last visited channel will display on the Quick Switcher!
 
 ![Qs 2](/uploads/quickswitcher/qs-2.png "Qs 2")
 
 # Release video
+
+[video](https://www.youtube.com/watch?v=1vjulniffcA){.youtube}
