@@ -2,7 +2,7 @@
 
 A Discord Partner is someone with a large following or server who applies and is accepted by Discord to receive VIP features for themselves and their guild.
 
-![alt text](http://i.imgur.com/zEvhokL.png)
+![Partnerlogo](/uploads/partner/partnerlogo.png "Partnerlogo")
 
 *The Discord Partner logo*
 
@@ -16,14 +16,14 @@ A Discord Partner is someone with a large following or server who applies and is
 * Displayable partner badge for their website, Twitch channel, etc;
 * Access to the Discord Partners guild with ultra fast support and collaboration opportunities with other partners.
 
-![alt text](http://i.imgur.com/njJBheG.png)
+![Njjbheg](/uploads/partner/njjbheg.png "Njjbheg")
 
 # Becoming a Discord Partner
 To get a chance for Discord partnership, go to the [Discord Partnership page](http://discordapp.com/partners) and fill out the application.
 
 According to their website, Discord looks for 'growing communities and content creators that show an authentic enthusiasm for Discord (which means you’re already using Discord for your community). We want to support communities that support us. Acceptance into the program is extremely qualitative and will vary from one candidate to the next.'
 
-**Specific communities that are usually accepted include;**
+**Specific communities that are usually accepted include:**
 * Reddits (8000+ subs)
 * Social Personalities (Large facebook, twitter, etc online personalities [10,000+ followers])
 * Content Creators/Streamers (Beam, Twitch, YouTube, Player.me, etc)
