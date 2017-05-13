@@ -55,25 +55,13 @@ This tab is only availiable to users with **Manage Server**, and only to servers
 
 In this tab, users with **Manage Server** can view Members. Users with **Manage Nicknames** can change nicknames, server owners can Transfer Ownership, users with **Kick Members** can kick, users with **Ban Members** can ban, and users with **Manage Roles** can add or remove roles from users, if that user is below them in the hierarchy. 
 
-## Instant Invites
-In this tab, users with the **Manage Server** permission can see instant invites created on the server. It shows the duration of an invite, the creator, the channel, and the number of uses on it. Users can also delete these invites by pressing the Revoke button on the right of the invite.
-
 ## Audit Logs
 
-This tab allows users with the View Audit Logs permission to view all the actions taken in the server, for example bans, and creating instant invites. It is possible to filter the results by users involved, and the actions taken.
+This tab allows users with the **View [Audit Logs](/audit-logs)** permission to view all the actions taken in the server, for example bans, and creating instant invites. It is possible to filter the results by users involved, and the actions taken.
 
+## Invites
+In this tab, users with the **Manage Server** permission can see instant invites created on the server. It shows the duration of an invite, the creator, the channel, and the number of uses on it. Users can also delete these invites by pressing the Revoke button on the right of the invite.
 
 ## Bans
 
-This tab allows you to search the banned members and unban, if you have the Ban Members permission. 
-
-## Security 
-
-This tab is only availiable to the server owner, and allows them to enable a server-wide 2FA requirement. This requires users to have 2FA enable to have administrative abilities, such as banning members and accessing server settings.
-
-
-
-
-
-
-
+This tab allows you to search the banned members and unban, if you have the **Ban Members** permission. 
