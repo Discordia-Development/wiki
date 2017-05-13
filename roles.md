@@ -43,7 +43,7 @@ Permissions are divided between General Permissions, Text Permissions, and Voice
 
 * Send Messages allows a user to send messages in any channel unless denied by that channel's permissions.
 
-* Send TTS Messages allows a user to use /tts in any channel unless denied by that channel's permissions. This feature is disabled on many servers, and can be disabled client-side in [User Settings](/usersettings).
+* Send TTS Messages allows a user to use /tts in any channel unless denied by that channel's permissions. This feature is disabled on many servers, and can be disabled client-side in [User Settings](/user-settings).
 
 * Manage Messages allows a user to delete, pin, and unpin messages, unless denied by that channel's permissions.
 
