@@ -5,7 +5,7 @@ Discord WikiBot is a simple, yet effective tool that grabs articles from the Dis
 
 Currently the Discord Wikibot is only available on very few servers as it’s intended to be almost exclusively on Discord-run servers. 
 
-![alt text](http://i.imgur.com/ObkTbVA.png)
+![Obktbva](/uploads/wikibot/obktbva.png "Obktbva")
 # Commands
 You may run the following commands on Discord WikiBot, either on any server it is in or in a direct message (you must share a mutual server to run commands in a DM).
 
