@@ -1,5 +1,5 @@
 <!-- TITLE:Discord WikiBot -->
-<!-- SUBTITLE: Discordia's Discord WikiBot -->
+<!-- SUBTITLE: Discordia's WikiBot -->
 
 Discord WikiBot is a simple, yet effective tool that grabs articles from the Discord Wiki and Discord [Helpdesk](https://support.discordapp.com/hc/en-us). It's like a nice little wingman that can grab different books for you at the library! 
 
