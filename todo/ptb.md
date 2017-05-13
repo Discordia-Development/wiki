@@ -8,7 +8,7 @@ The PTB build has the same icon as the Stable build.
 * [Windows PTB](https://discordapp.com/api/download/ptb?platform=win)
 * [Linux deb PTB](https://discordapp.com/api/download/ptb?platform=linux&format=deb)
 * [Linux tar.gz PTB](https://discordapp.com/api/download/ptb?platform=linux&format=tar.gz)
-### API Notes
+## API Notes
 * [macOS](https://discordapp.com/api/ptb/updates?platform=osx)
 * [Windows](https://discordapp.com/api/ptb/updates?platform=win)
 * [Linux](https://discordapp.com/api/ptb/updates?platform=linux)
