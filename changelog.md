@@ -3,6 +3,30 @@
 
 This is the changelog/release date for major features or significant changes. PTB and Canary might have received some features sooner than the date listed below.
 
+# 04/26/2017
+* Report button.
+* NSFW Channel Indicator.
+
+
+# 03/30/2017
+Full changelog [here](https://blog.discordapp.com/3-30-17-change-log-quick-switcher-e954c3f94530)
+
+## Desktop
+* Quick Switcher (see our article here).
+* Safe Direct Messages
+* Global DM Privacy Settings
+* Server Auto-Moderation
+* League of Legends Beta sync.
+
+## iOS
+* Nitro
+* Removed Geotagging.
+
+## Android
+* Removed Geotagging.
+* In-app camera.
+* Send multiple attachments
+
 # 03/10/2017
 * Reactions on iOS. Includes custom emoji reactions. 
 * Wumboji (jumbo emoji). 

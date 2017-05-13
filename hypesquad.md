@@ -1,8 +1,19 @@
 <!-- TITLE: HypeSquad -->
 <!-- SUBTITLE: Are you Hyped? Because I'm feeling super duper hyped to tell you about this really cool thing! -->
 
-So, what's the HypeSquad? It's only a group of the most hyped people that Discord has! As a HypeSquadder, you'll attend events and such and hand out Discord goodies!
-> Note: Discord doesn't necessarily pay for your ticket, so you'll have to get yourself to a convention by yourself :3
+** HYPESQUAD BADGE HERE **
 
-# DO NOT ADD THIS TO THE PAGES.MD
-# IN PROGRESS
+The Discord HypeSquad are members of the Discord community selected to represent the service at events around the world. Consider Discord HypeSquad members as ambassadors for Discord.
+
+# HypeSquad Perks
+* Access to an exclusive HypeSquad server.
+* HypeSquad [badge](/badges) for your Discord profile.
+* Limited Edition HypeSquad T-shirt (received after attending at least one event).
+* Meet and hangout with Discord staff at events.
+
+# Join the HypeSquad
+To join the HypeSquad you must submit an [application](https://discordapp.com/hypesquad). If you apply as an event attendee or an event coordinator, you must submit a video (this is not required for the online only option, though if you want a T-shirt you will need to). The video is encouraged to be shot in a selfie style, answering a few questions as detailed on the submission form.
+
+# Official Video
+
+**EMBED HYPESQUAD VIDEO HERE**
