@@ -1,6 +1,6 @@
 <!-- TITLE: Nitro -->
 
-**DISCORD NITRO BADGE HERE**
+![Nitrobanner](/uploads/nitro/nitrobanner.png "Nitrobanner")
 
 Discord Nitro is a purchased subscription to Discord that gives a user access to premium services.
 
@@ -21,7 +21,8 @@ To purchase Nitro, click the user settings cog on the bottom left of your screen
 
 # Official Launch Video
 
-**EMBED NITRO VIDEO HERE**
+[video](https://www.youtube.com/watch?v=psIIWROIvtM){.youtube}
+
 
 # More Information
 More information can be found on Nitro at http://discordapp.com/nitro or by accessing the Nitro tab on User settings in the client.
