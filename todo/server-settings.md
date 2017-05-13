@@ -22,8 +22,12 @@ Explicit Content Filter settings include:
 * Don't scan any messages.
 * Scan messages from users without a role.
 * Scan messages sent by all members.
-* 
+
 Server Two-Factor Authentication requires users to have Two-Factor Authentication enabled to have administrative abilities, such as banning members and accessing server settings.
+
+## Roles
+
+In this tab, users with Manage Roles can edit settings on roles below their top role. Managing roles means that users can delete the role, rename the role, change the role's color, and manage permissions on the role. Adding permissions you don't have to roles is not possible, and removing permissions that are only given to you by that role is also not possible.
 
 ## Instant Invites
 In this tab, users with the Manage Server permission can see instant invites created on the server. It shows the duration of an invite, the creator, the channel, and the number of uses on it. Users can also delete these invites by pressing the Revoke button on the right of the invite.
@@ -36,9 +40,6 @@ Users with the Manage Server permission can add their *partnered* Twitch or Yout
 
 In this tab, users with Manage Server can view Members. Users with Manage Nicknames can change nicknames, server owners can Transfer Ownership, users with Kick Members can kick, users with Ban Members can ban, and users with Manage Roles can add or remove roles from users, if that user is below them in the hierarchy. 
 
-## Roles
-
-In this tab, users with Manage Roles can edit settings on roles below their top role. Managing roles means that users can delete the role, rename the role, change the role's color, and manage permissions on the role. Adding permissions you don't have to roles is not possible, and removing permissions that are only given to you by that role is also not possible.
 
 ## Bans
 
