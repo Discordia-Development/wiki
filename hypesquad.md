@@ -1,7 +1,7 @@
 <!-- TITLE: HypeSquad -->
 <!-- SUBTITLE: Are you Hyped? Because I'm feeling super duper hyped to tell you about this really cool thing! -->
 
-** HYPESQUAD BADGE HERE **
+![Hypesquadsmall](/uploads/hypesquad/hypesquadsmall.png "Hypesquadsmall")
 
 The Discord HypeSquad are members of the Discord community selected to represent the service at events around the world. Consider Discord HypeSquad members as ambassadors for Discord.
 
@@ -16,4 +16,4 @@ To join the HypeSquad you must submit an [application](https://discordapp.com/hy
 
 # Official Video
 
-**EMBED HYPESQUAD VIDEO HERE**
+[video](https://www.youtube.com/watch?v=rXZkTT-5m9o){.youtube}
