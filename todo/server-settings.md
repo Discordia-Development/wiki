@@ -31,11 +31,11 @@ In this tab, users with **Manage Roles** can edit settings on roles below their 
 
 ## Integrations
 
-Users with the Manage Server permission can add their *partnered* Twitch or Youtube Gaming accounts to the server. This allows you to sync your Subscribers (Twitch) or your Sponsors (Youtube Gaming) to a role on your Discord Server. 
+Users with the **Manage Server** permission can add their *partnered* Twitch or Youtube Gaming accounts to the server. This allows you to sync your Subscribers (Twitch) or your Sponsors (Youtube Gaming) to a role on your Discord Server. 
 
 ## Emoji
 
-In this tab, users with Manage Emoji can rename emojis, upload new ones, view who uploaded them, and delete emojis. There is a 50 emoji limit per server, and users may only use emojis in that server, unless they have [Discord Nitro](/nitro). More info about emojis can be found [here](/emoji).
+In this tab, users with **Manage Emoji** can rename emojis, upload new ones, view who uploaded them, and delete emojis. There is a 50 emoji limit per server, and users may only use emojis in that server, unless they have [Discord Nitro](/nitro). More info about emojis can be found [here](/emoji).
 
 ## Webhooks
 
