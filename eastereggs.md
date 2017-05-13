@@ -12,7 +12,7 @@ On Discord's website [homepage](https://discordapp.com) there are many objects t
 
 One example of the clickable objects is the question-box towards the top of the page.
 
-**QUESTION BOX IMAGE HERE**
+![Button](/uploads/easter-eggs/button.png "Button")
 
 # Remixed Ringtone
 In ultra-rare cases, users will receive a remixed version of the incoming call ringtone during either a group or two-person voice call. If a user receives the remixed ringtone, it will play for the whole duration of the call instead of ending when the user joins the call. According to Discord staff, this is the rarest easter egg. You may hear the remixed ringtone [here](https://canary.discordapp.com/assets/b9411af07f154a6fef543e7e442e4da9.mp3).
@@ -31,9 +31,9 @@ On the [Discord API Rate Limits documentation page](https://discordapp.com/devel
 # Miguel's Fedora
 On the Discord [Company Page](https://discordapp.com/company) you can click on the different staff member's heads. When you click on a head, an object (such as a pokeball) will fall on it. If you click on Miguel Gaeta's head, one of the objects that might fall is a blurple fedora (amount of clicks until the fedora appears varies). 
 
-**MIGUEL HAT PIC HERE**
+![Miguel](/uploads/easter-eggs/miguel.png "Miguel")
 
 # Empathy Banana
 When your [search](/search) leads to no results, Discord will sometimes display an "empathy banana" instead of the usual no results dialogue. This is completely random.
 
-**EMPATHY BANANA PIC HERE**
+![Banana](/uploads/easter-eggs/banana.png "Banana")
