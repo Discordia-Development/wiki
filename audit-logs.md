@@ -3,6 +3,7 @@
 
 Ever wonder who created a new channel on your server? Or who the person who banned a troublesome user was? Well, have no fear, audit logs are here to tell you who did what on your servers!
 
+# Find Audit Logs
 So, where can you find Audit Logs? Inside [server settings](/server-settings), there's a tab labeled Audit Logs.
 
 ![Audit Logs 2](/uploads/audit-logs/audit-logs-2.png "Audit Logs 2")
@@ -12,6 +13,8 @@ So, where can you find Audit Logs? Inside [server settings](/server-settings), t
 Once you've clicked the Audit Logs tab, you'll be greeted with something that looks like this:
 
 ![Audit Logs 3](/uploads/audit-logs/audit-logs-3.png "Audit Logs 3")
+
+# What do they log?
 
 So, what does this all mean? Well, whenever a user performs an action, it is logged in the Audit Logs for up to ninety days. The following actions are logged in the Audit Logs:
 
@@ -26,6 +29,8 @@ So, what does this all mean? Well, whenever a user performs an action, it is log
 * Webhook Creation, Deletion, and Updates
 * Message Deletion
 
+
+# Getting the Details
 For many of these actions, further details are given by expanding the given tab.
 
 ![Audit Logs 1](/uploads/audit-logs/audit-logs-1.png "Audit Logs 1")
