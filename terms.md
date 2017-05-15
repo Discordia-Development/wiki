@@ -7,7 +7,7 @@ Welcome to **The Discord Wiki** (a.k.a. "**we**" or "**us**" or the "**Company**
 
 We want to keep our relationship with you as lean and informal as possible, but please read the Terms of Service carefully before you start using us, because **by using the Services you accept and agree to be bound and abide by these Terms of Service.**
 
-**SHOULD YOU DISAGREE WITH ANY OF THE PROVISIONS HEREIN, YOU CAN EITHER LEAVE THE SERVICES, OR CONTACT US AT SUPPORT@THEDRUTRIBE.US.**
+**SHOULD YOU DISAGREE WITH ANY OF THE PROVISIONS HEREIN, YOU CAN EITHER LEAVE THE SERVICES, OR CONTACT US AT SUPPORT@DISCORDIA.ME**
 
 # 2. Changes to the Terms of Service and the Services
 The Discord Wiki is a work in progress, meaning that a lot will change in the near future. We reserve the right to update the Services as well as these Terms of Service from time to time, at our discretion. We will make sure to announce any major change in a prominent way, but since "major" is a very subjective concept, you can always feel free to return to this page at any time. **Your continued use of the Services following the publishing of updated Terms of Service means that you accept and agree with any changes.**
@@ -22,7 +22,7 @@ It is a condition of your use of the Services that all the information you provi
 We use SSL encrypted browsing, but we cannot guarantee that all use will be secure. We also do not guarantee that the Services or any content provided on the Services are error free. We manage your personal data according to our **Privacy Policy.**
 
 # 4. Intellectual Property Rights and Use Guidelines
-The Services and their original content, features and functionality, are owned by The Discord Wiki and are protected by United States and international copyright, trademark, patent, trade secret and other intellectual property or proprietary rights laws. In continuing to use these services, you agree to not copy, modify, create derivative works of, publicly display, publicly perform, republish, any of our copyrighted material, except to the extent permitted by the Services themselves. If you have doubts about whether and how to use of material on the Services, please address your concerns to: support@thedrutribe.us.
+The Services and their original content, features and functionality, are owned by The Discord Wiki and are protected by United States and international copyright, trademark, patent, trade secret and other intellectual property or proprietary rights laws. In continuing to use these services, you agree to not copy, modify, create derivative works of, publicly display, publicly perform, republish, any of our copyrighted material, except to the extent permitted by the Services themselves. If you have doubts about whether and how to use of material on the Services, please address your concerns to: support@discordia.me.
 
 For purposes of these Terms of Service, the term “**Content**” includes, without limitation, information, data, text, photographs, videos, audio clips, written posts and comments, software, scripts, graphics, and interactive features generated, provided, or otherwise made accessible on or through the Services. For the purposes of these Terms of Service, “**Content**” also includes all User Content (as defined below).
 
@@ -63,7 +63,7 @@ If you believe that any User Content violates your copyright, please follow the 
 5. A statement that you a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law.
 6. A statement that the information in the notification is accurate, and under penalty of perjury, that you is authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
 
-The notice should be addressed to dmca@thedrutribe.us, and shall recieve a prompt response whenever it is recieved.
+The notice should be addressed to dmca@discordia.me, and shall recieve a prompt response whenever it is recieved.
 
 # 7. Disclaimer of Warranties, Limitations of Liability and Indemnification.
 Your use of the services provided by The Discord Wiki is at your sole risk. The service is provided "as is" and "as available". We disclaim all warranties of any kind, express or implied, including, without limitation, the warranties of merchantability, fitness for a particular purpose and non-infringement. We are not liable for damages, direct or consequential, resulting from your use of the Services, and you agree to defend, indemnify and hold us harmless from any claims, losses, liability costs and expenses (including but not limited to attorney's fees) arising from your violation of any third-party's rights. You acknowledge that you have only a limited, non-exclusive, nontransferable license to use the Services. Because the Services are not error or bug free, you agree that you will use it carefully and avoid using it ways which might result in any loss of your or any third party's property or information.
@@ -80,4 +80,4 @@ All claims and disputes arising under or relating to these Terms of Service are 
 Our failure to exercise or enforce any right or provision of the Terms of Service shall not constitute a waiver of such right or provision. The Terms of Service constitutes the entire agreement between you and the Company and govern your use of the service, superseding any prior agreements (including, but not limited to, any prior versions of the Terms of Service). If any provision of these Terms of Service is held by a court of competent jurisdiction to be invalid, illegal or unenforceable for any reason, such provision shall be eliminated or limited to the minimum extent such that the remaining provisions of the Terms of Service will continue in full force and effect.
 
 # Feedback
-We welcome any comment, question and communication at support@thedrutribe.us
+We welcome any comment, question and communication at support@discordia.me
