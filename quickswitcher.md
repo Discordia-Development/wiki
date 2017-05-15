@@ -1,4 +1,4 @@
-<!-- TITLE: Quickswitcher -->
+<!-- TITLE: Quick Switcher -->
 <!-- SUBTITLE: Zipping around at the speed of light, Quick Switcher is an entirely new way to access your favorite servers faster than ever before! -->
 
 # Overview
