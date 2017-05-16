@@ -2,7 +2,7 @@
 <!-- SUBTITLE: A quick summary of Tr -->
 # Header
 
-```html
+
 <li class="dropdown language-selector">
   Language:  
   <a href="#" class="dropdown-toggle" data-toggle="dropdown" data-close-others="true">
@@ -41,4 +41,3 @@
     </li>
   </ul>
 </li>
-```
