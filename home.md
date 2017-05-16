@@ -3,15 +3,6 @@
 
 # Welcome
 ## About us
-<div class="dropdown">
-  <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">English
-  <span class="caret"></span></button>
-  <ul class="dropdown-menu">
-    <li><a href="tr">Türkçe</a></li>
-    <li><a href="#">CSS</a></li>
-    <li><a href="#">JavaScript</a></li>
-  </ul>
-</div>
 
 We're a small team of Discord enthusiasts, aiming to raise awareness of a great text and voice chat platform, [Discord](https://discordapp.com).
 
