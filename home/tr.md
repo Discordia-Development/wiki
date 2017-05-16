@@ -3,9 +3,9 @@
 # Header
 
 
-<li class="dropdown language-selector">
+ <li class="dropdown language-selector">
   Language:  
-  <a href="#" class="dropdown-toggle" data-toggle="dropdown" data-close-others="true">
+ <a href="#" class="dropdown-toggle" data-toggle="dropdown" data-close-others="true">
     <img src="assets/images/flag-uk.png" />
   </a>
   <ul class="dropdown-menu pull-right">
