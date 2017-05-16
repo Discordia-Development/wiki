@@ -4,4 +4,4 @@
 # Header
 
 
-test
+Localization testing, shall get localization assistance.
