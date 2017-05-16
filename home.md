@@ -14,7 +14,7 @@ We're a small team of Discord enthusiasts, aiming to raise awareness of a great 
 > ***High Council***
 
 *Responsible for maintaining Discordia and The Discord Wiki (managers).*
-* @Dru#6043
+* @Dru#7700
 * @Harrison#9100
 * @Tiemen#0107
 * @Mikesky#3456
