@@ -6,7 +6,7 @@
 
 Somos un equipo pequeño de entusiastas Discord, puntería a aumentar la conciencia de un gran texto y voz plataforma chat, [Discord](https://discordapp.com).
 
-[Join us on Discord!](https://discord.gg/WHz5r3N)
+[¡Únete a nosotros en Discord!](https://discord.gg/WHz5r3N)
 
 <a href="https://discord.gg/WHz5r3N">![DISCORD EMBED PLUGIN](https://discordapp.com/api/guilds/268800390961561601/widget.png?style=banner2)</a>
 
