@@ -24,6 +24,9 @@ These are the members currently tasked with i18n.
 ### Russian [RU]
 * DaFri_Nochiterov#4289
 
+### Turkish [TR]
+* asli#2772
+
 *To get added to the list, put your language into the #i18n-language channel on Discordia.*
 
 ## Translated pages by language
@@ -61,6 +64,16 @@ To-Do:
 * Privacy policy
 
 ### Russian
+Translated:
+
+Partially completed:
+
+To-Do:
+* Home
+* ToS
+* Privacy policy
+
+### Turkish
 Translated:
 
 Partially completed:
