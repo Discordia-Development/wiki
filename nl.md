@@ -1,4 +1,4 @@
-<!-- TITLE: Nl -->
+<!-- TITLE: Home -->
 <!-- SUBTITLE: A quick summary of Nl -->
 
 # Welkom
