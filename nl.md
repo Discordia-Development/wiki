@@ -1,5 +1,5 @@
 <!-- TITLE: Home -->
-<!-- SUBTITLE: A quick summary of Nl -->
+<!-- SUBTITLE: Welkom bij de Discord Wiki! -->
 
 # Welkom
 ## Over Ons
@@ -10,17 +10,17 @@ Wij zijn een klein team Discord enthousiastelingen, die proberen meer mensen bew
 
 <a href="https://discord.gg/WHz5r3N">![DISCORD EMBED PLUGIN](https://discordapp.com/api/guilds/268800390961561601/widget.png?style=banner2)</a>
 
-## Editorial Staff
-> ***High Council***
+## De Redactie
+> ***Hoge Raad***
 
-*Responsible for maintaining Discordia and The Discord Wiki (managers).*
+*Verantwoordelijk voor het onderhouden van Discordia en de Discord Wiki (managers).*
 * @Dru#7700
 * @Harrison#9100
 * @Tiemen#0107
 * @Mikesky#3456
 * @西木野真姫★★★★#9667
 
-> ***Internationalization (i18n)***
+> ***Vertalers (i18n)***
 
 * @asli#2772
 * @Daan#3356
@@ -33,7 +33,7 @@ Wij zijn een klein team Discord enthousiastelingen, die proberen meer mensen bew
 
 > ***Bot Developers***
 
-*Contributed to the Discord WikiBot.*
+*Bijdrage geleverd aan de ontwikkeling van de Discord WikiBot*
 * @HyperCoder#2975
 * @Tiemen#0107
 
