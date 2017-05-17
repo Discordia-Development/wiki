@@ -33,7 +33,7 @@ Somos un equipo pequeño de entusiastas Discord, puntería a aumentar la concien
 
 > ***Desarrolladores de Bot***
 
-*Contributed to the Discord WikiBot.*
+*Contribuido al Discord WikiBot.*
 * @HyperCoder#2975
 * @Tiemen#0107
 
