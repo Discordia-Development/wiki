@@ -48,6 +48,7 @@ Partially completed:
 To-Do:
 * ToS
 * Privacy Policy
+* Wumpus
 
 ### Spanish
 Translated:
