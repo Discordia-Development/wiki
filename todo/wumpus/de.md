@@ -1,21 +1,21 @@
 <!-- TITLE: Wumpus -->
 
-Wumpus is one of Discord's mascots.
+Das Wumpus ist eines der Maskottchen von Discord.
 
-It is thought that the idea of Wumpus came from the early computer game, [Hunt the Wumpus](https://en.wikipedia.org/wiki/Hunt_the_Wumpus).
+Es wird vermutet, dass die Idee des Wumpus vom alten Spiel [Hunt the Wumpus](https://en.wikipedia.org/wiki/Hunt_the_Wumpus) kommt.
 
-Wumpus can be found in many locations pages on Discord, such on the friends list tabs.
+Das Wumpus ist auf vielen Seiten in Discord anzutreffen, zum Beispiel auf der Freundeliste.
 
 ![alt text](https://i.imgur.com/NFg8NKl.jpg)
 
-*Wumpus on the 'blocked' tab of the friends list.*
+*Wumpus auf dem "Blockiert" Tab der Freundesliste.*
 
-Wumpus is also frequently posted about on Discord's Twitter.
+Über das Wumpus wird auch auf [Discord's Twitter](https://twitter.com/discordapp) oft gesprochen.
 
 ![alt text](https://i.imgur.com/9rsvKZ8.png)
 # PAX
-At PAX events users may meet Wumpus in real life. Wumpus made his debut at PAX South 2017.
+Bei PAX-Events durften Besucher das Wumpus in echt sehen. Das Wumpus wurde bei PAX South 2017 zum ersten Mal gesehen.
 
 ![alt text](http://i.imgur.com/afGy7sg.jpg?1)
 
-*Mallory (Discord Community Manager) with Wumpus at PAX East 2017.*
+*Mallory (Discord Community Manager) mit Wumpus bei PAX East 2017.*
