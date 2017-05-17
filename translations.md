@@ -27,6 +27,9 @@ These are the members currently tasked with i18n.
 ### Turkish [TR]
 * asli#2772
 
+### Estonian [EE]
+* Henrijoh#0216
+
 *To get added to the list, put your language into the #i18n-language channel on Discordia.*
 
 ## Translated pages by language
@@ -84,6 +87,15 @@ To-Do:
 * ToS
 * Privacy policy
 
+### Estonian
+Translated:
+
+Partially completed:
+
+To-Do:
+* Home
+* ToS
+* Privacy policy
 
 *Currently we mainly need the home page, the TOS and the privacy policy translated. These should be as accurately translated as possible.*
 
