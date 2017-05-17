@@ -10,17 +10,17 @@ Somos un equipo pequeño de entusiastas Discord, puntería a aumentar la concien
 
 <a href="https://discord.gg/WHz5r3N">![DISCORD EMBED PLUGIN](https://discordapp.com/api/guilds/268800390961561601/widget.png?style=banner2)</a>
 
-## Editorial Staff
-> ***High Council***
+## Personal Editorial
+> ***Consejo Alto***
 
-*Responsible for maintaining Discordia and The Discord Wiki (managers).*
+*Responsable de mantener Discordia y The Discord Wiki (gerentes).*
 * @Dru#7700
 * @Harrison#9100
 * @Tiemen#0107
 * @Mikesky#3456
 * @西木野真姫★★★★#9667
 
-> ***Internationalization (i18n)***
+> ***Internacionalización (i18n)***
 
 * @asli#2772
 * @Daan#3356
@@ -31,7 +31,7 @@ Somos un equipo pequeño de entusiastas Discord, puntería a aumentar la concien
 * @Thereatra#3564
 * @LW001#8654
 
-> ***Bot Developers***
+> ***Desarrolladores de Bot***
 
 *Contributed to the Discord WikiBot.*
 * @HyperCoder#2975
