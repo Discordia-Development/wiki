@@ -1,5 +1,3 @@
-**THIS PROBABLY NEEDS UPDATING**
-
 * [Audit Logs](/audit-logs) <!--audit log;auditlog;auditlogs;moderation logs;mod logs-->
 * [Badges](/badges) <!--badges;badge-->
 * [Bots](/bots) <!--bot;discord bot;discord bots-->
