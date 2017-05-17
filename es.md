@@ -4,7 +4,7 @@
 # Bienvenidos
 ## Sobre Nosotros
 
-Somos un equipo pequeÃ±o de entusiastas Discord, punterÃ­a a aumentar la conciencia de un gran texto y voz plataforma chat, [Discord](https://discordapp.com).
+Somos un equipo pequeño de entusiastas Discord, punterÃ­a a aumentar la conciencia de un gran texto y voz plataforma chat, [Discord](https://discordapp.com).
 
 [Join us on Discord!](https://discord.gg/WHz5r3N)
 
