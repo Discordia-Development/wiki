@@ -8,7 +8,7 @@ This page will hold general information on the i18n/Translation project.
 
 You can apply to join the i18n team at https://goo.gl/forms/GbTIHOkcAPDqLLcx2
 
-##Members
+## Members
 These are the members currently tasked with i18n.
 
 **German [DE]**
