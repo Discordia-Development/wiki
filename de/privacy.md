@@ -1,5 +1,5 @@
-<! - TITLE: Datenschutzbestimmungen ->
-<! - SUBTITLE: Die Datenschutzbestimmungen für alle Dienste von The Discord Wiki ->
+<!-- TITLE: Datenschutzbestimmungen -->
+<!-- SUBTITLE: Die Datenschutzbestimmungen für alle Dienste von The Discord Wiki -->
 
 # Einführung
 Bei The Discord Wiki sammeln und verwalten wir Benutzerdaten nach den folgenden Datenschutzbestimmungen mit dem Ziel, unsere Unternehmenswerte zu integrieren: Transparenz, Zugänglichkeit, Vernunft, Nutzbarkeit. Dieses Dokument ist Teil von The Discord Wiki's [Nutzungsbedingungen](https://discordia.me/terms) und mit der Benutzung von https://discordia.me (den "Diensten") erklären Sie sich mit den Bestimmungen dieser Datenschutzerklärung und der Nutzungsbedingungen einverstanden. Bitte lesen Sie die Nutzungsbedingungen in ihrer Gesamtheit und verweisen Sie auf diese für Definitionen und Kontakte.
