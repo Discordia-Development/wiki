@@ -26,3 +26,19 @@ These are the members currently tasked with i18n.
 
 *To get added to the list, put your language into the #i18n-language channel on Discordia.*
 
+## Translated pages by language
+*This list will be edited and maintained by me or translators after adding the translation.*
+### German
+Translated:
+* Home
+Partially completed:
+* Wumpus
+To-Do:
+* ToS
+* Privacy policy
+### Dutch
+Translated:
+
+Partially completed:
+
+To-Do:
