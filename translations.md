@@ -38,9 +38,36 @@ Partially completed:
 To-Do:
 * ToS
 * Privacy policy
+
 ### Dutch
 Translated:
 
 Partially completed:
 
 To-Do:
+* Home
+* ToS
+* Privacy Policy
+
+### Spanish
+Translated:
+
+Partially completed:
+
+To-Do:
+* Home
+* ToS
+* Privacy policy
+
+### Russian
+Translated:
+
+Partially completed:
+
+To-Do:
+* Home
+* ToS
+* Privacy policy
+
+
+*Currently we mainly need the home page, the TOS and the privacy policy translated. These should be as accurately translated as possible.*
