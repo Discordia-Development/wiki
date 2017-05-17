@@ -30,6 +30,9 @@ These are the members currently tasked with i18n.
 ### Estonian [EE]
 * Henrijoh#0216
 
+### Danish [DK]
+* Thereatra#3564
+
 *To get added to the list, put your language into the #i18n-language channel on Discordia.*
 
 ## Translated pages by language
