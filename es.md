@@ -43,7 +43,7 @@ Somos un equipo pequeño de entusiastas Discord, puntería a aumentar la concien
 [¡Enviar una solicitud a edición Aqui!](https://goo.gl/forms/tXAUTq1uWNd5UJo43)
 
 [¡Aplicar para convertirse en un Wiki Editor Aqui!](https://goo.gl/forms/acaEgDcB2wLvAyUs1)
-## Disclaimers and Legal Information
-Hey there! Welcome to The Discord Wiki! We're strong believers in transparency, so before you jump in, please take a look at our [Terms of Service](/terms) and our [Privacy Policy](/privacy) in order for you to know all the legal stuff you need to know regarding our services!
+## Renuncias y Información Legal
+¡Hola! Bievenidos a The Discord Wiki! Somos creyentes fuertes en transparencia, así que antes usted saltar, por favor echa un vistazo a nuestra [Términos de Servicio](/terms) y nuestra [Política de Privacidad](/privacy) para ti sabe todas las cosas legales necesita saber respecto a nuestros servicios!
 
 ### ***Discord, the Discord Ghost (Clyde™), and Discordapp (Herein DISCORD) are the intellectual and legal property of Discord Inc. These Services, as listed in the [Terms of Service](/terms) are not affiliated with Discord Inc or any subsidiaries herein. The Discord Wiki does not claim to own any of DISCORD's intellectual property, please don't sue us.***
