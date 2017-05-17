@@ -10,7 +10,7 @@ Wumpus can be found in many locations pages on Discord, such on the friends list
 
 *Wumpus on the 'blocked' tab of the friends list.*
 
-Wumpus is also frequently posted about on Discord's Twitter.
+Wumpus is also frequently posted about on [Discord's Twitter](https://twitter.com/discordapp).
 
 ![alt text](https://i.imgur.com/9rsvKZ8.png)
 # PAX
