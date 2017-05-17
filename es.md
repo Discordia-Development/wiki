@@ -37,8 +37,8 @@ Somos un equipo pequeño de entusiastas Discord, puntería a aumentar la concien
 * @HyperCoder#2975
 * @Tiemen#0107
 
-## The Discord Wiki Edit Request Form and Wiki Editor Applications
-### These are different Google Forms that allow one to edit The Wiki
+## Forma solicitud a edición de The Discord Wiki y Aplicaciones Wiki Editor
+### Somos Google Forms diferentes eso permite one uno para editar El Wiki
 
 [Submit an Edit Request Here!](https://goo.gl/forms/tXAUTq1uWNd5UJo43)
 
