@@ -71,3 +71,13 @@ To-Do:
 
 
 *Currently we mainly need the home page, the TOS and the privacy policy translated. These should be as accurately translated as possible.*
+
+## TM
+*Below there are a few things by language you should follow to ensure translations are as consistent as possible. The language translators are encouraged to add things they think are important.*
+### Global TM
+*This is important for all languages.*
+* Don't prefer machine translating to actually writing it out.
+* Try avoiding dialects
+* If the article is about Discord and has an explanation for a feature, be sure to use words that are actually in Discord, for example buttons. The article has to reflect the Discord texts in the app.
+### German
+* Use *Sie* instead of *Du*
