@@ -79,5 +79,7 @@ To-Do:
 * Don't prefer machine translating to actually writing it out.
 * Try avoiding dialects
 * If the article is about Discord and has an explanation for a feature, be sure to use words that are actually in Discord, for example buttons. The article has to reflect the Discord texts in the app.
+* Translations need to be accurate to the english version. If there's information missing you'd like to add, add it to the english one beforehand.
+* The formatting needs to look the same, you can copy it over.
 ### German
 * Use *Sie* instead of *Du*
