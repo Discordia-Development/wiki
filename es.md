@@ -1,5 +1,5 @@
 <!-- TITLE: Página Principal -->
-<!-- SUBTITLE: Bienvenidos a The Discord Wiki! -->
+<!-- SUBTITLE: ¡Bienvenidos a The Discord Wiki! -->
 
 # Bienvenidos
 ## Sobre Nosotros
@@ -40,9 +40,9 @@ Somos un equipo pequeño de entusiastas Discord, puntería a aumentar la concien
 ## Forma solicitud a edición de The Discord Wiki y Aplicaciones Wiki Editor
 ### Somos Google Forms diferentes eso permite one uno para editar El Wiki
 
-[Submit an Edit Request Here!](https://goo.gl/forms/tXAUTq1uWNd5UJo43)
+[¡Enviar una solicitud a edición Aqui!](https://goo.gl/forms/tXAUTq1uWNd5UJo43)
 
-[Apply to Become a Wiki Editor Here!](https://goo.gl/forms/acaEgDcB2wLvAyUs1)
+[¡Aplicar para convertirse en un Wiki Editor Aqui!](https://goo.gl/forms/acaEgDcB2wLvAyUs1)
 ## Disclaimers and Legal Information
 Hey there! Welcome to The Discord Wiki! We're strong believers in transparency, so before you jump in, please take a look at our [Terms of Service](/terms) and our [Privacy Policy](/privacy) in order for you to know all the legal stuff you need to know regarding our services!
 
