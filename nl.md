@@ -37,13 +37,13 @@ Wij zijn een klein team Discord enthousiastelingen, die proberen meer mensen bew
 * @HyperCoder#2975
 * @Tiemen#0107
 
-## The Discord Wiki Edit Request Form and Wiki Editor Applications
-### These are different Google Forms that allow one to edit The Wiki
+## Het Discord Wiki aanpassing formulier en Wiki Bewerker Inschrijving
+### Dit zijn de verschillende Google Formulieren voor het aanpassen van de Wiki
 
-[Submit an Edit Request Here!](https://goo.gl/forms/tXAUTq1uWNd5UJo43)
+[Vraag hier een wijziging aan!](https://goo.gl/forms/tXAUTq1uWNd5UJo43)
 
-[Apply to Become a Wiki Editor Here!](https://goo.gl/forms/acaEgDcB2wLvAyUs1)
-## Disclaimers and Legal Information
-Hey there! Welcome to The Discord Wiki! We're strong believers in transparency, so before you jump in, please take a look at our [Terms of Service](/terms) and our [Privacy Policy](/privacy) in order for you to know all the legal stuff you need to know regarding our services!
+[Meld je hier aan voor Wiki Editor!](https://goo.gl/forms/acaEgDcB2wLvAyUs1)
+## Disclaimers en Juridische Informatie
+Hallo! Welkom bij de Discord Wiki! Wij vinden doorzichtigheid belangrijk, dus voordat je meteen aan de gang gaat, neem eerst tijd om naar onze [Servicevoorwaarden](/terms) en onze [Privacybeleid](/privacy) door te nemen zodat je op hoogte bent van de Juridische Informatie met betrekking tot onze diensten!
 
-### ***Discord, the Discord Ghost (Clyde™), and Discordapp (Herein DISCORD) are the intellectual and legal property of Discord Inc. These Services, as listed in the [Terms of Service](/terms) are not affiliated with Discord Inc or any subsidiaries herein. The Discord Wiki does not claim to own any of DISCORD's intellectual property, please don't sue us.***
+### ***Discord, De Discord Ghost (Clyde™), en Discordapp (Herein DISCORD) zijn eigendom van Discord Inc. Deze Diensten, zoals vermeld in de [Servicevoorwaarden](/terms) zijn niet verwant aan Discord Inc. of enig Dochteronderneming hiervan. De Discord Wiki beweert geen intellectuele eigendommen van DISCORD te bezitten, please don't sue us.***
