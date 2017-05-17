@@ -44,9 +44,9 @@ To-Do:
 
 ### Dutch
 Translated:
+* Home (needs second opinion)
 
 Partially completed:
-* Home (needs second opinion)
 * Nitro
 
 To-Do:
