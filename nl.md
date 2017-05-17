@@ -4,7 +4,7 @@
 # Welkom
 ## Over Ons
 
-Wij zijn een klein team Discord enthousiastelingen, die proberen meer mensen bewust te maken van een voortreffelijke tekst en stem communicatie platform, [Discord](https://discordapp.com).
+Wij zijn een klein team van Discord enthousiastelingen, die proberen om meer mensen bewust te maken van een voortreffelijke tekst en stem communicatie platform, [Discord](https://discordapp.com).
 
 [Help mee op onze Discord!](https://discord.gg/WHz5r3N)
 
@@ -33,17 +33,17 @@ Wij zijn een klein team Discord enthousiastelingen, die proberen meer mensen bew
 
 > ***Bot Developers***
 
-*Bijdrage geleverd aan de ontwikkeling van de Discord WikiBot*
+*Bijdrages geleverd aan de ontwikkeling van de Discord WikiBot*
 * @HyperCoder#2975
 * @Tiemen#0107
 
-## Het Discord Wiki aanpassing formulier en Wiki Bewerker Inschrijving
+## Het Discord Wiki aanpassingsformulier en Wiki Bewerker Inschrijving
 ### Dit zijn de verschillende Google Formulieren voor het aanpassen van de Wiki
 
 [Vraag hier een wijziging aan!](https://goo.gl/forms/tXAUTq1uWNd5UJo43)
 
 [Meld je hier aan voor Wiki Editor!](https://goo.gl/forms/acaEgDcB2wLvAyUs1)
 ## Disclaimers en Juridische Informatie
-Hallo! Welkom bij de Discord Wiki! Wij vinden doorzichtigheid belangrijk, dus voordat je meteen aan de gang gaat, neem eerst tijd om naar onze [Servicevoorwaarden](/terms) en onze [Privacybeleid](/privacy) door te nemen zodat je op hoogte bent van de Juridische Informatie met betrekking tot onze diensten!
+Hallo! Welkom bij de Discord Wiki! Wij vinden doorzichtigheid belangrijk, dus voordat je meteen aan de gang gaat, neem eerst de tijd om onze [Servicevoorwaarden](/terms) en onze [Privacybeleid](/privacy) door te nemen zodat je op de hoogte bent van de Juridische Informatie met betrekking tot onze diensten!
 
 ### ***Discord, De Discord Ghost (Clyde™), en Discordapp (Herein DISCORD) zijn eigendom van Discord Inc. Deze Diensten, zoals vermeld in de [Servicevoorwaarden](/terms) zijn niet verwant aan Discord Inc. of enig Dochteronderneming hiervan. De Discord Wiki beweert geen intellectuele eigendommen van DISCORD te bezitten, please don't sue us.***
