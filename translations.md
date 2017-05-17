@@ -43,9 +43,9 @@ To-Do:
 Translated:
 
 Partially completed:
+* Home (needs second opinion)
 
 To-Do:
-* Home
 * ToS
 * Privacy Policy
 
