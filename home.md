@@ -20,6 +20,17 @@ We're a small team of Discord enthusiasts, aiming to raise awareness of a great 
 * @Mikesky#3456
 * @西木野真姫★★★★#9667
 
+> ***Internationalization (i18n)***
+
+* @asli#2772
+* @Daan#3356
+* @Gerd#0525
+* @Henrijoh#0216
+* @Gallium#1327
+* @DaFri_Nochiterov#4289
+* @Thereatra#3564
+* @LW001#8654
+
 > ***Bot Developers***
 
 *Contributed to the Discord WikiBot.*
