@@ -1,4 +1,4 @@
-<!-- TITLE: Home -->
+<!-- TITLE: Huis -->
 <!-- SUBTITLE: Welkom bij de Discord Wiki! -->
 
 # Welkom
