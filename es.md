@@ -4,7 +4,7 @@
 # Bienvenidos
 ## Sobre Nosotros
 
-Somos un equipo pequeño de entusiastas Discord, puntería a aumentar la conciencia de un gran texto y voz plataforma chat, [Discord](https://discordapp.com).
+Somos un equipo pequeÃ±o de entusiastas Discord, punterÃ­a a aumentar la conciencia de un gran texto y voz plataforma chat, [Discord](https://discordapp.com).
 
 [Join us on Discord!](https://discord.gg/WHz5r3N)
 
@@ -40,10 +40,10 @@ Somos un equipo pequeño de entusiastas Discord, puntería a aumentar la concien
 ## Forma solicitud a edición de The Discord Wiki y Aplicaciones Wiki Editor
 ### Somos Google Forms diferentes eso permite one uno para editar El Wiki
 
-[¡Enviar una solicitud a edición Aqui!](https://goo.gl/forms/tXAUTq1uWNd5UJo43)
+[Â¡Enviar una solicitud a edición Aqui!](https://goo.gl/forms/tXAUTq1uWNd5UJo43)
 
-[¡Aplicar para convertirse en un Wiki Editor Aqui!](https://goo.gl/forms/acaEgDcB2wLvAyUs1)
+[Â¡Aplicar para convertirse en un Wiki Editor Aqui!](https://goo.gl/forms/acaEgDcB2wLvAyUs1)
 ## Renuncias y Información Legal
-¡Hola! Bievenidos a The Discord Wiki! Somos creyentes fuertes en transparencia, así que antes usted saltar, por favor echa un vistazo a nuestra [Términos de Servicio](/terms) y nuestra [Política de Privacidad](/privacy) para ti sabe todas las cosas legales necesita saber respecto a nuestros servicios!
+Â¡Hola! Bievenidos a The Discord Wiki! Somos creyentes fuertes en transparencia, así que antes usted saltar, por favor echa un vistazo a nuestra [Términos de Servicio](/terms) y nuestra [Polótica de Privacidad](/privacy) para ti sabe todas las cosas legales necesita saber respecto a nuestros servicios!
 
-### ***Discord, the Discord Ghost (Clyde™), and Discordapp (Herein DISCORD) are the intellectual and legal property of Discord Inc. These Services, as listed in the [Terms of Service](/terms) are not affiliated with Discord Inc or any subsidiaries herein. The Discord Wiki does not claim to own any of DISCORD's intellectual property, please don't sue us.***
+### ***Discord, el Discord Ghost (Clyde™), y Discordapp (En esta DISCORD) son los propiedad intelectual y legal de Discord Inc. Estos Servicios, enumerados en el [Términos de Servicio](/terms) no están afiliados a Discord Inc o cualquier filiales en esta. The Discord Wiki no reclama poseer cualquiera propiedad intelectual de DISCORD, Por favor, no nos demanden.***
