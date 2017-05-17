@@ -47,6 +47,7 @@ Translated:
 
 Partially completed:
 * Home (needs second opinion)
+* Nitro
 
 To-Do:
 * ToS
