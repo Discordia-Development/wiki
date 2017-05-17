@@ -1,5 +1,7 @@
 <!-- TITLE: Benutzereinstellungen -->
 
+**This article is not fully translated yet. - Dieser Artikel ist noch nicht vollständig Übersetzt.**
+
 Die folgenden Einstellungen sind für Discord-Benutzer. *Anmerkung: Einige dieser Einstellungen sind möglicherweise nicht auf den [Web](/web) oder [Mobilen](/mobile) Anwendungen verfügbar.*
 
 Um auf diese Einstellungen zuzugreifen, klicken Sie auf das Zahnrad-Symbol unten links.
