@@ -1,6 +1,6 @@
 <!-- TITLE: Nitro -->
 
-![Insignia Nitro](/uploads/nitro/nitrobadge.png "Nitrobadge")
+![Insignia Nitro](/uploads/nitro/nitrobadge.png "Insignia Nitro")
 
 Discord Nitro es una suscripción comprada a la Discord eso le da a un usuario Acceso a servicios primas.
 
