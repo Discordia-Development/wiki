@@ -100,6 +100,16 @@ To-Do:
 * ToS
 * Privacy policy
 
+### Danish
+Translated:
+
+Partially completed:
+
+To-Do:
+* Home
+* ToS
+* Privacy policy
+
 *Currently we mainly need the home page, the TOS and the privacy policy translated. These should be as accurately translated as possible.*
 
 ## TM
