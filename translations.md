@@ -40,13 +40,13 @@ These are the members currently tasked with i18n.
 ### German
 Translated:
 * Home
+* Privacy policy
 
 Partially completed:
 * Wumpus
 
 To-Do:
 * ToS
-* Privacy policy
 
 ### Dutch
 Translated:
