@@ -8,10 +8,10 @@ Nitro fue lanzado para fines de prueba en Australia el 22 de diciembre de 2016 y
 
 Nitro puede ser comprado mensual por USD$4.99 o anual por USD$49.99. El comprar anual da dos meses gratis.
 
-# Features
-A Discord Nitro subscription gives users access to the following features:
+# Caracteristicas
+Una suscripción Discord Nitro da acceso a los usuarios a las siguientes características:
 
-* GIF Avatar.
+* Avatar de GIF.
 * Ability to use custom emoji anywhere (if the User has the Use External Emojis permission in that server).
 * Max upload size changed from 8mb to 50mb.
 * Discord Nitro [badge](/badges) on profile.
