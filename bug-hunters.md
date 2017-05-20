@@ -30,5 +30,5 @@ Pretty simple, just type the report up and hit enter in the correct bug report c
 * Approve or Deny Reports - Once you're a certified Bug Hunter, you can help approve or deny bugs that are in the queue.
 ## Tips and Tricks
 The best way to find bugs is to use Discord normally, and not go out of your way to find bugs, one will come to you. 
-Use Discord Canary to get new features more often and test them. 
-Don't get discouraged when a bug that you reported gets denied. It happens to all of us, just keep going. Read the denial reason and it'll be fine!
+* Use Discord Canary to get new features more often and test them. 
+* Don't get discouraged when a bug that you reported gets denied. It happens to all of us, just keep going. Read the denial reason and it'll be fine!
