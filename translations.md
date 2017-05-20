@@ -44,11 +44,11 @@ Translated:
 * [Text-To-Speech](/de/tts)
 * [Discord Web](/de/web)
 * [Discord Canary](/de/canary)
-* [User Settings](/de/benutzereinstellungen)
 
 Partially completed:
 * Wumpus
 * ToS
+* [User Settings](/de/benutzereinstellungen)
 
 To-Do:
 
