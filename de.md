@@ -20,7 +20,7 @@ Wir sind ein kleines Team von Discord Enthusiasten, mit den Ziel andere Leute ei
 * @Mikesky#3456
 * @西木野真姫★★★★#9667
 
-> ***Internationalisierung (i18n)***
+> ***[Internationalisierung (i18n)](http://discordia.me/translations)***
 
 * @asli#2772
 * @Daan#3356
