@@ -1,4 +1,4 @@
-<!-- TITLE: Startpagina -->
+<!-- TITLE: Dutch - Startpagina -->
 <!-- SUBTITLE: Welkom bij de Discord Wiki! -->
 
 # Welkom
