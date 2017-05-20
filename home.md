@@ -20,7 +20,7 @@ We're a small team of Discord enthusiasts, aiming to raise awareness of a great 
 * @Mikesky#3456
 * @西木野真姫★★★★#9667
 
-> ***Internationalization (i18n)***
+> ***[Internationalization (i18n)](http://discordia.me/translations)***
 
 * @asli#2772
 * @Daan#3356
