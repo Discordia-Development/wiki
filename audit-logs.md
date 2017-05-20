@@ -1,10 +1,10 @@
 <!-- TITLE:Audit Logs -->
 <!-- SUBTITLE: Discord Audit Logs -->
 
-Ever wonder who created a new channel on your server? Or who the person who banned a troublesome user was? Well, have no fear, audit logs are here to tell you who did what on your servers!
+Ever wonder who created a new channel on your server? Or who the person who banned a troublesome user was? Well, have no fear, audit logs are here to tell you who did what on your servers! Audit Logs are saved for 90 days.
 
 # Find Audit Logs
-So, where can you find Audit Logs? Inside [server settings](/server-settings), there's a tab labeled Audit Logs.
+So, where can you find Audit Logs? Inside the [server settings](/server-settings), there's a tab labeled Audit Logs.
 
 ![Audit Logs 2](/uploads/audit-logs/audit-logs-2.png "Audit Logs 2")
 
@@ -27,7 +27,7 @@ So, what does this all mean? Well, whenever a user performs an action, it is log
 * Role Creation, Deletion, and Updates
 * Server Updates
 * Webhook Creation, Deletion, and Updates
-* Message Deletion
+* Message Deletion by Non-[Bots](/bots)
 
 
 # Getting the Details
