@@ -1,4 +1,4 @@
-<!-- TITLE: Zuhause -->
+<!-- TITLE: German - Home -->
 <!-- SUBTITLE: Willkommen beim Discord Wiki! -->
 
 # Willkommen
