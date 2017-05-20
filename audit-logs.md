@@ -1,7 +1,7 @@
 <!-- TITLE:Audit Logs -->
 <!-- SUBTITLE: Discord Audit Logs -->
 
-Ever wonder who created a new channel on your server? Or who the person who banned a troublesome user was? Well, have no fear, audit logs are here to tell you who did what on your servers! Audit Logs are saved for 90 days.
+Ever wonder who created a new channel on your server? Or who the person who banned a troublesome user was? Well, have no fear, audit logs are here to tell you who did what on your servers!
 
 # Find Audit Logs
 So, where can you find Audit Logs? Inside the [server settings](/server-settings), there's a tab labeled Audit Logs.
