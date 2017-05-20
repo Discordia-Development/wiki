@@ -1,4 +1,4 @@
-<!-- TITLE: Página Principal -->
+<!-- TITLE: Spanish - Página Principal -->
 <!-- SUBTITLE: ¡Bienvenidos a The Discord Wiki! -->
 
 # Bienvenidos
