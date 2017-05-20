@@ -1,4 +1,4 @@
-<!-- TITLE: da -->
+<!-- TITLE: Danish - Forside -->
 <!-- SUBTITLE: Welcome to The Discord Wiki! -->
 
 # Welcome
