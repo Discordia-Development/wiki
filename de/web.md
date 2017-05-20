@@ -6,7 +6,7 @@ Discord hat eine Web-App, die es ermöglicht, auf den Dienst zuzugreifen, ohne e
 Nicht alle Funktionen sind auf der Web-Version von Discord verfügbar, daher wird empfohlen, dass Sie die heruntergeladene Anwendung verwenden, wenn möglich.
 
 ## Web Canary
-Es gibt eine Web-Version von [Discord Canary](/canary), auf die zugegriffen werden kann, indem Sie auf https://canary.discordapp.com gehen. Allerdings ist dies eine **nicht unterstützte Version von Discord**.
+Es gibt eine Web-Version von [Discord Canary](/de/canary), auf die zugegriffen werden kann, indem Sie auf https://canary.discordapp.com gehen. Allerdings ist dies eine **nicht unterstützte Version von Discord**.
 
 ## Web-PTB
 Es gibt eine Web-Version des [Discord Public Test Build](/ptb), auf die zugegriffen werden kann, indem man auf https://ptb.discordapp.com geht. Allerdings ist dies eine **nicht unterstützte Version von Discord**.
