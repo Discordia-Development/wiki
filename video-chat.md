@@ -1,4 +1,4 @@
-Video chat is a currently developed and unreleased feature which will users to transmit video from their camera to other Discord users. Also developed with this is [Screensharing](/screensharing).
+Video chat is a currently developed and unreleased feature which will users to transmit video from their camera to other Discord users. Along with video chat, [screensharing](/screensharing) is also being developed.
 
 # Status
 Video Chat is currently in the **internal testing** phase.
