@@ -39,14 +39,18 @@ These are the members currently tasked with i18n.
 *This list will be edited and maintained by me or translators after adding the translation.*
 ### German
 Translated:
-* Home
-* Privacy policy
+* [Home](/de)
+* [Privacy policy](/de/Datenschutzbestimmungen)
+* [Text-To-Speech](/de/tts)
+* [Discord Web](/de/web)
+* [Discord Canary](/de/canary)
+* [User Settings](/de/benutzereinstellungen)
 
 Partially completed:
 * Wumpus
+* ToS
 
 To-Do:
-* ToS
 
 ### Dutch
 Translated:
@@ -54,7 +58,6 @@ Translated:
 * Nitro
 
 Partially completed:
-
 
 To-Do:
 * ToS
