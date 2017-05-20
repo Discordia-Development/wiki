@@ -51,9 +51,10 @@ To-Do:
 ### Dutch
 Translated:
 * Home (needs second opinion)
+* Nitro
 
 Partially completed:
-* Nitro
+
 
 To-Do:
 * ToS
