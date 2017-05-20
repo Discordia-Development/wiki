@@ -9,20 +9,20 @@ Nitro was gelanceerd als test in Australië op 22 december, 2016 en wereldwijd o
 Nitro kan aan worden geschaft voor een maandelijks bedrag van $4,99 of jaarlijks voor een bedrag van $49,99. Bij de aanschaf van het jaarlijks abonnement wordt twee maanden gratis meegeleverd.
 
 # Functies
-A Discord Nitro subscription gives users access to the following features:
+Een Discord Nitro abonnement geeft gebruikers de volgende functies:
 
-* GIF Avatar.
-* Ability to use custom emoji anywhere (if the User has the Use External Emojis permission in that server).
-* Max upload size changed from 8mb to 50mb.
-* Discord Nitro [badge](/badges) on profile.
+* GIF Profielfoto.
+* Mogelijkheid om aangepaste emoji's overal te gebruiken(als de gebruiker toestemming heeft voor het gebruik van externe emoji's op een server).
+* Hoger maximum voor het uploaden van bestanden, 50mb in plaats van 8mb.
+* Speciale Discord Nitro [badge](/badges) te zien op de profielpagina.
 
 # Nitro kopen
-To purchase Nitro, click the user settings cog on the bottom left of your screen and click the Nitro tab. Once there, select monthly or yearly, enter your credit or debit card information, then zipcode when prompted. Unfortunatley, Paypal is not supported at the time of publication.
+Om Nitro te kunnen kopen, klik je op de gebruiker instellingen tandwieltje links onder van je scherm en klik op het kopje Nitro. Eenmaal daar aangekomen, maak een keuze tussen maandelijks of jaarlijks, vul je Credit of Debit kaart informatie en postcode wanneer hier om wordt gevraagd. Helaas wordt Paypal niet ondersteund op het moment van schrijven.
 
-# Official Launch Video
+# Officiële Launch Video
 
 [video](https://www.youtube.com/watch?v=psIIWROIvtM){.youtube}
 
 
 # Meer Informatie
-More information can be found on Nitro at http://discordapp.com/nitro or by accessing the Nitro tab on User settings in the client.
+Meer informatie over Nitro kun je vinden op http://discordapp.com/nitro of door te kijken onder Nitro bij instellingen.
