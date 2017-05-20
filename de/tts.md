@@ -1,6 +1,6 @@
 <!-- TITLE: Text zu Sprache -->
 
-Mit Text to Speech (Kurzform TTS) können Sie eine Nachricht an Personen in einem Kanal senden. Um dies zu tun, führen Sie den Befehl `/ tts <MESSAGE>` in dem Kanal aus, in dem die Nachricht gesender werden soll. Dies verwendet immer die System-TTS-Engine, daher klingt es auf jedem Gerät anders.
+Mit Text zu Sprache (Kurzform TTS) können Sie eine Nachricht an Personen in einem Kanal senden. Um dies zu tun, führen Sie den Befehl `/ tts <MESSAGE>` in dem Kanal aus, in dem die Nachricht gesender werden soll. Dies verwendet immer die System-TTS-Engine, daher klingt es auf jedem Gerät anders.
 
 # Einstellungen
 Sie können in Ihren Benutzereinstellungen unter Benachrichtigungen> Text-to-Speech-Benachrichtigungen wählen, TTS-Benachrichtigungen zu erhalten und welche empfangen werden sollen. Es bestehen die Möglichkeiten:
