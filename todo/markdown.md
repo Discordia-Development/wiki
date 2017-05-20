@@ -31,6 +31,8 @@ This would make the text appear as:
 
 IMAGERY
 
+## Inline Code Blocks
+Using one backtick (\`) you can create an inline code block. They don't take up a line on their own compared to Code Blocks themselves. You can't style them though.
 ## Code block formatting
 surround text with three backticks (\`\`\`), if you want colored text followed by a Highlight.js language ID)
 
