@@ -12,17 +12,17 @@ Nitro puede ser comprado mensual por USD$4.99 o anual por USD$49.99. El comprar 
 Una suscripción Discord Nitro da acceso a los usuarios a las siguientes características:
 
 * Avatar de GIF.
-* Ability to use custom emoji anywhere (if the User has the Use External Emojis permission in that server).
-* Max upload size changed from 8mb to 50mb.
-* Discord Nitro [badge](/badges) on profile.
+* Capacidad para usar emoji personalizado en cualquier lugar (si el usuario tiene el permiso Usar Emoji Externo en ese servidor).
+* Tamaño máximo de carga cambiado de 8mb a 50mb.
+* [Insignia](/insignias) de Discord Nitro en perfil.
 
-# Purchasing Nitro
-To purchase Nitro, click the user settings cog on the bottom left of your screen and click the Nitro tab. Once there, select monthly or yearly, enter your credit or debit card information, then zipcode when prompted. Unfortunatley, Paypal is not supported at the time of publication.
+# Comprando Nitro
+A compra Nitro, haga clic en el engranaje de ajustes de usuario en la parte inferior izquierda de la pantalla y haga clic en la pestaña Nitro. Una vez allí, seleccione mensual o anualmente, ingrese su información de tarjeta de crédito o débito, luego zipcode cuando se le pida. Desafortunadamente, Paypal no está soportado en el momento de la publicación.
 
-# Official Launch Video
+# Vídeo de Lanzamiento Oficial (en Ingles)
 
-[video](https://www.youtube.com/watch?v=psIIWROIvtM){.youtube}
+[vídeo](https://www.youtube.com/watch?v=psIIWROIvtM){.youtube}
 
 
-# More Information
-More information can be found on Nitro at http://discordapp.com/nitro or by accessing the Nitro tab on User settings in the client.
+# Más Información
+Puede encontrar más información sobre Nitro en http://discordapp.com/nitro o accediendo a la pestaña Nitro en Ajustes de usuario en el cliente.
