@@ -12,7 +12,7 @@
 * [Discord Resources](/resources) <!--resources;dresources-->
 * [Discord Stable](/stable) <!--stable;dstable;download-->
 * [Discord Web](/web) <!--web;browser;web version-->
-* [Discord WikiBot](/wikibot)<!--wikibot-->
+* [Discord WikiBot](/wikibot)<!--wikibot;wiki bot-->
 * [Discriminators](/discriminator) <!--discrim;discriminator;discordtag-->
 * [Easter Eggs](/easter-eggs) <!--easter;eastereggs;konami;easteregg;easter egg-->
 * [Emoji](/emoji) <!--emote;emotes;emojis;emoticons;emoticon;smileys-->
