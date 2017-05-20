@@ -23,7 +23,7 @@ The main, most discussed, upcoming features are screen sharing, video calling, a
 
 ### iOS
 * Server Sorting: Planned
-* Mobile Emojoi Picker: Planned
+* Mobile Emoji Picker: Planned
 * Chat Rewrite: Planned
 * Share on Discord: Planned
 * 3D Touch Support: Planned
