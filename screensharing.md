@@ -4,7 +4,7 @@
 Screensharing is an unreleased feature which will allow the user to capture and transmit their screen content to other discord users. Also developed at the same time is Video Chat.
 
 # Status
-The current Status of Screensharing is **Internal Testing**.
+The current status of Screensharing is **Internal Testing**.
 # Limitations
 Screensharing will probably only be available in the Desktop version of Discord, as neither the web version nor the mobile versions have the necessary ingredients to access the screen content. Also it will only be released to [Group DMs and DMs](/direct-messages) as they won't go over a server though instead will use a P2P connection between Users.
 
