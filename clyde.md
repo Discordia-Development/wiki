@@ -1,5 +1,5 @@
 <!-- TITLE:Clyde -->
-<!-- SUBTITLE: The Discord Bot -->
+<!-- SUBTITLE:The Discord Bot -->
 
 Clyde is a chat bot notifying you if you are attempting to do unsupported operations. He reports to you in different scenarios, e.g. changing your nickname, attempting to use server-specific emotes in different guilds or direct messages without Nitro, sending a Message to a user who blocked you, etc. His ID is 1, and his pings (<@1>) only transform into @Clyde if you have summoned his messages at least once in the current session. He is also known as the Discord Ghost. 
 
