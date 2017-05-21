@@ -9,34 +9,33 @@ The main, most discussed, upcoming features are screen sharing, video calling, a
 > Note: This is not a full list of features Discord is working on, nor is it in any specific order. The features will release whenever Discord feels like they're ready.
 
 ## Desktop
-* Block quotes: Planned
-* Enhanced Tableflip Verification Level: In Development
-* Report Button: Rolling out
-* Screensharing & Video Calling: Internal Testing
-* Subchannels: Planned
-* Audit Logs: Available for everyone!
-* Permissions Preview Tool: Planned
-* Spellcheck: Planned
-* Windows Icon Badge: Planned
-* Blockquote: Planned
-* Settings UI Rework: Available for everyone!
+
+Feature	Status
+Block quotes	Planned
+Enhanced Table Flip Verification Level	In Development
+Report Button	Gradually Rolling Out
+Screen Sharing & Video Calling	In Internal Testing
+Spellcheck	Planned
+Subchannels	Planned
+Windows Icon Badge	Planned
 
 ## iOS
-* Server Sorting: Planned
-* Mobile Emoji Picker: Planned
-* Chat Rewrite: Planned
-* Share on Discord: Planned
-* 3D Touch Support: Planned
-* Rich Push Notifications: Planned
-* Custom Keyboard: Planned
-* Security Compatability: Planned
+Feature	Status
+3D Touch Support	Planned
+Chat Rewrite	Planned
+Custom Keyboard	Planned
+Mobile Emoji Picker	Planned
+Rich Push Notifications	Planned
+Security Compatibility	Planned
+Server Sorting	Planned
+Share on Discord	Planned
 
 ## Android
-* Adding Reactions: Available on Android Alpha
-* Infinite Scrolling: Planned
-* User Settings: Planned
-* Security Compatability: Planned
-* Security Tab/2FA Enable/Disable: Planned
-* Emoji Picker: Available to everyone!
+Feature	Status
+Adding Reactions	Available in Android Alhpa
+Channel Settings	Planned
+Infinite Scrolling	Planned
+Security Tab/2FA Enable/Disable	Planned
+User Settings	In Development
 
 > Disclaimer: These are unreleased features and they might change before they are released to Canary/Android Alpha/TestFlight users. They might not be released at all, and  ETAs are not available.
