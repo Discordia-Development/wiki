@@ -4,7 +4,7 @@
 # Velkommen
 ## Om os
 
-We're a small team of Discord enthusiasts, aiming to raise awareness of a great text and voice chat platform, [Discord](https://discordapp.com).
+Vi er et lille hold af Discord entusiaster, der sigter efter at øge kendskabet til en fantastisk tekst og stemme chat-platform, [Discord](https://discordapp.com).
 
 [Join us on Discord!](https://discord.gg/WHz5r3N)
 
