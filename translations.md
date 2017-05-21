@@ -106,11 +106,11 @@ To-Do:
 
 ### Danish
 Translated:
+* [Home](/da)
 
 Partially completed:
 
 To-Do:
-* Home
 * ToS
 * Privacy policy
 
