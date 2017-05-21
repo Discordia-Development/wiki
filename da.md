@@ -1,5 +1,5 @@
 <!-- TITLE: Danish - Startside -->
-<!-- SUBTITLE: Velkommen til Discord Wikien! -->
+<!-- SUBTITLE: Velkommen til Discord Wiki! -->
 
 # Velkommen
 ## Om os
