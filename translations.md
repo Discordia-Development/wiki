@@ -112,7 +112,7 @@ Translated:
 Partially completed:
 
 To-Do:
-* ToS
+* Terms of Service
 * Privacy policy
 
 *Currently we mainly need the home page, the TOS and the privacy policy translated. These should be as accurately translated as possible.*
