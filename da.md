@@ -37,8 +37,8 @@ Vi er et lille hold af Discord entusiaster, der sigter efter at øge kendskabet 
 * @HyperCoder#2975
 * @Tiemen#0107
 
-## The Discord Wiki Edit Request Form and Wiki Editor Applications
-### These are different Google Forms that allow one to edit The Wiki
+## Discord Wiki formular til ændringsforslag og Wiki Redaktør anmodningsformular
+### Disse er forskellige Google Formularer der tillader én at redigere Wikien
 
 [Indsend et ændringsforslag her!](https://goo.gl/forms/tXAUTq1uWNd5UJo43)
 
