@@ -20,7 +20,7 @@ Vi er et lille hold af Discord entusiaster, der sigter efter at øge kendskabet 
 * @Mikesky#3456
 * @西木野真姫★★★★#9667
 
-> ***[Internationalization (i18n)](http://discordia.me/translations)***
+> ***[Internationalisering  (i18n)](http://discordia.me/translations)***
 
 * @asli#2772
 * @Daan#3356
@@ -31,9 +31,9 @@ Vi er et lille hold af Discord entusiaster, der sigter efter at øge kendskabet 
 * @Thereatra#3564
 * @LW001#8654
 
-> ***Bot Developers***
+> ***Bot Udviklere***
 
-*Contributed to the Discord WikiBot.*
+*Har bidraget Discord WikiBot.*
 * @HyperCoder#2975
 * @Tiemen#0107
 
