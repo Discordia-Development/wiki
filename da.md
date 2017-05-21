@@ -21,7 +21,6 @@ Vi er et lille hold af Discord entusiaster, der sigter efter at øge kendskabet 
 * @西木野真姫★★★★#9667
 
 > ***Internationalization (i18n)***
-
 * @asli#2772
 * @Daan#3356
 * @Gerd#0525
