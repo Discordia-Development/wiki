@@ -33,7 +33,7 @@ Vi er et lille hold af Discord entusiaster, der sigter efter at øge kendskabet 
 
 > ***Bot Udviklere***
 
-*Har bidraget Discord WikiBot.*
+*Har bidraget til Discord WikiBot.*
 * @HyperCoder#2975
 * @Tiemen#0107
 
