@@ -40,9 +40,9 @@ Vi er et lille hold af Discord entusiaster, der sigter efter at øge kendskabet 
 ## The Discord Wiki Edit Request Form and Wiki Editor Applications
 ### These are different Google Forms that allow one to edit The Wiki
 
-[Submit an Edit Request Here!](https://goo.gl/forms/tXAUTq1uWNd5UJo43)
+[Indsend et ændringsforslag her!](https://goo.gl/forms/tXAUTq1uWNd5UJo43)
 
-[Apply to Become a Wiki Editor Here!](https://goo.gl/forms/acaEgDcB2wLvAyUs1)
+[Ansøg om at blive Wiki Redaktør!](https://goo.gl/forms/acaEgDcB2wLvAyUs1)
 ## Disclaimers and Legal Information
 Hey there! Welcome to The Discord Wiki! We're strong believers in transparency, so before you jump in, please take a look at our [Terms of Service](/da/servicevilkar) and our [Privacy Policy](/da/privatlivspolitik) in order for you to know all the legal stuff you need to know regarding our services!
 
