@@ -8,7 +8,7 @@ The main, most discussed, upcoming features are screen sharing, video calling, a
 
 > Note: This is not a full list of features Discord is working on, nor is it in any specific order. The features will release whenever Discord feels like they're ready.
 
-### Desktop
+## Desktop
 * Block quotes: Planned
 * Enhanced Tableflip Verification Level: In Development
 * Report Button: Rolling out
@@ -21,7 +21,7 @@ The main, most discussed, upcoming features are screen sharing, video calling, a
 * Blockquote: Planned
 * Settings UI Rework: Available for everyone!
 
-### iOS
+## iOS
 * Server Sorting: Planned
 * Mobile Emoji Picker: Planned
 * Chat Rewrite: Planned
@@ -31,7 +31,7 @@ The main, most discussed, upcoming features are screen sharing, video calling, a
 * Custom Keyboard: Planned
 * Security Compatability: Planned
 
-### Android
+## Android
 * Adding Reactions: Available on Android Alpha
 * Infinite Scrolling: Planned
 * User Settings: Planned
