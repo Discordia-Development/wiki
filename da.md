@@ -6,7 +6,8 @@
 
 Vi er et lille hold af Discord entusiaster, der sigter efter at øge kendskabet til en fantastisk tekst og stemme chat-platform, [Discord](https://discordapp.com).
 
-[Slut dig til os på Discord!](https://discord.gg/WHz5r3N)  
+[Slut dig til os på Discord!](https://discord.gg/WHz5r3N)
+
 <a href="https://discord.gg/WHz5r3N">![DISCORD EMBED PLUGIN](https://discordapp.com/api/guilds/268800390961561601/widget.png?style=banner2)</a>
 
 ## Editorial Staff
