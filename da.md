@@ -43,7 +43,7 @@ Vi er et lille hold af Discord entusiaster, der sigter efter at øge kendskabet 
 [Indsend et ændringsforslag her!](https://goo.gl/forms/tXAUTq1uWNd5UJo43)
 
 [Ansøg om at blive Wiki Redaktør!](https://goo.gl/forms/acaEgDcB2wLvAyUs1)
-## Disclaimers and Legal Information
-Hey there! Welcome to The Discord Wiki! We're strong believers in transparency, so before you jump in, please take a look at our [Terms of Service](/da/servicevilkar) and our [Privacy Policy](/da/privatlivspolitik) in order for you to know all the legal stuff you need to know regarding our services!
+## Ansvarsfraskrivelse og juridiske oplysninger
+Hej! Velkommen til Discord Wikien! Vi er store tilhængere af gennemsigtighed, så inden du går i gang, tag venligst at kigge på vores [Servicevilkår](/da/servicevilkar) og [Privatlivspolitik](/da/privatlivspolitik) sådan, at du er afklaret med alle de juridiske aspekter vedrørende vores tjenester!
 
 ### ***Discord, the Discord Ghost (Clyde™), and Discordapp (Herein DISCORD) are the intellectual and legal property of Discord Inc. These Services, as listed in the [Terms of Service](/terms) are not affiliated with Discord Inc or any subsidiaries herein. The Discord Wiki does not claim to own any of DISCORD's intellectual property, please don't sue us.***
