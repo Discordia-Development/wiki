@@ -1,8 +1,8 @@
-<!-- TITLE: Danish - Forside -->
-<!-- SUBTITLE: Welcome to The Discord Wiki! -->
+<!-- TITLE: Danish - Startside -->
+<!-- SUBTITLE: Velkommen til Discord Wikien! -->
 
-# Welcome
-## About us
+# Velkommen
+## Om os
 
 We're a small team of Discord enthusiasts, aiming to raise awareness of a great text and voice chat platform, [Discord](https://discordapp.com).
 
