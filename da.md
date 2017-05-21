@@ -8,19 +8,19 @@ Vi er et lille hold af Discord entusiaster, der sigter efter at øge kendskabet 
 
 [Slut dig til os på Discord!](https://discord.gg/WHz5r3N)
 
-<a href="https://discord.gg/WHz5r3N">![DISCORD EMBED PLUGI](https://discordapp.com/api/guilds/268800390961561601/widget.png?style=banner2)</a>
+<a href="https://discord.gg/WHz5r3N">![DISCORD EMBED PLUGIN](https://discordapp.com/api/guilds/268800390961561601/widget.png?style=banner2)</a>
 
-## Editorial Staff
-> ***High Council***
+## Redaktionelt personale
+> ***Højeste Råd***
 
-*Responsible for maintaining Discordia and The Discord Wiki (managers).*
+*Ansvarlig for at vedligeholde Discordia og Discord Wikien (Ledere).*
 * @Dru#7700
 * @Harrison#9100
 * @Tiemen#0107
 * @Mikesky#3456
 * @西木野真姫★★★★#9667
 
-> ***Internationalization (i18n)***
+> ***[Internationalization (i18n)](http://discordia.me/translations)***
 
 * @asli#2772
 * @Daan#3356
