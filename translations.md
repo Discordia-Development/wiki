@@ -37,6 +37,7 @@ These are the members currently tasked with i18n.
 
 ## Translated pages by language
 *This list will be edited and maintained by me or translators after adding the translation.*
+
 ### German
 Translated:
 * [Home](/de)
