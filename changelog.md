@@ -3,9 +3,12 @@
 
 This is the changelog/release date for major features or significant changes. PTB and Canary might have received some features sooner than the date listed below.
 
-# 04/26/2017
-* Report button.
-* NSFW Channel Indicator.
+# 05/03/2017
+Full changelog [here](https://blog.discordapp.com/5-3-17-change-log-a9239d5321dd)
+
+* Audit Logs
+* New Settings UI
+* NSFW Channels
 
 
 # 03/30/2017
