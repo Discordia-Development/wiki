@@ -22,4 +22,4 @@ These slash commands are only available on the Desktop and iOS apps. Unfortunate
 * `/gamerescape <search query>` : Searches Gamer Escape's **Final Fantasy XIV** wiki and embeds a link to a page.
 * `/xivdb <search query>` : Searches **XIVDB's** database and embeds a link to any in-game content.
 
-> When `<somethign>` is used, it's indicative that you can put any string in there, excluding the `<>`. Aka it's a "placeholder".
+> When `<something>` is used, it's indicative that you can put any string in there, excluding the `<>`. Aka it's a "placeholder".
