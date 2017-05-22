@@ -1,7 +1,7 @@
 <!-- TITLE: Bug Hunters -->
 <!-- SUBTITLE: Helping Discord Developers manage Bug Reports and fix Bugs -->
 # Bug Hunters
-Bug Hunters are an elite group of Discord users who have successfully found bugs with Discord on any client and had it reproduced by three users. They help the Discord developers to learn about bugs and fix them.
+Bug Hunters are an elite group of Discord users who have successfully found bugs with Discord on any client and had it reproduced by three users lead by [Dabb](https://cdn.discordapp.com/attachments/309775070065328131/316330589634560020/DabbitDab.gif)it Prime. They help the Discord developers to learn about bugs and fix them.
 
 Every day, they get on Discord and continue to search and verify other bugs that other users have reported. They use [Discord Canary](/canary), and work hard every day to help new users find bugs, check if they're a duplicate of already reported bugs, and sometimes help others format their report.
 ## Become a Bug Hunter!
