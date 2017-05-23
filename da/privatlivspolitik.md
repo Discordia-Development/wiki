@@ -2,7 +2,7 @@
 <!-- SUBTITLE: Privatlivspolitikken for alle Tjenester leveret af Discord Wiki -->
 
 # Indledning
-Hos Discord Wiki indsamler og administrere vi brugerdata i henhold til den følgende Privatlivspolitik, med det formål at inkorporere vores virksomhedsværdier: gennemsigtighed, tilgængelighed, fornuft og anvendelighed. Dette dokument er en del af Discord Wikis [Servicevilkår](/da/servicevilkar) og ved brug af https://discordia.me (“Tjenesterne”) acceptere du vilkårene i denne Privatlivspolitik samt [Servicevilkårene](servicevilkar). Læs venligst [Servicevilkårene](da/servicevilkar) i deres helhed og henvis til dem for definitioner og kontakter.
+Hos Discord Wiki indsamler og administrere vi brugerdata i henhold til den følgende Privatlivspolitik, med det formål at inkorporere vores virksomhedsværdier: gennemsigtighed, tilgængelighed, fornuft og anvendelighed. Dette dokument er en del af Discord Wikis [Servicevilkår](/da/servicevilkar) og ved brug af https://discordia.me (“Tjenesterne”) acceptere du vilkårene i denne Privatlivspolitik samt [Servicevilkårene](/da/servicevilkar). Læs venligst [Servicevilkårene](/da/servicevilkar) i deres helhed og henvis til dem for definitioner og kontakter.
 
 # Data Collected
 We collect anonymous data from every visitor of the Services to monitor traffic and fix bugs. For example, we collect information like web requests, the data sent in response to such requests, the Internet Protocol address, the browser type, the browser language, and a timestamp for the request.
