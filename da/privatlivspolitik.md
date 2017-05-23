@@ -1,4 +1,4 @@
-<!-- TITLE: Privatlivspolitik -->
+<!-- TITLE: Privatlivspolitik - WIP-->
 <!-- SUBTITLE: The Privacy Policy for any services provided by The Discord Wiki -->
 
 # Introduction
