@@ -44,6 +44,6 @@ Vi er et lille hold af Discord entusiaster, der sigter efter at øge kendskabet 
 
 [Ansøg om at blive Wiki Redaktør!](https://goo.gl/forms/acaEgDcB2wLvAyUs1)
 ## Ansvarsfraskrivelse og juridiske oplysninger
-Hej! Velkommen til Discord Wikien! Vi er store tilhængere af gennemsigtighed, så inden du går i gang, tag venligst at kigge på vores [Servicevilkår](/da/servicevilkar) og [Privatlivspolitik](/da/privatlivspolitik) sådan, at du er afklaret med alle de juridiske aspekter vedrørende vores tjenester!
+Hej! Velkommen til Discord Wikien! Vi er store tilhængere af gennemsigtighed, så inden du går i gang, tag venligst at kigge på vores [Servicevilkår](/da/servicevilkar) og [Privatlivspolitik](/da/privatlivspolitik) sådan, at du er afklaret med alle de juridiske aspekter vedrørende vores Tjenester!
 
-### ***Discord, Discord spøgelset (Clyde™), og Discordapp (Heri DISCORD) er Discord Inc.’s intellektuelle og juridiske ejendom. Disse Services, som anført i [Servicevilkårene](/da/servicevilkar), er ikke tilknyttet Discord Inc. eller nogen datterselskaber heri. Discord Wiki påstår ikke at eje nogen af DISCORD’s intellektuelle ejendom, undlad venligst at sagsøge os.***
+### ***Discord, Discord spøgelset (Clyde™), og Discordapp (Heri DISCORD) er Discord Inc.’s intellektuelle og juridiske ejendom. Disse Tjenester, som anført i [Servicevilkårene](/da/servicevilkar), er ikke tilknyttet Discord Inc. eller nogen datterselskaber heri. Discord Wiki påstår ikke at eje nogen af DISCORD’s intellektuelle ejendom, undlad venligst at sagsøge os.***
