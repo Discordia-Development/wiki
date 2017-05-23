@@ -2,6 +2,10 @@
 <!-- SUBTITLE: Privatlivspolitikken for alle Tjenester leveret af Discord Wiki -->
 
 # Indledning
+Hos Discord Wiki indsamler og administrere vi brugerdata i henhold til den følgende Privatlivspolitik, med det formål at inkorporere vores virksomhedsværdier: gennemsigtighed, tilgængelighed, fornuft og anvendelighed.
+Dette dokument er en del af Discord Wikis [Servicevilkår](da/servicevilkar) og ved at bruge https://discordia.me (“Tjenesterne”) acceptere du vilkårene i denne Privatlivspolitik og Servicevilkårene.
+Læs venligst Servicevilkårene i deres helhed og henvis til dem for definitioner og kontakter.
+
 At The Discord Wiki, we collect and manage user data according to the following Privacy Policy, with the goal of incorporating our company values: transparency, accessibility, sanity, usability. This document is part of The Discord Wiki's [Terms of Service](https://discordia.me/terms), and by using https://discordia.me (the “Services”), you agree to the terms of this Privacy Policy and the Terms of Service. Please read the Terms of Service in their entirety, and refer to those for definitions and contacts.
 
 # Data Collected
