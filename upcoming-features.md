@@ -37,6 +37,7 @@ The main, most discussed, upcoming features are screen sharing, video calling, a
 |---------------------------------|----------------------------|
 | Adding Reactions                | Available in Android Alpha |
 | Channel Settings                | Planned                    |
+| Compress Image Toggle           | Planned                    |
 | Infinite Scrolling              | Planned                    |
 | Security Tab/2FA Enable/Disable | Planned                    |
 | User Settings                   | In Development             |
