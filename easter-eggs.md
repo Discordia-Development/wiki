@@ -37,3 +37,6 @@ On the Discord [Company Page](https://discordapp.com/company) you can click on t
 When your [search](/search) leads to no results, Discord will sometimes display an "empathy banana" instead of the usual no results dialogue. This is completely random.
 
 ![Banana](/uploads/easter-eggs/banana.png "Banana")
+
+# Computer Man
+Visiting [printer.discordapp.com](https://printer.discordapp.com) will redirect you to a [video clip](https://www.youtube.com/watch?v=jeg_TJvkSjg) from an old Canadian show called Vid Kids. Because of the video's name, it's likely that [jake](https://www.reddit.com/user/ReallyAmused), a discord developer was the one to implement this easter-egg. 
