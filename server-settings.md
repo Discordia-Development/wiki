@@ -43,11 +43,11 @@ This tab allows users with the **Manage Webhooks** permission to create, edit, d
 
 ## Widget
 
-The Widget tab has options for users who have **Manage Server** to edit the widget for the server. Users can enable the widget, and pick a channel for the widget to link to. If no channel is selected, only the online count and voice channels will be shown. A iframe widget is availiable to embed directly onto your website. A JSON API widget is also availiable.
+The Widget tab has options for users who have **Manage Server** to edit the widget for the server. Users can enable the widget, and pick a channel for the widget to link to. If no channel is selected, only the online count and voice channels will be shown. A iframe widget is available to embed directly onto your website. A JSON API widget is also available.
 
 ## Vanity URL
 
-This tab is only availiable to users with **Manage Server**, and only to servers that are partnered. More information about partners can be found [here](/partner), or [here](https://discordapp.com/partners).
+This tab is only available to users with **Manage Server**, and only to servers that are partnered. More information about partners can be found [here](/partner), or [here](https://discordapp.com/partners).
 
 -----
 
