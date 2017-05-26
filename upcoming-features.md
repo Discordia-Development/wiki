@@ -13,8 +13,7 @@ The main, most discussed, upcoming features are screen sharing, video calling, a
 |                Feature                 |        Status         |
 |----------------------------------------|-----------------------|
 | Block quotes                           | Planned               |
-| Enhanced Table Flip Verification Level | Oddly released        |
-                                           to Android Beta       
+| Enhanced Table Flip Verification Level | Oddly released        |   
 | Report Button                          | Gradually Rolling Out |
 | Screen Sharing & Video Calling         | In Internal Testing   |
 | Spellcheck                             | Planned               |
