@@ -10,15 +10,15 @@ The main, most discussed, upcoming features are screen sharing, video calling, a
 
 ## Desktop
 
-|                Feature                 |        Status         |
-|----------------------------------------|-----------------------|
-| Block quotes                           | Planned               |
-| Enhanced Table Flip Verification Level | In Development        |   
-| Report Button                          | Gradually Rolling Out |
-| Screen Sharing & Video Calling         | In Internal Testing   |
-| Spellcheck                             | Planned               |
-| Subchannels                            | Planned               |
-| Windows Icon Badge                     | Planned               |
+|													Feature															|				Status					|
+|-------------------------------------------------------------|-----------------------|
+| Block quotes																								| Planned								|
+| Enhanced Table Flip Verification Level											| In Development				|   
+| Report button																								| Gradually Rolling Out	|
+| [Screensharing](/screensharing) & [Video Chat](/video-chat)	| In Internal Testing		|
+| Spellcheck																									| Planned								|
+| Subchannels																									| Planned								|
+| Windows Icon Badge																					| Planned								|
 
 ## iOS
 |         Feature         | Status  |
@@ -39,6 +39,7 @@ The main, most discussed, upcoming features are screen sharing, video calling, a
 | Channel Settings                | Planned                    |
 | Compress Image Toggle           | Planned                    |
 | Infinite Scrolling              | Planned                    |
+| Security Compatibility          | Planned                    |
 | Security Tab/2FA Enable/Disable | Planned                    |
 | User Settings                   | In Development             |
 
