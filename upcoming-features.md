@@ -21,26 +21,27 @@ The main, most discussed, upcoming features are screen sharing, video calling, a
 | Windows Icon Badge																					| Planned								|
 
 ## iOS
-|         Feature         | Status  |
+|					Feature					| Status	|
 |-------------------------|---------|
-| 3D Touch Support        | Planned |
-| Chat Rewrite            | Planned |
-| Custom Keyboard         | Planned |
-| Mobile Emoji Picker     | Planned |
-| Rich Push Notifications | Planned |
-| Security Compatibility  | Planned |
-| Server Sorting          | Planned |
-| Share on Discord        | Planned |
+| 3D Touch Support				| Planned |
+| Chat Rewrite						| Planned |
+| Custom Keyboard					| Planned |
+| Mobile Emoji Picker			| Planned |
+| Rich Push Notifications	| Planned |
+| Security Compatibility	| Planned |
+| Server Sorting					| Planned |
+| Share on Discord				| Planned |
 
 ## Android
-|             Feature             |           Status           |
-|---------------------------------|----------------------------|
-| Adding Reactions                | Available in Android Alpha |
-| Channel Settings                | Planned                    |
-| Compress Image Toggle           | Planned                    |
-| Infinite Scrolling              | Planned                    |
-| Security Compatibility          | Planned                    |
-| Security Tab/2FA Enable/Disable | Planned                    |
-| User Settings                   | In Development             |
+|								Feature										|						Status						|
+|-----------------------------------------|-----------------------------|
+| Adding Reactions												| Available in Android Alpha	|
+| Channel Settings												| Planned											|
+| Compress Image Toggle										| Planned											|
+| Enhanced Table Flip Verification Level	| Available in Android Beta		|
+| Infinite Scrolling											| Planned											|
+| Security Compatibility									| Planned											|
+| Security Tab/2FA Enable/Disable					| Planned											|
+| User Settings														| In Development							|
 
 > Disclaimer: These are unreleased features and they might change before they are released to Canary/Android Alpha/TestFlight users. They might not be released at all, and  ETAs are not available.
