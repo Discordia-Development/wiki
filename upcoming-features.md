@@ -13,7 +13,7 @@ The main, most discussed, upcoming features are screen sharing, video calling, a
 |													Feature															|				Status					|
 |-------------------------------------------------------------|-----------------------|
 | Block quotes																								| Planned								|
-| Enhanced Table Flip Verification Level											| In Development				|   
+| Enhanced Table Flip Verification Level											| Available in Canary		|   
 | Report button																								| Gradually Rolling Out	|
 | [Screensharing](/screensharing) & [Video Chat](/video-chat)	| In Internal Testing		|
 | Spellcheck																									| Planned								|
