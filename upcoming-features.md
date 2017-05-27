@@ -4,7 +4,7 @@
 # Upcoming Features
 This is a list of features that will occasionally updated with information about upcoming features that will exist in the future on Discord, whether it be Desktop, Android, or iOS. The features listed on here are currently in development or in internal testing unless stated otherwise.
 
-The main, most discussed, upcoming features are screen sharing, video calling, and the report button.
+The main, most discussed, upcoming features are screen sharing and video calling, channel categories, and the report button.
 
 > Note: This is not a full list of features Discord is working on, nor is it in any specific order. The features will release whenever Discord feels like they're ready.
 
@@ -13,11 +13,11 @@ The main, most discussed, upcoming features are screen sharing, video calling, a
 |													Feature															|				Status					|
 |-------------------------------------------------------------|-----------------------|
 | Block quotes																								| Planned								|
-| Enhanced Table Flip Verification Level											| Available in Canary		|   
+| Channel Categories																					| In Development				|
+| Permissions Preview Tool																		| Planned								|
 | Report button																								| Gradually Rolling Out	|
 | [Screensharing](/screensharing) & [Video Chat](/video-chat)	| In Internal Testing		|
 | Spellcheck																									| Planned								|
-| Subchannels																									| In Development				|
 | Windows Icon Badge																					| Planned								|
 
 ## iOS
