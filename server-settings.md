@@ -10,14 +10,15 @@ Within the Overview tab, users with the **Manage Server** permission can change 
 The Default Notification settings are also in this tab, and include **All messages** or **Only @mentions.** **Only @Mentions** being enabled is recommended for public Discord servers.
 
 ## Moderation
-Inside of the Moderation tab, the **Verification Level** and **Explicit Content Filter** can be changed. A server owner can also enable [**Server Two-Factor Authentication**](/2fa) from here.
+Inside of the Moderation tab, the **Verification Level** and **Explicit Content Filter** can be changed. A server owner can also enable **[Server Two-Factor Authentication](/2fa)** from here.
 
-Verification levels include:
-* Low - A user must have a verified email on their Discord account.
-* Medium - In addition to Low, must be registered for more than 5 minutes. 
-* (╯°□°）╯︵ ┻━┻ - In addition to Low and Medium, must be in the server for 10 minutes.
+### Verification levels include:
+* **Low** - A user must have a verified email on their Discord account.
+* **Mediu**m - In addition to Low, must be registered for more than 5 minutes. 
+* **(╯°□°）╯︵ ┻━┻** - In addition to Low and Medium, must be in the server for 10 minutes.
+* **┻━┻ ﾐヽ(ಠ益ಠ)ノ彡┻━┻** - In addition to Low, Medium and Tableflip, must have a verified phone number on their Discord account.
 
-Explicit Content Filter settings include:
+### Explicit Content Filter settings include:
 
 * Don't scan any messages.
 * Scan messages from users without a role.
