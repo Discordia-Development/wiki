@@ -17,7 +17,7 @@ The main, most discussed, upcoming features are screen sharing, video calling, a
 | Report button																								| Gradually Rolling Out	|
 | [Screensharing](/screensharing) & [Video Chat](/video-chat)	| In Internal Testing		|
 | Spellcheck																									| Planned								|
-| Subchannels																									| Planned								|
+| Subchannels																									| In Development				|
 | Windows Icon Badge																					| Planned								|
 
 ## iOS
