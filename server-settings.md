@@ -14,7 +14,7 @@ Inside of the Moderation tab, the **Verification Level** and **Explicit Content 
 
 ### Verification levels include:
 * **Low** - A user must have a verified email on their Discord account.
-* **Mediu**m - In addition to Low, must be registered for more than 5 minutes. 
+* **Medium** - In addition to Low, must be registered for more than 5 minutes. 
 * **(╯°□°）╯︵ ┻━┻** - In addition to Low and Medium, must be in the server for 10 minutes.
 * **┻━┻ ﾐヽ(ಠ益ಠ)ノ彡┻━┻** - In addition to Low, Medium and Tableflip, must have a verified phone number on their Discord account.
 
@@ -49,8 +49,6 @@ The Widget tab has options for users who have **Manage Server** to edit the widg
 ## Vanity URL
 
 This tab is only available to users with **Manage Server**, and only to servers that are partnered. More information about partners can be found [here](/partner), or [here](https://discordapp.com/partners).
-
------
 
 ## Members
 
