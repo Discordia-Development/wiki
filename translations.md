@@ -17,6 +17,7 @@ These are the members currently tasked with i18n.
 
 ### Dutch [NL]
 * Daan#3356
+* LordOfTheUndead#7915
 
 ### Spanish [ES]
 * Gallium#1327
