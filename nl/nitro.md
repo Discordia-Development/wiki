@@ -1,6 +1,6 @@
 <!-- TITLE: Nitro -->
 
-![Nitrobadge](/uploads/nitro/nitrobadge.png "Nitrobadge")
+![Nitro badge](/uploads/nitro/nitrobadge.png "Nitrobadge")
 
 Discord Nitro is een betaald abonnement voor Discord die gebruikers toegang geeft tot premium services.
 
@@ -8,7 +8,7 @@ Nitro was gelanceerd als test in Australië op 22 december, 2016 en wereldwijd o
 
 Nitro kan aan worden geschaft voor een maandelijks bedrag van $4,99 of jaarlijks voor een bedrag van $49,99. Bij de aanschaf van het jaarlijks abonnement wordt twee maanden gratis meegeleverd.
 
-# Functies
+# Voordelen
 Een Discord Nitro abonnement geeft gebruikers de volgende functies:
 
 * GIF Profielfoto.
@@ -17,7 +17,7 @@ Een Discord Nitro abonnement geeft gebruikers de volgende functies:
 * Speciale Discord Nitro [badge](/badges) te zien op de profielpagina.
 
 # Nitro kopen
-Om Nitro te kunnen kopen, klik je op de gebruiker instellingen tandwieltje links onder van je scherm en klik op het kopje Nitro. Eenmaal daar aangekomen, maak een keuze tussen maandelijks of jaarlijks, vul je Credit of Debit kaart informatie en postcode wanneer hier om wordt gevraagd. Helaas wordt Paypal niet ondersteund op het moment van schrijven.
+Om Nitro te kunnen kopen, klik je op de gebruiker instellingen tandwieltje links onder van je scherm en klik op het kopje Nitro. Eenmaal daar aangekomen, maak een keuze tussen maandelijks of jaarlijks, vul je Credit of Debit kaart informatie en postcode wanneer hier om wordt gevraagd. Helaas wordt PayPal niet ondersteund op het moment van schrijven.
 
 # Officiële Launch Video
 
