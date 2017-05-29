@@ -30,6 +30,7 @@ We're a small team of Discord enthusiasts, aiming to raise awareness of a great 
 * @DaFri_Nochiterov#4289
 * @Thereatra#3564
 * @LW001#8654
+* @LordOfTheUndead#7915
 
 > ***Bot Developers***
 
