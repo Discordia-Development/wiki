@@ -38,12 +38,6 @@ We're a small team of Discord enthusiasts, aiming to raise awareness of a great 
 * @HyperCoder#2975
 * @Tiemen#0107
 
-## The Discord Wiki Edit Request Form and Wiki Editor Applications
-### These are different Google Forms that allow one to edit The Wiki
-
-[Submit an Edit Request Here!](https://goo.gl/forms/tXAUTq1uWNd5UJo43)
-
-[Apply to Become a Wiki Editor Here!](https://goo.gl/forms/acaEgDcB2wLvAyUs1)
 ## Disclaimers and Legal Information
 Hey there! Welcome to The Discord Wiki! We're strong believers in transparency, so before you jump in, please take a look at our [Terms of Service](/terms) and our [Privacy Policy](/privacy) in order for you to know all the legal stuff you need to know regarding our services!
 
