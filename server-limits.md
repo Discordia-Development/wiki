@@ -11,3 +11,13 @@ This pages attempts to list the various "limitations" imposed upon servers in Di
 - A server can have *at most* **100 channels** - both text and voice combined. Once 100 channels are reached, no more channels can be created.
 - A server can have *at most* **250 roles**. 
 - A server can have *at most* **50 custom emoji**. 
+
+# Other Limits
+- Message limit: 2000 characters (note: user/channel/role mentions and emojis contain a lot more characters than what they actually are!)
+- TTS message limit: 200 characters
+- Pinned messages limit: 50 messages
+- Maximum attachment size: 8 MB (or 8388608 bytes to be exact)
+- Maximum attachment size with Nitro: 50 MB (or 52428800 bytes to be exact)
+- Minimum time for idling: 10 minutes
+
+
