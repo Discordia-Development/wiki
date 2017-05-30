@@ -4,7 +4,7 @@
 # Discriminator
 A discriminator is the number displayed next to someone's username on Discord. Discriminators are how Discord differentiates between users with the same username.
 
-![Discrim](/uploads/discriminator/discrim.png "Discrim")
+![Discriminator Example](/uploads/discriminator-example.png "Discriminator Example")
 
 Discriminators range from 0001 to 9999 and are randomly assigned. Two users with the same username may not have the same discriminator and if you change your username to something where a user with that name already has your discriminator, your discriminator will automatically change itself.
 
