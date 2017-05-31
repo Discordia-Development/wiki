@@ -18,12 +18,14 @@ One example of the clickable objects is the question-box towards the top of the 
 In ultra-rare cases, users will receive a remixed version of the incoming call ringtone during either a group or two-person voice call. If a user receives the remixed ringtone, it will play for the whole duration of the call instead of ending when the user joins the call. According to Discord staff, this is the rarest easter egg. You may hear the remixed ringtone [here](https://canary.discordapp.com/assets/b9411af07f154a6fef543e7e442e4da9.mp3).
 
 # Secret Keybord Combo
-From the Keyboard Combinations menu you may enter a secret command that plays an animation based on the [Sun Goku Satsu](
+From the Keyboard Combinations menu you may enter a secret command that plays an animation based on the [Shun Goku Satsu](
 http://streetfighter.wikia.com/wiki/Shun_Goku_Satsu) attack from Street Fighter games.
 
 To view this easter egg first pull up the Keybord Combo menu by typing 'Control /' on a Windows computer or 'Command /' on a Macintosh. This can't be done via the Discord mobile apps. 
 
 Once on the Keybord Combo menu, type the command 'hh [right arrow] nk'. Typing this command will display the animation on your screen. You may view the animation [here](http://i.imgur.com/yV4M1jh.gif).
+
+`This easter egg was publicized during the TAYNE update`
 
 # Rate Limits Documentation Page
 On the [Discord API Rate Limits documentation page](https://discordapp.com/developers/docs/topics/rate-limits) there is a [colon](http://i.imgur.com/BkLamTK.png) that when clicked opens [this website](http://takeb1nzyto.space). The website is a fun animation created by [Dougley](http://dougleyownsthisdomain.takeb1nzyto.space/). This easter egg was implimented by Night, a Discord staff member.
