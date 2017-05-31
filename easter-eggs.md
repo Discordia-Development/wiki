@@ -25,7 +25,7 @@ To view this easter egg first pull up the Keybord Combo menu by typing 'Control 
 
 Once on the Keybord Combo menu, type the command 'hh [right arrow] nk'. Typing this command will display the animation on your screen. You may view the animation [here](http://i.imgur.com/yV4M1jh.gif).
 
-`This easter egg was publicized during the TAYNE update`
+> This easter egg was publicized during the TAYNE update
 
 # Rate Limits Documentation Page
 On the [Discord API Rate Limits documentation page](https://discordapp.com/developers/docs/topics/rate-limits) there is a [colon](http://i.imgur.com/BkLamTK.png) that when clicked opens [this website](http://takeb1nzyto.space). The website is a fun animation created by [Dougley](http://dougleyownsthisdomain.takeb1nzyto.space/). This easter egg was implimented by Night, a Discord staff member.
