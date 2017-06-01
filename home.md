@@ -31,6 +31,8 @@ We're a small team of Discord enthusiasts, aiming to raise awareness of a great 
 * @Thereatra#3564
 * @LW001#8654
 * @LordOfTheUndead#7915
+* @Immotay#7475
+* @Luna#4677
 
 > ***Bot Developers***
 
