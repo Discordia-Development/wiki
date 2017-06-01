@@ -20,7 +20,7 @@ Nós somos um pequeno time de entusiastas do Discord, procurando aumentar a cons
 * @Mikesky#3456
 * @西木野真姫★★★★#9667
  
-> ***[Internacionalização (i18n)](/pt/traducoes)****
+> ***[Internacionalização (i18n)](/pt/traducoes)***
  
 * @asli#2772
 * @Daan#3356
