@@ -126,6 +126,7 @@ Translated:
 * [Badges](/pt/insignias)
 * [Privacy Policy](/pt/privacidade)
 * [Audit Logs](/pt/audit-logs)
+* [Bots](/pt/bots)
 
 Partially completed:
 
