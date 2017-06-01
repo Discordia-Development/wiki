@@ -63,7 +63,7 @@ If you believe that any User Content violates your copyright, please follow the 
 5. A statement that you a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law.
 6. A statement that the information in the notification is accurate, and under penalty of perjury, that you is authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
 
-The notice should be addressed to dmca@discordia.me, and shall recieve a prompt response whenever it is received.
+The notice should be addressed to dmca@discordia.me, and shall receive a prompt response whenever it is received.
 
 # 7. Disclaimer of Warranties, Limitations of Liability and Indemnification.
 Your use of the services provided by The Discord Wiki is at your sole risk. The service is provided "as is" and "as available". We disclaim all warranties of any kind, express or implied, including, without limitation, the warranties of merchantability, fitness for a particular purpose and non-infringement. We are not liable for damages, direct or consequential, resulting from your use of the Services, and you agree to defend, indemnify and hold us harmless from any claims, losses, liability costs and expenses (including but not limited to attorney's fees) arising from your violation of any third-party's rights. You acknowledge that you have only a limited, non-exclusive, nontransferable license to use the Services. Because the Services are not error or bug free, you agree that you will use it carefully and avoid using it ways which might result in any loss of your or any third party's property or information.
