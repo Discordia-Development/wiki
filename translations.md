@@ -129,6 +129,7 @@ Translated:
 * [Bots](/pt/bots)
 
 Partially completed:
+* [Terms of Service](/pt/termos)
 
 To-Do: 
 
