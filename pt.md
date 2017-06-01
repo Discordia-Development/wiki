@@ -31,6 +31,8 @@ Nós somos um pequeno time de entusiastas do Discord, procurando aumentar a cons
 * @Thereatra#3564
 * @LW001#8654
 * @LordOfTheUndead#7915
+* @Immotay#7475
+* @Luna#4677
  
 > ***Desenvolvedores do Bot***
  
