@@ -14,7 +14,7 @@ You are able to view, change and remove your data associated with your profile. 
 You must be 13 years of age or older to use this site, per the [Children's Online Privacy Protection Act](https://www.ftc.gov/enforcement/rules/rulemaking-regulatory-reform-proceedings/childrens-online-privacy-protection-rule). By using the Services, you represent that you have the legal capacity to enter into a binding agreement, or have gotten your parent or guardian to do so for you.
 
 # Use of the Data
-We only use your personal information to provide you The Services or to communicate with you about the services or the Services.
+We only use your personal information to provide you The Services or to communicate with you about the Services.
 
 We employ industry standard techniques to protect against unauthorized access of data about you that we store, including personal information.
 
