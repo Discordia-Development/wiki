@@ -125,6 +125,7 @@ Translated:
 * [Home](/pt)
 * [Badges](/pt/insignias)
 * [Privacy Policy](/pt/privacidade)
+* [Audit Logs](/pt/audit-logs)
 
 Partially completed:
 
