@@ -9,8 +9,8 @@ Esta insígnia é dada a toda a Equipe do Discord. Se alguém alega ser da Equip
  
 ![Staffbadge](/uploads/badges/staffbadge.png "Staffbadge")
  
-# Parceiro do Discord
-[Parceiros](/pt/parceiro) do Discord possuem esta insígnia em seu perfil. O único modo de obter esta insígnia é se tornando um Parceiro do Discord. 
+# Discord Partner
+Discord [Partners](/pt/parceiro) possuem esta insígnia em seu perfil. O único modo de obter esta insígnia é se tornando um Discord Partner. 
  
 ![Partnerbadge](/uploads/badges/partnerbadge.png "Partnerbadge")
 # Discord Hypesquad
