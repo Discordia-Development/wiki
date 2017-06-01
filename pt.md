@@ -1,4 +1,4 @@
-<!-- TITLE: Início -->
+<!-- TITLE: Português - Início -->
 <!-- SUBTITLE: Bem-vindo a Discord Wiki! -->
  
 # Bem-vindo
