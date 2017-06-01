@@ -13,7 +13,7 @@ Nós somos um pequeno time de entusiastas do Discord, procurando aumentar a cons
 ## Equipe Editorial
 > ***Alto Conselho***
  
-*Responsáveis por manter o Discordia e a Discord Wiki (gerentes).*
+*Responsáveis por manter o Discordia e The Discord Wiki (gerentes).*
 * @Dru#7700
 * @Harrison#9100
 * @Tiemen#0107
@@ -43,4 +43,4 @@ Nós somos um pequeno time de entusiastas do Discord, procurando aumentar a cons
 ## Avisos e informação legal
 Olá! Bem-vindo a Discord Wiki! Nós acreditamos fortemente em transparência, então antes de ingressar, por favor dê uma olhada nos nossos [Termos de Serviço](/pt/termos) e nossa [Política de Privacidade](/pt/privacidade) para que você saiba todas as coisas legais que precise saber sobre nossos serviços!
  
-### ***Discord, o Fantasma do Discord (Clyde™), e Discordapp (Aqui DISCORD) são propriedades intelectual e legal de Discord Inc. Estes Serviços, conforme listados nos [Termos de Serviço](/pt/termos) não estão afiliados com o Discord Inc. ou quaisquer subsidiárias neste documento. A Discord Wiki não alega possuir qualquer propriedade intelectual do DISCORD, por favor não nos processem.***
+### ***Discord, o Fantasma do Discord (Clyde™), e Discordapp (Aqui DISCORD) são propriedades intelectual e legal de Discord Inc. Estes Serviços, conforme listados nos [Termos de Serviço](/pt/termos) não estão afiliados com o Discord Inc. ou quaisquer subsidiárias neste documento. The Discord Wiki não alega possuir qualquer propriedade intelectual do DISCORD, por favor não nos processem.***
