@@ -34,6 +34,10 @@ These are the members currently tasked with i18n.
 ### Danish [DA]
 * Thereatra#3564
 
+### Brazilian-Portuguese [PT]
+* Immotay#7475
+* Luna#4677
+
 *To get added to the list, put your language into the #i18n-language channel on Discordia.*
 
 ## Translated pages by language
@@ -115,6 +119,16 @@ Partially completed:
 
 To-Do:
 * Terms of Service
+
+### Brazilian-Portuguese
+Translated:
+* [Home](/pt)
+* [Badges](/pt/insignias)
+* [Privacy Policy](/pt/privacidade)
+
+Partially completed:
+
+To-Do: 
 
 *Currently we mainly need the home page, the TOS and the privacy policy translated. These should be as accurately translated as possible.*
 
