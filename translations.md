@@ -60,8 +60,9 @@ To-Do:
 
 ### Dutch
 Translated:
-* Home (needs second opinion)
-* Nitro
+* [Home](/nl) 
+* [Nitro](/nl/nitro)
+* [Bug Hunters](/nl/bug-hunters)
 
 Partially completed:
 
