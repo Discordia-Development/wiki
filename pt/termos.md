@@ -67,7 +67,7 @@ Se você acredita que qualquer Conteúdo de Usuário viola os seus direitos auto
 2. Identificação do trabalho que está sobre direitos autorais e que está sendo alegado a ter os direitos infringidos, ou, se múltiplos trabalhos estão sendo cobertos por uma notificação, uma lista representativa de todos os trabalhos neste site.
 3. Identificação do material que está sendo alegado a ser infringente ou sujeito de atividade infringente e que terá que ser removido ou o acesso será desligado, e informação suficiente para permitir nós a localizar o material.
 4. Informação suficiente para nós podermos te contatar, como email, endereço, número de telefone.
-5. A statement that you a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law.
+5. Uma declaração de que você em boa fé acredita que o uso do material na maneira que foi reportada não é autorizada pelo detentor dos direitos autorais, o seu agente, ou a lei.
 6. Uma declaração de que a informação no aviso é precisa, e sobre a punição de perjúrio, que você está autorizado a agir em nome do dono de um direito exclusivo que está sendo alegadamente infringido.
  
 O aviso deve ser dirigido a dmca@discoria.me, e deve receber uma resposta pronta quando for recebida.
