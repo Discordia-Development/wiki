@@ -1,20 +1,20 @@
 <!-- TITLE: Bug Hunters -->
-<!-- SUBTITLE: Helping Discord Developers manage Bug Reports and fix Bugs -->
+<!-- SUBTITLE: Helpen Discord Developers met het rapporteren en fixen van Bugs -->
 # Bug Hunters
-Bug Hunters are an elite group of Discord users who have successfully found bugs with Discord on any client and had it reproduced by three users. They help the Discord developers to learn about bugs and fix them.
+Bug Hunters zijn een elite groep Discord gebruikers die met succes voor een van de Discord clients een bug hebben gevonden en deze door drie individuele gebruikers gereproduceerd krijgen. Zij helpen de Discord developers met het leren kennen en fixen van bugs.
 
-Every day, they get on Discord and continue to search and verify other bugs that other users have reported. They use [Discord Canary](/canary), and work hard every day to help new users find bugs, check if they're a duplicate of already reported bugs, and sometimes help others format their report.
-## Become a Bug Hunter!
-To become a Bug Hunter, there are a couple steps.
+Elke dag komen zij op Discord om de zoektocht naar nieuwe bugs verder te zetten en  het verifiëren van bugs die andere gebruikers hebben geraporteerd. Zij maken gebruik van [Discord Canary](/canary), en doen dagelijks hun best om nieuwe gebruikers te helpen met het vinden van bugs, of deze niet al eerder zijn gerapporteerd en soms helpen met het gebruik van het format. 
+## Word ook een Bug Hunter!
+Om een Bug Hunter te worden zijn er een aantal stappen die doorlopen moeten worden.
 
-* Join Discord Testers
-* Find a Bug
-* Check the Trello boards
-* Format it
-* Submit it
-* Get it approved!
-### Joining Discord Testers
-First have to join the Discord Testers server. If you're already in the server, great! If not, [here](http://discord.gg/discord-testers)'s an invite link!
+* Word lid van Discord Testers
+* Vind een Bug
+* Controleer de Trello boards
+* Zet het om naar het speciale format.
+* Dien het in.
+* Krijg het goedgekeurd!
+### Word lid van Discord Testers
+Als eerste moeten we lid worden van de Discord Testers server. Indien je al lid bent van deze server, is dit top! Indien dit niet het geval is, is [hier](http://discord.gg/discord-testers) een uitnodiging.
 ### Checking the Trello boards
 Once you've joined the server, you have to check the Trello boards to see if your bug has already been reported:
 * [Windows/Mac/Browser Bugs](https://trello.com/b/AExxR9lU/canary-bugs)
