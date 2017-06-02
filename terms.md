@@ -60,7 +60,7 @@ If you believe that any User Content violates your copyright, please follow the 
 2. Identification of the copyrighted work claimed to have been infringed, or, if multiple copyrighted works at a single online site are covered by a single notification, a representative list of such works at that site.
 3. Identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit us to locate the material.
 4. Information reasonably sufficient for us to contact you, such as email, address, telephone number.
-5. A statement that you a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law.
+5. A statement that you in good faith believe that use of the material in the manner reported is not authorized by the copyright owner, its agent, or the law.
 6. A statement that the information in the notification is accurate, and under penalty of perjury, that you is authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
 
 The notice should be addressed to dmca@discordia.me, and shall receive a prompt response whenever it is received.
