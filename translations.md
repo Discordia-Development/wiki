@@ -127,6 +127,7 @@ Translated:
 * [Privacy Policy](/pt/privacidade)
 * [Audit Logs](/pt/audit-logs)
 * [Bots](/pt/bots)
+* [Chat commands](/pt/comandos-de-chat)
 
 Partially completed:
 * [Terms of Service](/pt/termos)
