@@ -12,7 +12,6 @@ Direct Messages (in short DMs) are a minimalist version of Discord guilds betwee
 # Group Messages
 * Between at least 3 users
 * No permissions
-* All paricipants are allowed to manage messages
 * Users may only add their friends
 * Bots can't be added
 
