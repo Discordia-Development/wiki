@@ -33,3 +33,13 @@ Here, you can view all of the users who has reacted to the message, and with wha
 With the correct permissions, you can remove all of the reactions from a message, using the "Remove all Reactions" item in the message sub-menu.
 
 ![Remove All Reactions](/uploads/singular-message-related/remove-all-reactions.png "Remove All Reactions")
+
+## Hiding reactions
+
+It is possible to hide reactions by toggling the "Show emoji reactions on messages" setting in the "Text & Images" subsection of the Discord client settings. This setting is **clientside only** - reactions will still work for other people if you turn this off, they are just invisible to you.
+
+![Reaction Visibility](/uploads/settings/reaction-visibility.png "Reaction Visibility")
+
+## Video
+
+Reactions debuted on Discord on November 3rd, 2016. [A video](https://www.youtube.com/watch?v=pWg1uwwtB9o) was uploaded to the Discord App YouTube channel as an announcement. Proceeding the announcement, Zencha is shown performing science experiments at a nearby park.
