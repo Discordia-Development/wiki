@@ -8,11 +8,11 @@ As expected, users who have a Nitro subscription may react with emoji from other
 
 ## Adding reactions
 
-You can click the add reaction icon (the small smiley with a plus sign) to bring up the emoji picker. When you click on an emoji, a reaction is added. Alternatively, you can use the "Add Reaction" sub-item of the message menu. It reveals a sub-menu where you can choose from your frequently used emoji, and a menu item to open the emoji picker. If you do not have the "Add Reaction" permission, the add reaction icon will not show on any messages, and the "Add Reaction" sub-item will not show.
+You can click the add reaction icon (the small smiley with a plus sign) to bring up the emoji picker. When you click on an emoji, a reaction is added. Alternatively, you can use the "Add Reaction" sub-item of the message menu. It reveals a nested sub-menu where you can choose from your frequently used emoji to react with, and a menu item to open the emoji picker. If you do not have the "Add Reaction" permission, the add reaction icon and the "Add Reaction" sub-item will not show on any messages.
 
 ### Blocked
 
-If you attempt to react to a person's message, and that person has you block, your reaction will not be created and your Discord client will shake violently, signalling that you cannot add a reaction to this message.
+If you attempt to react to a person's message, and that person has you blocked, your reaction will not be created and your Discord client will shake violently, signalling that you cannot add a reaction to this message.
 
 ## Managing reactions
 
