@@ -15,20 +15,20 @@ Om een Bug Hunter te worden zijn er een aantal stappen die doorlopen moeten word
 * Krijg het goedgekeurd!
 ### Word lid van Discord Testers
 Als eerste moeten we lid worden van de Discord Testers server. Indien je al lid bent van deze server, is dit top! Indien dit niet het geval is, is [hier](http://discord.gg/discord-testers) een uitnodiging.
-### Checking the Trello boards
-Once you've joined the server, you have to check the Trello boards to see if your bug has already been reported:
+### Controleren van de Trello boards
+Eenmaal lid van de server, moet eerst op de Trello boards gecontroleerd worden of de bug nog niet door iemand anders is gerapporteerd.
 * [Windows/Mac/Browser Bugs](https://trello.com/b/AExxR9lU/canary-bugs)
 * [Android Bugs](https://trello.com/b/Vqrkz3KO/android-beta-bugs)
 * [iOS Bugs](https://trello.com/b/vLPlnX60/ios-testflight-bugs)
 * [Linux Bugs](https://trello.com/b/UyU76Esh/linux-bugs)
-### Formatting your report
-After checking the Trello boards, if you don't see your bug on there, you can go ahead with reporting it. The format for reporting bugs is in the channel #bot-help or in the corresponding report channels pins.
-### Submitting the report
-Pretty simple, just type the report up and hit enter in the correct bug report channel.
-### What do I get?
-* Bug Hunter General - Once you get a bug approved, you gain access to the ultra-prestigious Bug Hunter General channel. The hunters use the channel to discuss bugs in the queue, and sometimes joke around and go on wild goose chases for numbers in playing statuses.
-* Approve or Deny Reports - Once you're a certified Bug Hunter, you can help approve or deny bugs that are in the queue.
-## Tips and Tricks
-The best way to find bugs is to use Discord normally, and not go out of your way to find bugs, one will come to you. 
-* Use Discord Canary to get new features more often and test them. 
-* Don't get discouraged when a bug that you reported gets denied. It happens to all of us, just keep going. Read the denial reason and it'll be fine!
+### Formateren van je raport
+Na het controleren van de Trello boards, en de bug komt er niet op voor, kan je aan de gang met het raporteren van de bug. Het benodigde format kan worden gevonden in het kanaal #bot-help of in de vastgemaakte berichten in desbetreffende rapporteer kanalen.
+### Indienen van het raport
+Dit is behoorlijk simpel, type gewoon het raport in het juiste raporteer kanaal en druk op Enter.
+### Wat krijg ik er voor terug?
+* Bug Hunter General - Eenmaal een bug goedgekeurd, krijg je toegang tot het extreem prestigieuze Bug Hunter General kanaal. De Hunters gebruiken dit kanaal voor het bespreken van bugs in de wachtrij, maken soms een hoop grappen en gaan soms zelfs wild over een speurtocht voor nummers in playing statussen. 
+* Goed- of- afkeuren van Reports - eenmaal een Bug Hunter, kan je helpen met het goedkeuren van bugs in de wachtrij.
+## Tips en Tricks
+De beste manier voor het vinden van bugs is om Discord normaal te blijven gebruiken en niet blindelings bugs proberen te vinden, een bug zal ooit uit het niets voorbij komen. 
+* Gebruik Discord Canary om eerder nieuwe features te gebruiken en testen.
+* Verlies niet meteen de hoop zodra je bug wordt afgekeurd. Het overkomt iedereen, blijf gewoon volhouden. Lees de reden die werd gegeven en neem dit mee voor de volgende keer!
