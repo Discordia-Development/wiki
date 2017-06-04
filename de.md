@@ -38,7 +38,7 @@ Wir sind ein kleines Team von Discord Enthusiasten, mit den Ziel andere Leute ei
 * @Tiemen#0107
 
 ## Discord Wiki Editierungsanfragen und Wiki Editor Bewerbungen
-### Dies sind Google Formulare, welche zur Editierung des Wiki beitragen.
+### Wenn sie das Wiki aktiv verbessern wollen, sehen sie sich diese Formulare an.
 
 [Reichen Sie eine Editierungsanfrage ein!](https://goo.gl/forms/tXAUTq1uWNd5UJo43)
 
