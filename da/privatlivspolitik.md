@@ -4,7 +4,7 @@
 # Indledning
 Hos Discord Wiki indsamler og administrere vi brugerdata i henhold til den følgende Privatlivspolitik, med det formål at inkorporere vores virksomhedsværdier: gennemsigtighed, tilgængelighed, fornuft og anvendelighed. Dette dokument er en del af Discord Wikis [Servicevilkår](/da/servicevilkar) og ved brug af https://discordia.me (“Tjenesterne”) acceptere du vilkårene i denne Privatlivspolitik samt [Servicevilkårene](/da/servicevilkar). Læs venligst [Servicevilkårene](/da/servicevilkar) i deres helhed og henvis til dem for definitioner og kontakter.
 
-# Data Collected
+# Data Collection
 We collect anonymous data from every visitor of the Services to monitor traffic and fix bugs. For example, we collect information like web requests, the data sent in response to such requests, the Internet Protocol address, the browser type, the browser language, and a timestamp for the request.
 
 We ask you to log in and provide certain personal information (such as your name and email address) in order to be able to save your profile and the documents and comments associated with it. In order to enable these or any other login based features, we use cookies to store session information for your convenience. You can block or delete cookies and still be able to use The Discord Wiki, although if you do you will then be asked for your username and password every time you log in to the Services. In order to take advantage of certain features of the Services, you may also choose to provide us with other personal information, such as your picture or personal website, but your decision to utilize these features and provide such data will always be voluntary.
