@@ -30,6 +30,9 @@ Wij zijn een klein team van Discord enthousiastelingen, die proberen om meer men
 * @DaFri_Nochiterov#4289
 * @Thereatra#3564
 * @LW001#8654
+* @LordOfTheUndead#7915
+* @Immotay#7475
+* @Luna#4677
 
 > ***Bot Developers***
 
