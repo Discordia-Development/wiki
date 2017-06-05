@@ -6,7 +6,7 @@ Willkommen bei **The Discord Wiki** (in Folge "**Wir**" oder "**uns**" oder die 
 
 Wir möchten unsere Beziehung mit Ihnen so ungezwungen wie möglich halten, aber bitte lesen Sie die Nutzungsbedingungen sorgfältig, bevor Sie mit der Nutzung der Dienste beginnen, denn **indem Sie die Dienste verwenden erklären Sie sich damit einverstanden, diese Nutzungsbedingungen einzuhalten.**
 
-** SOLLTEN SIE MIT JEGLICHEN BEDINGUNGEN IN DIESEM DOKUMENT NICHT EINVERSTANDEN SEIN, KÖNNEN SIE ENTWEDER DIE DIENSTE VERLASSEN ODER UNS ÜBER SUPPORT@DISCORDIA.ME KONTAKTIEREN:**
+**SOLLTEN SIE MIT JEGLICHEN BEDINGUNGEN IN DIESEM DOKUMENT NICHT EINVERSTANDEN SEIN, KÖNNEN SIE ENTWEDER DIE DIENSTE VERLASSEN ODER UNS ÜBER SUPPORT@DISCORDIA.ME KONTAKTIEREN:**
  
 # 2. Änderungen an den Nutzungsbedingungen und den Diensten
 Das Discord Wiki ist ein Work in progress, was bedeutet, dass sich in naher Zukunft viel ändern wird. Wir behalten uns das Recht vor, die Dienste sowie diese Nutzungsbedingungen von Zeit zu Zeit nach unserem Ermessen zu aktualisieren. Wir werden uns darum bemühen, jede wesentliche Veränderung in anständiger Weise bekannt zu geben, allerdings können Sie jederzeit jederzeit auf diese Seite zurückkehren. ** Ihre fortgesetzte Nutzung der Dienste nach der Veröffentlichung der aktualisierten Nutzungsbedingungen bedeutet, dass Sie diese akzeptieren und mit Änderungen übereinstimmen. **
