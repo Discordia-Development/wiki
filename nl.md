@@ -37,12 +37,6 @@ Wij zijn een klein team van Discord enthousiastelingen, die proberen om meer men
 * @HyperCoder#2975
 * @Tiemen#0107
 
-## Het Discord Wiki aanpassingsformulier en Wiki Bewerker Inschrijving
-### Dit zijn de verschillende Google Formulieren voor het aanpassen van de Wiki
-
-[Vraag hier een wijziging aan!](https://goo.gl/forms/tXAUTq1uWNd5UJo43)
-
-[Meld je hier aan voor Wiki Editor!](https://goo.gl/forms/acaEgDcB2wLvAyUs1)
 ## Disclaimers en Juridische Informatie
 Hallo! Welkom bij de Discord Wiki! Wij vinden doorzichtigheid belangrijk, dus voordat je meteen aan de gang gaat, neem eerst de tijd om onze [Servicevoorwaarden](/terms) en onze [Privacybeleid](/privacy) door te nemen zodat je op de hoogte bent van de Juridische Informatie met betrekking tot onze diensten!
 
