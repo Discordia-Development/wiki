@@ -50,10 +50,10 @@ Translated:
 * [Text-To-Speech](/de/tts)
 * [Discord Web](/de/web)
 * [Discord Canary](/de/canary)
+* [ToS](/de/nutzungsbedingungen)
 
 Partially completed:
 * Wumpus
-* ToS
 * [User Settings](/de/benutzereinstellungen)
 
 To-Do:
