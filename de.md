@@ -4,7 +4,7 @@
 # Willkommen
 ## Über uns
 
-Wir sind ein kleines Team von Discord Enthusiasten, mit den Ziel andere Leute eine großartige VoIP Plattform, [Discord](https://discordapp.com), näherzubringen.
+Wir sind ein kleines Team von Discord-Enthusiasten mit den Ziel andere Leute eine großartige VoIP Plattform, [Discord](https://discordapp.com), näherzubringen.
 
 [Treten Sie unserem Discord-Server bei!](https://discord.gg/WHz5r3N)
 
@@ -37,12 +37,6 @@ Wir sind ein kleines Team von Discord Enthusiasten, mit den Ziel andere Leute ei
 * @HyperCoder#2975
 * @Tiemen#0107
 
-## Discord Wiki Editierungsanfragen und Wiki Editor Bewerbungen
-### Wenn sie das Wiki aktiv verbessern wollen, sehen sie sich diese Formulare an.
-
-[Reichen Sie eine Editierungsanfrage ein!](https://goo.gl/forms/tXAUTq1uWNd5UJo43)
-
-[Bewerben Sie sich als Wiki Editor!](https://goo.gl/forms/acaEgDcB2wLvAyUs1)
 ## Disclaimer und Legale Information
 Hallo! Wilkommen beim Discord Wiki! Wir glauben stark an Transparenz, deshalb beachten Sie unsere [Nutzungsbedingungen](/terms) und unsere [Datenschutzbestimmungen](/privacy) um alles wichtige über unsere Dienste zu wissen!
 
