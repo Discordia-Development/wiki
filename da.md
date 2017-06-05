@@ -37,12 +37,6 @@ Vi er et lille hold af Discord entusiaster, der sigter efter at øge kendskabet 
 * @HyperCoder#2975
 * @Tiemen#0107
 
-## Discord Wiki formular til ændringsforslag og Wiki Redaktør anmodningsformular
-### Disse er forskellige Google Formularer der tillader én at redigere Wikien
-
-[Indsend et ændringsforslag her!](https://goo.gl/forms/tXAUTq1uWNd5UJo43)
-
-[Ansøg om at blive Wiki Redaktør!](https://goo.gl/forms/acaEgDcB2wLvAyUs1)
 ## Ansvarsfraskrivelse og juridiske oplysninger
 Hej! Velkommen til Discord Wikien! Vi er store tilhængere af gennemsigtighed, så inden du går i gang, tag venligst at kigge på vores [Servicevilkår](/da/servicevilkar) og [Privatlivspolitik](/da/privatlivspolitik) sådan, at du er afklaret med alle de juridiske aspekter vedrørende vores Tjenester!
 
