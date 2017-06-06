@@ -46,11 +46,11 @@ These are the members currently tasked with i18n.
 ### German
 Translated:
 * [Home](/de)
-* [Privacy policy](/de/Datenschutzbestimmungen)
+* [Privacy policy](/de/privacy)
 * [Text-To-Speech](/de/tts)
 * [Discord Web](/de/web)
 * [Discord Canary](/de/canary)
-* [ToS](/de/nutzungsbedingungen)
+* [ToS](/de/terms)
 
 Partially completed:
 * Wumpus
