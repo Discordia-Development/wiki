@@ -1,12 +1,12 @@
 <!-- TITLE: Benutzereinstellungen -->
 
-**This article is not fully translated yet. - Dieser Artikel ist noch nicht vollständig Übersetzt.**
+**This article is not fully translated yet. - Dieser Artikel ist noch nicht vollständig übersetzt.**
 
-Die folgenden Einstellungen sind für Discord-Benutzer. *Anmerkung: Einige dieser Einstellungen sind möglicherweise nicht auf den [Web](/web) oder [Mobilen](/mobile) Anwendungen verfügbar.*
+Die folgenden Einstellungen sind für Discord-Benutzer. *Anmerkung: Einige dieser Einstellungen sind möglicherweise nicht in der [Web-](/web) oder [mobilen](/mobile) Anwendung verfügbar.*
 
 Um auf diese Einstellungen zuzugreifen, klicken Sie auf das Zahnrad-Symbol unten links.
 
-Jede Option ist unten in einen Abschnitt unterteilt.
+Im folgenden sind die Erklärungen für alle Einstellungen aufgeführt.
 # Tabs
 ## My Account
 Auf der Registerkarte My Account können Sie Ihren Avatar, Benutzernamen, E-Mail und / oder Passwort bearbeiten. Wenn Sie eine 2-Faktor-Authentifizierung aktiviert haben, müssen Sie einen Code eingeben, bevor Sie Ihre E-Mail oder Ihr Passwort ändern können. Um ein neues Konto zu beanspruchen, müssen Sie in dieser Registerkarte eine E-Mail und ein Passwort eingeben. Sie dürfen Ihren Benutzernamen nur zweimal pro Stunde ändern.
