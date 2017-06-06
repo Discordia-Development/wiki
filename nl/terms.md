@@ -1,7 +1,7 @@
 <!-- TITLE: Servicevoorwaarden -->
 <!-- SUBTITLE: De Servicevoorwaarden voor alle diensten aangeboden door The Discord Wiki -->
 
-# 1. Acceptance of the Terms of Service
+# 1. Acceptatie van de Servicevoorwaarden
 Welcome to **The Discord Wiki** (a.k.a. "**we**" or "**us**" or the "**Company**"). We are excited to have you as user and member of the community. The following terms and conditions (collectively, these "**Terms of Service**") apply to your use of https://discordia.me, including any content, functionality and services offered on or via https://discordia.me (the "**Services**"). The Terms of Service also include our **Privacy Policy**, which you can review [HERE](https://discordia.me/privacy)
 
 
@@ -9,10 +9,10 @@ We want to keep our relationship with you as lean and informal as possible, but 
 
 **SHOULD YOU DISAGREE WITH ANY OF THE PROVISIONS HEREIN, YOU CAN EITHER LEAVE THE SERVICES, OR CONTACT US AT SUPPORT@DISCORDIA.ME**
 
-# 2. Changes to the Terms of Service and the Services
+# 2. Aanpassingen van de Servicevoorwaarden en de Diensten
 The Discord Wiki is a work in progress, meaning that a lot will change in the near future. We reserve the right to update the Services as well as these Terms of Service from time to time, at our discretion. We will make sure to announce any major change in a prominent way, but since "major" is a very subjective concept, you can always feel free to return to this page at any time. **Your continued use of the Services following the publishing of updated Terms of Service means that you accept and agree with any changes.**
 
-# 3. Accessing the Services, Security and Privacy
+# 3. Toegang tot de Diensten, Veiligheid en Privacy
 We are working hard on improving The Discord Wiki, but we cannot guarantee that the Services will be up and running 24/7. We also reserve the right to suspend or restrict access to some features to users. In any case, we will not be liable if for any reason all or any part of the Services are unavailable at any time or for any period, nor for any data loss (see also Section 7 below).
 
 To access certain features of the Services, you have to register by entering your email and choosing a password as part of our security procedures. You must treat such information as confidential, not disclosing it to any third party and only using The Discord Wiki in person. There is a password reset procedure in case you forget your password, but please notify us of any breach of security. We highly recommend to choose a strong password and that you log out from your account at the end of every session.
@@ -21,7 +21,7 @@ It is a condition of your use of the Services that all the information you provi
 
 We use SSL encrypted browsing, but we cannot guarantee that all use will be secure. We also do not guarantee that the Services or any content provided on the Services are error free. We manage your personal data according to our **Privacy Policy.**
 
-# 4. Intellectual Property Rights and Use Guidelines
+# 4. Intellectuele Eigendomsrechten en Richtlijnen
 The Services and their original content, features and functionality, are owned by The Discord Wiki and are protected by United States and international copyright, trademark, patent, trade secret and other intellectual property or proprietary rights laws. In continuing to use these services, you agree to not copy, modify, create derivative works of, publicly display, publicly perform, republish, any of our copyrighted material, except to the extent permitted by the Services themselves. If you have doubts about whether and how to use of material on the Services, please address your concerns to: support@discordia.me.
 
 For purposes of these Terms of Service, the term “**Content**” includes, without limitation, information, data, text, photographs, videos, audio clips, written posts and comments, software, scripts, graphics, and interactive features generated, provided, or otherwise made accessible on or through the Services. For the purposes of these Terms of Service, “**Content**” also includes all User Content (as defined below).
@@ -38,7 +38,7 @@ We encourage your feedback, in the form of reviews, comments, and suggestions or
 
 The Services may contain Content specifically permitted to us, our partners or our users and such Content is protected by copyrights, trademarks, service marks, patents, trade secrets or other proprietary rights and laws. You shall abide by and maintain all copyright notices, information, and restrictions contained in any Content accessed through the Services.
 
-# 5. User Contributions and Content Standards. Special Disclaimer for Legal Content.
+# 5. Gebruikersbijdragen en Inhoudsnormen. Speciale Bijsluiter voor Wettelijke Inhoud.
 The Discord Wiki, and its affiliates, contain user generated content, and also may contain message boards, personal web pages, forums or other interactive features that allow you to upload, post, submit, publish, display or transmit to other Users Content on or through the Services. All User Content must be lawful, not spammy, and clear of virus or other malware. More specifically, but without limiting the foregoing, it must comply with the following Content Standards:
 * Not contain any material which is defamatory, obscene, indecent, abusive, offensive, harassing, violent, hateful, inflammatory or otherwise objectionable.
 * Not promote sexually explicit or pornographic material, violence, or discrimination based on race, sex, religion, nationality, disability, sexual orientation or age.
@@ -52,7 +52,7 @@ The Discord Wiki, and its affiliates, contain user generated content, and also m
 * Not give the impression that they emanate from us or any other person or entity, if this is not the case.
 * Not used, if public, as test empty documents with no actual content, or typing exercises: please respect our community and help us minimize the clutter!
 
-# 6. Law and Copyright Infringement
+# 6. Inbreuk op Wet en Auteursrecht
 We do not undertake to review all material before it is posted on the Services, and cannot ensure prompt removal of objectionable material after it has been posted. Accordingly, we assume no liability for any action or inaction regarding transmissions, communications or content provided by any user or third party. In the unlikely event we receive a disclosure request from an authorized party, we reserve the right to disclose user identities when required to do so by the law, including in response to a law enforcement request supported by a valid court order. You waive and hold harmless the Company from any claims resulting from any action taken by the Company during or as a result of its investigations and from any actions taken as a consequence of investigations by either the Company or law enforcement authorities.
 
 If you believe that any User Content violates your copyright, please follow the procedure set forth by article 512(c) of the DMCA and provide us a written takedown notice including the following information:
@@ -65,18 +65,18 @@ If you believe that any User Content violates your copyright, please follow the 
 
 The notice should be addressed to dmca@discordia.me, and shall receive a prompt response whenever it is received.
 
-# 7. Disclaimer of Warranties, Limitations of Liability and Indemnification.
+# 7. Bijsluiter van Garanties, Aansprakelijkheidsbeperkingen en Schadeloosstelling.
 Your use of the services provided by The Discord Wiki is at your sole risk. The service is provided "as is" and "as available". We disclaim all warranties of any kind, express or implied, including, without limitation, the warranties of merchantability, fitness for a particular purpose and non-infringement. We are not liable for damages, direct or consequential, resulting from your use of the Services, and you agree to defend, indemnify and hold us harmless from any claims, losses, liability costs and expenses (including but not limited to attorney's fees) arising from your violation of any third-party's rights. You acknowledge that you have only a limited, non-exclusive, nontransferable license to use the Services. Because the Services are not error or bug free, you agree that you will use it carefully and avoid using it ways which might result in any loss of your or any third party's property or information.
 
 ### ***Discord, the Discord Ghost (Clyde™), and Discordapp (Herein DISCORD) are the intellectual and legal property of Discord Inc. These Services are not affiliated with Discord Inc or any subsidiaries herein. The Discord Wiki does not claim to own any of DISCORD's intellectual property, please don't sue us.***
 
-# 8. Geographic Restrictions
+# 8. Geografische Beperkingen
 For now, we provide these Services for use only by persons located in the United States. We make no claims that the Services or any of its content are accessible, appropriate or legal outside of the United States. If you access the Services from outside the United States, you do so on your own initiative and are responsible for compliance with local laws.
 
-# 9. Arbitration
+# 9. Arbitrage
 All claims and disputes arising under or relating to these Terms of Service are to be settled by binding arbitration in the state of California or another location mutually agreeable to the parties. The arbitration shall be conducted on a confidential basis pursuant to the Commercial Arbitration Rules of the American Arbitration Association. Any decision or award as a result of any such arbitration proceeding shall be in writing and shall provide an explanation for all conclusions of law and fact and shall include the assessment of costs, expenses, and reasonable attorneys’ fees. Any such arbitration shall be conducted by an arbitrator experienced in online business law and shall include a written record of the arbitration hearing. The parties reserve the right to object to any individual who shall be employed by or affiliated with a competing organization or entity. An award of arbitration may be confirmed in a court of competent jurisdiction.
 
-# 10. Waiver and Severability
+# 10. Verwerping en Scheidbaarheid
 Our failure to exercise or enforce any right or provision of the Terms of Service shall not constitute a waiver of such right or provision. The Terms of Service constitutes the entire agreement between you and the Company and govern your use of the service, superseding any prior agreements (including, but not limited to, any prior versions of the Terms of Service). If any provision of these Terms of Service is held by a court of competent jurisdiction to be invalid, illegal or unenforceable for any reason, such provision shall be eliminated or limited to the minimum extent such that the remaining provisions of the Terms of Service will continue in full force and effect.
 
 # Feedback
