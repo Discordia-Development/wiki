@@ -55,13 +55,13 @@ Auf der Registerkarte Benachrichtigungen haben Sie die Möglichkeit, Desktop-Ben
 
 ## Keybinds
 Auf der Registerkarte "Keybinds" können Sie Keybinds für folgende Aktionen hinzufügen:
-* Drücken, um zu sprechen
-* Drücken Sie auf Stumm
-* Toggle Mute
-* Toggle Deafen
+* Push to Speak: Auf Knopfdruck das Mikrofon aktivieren, solange der Knopf gehalten wird.
+* Push to Mute: Auf Knopfdruck das Mikrofon deaktivieren, solange der Knopf gehalten wird.
+* Toggle Mute: Das Mikrofon umschalten.
+* Toggle Deafen: Die Kopfhörer umschalten.
 * VAD umschalten
 
-Um eine Keybind hinzuzufügen, klicken Sie auf die Schaltfläche Keybind hinzufügen. Um eine Keybind zu bearbeiten, klicke entweder auf das Dropdown-Menü der Funktion oder klicke auf den Schlüsselwähler, um die eigentliche Tastenbelegung zu ändern. Um einen Keybind zu löschen, klicke auf das Mülleimer neben der jeweiligen Tastenbelegung.
+Um einen Keybind hinzuzufügen, klicken Sie auf die Schaltfläche Keybind hinzufügen. Um einen Keybind zu bearbeiten, klicken Sie entweder auf das Dropdown-Menü oder klicken Sie auf die Textbox, um die eigentliche Tastenbelegung zu ändern. Um einen Keybind zu löschen, klicke auf das Mülleimer neben der jeweiligen Tastenbelegung.
 
 ## Das Auftreten
 Im Reiter Erscheinungsbild können Sie zwischen dem dunklen Modus (Standard) und dem hellen Modus für Discord wechseln, indem Sie auf das jeweilige Symbol klicken. Sie können auch zwischen gemütlichem (Standard) und kompakten Modus wechseln, den [Developer Mode](/ developermode) einschalten und die Hardware Acceleration ein- und ausschalten. Bei Mobile ist die Option "Sync across clients" verfügbar. Wenn diese Option aktiviert ist, wird die Theme-Einstellung auf dem Handy über Ihre anderen Clients eingestellt. Die Option Hardwarebeschleunigung ist in der Browser- oder Mobil-Edition nicht verfügbar.
