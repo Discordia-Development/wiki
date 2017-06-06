@@ -2,7 +2,7 @@
 
 **This article is not fully translated yet. - Dieser Artikel ist noch nicht vollständig übersetzt.**
 
-Die folgenden Einstellungen sind für Discord-Benutzer. *Anmerkung: Einige dieser Einstellungen sind möglicherweise nicht in der [Web-](/web) oder [mobilen](/mobile) Anwendung verfügbar.*
+Die folgenden Einstellungen sind für Discord-Benutzer. *Anmerkung: Einige dieser Einstellungen sind möglicherweise nicht in der [Webversion](/web) oder [mobilen](/mobile) Anwendung verfügbar.*
 
 Um auf diese Einstellungen zuzugreifen, klicken Sie auf das Zahnrad-Symbol unten links.
 
@@ -30,16 +30,16 @@ Auf der Registerkarte Freunde können Sie umschalten, wer Sie als Freund hinzuf�
 Auf der Registerkarte Text & Bilder können Sie die folgenden Optionen ein- oder ausschalten:
 
 * Anzeigen von Bildern, Videos und Lolcats, wenn sie als Chat auf den Chat gepostet werden.
-* Anzeigen von Bildern, Videos und Lolcats Beim Hochladen direkt auf Discord.
+* Anzeigen von Bildern, Videos und Lolcats beim Hochladen direkt auf Discord.
 * Show website info Vorschau von Links in den Chat gesendet.
 * Emoji Reaktionen auf Nachrichten anzeigen.
-* Emoticons in emoji umwandeln.
+* Emoticons in Emoji umwandeln (z.B. `:)` -> 😀)
 * Hören und verwenden Sie den Text-to-Speech-Befehl.
 
 ## Voice
 Auf der Registerkarte Voice finden Sie ein Menü Basic und Advanced.
 
-Im Menü "Grundmenü" können Sie Ihr Eingabegerät, das Ausgabegerät und das Volumen jedes Geräts ändern. Außerdem können Sie zwischen Push to Talk und Voice Activity wechseln. Wenn Sie Push to Talk wählen, können Sie auch eine Tastenkombination angeben, um das Mikrofon ein- oder auszuschalten, wenn es sich um einen Sprachkanal handelt oder rufen. Schließlich hast du auch die Möglichkeit, die Push to Talk Release Verzögerung zu ändern.
+Im "Grundmenü" können Sie Ihr Eingabegerät, das Ausgabegerät und das Volumen jedes Geräts ändern. Außerdem können Sie zwischen Push to Talk und Voice Activity wechseln. Wenn Sie Push to Talk wählen, können Sie auch eine Tastenkombination angeben, um das Mikrofon ein- oder auszuschalten, wenn es sich um einen Sprachkanal handelt oder rufen. Schließlich hast du auch die Möglichkeit, die Push to Talk Release Verzögerung zu ändern.
 
 Im Menü "Erweitert" können Sie die folgenden Optionen ein- oder ausschalten:
 * Echounterdrückung.
@@ -64,13 +64,13 @@ Auf der Registerkarte "Keybinds" können Sie Keybinds für folgende Aktionen hin
 Um eine Keybind hinzuzufügen, klicken Sie auf die Schaltfläche Keybind hinzufügen. Um eine Keybind zu bearbeiten, klicke entweder auf das Dropdown-Menü der Funktion oder klicke auf den Schlüsselwähler, um die eigentliche Tastenbelegung zu ändern. Um einen Keybind zu löschen, klicke auf das Mülleimer neben der jeweiligen Tastenbelegung.
 
 ## Das Auftreten
-Auf der Registerkarte Erscheinungsbild können Sie zwischen dem Dunklen Modus (Standard) und dem Lichtmodus für Discord wechseln, indem Sie auf das jeweilige Symbol klicken. Sie können auch zwischen gemütlicher (Standard) und Kompaktmodus wechseln, den [Developer Mode] (/ Developermode) einschalten und die Hardware Acceleration ein- und ausschalten. Bei Mobile ist die Option "Sync across clients" verfügbar. Wenn diese Option aktiviert ist, wird die Theme-Einstellung auf dem Handy über Ihre anderen Clients eingestellt. Die Option Hardwarebeschleunigung ist auf Browser- oder Mobile-Editionen nicht verfügbar.
+Im Reiter Erscheinungsbild können Sie zwischen dem dunklen Modus (Standard) und dem hellen Modus für Discord wechseln, indem Sie auf das jeweilige Symbol klicken. Sie können auch zwischen gemütlichem (Standard) und kompakten Modus wechseln, den [Developer Mode](/ developermode) einschalten und die Hardware Acceleration ein- und ausschalten. Bei Mobile ist die Option "Sync across clients" verfügbar. Wenn diese Option aktiviert ist, wird die Theme-Einstellung auf dem Handy über Ihre anderen Clients eingestellt. Die Option Hardwarebeschleunigung ist in der Browser- oder Mobil-Edition nicht verfügbar.
 
 ## Spiele
-Auf der Registerkarte Spiele können Sie wählen, ob Discord das aktuelle Spiel anzeigen soll, das Sie als Status spielen. Wenn dies umgeschaltet ist und du ein Spiel spielst, wird es sagen: "Spielen ... [Spielname]" unter deinem Namen auf der Benutzerliste. Wenn kein Spiel erkannt wird, kannst du es manuell auswählen, indem du auf 'Add It' klickst. Finden Sie das Spiel im Scroll-Menü und klicken Sie darauf. Sobald es in der Blurple-Box erscheint, können Sie darauf klicken, um es umbenannt zu etwas Ihrer Wahl. Ihre manuell hinzugefügten Spiele werden automatisch auf dieser Registerkarte angezeigt. Sie können zuvor manuell hinzugefügte Spiele umbenennen, indem Sie auf ihre Namen klicken. Diese Funktion ist auf den Browser- und Mobile-Clients unavalibale, aber Sie können andere Benutzer sehen, die Status spielen.
+Auf der Registerkarte Spiele können Sie wählen, ob Discord das aktuelle Spiel anzeigen soll, das Sie im Moment spielen. Wenn dies aktiviert ist und Sie ein Spiel spielen, wird es sagen: "Spielt ... [Spielname]" unter deinem Namen auf der Benutzerliste. Wenn kein Spiel erkannt wird, kannst du es manuell auswählen, indem du auf 'Add It' klickst. Finden Sie das Spiel im Scroll-Menü und klicken Sie darauf. Sobald es in der Blurple-Box erscheint, können Sie darauf klicken, um ihm einen eigenen Namen zu geben. Ihre manuell hinzugefügten Spiele werden automatisch auf dieser Registerkarte angezeigt. Sie können zuvor manuell hinzugefügte Spiele umbenennen, indem Sie auf ihre Namen klicken. Diese Funktion ist auf den Browser- und Mobile-Clients nicht verfügbar, aber Sie können das Spiel anderer Benutzer sehen.
 
 ## Gebietsschema
-Auf der Registerkarte "Gebietsschema" können Sie die Sprache Ihres Discord-Clients ändern, indem Sie auf das Sprachmenü klicken. Es sind nur noch übersetzte Sprachen verfügbar. Manche Sprachen sind noch bearbeitet, die man hier sehen kann (https://i18n.discordapp.com).
+Auf der Registerkarte "Gebietsschema" können Sie die Sprache Ihres Discord-Clients ändern, indem Sie auf das Sprachmenü klicken. Es sind nur noch übersetzte Sprachen verfügbar. Manche Sprachen sind noch in Arbeit, der Status lässt sich [hier](https://i18n.discordapp.com) verfolgen.
 
 ## Streamer-Modus
 Auf der Registerkarte Streamer-Modus können Sie den Streamer-Modus aktivieren oder deaktivieren und umschalten, ob Discord den Streamer-Modus automatisch einschalten kann, wenn OBS oder XSplit auf Ihrem Computer ausgeführt wird.
