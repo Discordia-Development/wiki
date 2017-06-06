@@ -1,7 +1,6 @@
 <!-- TITLE: Entwicklermodus -->
 <!-- SUBTITLE: Es wird Ihnen ernsthaft im Leben helfen. -->
 
-If you're going to make use of the Discord API, for instance to create a [bot](/bots), then Discord's *Developer Mode* will be of great help to you.
 Wenn Sie die Discord API nutzen werden, zum Beispiel um einen [Bot](/bots) zu erstellen, dann wird Discord's *Developer Mode* eine große Hilfe für Sie darstellen.
 
 # Aktivieren des Entwicklermodus
