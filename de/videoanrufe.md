@@ -1,6 +1,6 @@
 <!-- TITLE:Videoanrufe -->
 
-Videoanrufe sind eine derzeit entwickelte und unveröffentlichte Funktion, welche Benutzern ermöglicht, Video von ihrer Kamera zu anderen Discord-Benutzern zu übertragen. Neben den Videoanrufen wird auch [Screensharing](/de/screensharing) entwickelt. Discord wird modifizierte WebRTC-Technologie für Videoanrufe verwenden.
+Videoanrufe sind eine derzeit entwickelte und unveröffentlichte Funktion, welche Benutzern ermöglicht, Video von ihrer Kamera zu anderen Discord-Benutzern zu übertragen. Neben den Videoanrufen wird auch [Bildschirmübertragung](/de/screensharing) entwickelt. Discord wird modifizierte WebRTC-Technologie für Videoanrufe verwenden.
 
 # Status
 Videoanrufe sind derzeit in der **internen Testphase**.
