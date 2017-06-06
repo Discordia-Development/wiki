@@ -1,5 +1,5 @@
 <!-- TITLE: Readme -->
-<!-- SUBTITLE: IGNORE THIS PAGE -->
+<!-- SUBTITLE: If you are viewing this on discordia.me, please ignore. -->
 
 # THE DISCORD WIKI
 
