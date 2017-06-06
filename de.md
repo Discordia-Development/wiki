@@ -40,4 +40,4 @@ Wir sind ein kleines Team von Discord-Enthusiasten mit den Ziel andere Leute ein
 ## Disclaimer und Legale Information
 Hallo! Wilkommen beim Discord Wiki! Wir glauben stark an Transparenz, deshalb beachten Sie unsere [Nutzungsbedingungen](/de/terms) und unsere [Datenschutzbestimmungen](/de/privacy) um alles wichtige über unsere Dienste zu wissen!
 
-### ***Discord, the Discord Ghost (Clyde™), und Discordapp (In Folge DISCORD) sind geistiges und gesetzliches Eigentum von Discord Inc. Diese Seiten, wie in den [Nutzungsbedingungen](/de/nutzungsbedingungen) festgelegt, sind nicht verbunden mit Discord Inc. oder jeglichen Tochtergesellschaften. The Discord Wiki gibt nicht an, DISCORD's geistiges Eigentum zu besitzen, bitte verklagt uns nicht.***
+### ***Discord, the Discord Ghost (Clyde™), und Discordapp (In Folge DISCORD) sind geistiges und gesetzliches Eigentum von Discord Inc. Diese Seiten, wie in den [Nutzungsbedingungen](/de/terms) festgelegt, sind nicht verbunden mit Discord Inc. oder jeglichen Tochtergesellschaften. The Discord Wiki gibt nicht an, DISCORD's geistiges Eigentum zu besitzen, bitte verklagt uns nicht.***
