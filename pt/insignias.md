@@ -22,4 +22,4 @@ Usuários que compraram [Discord Nitro](/pt/nitro) tem a insígnia do Discord Ni
  
 ![Nitrobadge](/uploads/badges/nitrobadge.png "Nitrobadge")
  
-Atualmente, apenas uma insígnia pode ser mostrada por vez, com a lista de prioridade sendo: Nitro -> HypeSquad -> Parceiro -> EquipeCurrently, only one badge may be displayed at a time, with the priority list being Nitro -> HypeSquad -> Partner -> Equipe
+Atualmente, apenas uma insígnia pode ser mostrada por vez, com a lista de prioridade sendo: Nitro -> HypeSquad -> Parceiro -> Equipe.
