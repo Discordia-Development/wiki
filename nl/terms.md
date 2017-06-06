@@ -1,5 +1,5 @@
 <!-- TITLE: Servicevoorwaarden -->
-<!-- SUBTITLE: De Servicevoorwaarden voor alle diensten aangeboden door The Discord Wiki -->
+<!-- SUBTITLE: De Servicevoorwaarden voor de door The Discord Wiki aangeboden diensten -->
 
 # 1. Acceptatie van de Servicevoorwaarden
 Welcome to **The Discord Wiki** (a.k.a. "**we**" or "**us**" or the "**Company**"). We are excited to have you as user and member of the community. The following terms and conditions (collectively, these "**Terms of Service**") apply to your use of https://discordia.me, including any content, functionality and services offered on or via https://discordia.me (the "**Services**"). The Terms of Service also include our **Privacy Policy**, which you can review [HERE](https://discordia.me/privacy)
