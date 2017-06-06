@@ -65,7 +65,7 @@ Translated:
 * [Bug Hunters](/nl/bug-hunters)
 
 Partially completed:
-* ToS
+* [ToS](/nl/terms)
 
 To-Do:
 * Privacy Policy
