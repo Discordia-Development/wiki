@@ -65,9 +65,9 @@ Translated:
 * [Bug Hunters](/nl/bug-hunters)
 
 Partially completed:
+* ToS
 
 To-Do:
-* ToS
 * Privacy Policy
 * Wumpus
 
