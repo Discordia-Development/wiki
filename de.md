@@ -4,7 +4,7 @@
 # Willkommen
 ## Über uns
 
-Wir sind ein kleines Team von Discord-Enthusiasten mit den Ziel andere Leute eine großartige VoIP Plattform, [Discord](https://discordapp.com), näherzubringen.
+Wir sind ein kleines Team von Discord-Enthusiasten mit den Ziel anderen Leuten eine großartige VoIP Plattform, [Discord](https://discordapp.com), näherzubringen.
 
 [Treten Sie unserem Discord-Server bei!](https://discord.gg/WHz5r3N)
 
