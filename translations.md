@@ -130,9 +130,10 @@ Translated:
 * [Audit Logs](/pt/audit-logs)
 * [Bots](/pt/bots)
 * [Chat Commands](/pt/comandos-de-chat)
+* [Bug Hunters](/pt/bug-hunters)
+* [Terms of Service](/pt/termos)
 
 Partially completed:
-* [Terms of Service](/pt/termos)
 
 To-Do: 
 
