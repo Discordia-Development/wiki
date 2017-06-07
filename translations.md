@@ -51,6 +51,7 @@ Translated:
 * [Discord Web](/de/web)
 * [Discord Canary](/de/canary)
 * [ToS](/de/terms)
+* [Screen Sharing](/de/bildschirmübertragung)
 
 Partially completed:
 * Wumpus
