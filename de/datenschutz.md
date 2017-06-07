@@ -2,7 +2,7 @@
 <!-- SUBTITLE: Die Datenschutzbestimmungen für alle Dienste von The Discord Wiki -->
 
 # Einführung
-Bei The Discord Wiki sammeln und verwalten wir Benutzerdaten nach den folgenden Datenschutzbestimmungen mit dem Ziel, unsere Unternehmenswerte zu integrieren: Transparenz, Zugänglichkeit, Vernunft, Nutzbarkeit. Dieses Dokument ist Teil von The Discord Wiki's [Nutzungsbedingungen](de/nutzungßbedingungen) und mit der Benutzung von https://discordia.me (den "Diensten") erklären Sie sich mit den Bestimmungen dieser Datenschutzerklärung und der Nutzungsbedingungen einverstanden. Bitte lesen Sie die Nutzungsbedingungen in ihrer Gesamtheit und verweisen Sie auf diese für Definitionen und Kontakte.
+Bei The Discord Wiki sammeln und verwalten wir Benutzerdaten nach den folgenden Datenschutzbestimmungen mit dem Ziel, unsere Unternehmenswerte zu integrieren: Transparenz, Zugänglichkeit, Vernunft, Nutzbarkeit. Dieses Dokument ist Teil von The Discord Wiki's [Nutzungsbedingungen](de/nutzungsbedingungen) und mit der Benutzung von https://discordia.me (den "Diensten") erklären Sie sich mit den Bestimmungen dieser Datenschutzerklärung und der Nutzungsbedingungen einverstanden. Bitte lesen Sie die Nutzungsbedingungen in ihrer Gesamtheit und verweisen Sie auf diese für Definitionen und Kontakte.
 
 # Gesammelte Daten
 Wir sammeln anonyme Daten von jedem Besucher der Dienste, um den Verkehr zu überwachen und Fehler zu beheben. Zum Beispiel sammeln wir Informationen wie Webanfragen, die Daten, die als Antwort auf solche Anfragen gesendet werden, die Internetprotokolladresse, den Browsertyp, die Browsersprache und einen Zeitstempel für die Anforderung.
