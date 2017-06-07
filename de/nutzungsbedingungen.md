@@ -2,7 +2,7 @@
 <!-- SUBTITLE: Die Nutzungsbedingungen für alle Dienste von The Discord Wiki -->
 
 # 1. Annahme der Nutzungsbedingungen
-Willkommen bei **The Discord Wiki** (in Folge "**Wir**" oder "**uns**" oder die "**Firma**"). Wir freuen uns, Sie als Benutzer und Mitglied der Community zu haben. Die folgenden Allgemeinen Geschäftsbedingungen (zusammenfassend gelten diese "**Nutzungsbedingungen**") für Ihre Nutzung von https://discordia.me, einschließlich aller Inhalte, Funktionen und Dienste, die auf oder über https://discordia.me angeboten werden (die **Dienstleistungen**"). Die Nutzungsbedingungen beinhalten auch unsere **Datenschutzerklärung**, welche Sie [HIER](https://discordia.me/de/privacy) einsehen können.
+Willkommen bei **The Discord Wiki** (in Folge "**Wir**" oder "**uns**" oder die "**Firma**"). Wir freuen uns, Sie als Benutzer und Mitglied der Community zu haben. Die folgenden Allgemeinen Geschäftsbedingungen (zusammenfassend gelten diese "**Nutzungsbedingungen**") für Ihre Nutzung von https://discordia.me, einschließlich aller Inhalte, Funktionen und Dienste, die auf oder über https://discordia.me angeboten werden (die **Dienstleistungen**"). Die Nutzungsbedingungen beinhalten auch unsere **Datenschutzerklärung**, welche Sie [HIER](/de/datenschutz) einsehen können.
 
 Wir möchten unsere Beziehung mit Ihnen so ungezwungen wie möglich halten, aber bitte lesen Sie die Nutzungsbedingungen sorgfältig, bevor Sie mit der Nutzung der Dienste beginnen, denn **indem Sie die Dienste verwenden erklären Sie sich damit einverstanden, diese Nutzungsbedingungen einzuhalten.**
 
