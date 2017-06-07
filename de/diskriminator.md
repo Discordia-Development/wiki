@@ -1,6 +1,5 @@
 <!-- TITLE: Diskriminator -->
 <!-- SUBTITLE: Information über Diskriminatoren in Discord -->
-​
 # Diskriminator
 Ein Diskriminator ist die Zahl, welche neben jemandes Benutzernamen auf Discord steht. Diskriminatoren sind Discord's Methode, zwischen Benutzern mit dem selben Benutzernamen zu unterscheiden.
 
