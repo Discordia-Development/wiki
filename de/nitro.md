@@ -13,11 +13,11 @@ Ein Discord Nitro-Abonnement bietet Zugriff auf die folgenden Funktionen:
 
 * GIF Avatar.
 * Möglichkeit, Emoji von Servern in anderen Servern zu verwenden (wenn der Benutzer in dem Server die "Benutzerdefinierte Emojis verwenden"-Berechtigung besitzt).
-* Maximale Upload-Datergröße von 8MB auf 50MB erhöht.
+* Maximale Upload-Dateigröße von 8MB auf 50MB erhöht.
 * Discord Nitro [Badge](/badges) am Profil.
 
 # Nitro kaufen
-Um Nitro zu erwerben, klicken Sie auf das Benutzereinstellungen-Zahnrad unten links auf Ihrem Bildschirm und klicken Sie auf die Registerkarte Nitro. Dort wählen Sie monatlich oder jährlich, geben Sie Ihre Kredit-oder Debitkarteninformationen, dann Ihre Postleitzahl, wenn Sie dazu aufgefordert werden. Leider wird Paypal zum Zeitpunkt der Publikation nicht unterstützt.
+Um Nitro zu erwerben, klicken Sie auf das Benutzereinstellungen-Zahnrad unten links auf Ihrem Bildschirm und klicken Sie auf die Registerkarte Nitro. Dort wählen Sie monatlich oder jährlich, geben Sie Ihre Kredit-oder Debitkarteninformationen ein, dann Ihre Postleitzahl, wenn Sie dazu aufgefordert werden. Leider wird Paypal zum Zeitpunkt der Publikation nicht unterstützt.
 
 # Offizielles Einführungsvideo
 
