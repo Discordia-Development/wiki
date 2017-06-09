@@ -4,7 +4,7 @@ The settings below are specific to servers.
 
 > Accessing Server Settings
 
-![Access](/uploads/server-settings/access.gif "Access")
+![Test](/uploads/server-settings/test.png "Test")
 
 # Tabs
 
