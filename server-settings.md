@@ -4,7 +4,7 @@ The settings below are specific to servers.
 
 > Accessing Server Settings
 
-![test](/uploads/server-settings/test.webp "test")
+[video](https://discordia.me/uploads/server-settings/test.mp4){.video}
 
 # Tabs
 
