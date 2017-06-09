@@ -2,6 +2,10 @@
 
 The settings below are specific to servers.
 
+> Accessing Server Settings
+
+![test](/uploads/server-settings/test.webp "test")
+
 # Tabs
 
 ## Overview
