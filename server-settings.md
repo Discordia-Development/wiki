@@ -4,7 +4,7 @@ The settings below are specific to servers.
 
 > Accessing Server Settings
 
-[video](https://discordia.me/uploads/server-settings/test.mp4){.video}
+![Access](/uploads/server-settings/access.gif "Access")
 
 # Tabs
 
