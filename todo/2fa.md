@@ -11,6 +11,7 @@ To enable Two-Factor Authentication, open your User Settings by clicking the cog
 Backup Codes
 
 You will require Backup Codes in case you lose your phone or have no access to it otherwise. After entering your Email and Password when being asked to enter a 2FA code you can click the text below it and enter one of these Backup Codes.
+
 **Each backup code can only be used once.**
 
 ## Disabling 2FA
