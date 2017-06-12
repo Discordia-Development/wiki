@@ -8,7 +8,7 @@ Users using Streamer Mode will have a purple dot as their online status on the u
 ![alt text](http://i.imgur.com/zt8qHVQ.png?1)
 
 # Activating Streamer Mode
-To use Streamer Mode, click the cog on the bottom left of the Discord application to access the User Settings and click on 'Streamer Mode'.
+To use Streamer Mode, click the cog on the bottom left of the Discord application to access the [User Settings](/user-settings) and click on 'Streamer Mode'.
 
 From this tab you may enable or disable Streamer Mode or let Discord automatically toggle it on and off if it detects OBS or XSplit running on yur computer.
 
