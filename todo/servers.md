@@ -19,14 +19,10 @@ Text channels are how users communicate with each other on a server. Each server
 ## Voice Channels
 Voice channels allow server members to talk to each other using their voices. There is no default voice channels and all permissions may be edited for any voice channel. Servers are not required to have voice channels, but they make the party a bit more fun!
 ## Roles
-Servers contain roles which - when assigned - give users certain permissions and a custom name-color (if set). Servers typically use roles to assign special permissions or signify a rank on an external website.
-
-> More information regarding Roles may be found at https://discordia.me/roles
+Servers contain [roles](/roles) which - when assigned - give users certain permissions and a custom name-color (if set). Servers typically use roles to assign special permissions or signify a rank on an external website.
 
 ## Custom Emoji
-Each server is allowed to upload 50 custom emoji, which can be used by any member (with the permission) on the server. If a user has Nitro, they may use the server's custom emoji on any other server or private message that allows it. To upload custom emoji (if you have the 'Manage Emojis' permission) go to Server Settings and click the Emoji button. Once there, you will be promoted you may upload emoji and rename them. You may also delete emoji from this page.
-
-> More information regarding custom emoji may be found at https://discordia.me/emoji
+Each server is allowed to upload 50 custom [emoji](/emoji), which can be used by any member (with the permission) on the server. If a user has Nitro, they may use the server's custom emoji on any other server or private message that allows it. To upload custom emoji (if you have the 'Manage Emojis' permission) go to Server Settings and click the Emoji button. Once there, you will be promoted you may upload emoji and rename them. You may also delete emoji from this page.
 # Verification Levels
 Server administrators may toggle the verification level. When a verification level is set, members must meet the criteria before they can create a direct message with someone in the server or send messages in a text channel. If a member is assigned a role, they will bypass the verification.
 
@@ -34,7 +30,8 @@ Levels:
 * None
 * Low - Must have verified the email address tied to their Discord account.
 * Medium - In addition to the "Low" verification level, the user must also be registered on Discord for longer than 5 minutes.
-* (╯°□°）╯︵ ┻━┻ - In addition to the "Low" and "Medium" verification levels, the user must also be in the server for 10 minutes.
+* (╯°□°）╯︵ ┻━┻ - In addition to the above verification levels, the user must also be in the server for 10 minutes.
+* ┻━┻ ﾐヽ(ಠ益ಠ)ノ彡┻━┻ - The user must have a verified phone number tied to their Discord account.
 
 # Vanity URLs
 Some servers have custom invite URLs containing words instead of randomly generated numbers and letters. One example of this is https://discord.gg/discord-developers, which links to the Discord Developers server. Servers typically get vanity URLs if they are a [Discord Partner](/partner). Only Discord Developers or Partnered users can create Vanity URLs for servers that have been partnered.
