@@ -1,5 +1,4 @@
 <!-- TITLE: List of Official Inside Jokes -->
-<!-- SUBTITLE: Editor's Note: A large chunk of this page was forked, with permission, from Super's Discord Game Night document. --!>
 
 Due to Discord's tongue-in-cheek nature on social media, coupled with the populatiry of the app itself, Discord has ended up spawning several inside jokes among it's users on official servers. 
 
