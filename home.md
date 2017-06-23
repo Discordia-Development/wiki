@@ -18,7 +18,7 @@ We're a small team of Discord enthusiasts, aiming to raise awareness of a great 
 * @Harrison#9100
 * @Tiemen#0107
 * @Mikesky#3456
-* @西木野真姫★★★★#9667
+* @守部 洵 ★★★★#9667
 
 > ***[Internationalization (i18n)](http://discordia.me/translations)***
 
