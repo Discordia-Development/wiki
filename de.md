@@ -18,7 +18,7 @@ Wir sind ein kleines Team von Discord-Enthusiasten mit den Ziel anderen Leuten e
 * @Harrison#9100
 * @Tiemen#0107
 * @Mikesky#3456
-* @西木野真姫★★★★#9667
+* @守部 洵 ★★★★#9667
 
 > ***[Internationalisierung (i18n)](http://discordia.me/translations)***
 
