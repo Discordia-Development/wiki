@@ -31,7 +31,7 @@ Once on the Keybord Combo menu, type the command 'hh [right arrow] nk'. Typing t
 On the [Discord API Rate Limits documentation page](https://discordapp.com/developers/docs/topics/rate-limits) there is a [colon](http://i.imgur.com/BkLamTK.png) that when clicked opens [this website](http://takeb1nzyto.space). The website is a fun animation created by [Dougley](http://dougleyownsthisdomain.takeb1nzyto.space/). This easter egg was implimented by Night, a Discord staff member.
 
 # Miguel's Fedora
-On the Discord [Company Page](https://discordapp.com/company) you can click on the different staff member's heads. When you click on a head, an object (such as a pokeball) will fall on it. If you click on Miguel Gaeta's head, one of the objects that might fall is a blurple fedora (amount of clicks until the fedora appears varies). 
+On the Discord [Jobs Page](https://discordapp.com/jobs) you can click on the different staff member's heads. When you click on a head, an object (such as a pokeball) will fall on it. If you click on Miguel Gaeta's head, one of the objects that might fall is a blurple fedora (amount of clicks until the fedora appears varies). 
 
 ![Miguel](/uploads/easter-eggs/miguel.png "Miguel")
 
