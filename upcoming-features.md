@@ -39,6 +39,7 @@ The main, most discussed, upcoming features are screen sharing and video calling
 | Channel Settings | Planned |
 | Compress Image Toggle | Planned |
 | Infinite Scrolling | Planned |
+| Rich Presense | Planned |
 | Screensharing & Video Chat | Planned |
 | Security Compatibility | Planned |
 | Security Tab/2FA Enable/Disable | Planned |
