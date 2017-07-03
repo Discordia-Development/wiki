@@ -10,38 +10,37 @@ The main, most discussed, upcoming features are screen sharing and video calling
 
 ## Desktop
 
-|													Feature															|				Status					|
-|-------------------------------------------------------------|-----------------------|
-| Block quotes																								| Planned								|
-| Channel Categories																					| In Development				|
-| Permissions Preview Tool																		| Planned								|
-| Report button																								| Gradually Rolling Out	|
-| [Screensharing](/screensharing) & [Video Chat](/video-chat)	| In Internal Testing		|
-| Spellcheck																									| Planned								|
-| Windows Icon Badge																					| Planned								|
+| Feature |	Status |
+|---------|---------|
+| Block quotes | Planned |
+| Channel Categories | In Development |
+| Permissions Preview Tool | Planned |
+| Report button | Retooling	|
+| [Screensharing](/screensharing) & [Video Chat](/video-chat) | In Internal Testing |
+| Spellcheck | Planned |
+| Windows Icon Badge | Planned |
 
 ## iOS
-|					Feature					| Status	|
-|-------------------------|---------|
-| 3D Touch Support				| Planned |
-| Chat Rewrite						| Planned |
-| Custom Keyboard					| Planned |
-| Mobile Emoji Picker			| Planned |
-| Rich Push Notifications	| Planned |
-| Security Compatibility	| Planned |
-| Server Sorting					| Planned |
-| Share on Discord				| Planned |
+| Feature | Status	|
+|---------|---------|
+| 3D Touch Support | Planned |
+| Chat Rewrite | Planned |
+| Custom Keyboard | Planned |
+| Rich Push Notifications | Planned |
+| Security Compatibility | Planned |
+| Server Sorting | Planned |
+| Share on Discord | Planned |
+| User Settings | Planned |
 
 ## Android
-|								Feature										|						Status						|
-|-----------------------------------------|-----------------------------|
-| Adding Reactions												| Available in Android Alpha	|
-| Channel Settings												| Planned											|
-| Compress Image Toggle										| Planned											|
-| Enhanced Table Flip Verification Level	| Available in Android Beta		|
-| Infinite Scrolling											| Planned											|
-| Security Compatibility									| Planned											|
-| Security Tab/2FA Enable/Disable					| Planned											|
-| User Settings														| In Development							|
+| Feature | Status |
+|---------|--------|
+| Channel Categories | Planned |
+| Channel Settings | Planned |
+| Compress Image Toggle | Planned |
+| Infinite Scrolling | Planned |
+| Screensharing & Video Chat | Planned |
+| Security Compatibility | Planned |
+| Security Tab/2FA Enable/Disable | Planned |
 
 > Disclaimer: These are unreleased features and they might change before they are released to Canary/Android Alpha/TestFlight users. They might not be released at all, and  ETAs are not available.
