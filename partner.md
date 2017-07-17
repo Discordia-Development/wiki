@@ -25,7 +25,7 @@ According to their website, Discord looks for 'growing communities and content c
 
 **Specific communities that are usually accepted include:**
 * Reddits (8000+ subs)
-* Social Personalities (Large facebook, twitter, etc online personalities [10,000+ followers])
+* Social Personalities (Large Facebook, Twitter, etc online personalities [10,000+ followers])
 * Content Creators/Streamers (Beam, Twitch, YouTube, Player.me, etc)
 * Non-Profits (100% acceptance if you can provide your EID)
 * Large Communities (Large guilds or gaming groups)
