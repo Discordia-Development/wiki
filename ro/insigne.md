@@ -10,7 +10,7 @@ Această insignă este dată tuturor angajaților Discord. Dacă cineva pretinde
 ![Staffbadge](/uploads/badges/staffbadge.png "Staffbadge")
 
 # Discord Partner
-Utilizatorii cu titlul de Discord [Partners](/partner) au această insignă pe profilul lor. Singurul mod de a obține această insignă este de a deveni un Discord Partner.
+Utilizatorii cu titlul de Discord [Partners](https://discordia.me/ro/partner) au această insignă pe profilul lor. Singurul mod de a obține această insignă este de a deveni un Discord Partner.
 
 ![Partnerbadge](/uploads/badges/partnerbadge.png "Partnerbadge")
 # Discord Hypesquad
