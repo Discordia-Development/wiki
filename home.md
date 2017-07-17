@@ -11,9 +11,9 @@ We're a small team of Discord enthusiasts, aiming to raise awareness of a great 
 <a href="https://discord.gg/WHz5r3N">![DISCORD EMBED PLUGIN](https://discordapp.com/api/guilds/268800390961561601/widget.png?style=banner2)</a>
 
 ## Editorial Staff
-> ***High Council***
+> ***Wiki Administrators***
 
-*Responsible for maintaining Discordia and The Discord Wiki (managers).*
+*Responsible for maintaining The Discord Wiki and its suport server.*
 * @Dru#7700
 * @Harrison#9100
 * @Tiemen#0107
