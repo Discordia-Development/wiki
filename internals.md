@@ -21,13 +21,13 @@ Technologies Discord uses to provide the service as we know it, gathered from [D
 All the clusters were made to be fault tolerant(read: "not crash") and handle cases where a node of them goes out
 or when a cluster goes down and wait a bit before requesting from the cluster again.
 
-Sources:
+## Sources
  - [Description of a full outage where they had to reboot everything](https://status.discordapp.com/incidents/dj3l6lw926kl)
  - [`sessions` and `presence` clusters get rebooted due to a host error in a `guild` node](https://status.discordapp.com/incidents/ywdwttd6b0hg)
  - [Repeating message sends due to errors in the `push` cluster](https://status.discordapp.com/incidents/93kyyctg0wf3)
  - ["furiously" spinning an nginx cluster due to an error in GCP's load balancer](https://status.discordapp.com/incidents/rhvp2tn7g0zc)
 
-
+## Clusters
  - `sessions` cluster
    - Manages multiple sessions per node in the cluster(as Elixir allows it).
    - Relationships:
