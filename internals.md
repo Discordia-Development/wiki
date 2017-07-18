@@ -44,7 +44,7 @@ or when a cluster goes down and wait a bit before requesting from the cluster ag
 
 There is some stuff regarding the resume logic for clients:
  - Session nodes have a message deque, that gets filled with each event your client receives
-   - If you want to resume from a sequence number that isn't in the deque, your session gets invalidates
+   - If you want to resume from a sequence number that isn't in the deque, your session gets invalidated
 
  - When Discord goes down, you might get a `PRESENCES_REPLACE` event
     - That is sent when your session node notices your client is lagging behind new presence updates.
