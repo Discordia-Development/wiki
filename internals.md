@@ -27,6 +27,7 @@ Sources:
  - [Repeating message sends due to errors in the `push` cluster](https://status.discordapp.com/incidents/93kyyctg0wf3)
  - ["furiously" spinning an nginx cluster due to an error in GCP's load balancer](https://status.discordapp.com/incidents/rhvp2tn7g0zc)
 
+
  - `sessions` cluster
    - Manages multiple sessions per node in the cluster(as Elixir allows it).
    - Relationships:
