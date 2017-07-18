@@ -6,6 +6,6 @@ Screensharing is an unreleased feature which will allow the user to capture and 
 # Status
 Screensharing is currently in the **internal testing** phase.
 # Limitations
-Screensharing will probably only be available in the Desktop version of Discord, as neither the web version nor the mobile versions have the necessary ingredients to access the screen content. Also it will only be released to [Group DMs and DMs](/direct-messages).
+Screensharing will most likely be available only for the desktop clients, Google Chrome and Android (Android screensharing is mentioned as planned by the developers). A [Discord Screen Sharing extension](https://chrome.google.com/webstore/detail/discord-screen-sharing/lcbhdgefieegnkbopmgklhlpjjdgmbog) that does nothing except for allow Discord permission to share your screen has been added to the Chrome Web Store, screensharing on Chrome will not work until it is enabled in the client however. Also, screensharing only be released to [Group DMs and DMs](/direct-messages).
 
 > Disclaimer: This is an unreleased feature and it might change before it is opened to Canary users. It might not be released at all, and an ETA is not available.
