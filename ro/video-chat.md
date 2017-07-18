@@ -10,4 +10,4 @@ Video Chat este momentan în faza de testare internă.
 
 Video chat va fi probabil disponibil doar pentru platformele desktop. De asemenea, va putea fi folosit doar în [MD-uri de grup și MD-uri](/direct-messages).
 
-> Observație: Acesta este un serviciu ce nu a fost încă lansat și se poate schimba până va fi disponibil pentru utilizatorii Canary. S-ar putea și să nu mai fie lansat, de asemenea, un timp estimat de așteptare până când va avea loc lansare nu este disponibil.
+> Observație: Acesta este un serviciu ce nu a fost încă lansat și se poate schimba până va fi disponibil pentru utilizatorii Canary. S-ar putea și să nu mai fie lansat, de asemenea, un timp estimat de așteptare până când va avea loc lansarea nu este disponibil.
