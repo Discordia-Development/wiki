@@ -4,7 +4,7 @@
 # Discord Internals
 
 Discord's stack as we know it, gathered from Discord's engineering articles and some other stuff:
- - [Cassandra](http://cassandra.apache.org/) for storage(they used [MongoDB](https://www.mongodb.com/) in the first 2 months of Discord).
+ - [Cassandra](http://cassandra.apache.org/) for storage(they used [MongoDB](https://www.mongodb.com/) in the first 2 months of Discord, [source](https://blog.discordapp.com/how-discord-stores-billions-of-messages-7fa6ec7ee4c7)).
  - [Elixir](https://elixir-lang.org/) for the `sessions`, `presence` and `guild` clusters.
  - [Python](https://www.python.org/) for HTTP/REST API.
  - [Go](https://golang.org/) for the embed servers and logging
