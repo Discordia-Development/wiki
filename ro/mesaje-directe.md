@@ -1,4 +1,3 @@
-
 <!-- TITLE:Mesaje Directe -->
 <!-- SUBTITLE: Trimite direct mesaje utilizatorilor înafara serverelor  -->
 
@@ -12,7 +11,7 @@ Mesajele Directe (pe scurt MD-uri) sunt o versiune simplă de servere între mai
 - Nu este nevoie să fiți prieteni (depinde de setări)
 - Trebuie să aveți un server în comun (depinde de setări)
 
-# Mesaje de grup
+# Mesaje de Grup
 
 - Între cel puțin 3 utilizatori
 - Fără permisiuni
