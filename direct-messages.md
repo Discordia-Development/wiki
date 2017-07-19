@@ -15,4 +15,4 @@ Direct Messages (in short DMs) are a minimalist version of Discord guilds betwee
 * Users may only add their friends
 * Bots can't be added
 
-In the future, some features like Video Calling and Screensharing will be brought to Direct Messages.
+In the future, some features like [Video Calling](/video-chat) and [Screensharing](/screensharing) will be brought to Direct Messages.
