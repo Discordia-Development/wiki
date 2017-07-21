@@ -24,4 +24,4 @@ Discord este disponibil pe mai multe platforme:
 
 **Android:** Discord este disponibil pentru orice dispozitiv Android care rulează o versiune de Android mai nouă de 4.1.
 
-**iOS:** Discord este disponibile pentru utilizatorii iOS cu dispozitive care rulează o versiune de iOS mai nouă de iOS 8.
+**iOS:** Discord este disponibil pentru utilizatorii iOS cu dispozitive care rulează o versiune de iOS mai nouă de iOS 8.
