@@ -16,9 +16,9 @@ Discord is available on multiple platforms:
 
 **Mac:** Discord is available for OSX and macOS computers.
 
-**Linux:** Discord is available for any modern Linux distribution. formats offered include .deb and .tar.gz.
+**Linux:** Discord is available for any modern Linux distribution. Formats offered include .deb and .tar.gz.
 
 ## Mobile
 **Android:** Discord is available for android devices running Android 4.1 and above.
 
-**iOS** Discord is available for iOS users with devices running iOS 8 and above.
+**iOS:** Discord is available for iOS users with devices running iOS 8 and above.
