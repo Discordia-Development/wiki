@@ -27,7 +27,7 @@ So, what does this all mean? Well, whenever a user performs an action, it is log
 * Role Creation, Deletion, and Updates
 * Server Updates
 * Webhook Creation, Deletion, and Updates
-* Message Deletion by Non-[Bots](/bots)
+* Message Deletion by Users and [Bots](/bots)
 
 
 # Getting the Details
