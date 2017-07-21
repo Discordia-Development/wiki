@@ -46,4 +46,4 @@ Este posibil să ascunzi reacțiile dezactivând opțiunea „Arată reacții cu
 
 ## Video
 
-Reacțiile au apărut pe Discord pe 3 noimebrie, 2016. [Un video](https://www.youtube.com/watch?v=pWg1uwwtB9o) a fost încărcat pe canalul de Youtube Discord App ca anunț. După anunț, Zencha este arătat făcând experimente științifice într-un parc din apropriere.
+Reacțiile au apărut pe Discord pe 3 noimebrie, 2016. [Un video](https://www.youtube.com/watch?v=pWg1uwwtB9o) a fost încărcat pe canalul de Youtube Discord App ca anunț. După ce se face anunțul, Zencha este arătat făcând experimente științifice într-un parc din apropriere.
