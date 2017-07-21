@@ -40,7 +40,7 @@ Cu permisiunile necesare, poți șterge toate reacțiile pentru un mesaj, folosi
 
 ## Ascunderea reacțiilor
 
-Este posibil să ascunzi reacțiile dezactivând setarea „Arată reacții cu emoji la mesaje” în secția „Text & Imagini” din setările programului Discord. Această schimbare se aplică **doar pentru tine** - reacțiile vor funcționa încă pentru alți oameni dacă le dezactivezi, ele pur și simplu nu vor fi vizibile pentru tine.
+Este posibil să ascunzi reacțiile dezactivând opțiunea „Arată reacții cu emoji la mesaje” în secția „Text & Imagini” din setările programului Discord. Această schimbare se aplică **doar pentru tine** - reacțiile vor funcționa încă pentru alți oameni dacă le dezactivezi, ele pur și simplu nu vor fi vizibile pentru tine.
 
 ![Reaction Visibility](/uploads/settings/reaction-visibility.png "Reaction Visibility")
 
