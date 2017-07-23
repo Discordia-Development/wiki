@@ -2,7 +2,7 @@
 <!-- SUBTITLE: A quick summary of Upcoming Features -->
 
 # Upcoming Features
-This is a list of features that will occasionally updated with information about upcoming features that will exist in the future on Discord, whether it be Desktop, Android, or iOS. The features listed on here are currently in development or in internal testing unless stated otherwise.
+This is a list of features that will be occasionally updated with information about upcoming features that will exist in the future on Discord, whether it be Desktop, Android, or iOS. The features listed on here are currently in development or in internal testing unless stated otherwise.
 
 The main, most discussed, upcoming features are screen sharing and video calling, channel categories, and the report button.
 
