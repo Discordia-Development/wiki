@@ -11,6 +11,3 @@ Poți alege să primești notificații TSS sau, poți alege și când să le pri
 - Dezactivezi TTS pentru toate canalele și serverele în care ești, recomandat dacă vrei doar mesaje scrise fără TTS.
 
 TTS poate de asemenea fi dezactivat complet în Setările Utilizatorului > Text și Imagini > Permite redarea verbală și utilizarea comenzii /tts.<!-- TITLE: Tts -->
-<!-- SUBTITLE: A quick summary of Tts -->
-
-# Header
