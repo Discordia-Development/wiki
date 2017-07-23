@@ -3,18 +3,18 @@
 
 # Servicii care urmează să fie lansate
 
-Aceasta este o listă care va fi ocazional actualizată cu servicii care urmează să fie lansate și care vor fi disponibile pe Discord în viitor pentru Desktop, Android sau iOS. Aceste servicii sunt în curse de dezvoltare sunt sunt testate intern dacă nu este altceva menționat.
+Aceasta este o listă care va fi ocazional actualizată cu servicii care urmează să fie lansate și care vor fi disponibile pe Discord în viitor pentru Desktop, Android sau iOS. Aceste servicii sunt în curs de dezvoltare sau sunt testate intern dacă nu este altceva menționat.
 
-Serviciile principale, cele mai discutate sunt screensharing, video chat, categorii pentru canale și butonul de sesizări
+Serviciile principale, cele mai discutate sunt screensharing, video chat, categorii pentru canale și butonul de sesizări.
 
-> Observație: Aceasta nu este o listă completă a serviciilor la care lucrează Discord și nu este nici într-o anumită ordine. Aceste servicii for fi lansate atunci când Discord crede că sunt pregătite să fie lansate.
+> Observație: Aceasta nu este o listă completă a serviciilor la care Discord lucrează și nu este nici într-o anumită ordine. Aceste servicii for fi lansate atunci când Discord crede că sunt pregătite să fie lansate.
 
 ## Desktop
 
 | Serviciu                                  | Stare             |
 | ---------------------------------------- | ------------------ |
 | Block quotes                             | Planificat         |
-| Categorii Pentru Canale                  | In Development     |
+| Categorii Pentru Canale                  | În Dezvoltare     |
 | Posibilitatea de a Previzualiza Permisiunile | Planificat         |
 | Buton Pentru Sesizări                    | Trebuie Refăcut    |
 | [Screensharing](/screensharing) & [Video Chat](/video-chat) | Se Testează Intern |
