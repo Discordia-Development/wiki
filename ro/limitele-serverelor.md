@@ -3,7 +3,7 @@
 
 # Limitele Serverelor
 
-Această pagină încearcă să enumere diverse „limite” impuse serverelor noastre pe Discord, în mare parte pentru a răspunde la întrebările de tip „câte X pot face?”. Este important că înafară de limita de mai mult de 5000 de utilizatori online, **niciuna dintre acestea poate fi modificată**. Momentan, nu există niciun mod prin care un server poate întrece limitele enumerate mai jos.
+Această pagină încearcă să enumere diverse „limite” impuse serverelor noastre pe Discord, în mare parte pentru a răspunde la întrebările de tip „câte X pot face?”. Este important că înafară de limita de mai mult de 5000 de utilizatori online, **niciuna dintre acestea nu poate fi modificată**. Momentan, nu există niciun mod prin care un server poate întrece limitele enumerate mai jos.
 
 - Un utilizator nu poate fi în mai mult de **100 de servere**. Odată ce această limită este întrecută, orice invitație pentru orice server va fi afișată ca „Invitație Expirată”.
 - Teoretic, nu există un număr maxim de membrii pentru servere, există servere cu zeci de mii de utilizatori (peste 75,000 într-un caz). 
