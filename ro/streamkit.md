@@ -21,7 +21,7 @@ Următoarele integrări îți dau posibilitatea de a sincroniza aplicațiile de 
 
 # Roboți
 
- StreamKit îți sugerează să folosești următorii roboți pentru server-ul Discord legat de streaming:
+ StreamKit îți sugerează să folosești următorii roboți pentru server-ul tău Discord legat de streaming:
 
 - [Septapus](http://septapus.com/) - Face benzi desenate de una până la șase secvențe cu dialoguri luate direct de pe server-ul de Discord.
 - [Airhorn Solutions](https://airhorn.solutions/) - Poate reda o grămadă de sunete printre care se numără Airhorns și alte memes audio.
