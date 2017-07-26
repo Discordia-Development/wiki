@@ -1,5 +1,5 @@
 <!-- TITLE: Quick Switcher -->
-<!-- SUBTITLE: Cu putrea fulgerului, Quick Switcher este o nouă cale de accesa serverele tale favorite mai repede ca niciodată! -->
+<!-- SUBTITLE: Cu puterea fulgerului, Quick Switcher este o nouă cale de accesa serverele tale favorite mai repede ca niciodată! -->
 
 # Prezentare
 
