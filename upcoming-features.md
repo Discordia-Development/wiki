@@ -13,7 +13,7 @@ The main, most discussed, upcoming features are screen sharing and video calling
 | Feature |	Status |
 |---------|---------|
 | Block quotes | Planned |
-| Channel Categories | In Development |
+| Channel Categories | In Internal Testing |
 | Permissions Preview Tool | Planned |
 | Report button | Retooling	|
 | [Screensharing](/screensharing) & [Video Chat](/video-chat) | In Internal Testing |
@@ -44,4 +44,4 @@ The main, most discussed, upcoming features are screen sharing and video calling
 | Security Compatibility | Planned |
 | Security Tab/2FA Enable/Disable | Planned |
 
-> Disclaimer: These are unreleased features and they might change before they are released to Canary/Android Alpha/TestFlight users. They might not be released at all, and  ETAs are not available.
+> Disclaimer: These are unreleased features and they might change before they are released to Canary/Android Alpha/TestFlight users. They might not be released at all, and ETAs are not available.
