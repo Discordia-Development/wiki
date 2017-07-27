@@ -1,7 +1,7 @@
 <!-- TITLE: Mentions -->
 <!-- SUBTITLE: Notify users directly -->
 
-Mentions are a way to directly notify an user, multiple users or roles in messages. The main purpose of them is to be able to get someone into a channel or showing you're talking to them specifically. You can mention users or roles using `@name`.
+Mentions are a way to directly notify a user, multiple users or roles in messages. The main purpose of them is to be able to get someone into a channel or showing you're talking to them specifically. You can mention users or roles using `@name`.
 
 # Mentioning users
 When mentioning a user directly, they will receive a notification and the message will be highlighted for them. There's no permissions to mention users individually. To mention an user in the client or web app you can start typing out their name, having a selection menu pop up or right click the user and select "Mention". On the mobile application you can just press on the user's name or profile picture and they will be mentioned in the text box.
