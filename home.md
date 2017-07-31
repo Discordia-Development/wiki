@@ -13,7 +13,7 @@ We're a small team of Discord enthusiasts, aiming to raise awareness of a great 
 ## Editorial Staff
 > ***Wiki Administrators***
 
-*Responsible for maintaining The Discord Wiki and its suport server.*
+*Responsible for maintaining The Discord Wiki and its support server.*
 * @Dru#7700
 * @Harrison#9100
 * @Tiemen#0107
