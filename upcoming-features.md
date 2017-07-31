@@ -14,6 +14,7 @@ The main, most discussed, upcoming features are screen sharing and video calling
 |---------|---------|
 | Block quotes | Planned |
 | Channel Categories | In Internal Testing |
+| Game Notifications | Gradually Rolling Out
 | Permissions Preview Tool | Planned |
 | Report button | Retooling	|
 | [Screensharing](/screensharing) & [Video Chat](/video-chat) | In Internal Testing |
@@ -24,24 +25,29 @@ The main, most discussed, upcoming features are screen sharing and video calling
 | Feature | Status	|
 |---------|---------|
 | 3D Touch Support | Planned |
+| Badges | In Internal Testing |
+| Channel Categories | Planned |
 | Chat Rewrite | Planned |
 | Custom Keyboard | Planned |
+| iOS 11 Compatibility | Planned |
 | Rich Push Notifications | Planned |
 | Security Compatibility | Planned |
 | Server Sorting | Planned |
 | Share on Discord | Planned |
 | User Settings | Planned |
+| Video Chat | Planned |
 
 ## Android
 | Feature | Status |
 |---------|--------|
+| Double Infinite Scrolling | Planned |
 | Channel Categories | Planned |
 | Channel Settings | Planned |
 | Compress Image Toggle | Planned |
-| Infinite Scrolling | Planned |
+| GIF Picker In-Line Keyboard | Planned |
 | Rich Presence | Planned |
 | Screensharing & Video Chat | Planned |
-| Security Compatibility | Planned |
 | Security Tab/2FA Enable/Disable | Planned |
+| Video Embeds | Planned |
 
 > Disclaimer: These are unreleased features and they might change before they are released to Canary/Android Alpha/TestFlight users. They might not be released at all, and ETAs are not available.
