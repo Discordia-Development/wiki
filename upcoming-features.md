@@ -35,7 +35,7 @@ The main, most discussed, upcoming features are screen sharing and video calling
 | Server Sorting | Planned |
 | Share on Discord | Planned |
 | User Settings | Planned |
-| Video Chat | Planned |
+| Video Chat | In Development |
 
 ## Android
 | Feature | Status |
