@@ -25,7 +25,7 @@ The main, most discussed, upcoming features are screen sharing and video calling
 | Feature | Status	|
 |---------|---------|
 | 3D Touch Support | Planned |
-| Badges | In Internal Testing |
+| Badges | Available on TestFlight |
 | Channel Categories | Planned |
 | Chat Rewrite | Planned |
 | Custom Keyboard | Planned |
