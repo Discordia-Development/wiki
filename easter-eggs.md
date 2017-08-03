@@ -41,9 +41,9 @@ When your [search](/search) leads to no results, Discord will sometimes display 
 ![Banana](/uploads/easter-eggs/banana.png "Banana")
 
 # Computer Man
-Visiting [printer.discordapp.com](https://printer.discordapp.com) will redirect you to a [video clip](https://www.youtube.com/watch?v=jeg_TJvkSjg) from an old Canadian show called Vid Kids. Because of the video's name, it's likely that [jake](https://www.reddit.com/user/ReallyAmused), a discord developer was the one to implement this easter-egg. 
+Visiting [printer.discordapp.com](https://printer.discordapp.com) will redirect you to a [video clip](https://www.youtube.com/watch?v=jeg_TJvkSjg) from an old Canadian show called Vid Kids. Because of the video's name, it's likely that [jake](https://twitter.com/lolpython), a discord developer was the one to implement this easter-egg. 
 
 # Snek Game
-When you try to access a page that doesn't exist such as [this one](https://discordapp.com/hellofromdiscordia) you are redirected to a 404 page. Clicking the button on the console next to Nelly the Robo-Hamster starts a game like the classic Snake Game. We do not know who implemented the secret game at this time.
+When you try to access a page that doesn't exist such as [this one](https://discordapp.com/hellofromdiscordia) you are redirected to a 404 page. Clicking the button on the console next to Nelly the Robo-Hamster starts a game like the classic Snake Game. Discord developer [tcoil](https://twitter.com/t_coil) made this game.
 
 ![Console Button](/uploads/easter-eggs/console-button.png "Console Button")
