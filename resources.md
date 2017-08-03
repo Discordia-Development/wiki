@@ -7,8 +7,8 @@
 * [Discord Gamenight](http://discord.gg/gamenight)
 * [Discord Events](http://discord.gg/events)
 * [Discord Feedback](https://discord.gg/discord-feedback)
-* [Discord Hypesquad](https://discordapp.com/hypesquad) [HypeSquad](https://discord.wiki/hypesquad) Members only.
-* [Discord Partners](https://discordapp.com/partners)Discord [Partners](https://discord.wiki/partners) only.
+* [Discord HypeSquad](https://discordapp.com/hypesquad) [HypeSquad](https://discord.wiki/hypesquad) Members only.
+* [Discord Partners](https://discordapp.com/partners) Discord [Partners](https://discord.wiki/partner) only.
 
 
 # Community Driven Discord Resources
