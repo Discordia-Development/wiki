@@ -1,6 +1,6 @@
 <!-- TITLE: Search -->
 
-Discord created a search function that allows you to easily find messsages without having to scroll through text channels.
+Discord created a search function that allows you to easily find messages without having to scroll through text channels.
 # Using Search
 To use search, click the search bar located on the top right of any server or direct message.
 
