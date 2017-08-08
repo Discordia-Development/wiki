@@ -40,7 +40,7 @@ BetterTTV este un serviciu oferit de Twitch care oferă Twitch emotes și emotes
 
 ## Emoji Pentru Abonați
 
-Asta-i mai ușor, poți primi 5 emotes pe care **doar** abonații tăi de pe Twitch le pot folosi. Asta înseamnă că trebuie să fi un partener Twitch și să-ți conectezi canalul de Twitch la server-ul tău de Discord (din Integrări)
+Asta-i mai ușor, poți primi 5 emotes pe care **doar** abonații tăi de pe Twitch le pot folosi. Asta înseamnă că trebuie să fi un partener Twitch și să-ți conectezi canalul de Twitch la server-ul tău de Discord (din Integrări).
 
-Distează-te, rămâi în siguranță și continuă să speri! S-ar putea ca meme-urile tale să devină mai mult decât niște vise,
+Distează-te, rămâi în siguranță și continuă să speri! S-ar putea ca meme-urile tale să devină mai mult decât niște vise.
 
