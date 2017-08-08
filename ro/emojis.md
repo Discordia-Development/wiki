@@ -1,5 +1,5 @@
 <!-- TITLE: Emojis -->
-<!-- SUBTITLE: O imagine face cât o mie de cuvinte, deci de ce să nu ai propriile tale emojis? Din fericire, Discord include un mod foarte simplu și rapid de adăuga aproape orice image ca un emote personalizat! (Atât timp cât ai permisiunea „Administrează Emojis) -->
+<!-- SUBTITLE: O imagine face cât o mie de cuvinte, deci de ce să nu ai propriile tale emojis? Din fericire, Discord include un mod foarte simplu și rapid de adăuga aproape orice image ca un emote personalizat! (Atât timp cât ai permisiunea „Administrează Emojis”) -->
 
 ## Emoji Personalizate
 
@@ -17,7 +17,7 @@ Acum, ai posibilitatea de a alege orice imagine și de a o încărca!
 
 > Observație: Există un mic detaliu care trebuie luat în considerare, dimensiunea imaginii pe care o vei încarca va fi modificată în 32x32px.  
 
-Când ai terminat cu noul tău emote, îi poți schimba numele dacă faci click pe numele lui, iar apoi îl poți schimba în ce vrei,
+Când ai terminat cu noul tău emote, îi poți schimba numele dacă faci click pe numele lui, iar apoi îl poți schimba în ce vrei.
 
 - Toate numele de emoji țin cont de majuscule, :discord: nu este același lucru cu :Discord:
 - Dacă sunt două emoji cu același nume, spre exemplu două emote-uri :discord: cu litere mici, Discord va adauga un ~număr după pentru a face :discord~1:, :discord~2:, etc
