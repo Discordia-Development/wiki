@@ -11,7 +11,7 @@ Pentru început, găsește căsuța [Setările Server-ului](/server-settings) di
 
 Un meniu cu mai multe opțiuni vă apărea dintre care noi vom alege opțiunea numită „Emoji”
 
-**GI CU SETĂRILE PENTRU EMOJI AICI**
+**GIF CU SETĂRILE PENTRU EMOJI AICI**
 
 Acum, ai posibilitatea de a alege orice imagine și de a o încărca!
 
