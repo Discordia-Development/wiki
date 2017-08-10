@@ -14,10 +14,10 @@ The main, most discussed, upcoming features are screen sharing and video calling
 |---------|---------|
 | Block quotes | Planned |
 | Channel Categories | In Internal Testing |
-| Game Notifications | Gradually Rolling Out
+| Game Notifications | Rolling Out
 | Permissions Preview Tool | Planned |
 | Report button | Retooling	|
-| [Screensharing](/screensharing) & [Video Chat](/video-chat) | In Internal Testing |
+| [Screensharing](/screensharing) & [Video Chat](/video-chat) | Rolling Out |
 | Spellcheck | Planned |
 | Windows Icon Badge | Planned |
 
@@ -41,12 +41,12 @@ The main, most discussed, upcoming features are screen sharing and video calling
 | Feature | Status |
 |---------|--------|
 | Double Infinite Scrolling | Planned |
-| Channel Categories | Planned |
+| Channel Categories | In Development |
 | Channel Settings | Planned |
 | Compress Image Toggle | Planned |
 | GIF Picker In-Line Keyboard | Planned |
 | Rich Presence | Planned |
-| Screensharing & Video Chat | Planned |
+| Screensharing & Video Chat | In Development |
 | Security Tab/2FA Enable/Disable | Planned |
 | Video Embeds | Planned |
 
