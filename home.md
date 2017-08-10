@@ -15,7 +15,7 @@ We're a small team of Discord enthusiasts, aiming to raise awareness of a great 
 
 *Responsible for maintaining The Discord Wiki and its support server.*
 * @Dru#7700
-* @Harrison#9100
+* @Crake#9100
 * @Tiemen#0107
 * @Mikesky#3456
 * @守部 洵 ★★★★#9667
