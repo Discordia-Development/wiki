@@ -40,6 +40,7 @@ The main, most discussed, upcoming features are screen sharing and video calling
 ## Android
 | Feature | Status |
 |---------|--------|
+| Auto-Deplay to Alpha | In Development |
 | Double Infinite Scrolling | Planned |
 | Channel Categories | In Development |
 | Channel Settings | Planned |
