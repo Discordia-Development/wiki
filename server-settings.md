@@ -36,7 +36,7 @@ In this tab, users with **Manage Roles** can edit settings on roles below their 
 
 ## Integrations
 
-Users with the **Manage Server** permission can add their *partnered* Twitch or Youtube Gaming accounts to the server. This allows you to sync your Subscribers (Twitch) or your Sponsors (Youtube Gaming) to a role on your Discord Server. 
+Users with the **Manage Server** permission can add their *partnered* Twitch or Youtube Gaming accounts to the server. This allows you to sync your Subscribers (Twitch) or your Sponsors (Youtube Gaming) to a role on your Discord Server. Twitch *affiliates* can also make use of this functionality.
 
 ## Emoji
 
