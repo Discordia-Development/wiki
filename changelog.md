@@ -3,6 +3,13 @@
 
 This is the changelog/release date for major features or significant changes. PTB and Canary might have received some features sooner than the date listed below.
 
+# 08/11/2017
+Full changelog [here](https://blog.discordapp.com/were-testing-video-chat-and-screen-share-with-5-of-players-today-c8ddb108ca31)
+Rolled out to 5% of users:
+
+* Video Chat
+* Screen Sharing
+
 # 05/03/2017
 Full changelog [here](https://blog.discordapp.com/5-3-17-change-log-a9239d5321dd)
 
