@@ -20,7 +20,11 @@ Rolled out to 5% of users:
 * Dark theme for most modals
 * Instant invites now default to 24 hours
 * Twitch Affiliate integration
-* 
+* Large server performance optimizations
+* NSFW channels no longer require `nsfw` prefix
+* Double flip verification level (Require verified mobile phone number)
+* Phone number bans
+* Saved images use sensible name formatting
 
 # 05/03/2017
 Full changelog [here](https://blog.discordapp.com/5-3-17-change-log-a9239d5321dd)
