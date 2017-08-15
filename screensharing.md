@@ -1,7 +1,7 @@
 <!-- TITLE:Screensharing -->
 <!-- SUBTITLE:Coming Soon! -->
 
-Screensharing is an unreleased feature which will allow the user to capture and transmit their screen content to other discord users. Along with screensharing, video chatting is also being developed.
+Screensharing is an unreleased feature which will allow the user to capture and transmit their screen content to other discord users. Along with screensharing, [video chatting](/video-chat) is also being developed.
 
 # Status
 Screensharing is currently in the **internal testing** phase.
