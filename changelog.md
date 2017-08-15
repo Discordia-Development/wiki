@@ -10,6 +10,18 @@ Rolled out to 5% of users:
 * Video Chat
 * Screen Sharing
 
+
+# 07/21/2017
+
+* Bots able to add reasons to moderation actions
+* Chat bar facelift
+* Media proxy updated for faster loading times
+* Group call interface updated in preperation for [Video Chat](/video-chat) and [Screen Sharing](/screensharing)
+* Dark theme for most modals
+* Instant invites now default to 24 hours
+* Twitch Affiliate integration
+* 
+
 # 05/03/2017
 Full changelog [here](https://blog.discordapp.com/5-3-17-change-log-a9239d5321dd)
 
