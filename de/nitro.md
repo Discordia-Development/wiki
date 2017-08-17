@@ -17,7 +17,8 @@ Ein Discord Nitro-Abonnement bietet Zugriff auf die folgenden Funktionen:
 * Discord Nitro [Badge](/badges) auf dem Nutzerprofil.
 
 # Nitro kaufen
-Um Nitro zu erwerben, klicken Sie auf das Benutzereinstellungen-Zahnrad unten links auf dem Discord Client. Anschließend klicken Sie auf die Registerkarte "Nitro". Dort wählen Sie ihren gewünschten Zahlungsintervall, also entweder monatlich oder jährlich. Geben Sie Ihre Kredit-oder Debitkarteninformationen ein, dann Ihre Postleitzahl wenn Sie dazu aufgefordert werden. Leider wird Paypal derzeit nicht unterstützt.
+Um Nitro zu erwerben, klicke auf das kleine Zahnrad unten links welches dich zu deinen Benutzereinstellungen bringt. Anschließend, klicke auf die Registerkarte "Nitro" und dort wählst du deinen gewünschten Zahlungsintervall, also entweder monatlich oder jährlich. Gebe dann deine Kredit-oder Debitkarteninformationen ein und deine Postleitzahl wenn du dazu aufgefordert wirst. 
+Leider wird Paypal derzeit nicht unterstützt.
 
 # Offizielles Einführungsvideo
 
