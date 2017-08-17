@@ -14,12 +14,12 @@ Geben Sie in der Suchleiste ein, wonach Sie suchen möchten. Zum Beispiel wenn S
 ## Filter
 Um eine detailliertere Suchedurchzuführen, können Sie neben der Suche auch die folgenden Filter verwenden. Sie können so viele oder wenige Filter verwenden, wie Sie wollen.
 ​
-* from:BENUTZER - Zeigt Ergebnisse eines Benutzers.
-* mentions:BENUTZER - Zeigt, wenn der Benutzer erwähnt wurde
-* has: link, embed oder file - Zeigt Nachrichten, welche einen Link, ein Embed oder ein Bild enthalten
-* before:DATUM - Zeigt nur Ergebnisse, welche vor dem angegebenen Datum versendet wurden
-* during:DATUM - Zeigt nur Ergebnisse, welche zum angegebenen Datum versendet wurden
-* after:DATUM - Zeigt nur Ergebnisse, welche nach dem angegebenen Datum versendet wurden
+* von:BENUTZER - Zeigt Ergebnisse eines Benutzers.
+* Erwähnungen:BENUTZER - Zeigt, wenn der Benutzer erwähnt wurde
+* hat: link, embed oder file - Zeigt Nachrichten, welche einen Link, ein Embed oder ein Bild enthalten
+* bevor:DATUM - Zeigt nur Ergebnisse, welche vor dem angegebenen Datum versendet wurden
+* während:DATUM - Zeigt nur Ergebnisse, welche zum angegebenen Datum versendet wurden
+* nach:DATUM - Zeigt nur Ergebnisse, welche nach dem angegebenen Datum versendet wurden
 * in:KANAL - Zeigt nur Nachrichten aus einem Kanal an
 ​
 
