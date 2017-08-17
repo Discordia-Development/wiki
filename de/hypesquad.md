@@ -14,7 +14,7 @@ Es gibt drei verschiedene Hype-Level im HypeSquad:
 # HypeSquad Bonusse
 
 * Zugriff auf einen exklusiven und geheimen Hypesquad Server.
-* HypeSquad [Abzeichen](/badges) für dein Discord Profil.
+* HypeSquad [Abzeichen](/de/Abzeichen) für dein Discord Profil.
 * Als Event-Besucher bekommst du ein HypeSquad T-Shirt sobald du eins besuchst.
 * Triff und häng mit Discord Mitarbeitern ab auf Events.
 
