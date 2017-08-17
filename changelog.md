@@ -3,15 +3,17 @@
 
 This is the changelog/release date for major features or significant changes. PTB and Canary might have received some features sooner than the date listed below.
 
-# 08/11/2017
-Rolled out to 5% of users:
+# 08/17/2017
+Rolled out to 10% of users:
 
 * Video Chat
 * Screen Sharing
 
 Blog post [here](https://blog.discordapp.com/were-testing-video-chat-and-screen-share-with-5-of-players-today-c8ddb108ca31)
 
-
+* Default channel can now be deleted
+* New member join messages added
+* Client remembers last viewed channel through restarts
 # 07/21/2017
 Full changelog [here](https://blog.discordapp.com/7-21-17-change-log-c9acad667d67)
 
