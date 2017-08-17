@@ -6,6 +6,6 @@ Videoanrufe sind eine derzeit entwickelte und unveröffentlichte Funktion, welch
 Videoanrufe sind derzeit in der **internen Testphase**.
 
 # Einschränkungen
-Video-Chat wird wahrscheinlich auf allen Desktop-Plattformen verfügbar sein. Auch wird es nur innerhalb von [Gruppenkonversationen und direkten Nachrichten](/direct-messages) veröffentlicht.
+Video-Chat wird wahrscheinlich auf allen Desktop-Plattformen verfügbar sein. Auch wird es nur innerhalb von [Gruppenkonversationen und direkten Nachrichten](/de/Direktnachrichten) veröffentlicht.
 
 > Wichtig: Dies ist eine unveröffentlichte Funktion und sie könnte sich ändern, bevor sie für Canary-Benutzer veröffentlicht wird. Sie wird vielleicht nicht veröffentlicht, und ein Veröffentlichungszeitpunkt ist nicht verfügbar.
