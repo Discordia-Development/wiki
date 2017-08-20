@@ -14,7 +14,7 @@ Ein Discord Partner ist jemand der eine große Community hat und sich bei Discor
 * Kostenloser Discord Partner Hoodie; (Für den Server Inhaber)
 * Kostenloses Discord Nitro Abonnement; (Für den Server Inhaber)
 * Partner Abzeichen für die eigene Webseite, Twitch-Channel etc.;
-* Zugriff auf den Discord Partner Gilde mit super schnellem Support und die Möglichkeiten mit anderen Partnern zusammen zu arbeiten.
+* Zugriff auf den Discord Partner Server mit super schnellem Support und die Möglichkeiten mit anderen Partnern zusammen zu arbeiten.
 
 ![Njjbheg](/uploads/partner/njjbheg.png "Njjbheg")
 
