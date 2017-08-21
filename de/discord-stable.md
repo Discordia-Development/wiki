@@ -10,7 +10,7 @@ Discord Stable ist der Hauptclient von Discord. Den Namen hat er deswegen, da er
 * [Linux deb Stable](https://discordapp.com/api/download?platform=linux&format=deb)
 * [Linux tar.gz Stable](https://discordapp.com/api/download?platform=linux&format=tar.gz)
 * 
-### API Anhang
+### API Anmerkungen
 
 * [macOS](https://discordapp.com/api/stable/updates?platform=osx)
 * [Windows](https://discordapp.com/api/stable/updates?platform=win)
