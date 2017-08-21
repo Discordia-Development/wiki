@@ -1,6 +1,6 @@
 <!-- TITLE: Discord öffentliche Testversion (PTB) -->
 
-Die öffentliche Testversion (PTB) ist die Beta-Version von dem Discord Client und die Mitte zwischen der Haupt- und der Canary-Version. Die PTB Version hat manchmal auch Funktionien die es auf der [Hauptversion](de/discord-stable) noch nicht gibt. Diese Version beabsichtigt es, Benutzern die Möglichkeit zu geben neue Funktionen zu testen und ist somit weniger stabil als die Hauptversion. Die öffentliche Testversion neigt jedoch dazu, neue Funktionen später als die [Canary-Version](/de/canary) zu erhalten. Falls du einen Bug auf dem PTB findest, bitte melde ihn im [Discord Testers](https://discord.gg/discord-testers) Server. 
+Die öffentliche Testversion (PTB) ist die Beta-Version von dem Discord Client und die Mitte zwischen der Haupt- und der Canary-Version. Die PTB Version hat manchmal auch Funktionien die es auf der [Hauptversion](de/stable) noch nicht gibt. Diese Version beabsichtigt es, Benutzern die Möglichkeit zu geben neue Funktionen zu testen und ist somit weniger stabil als die Hauptversion. Die öffentliche Testversion neigt jedoch dazu, neue Funktionen später als die [Canary-Version](/de/canary) zu erhalten. Falls du einen Bug auf dem PTB findest, bitte melde ihn im [Discord Testers](https://discord.gg/discord-testers) Server. 
 
 Die PTB Version hat das gleiche Logo wie die Hauptversion. 
 
