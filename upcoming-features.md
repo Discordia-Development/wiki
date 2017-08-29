@@ -26,9 +26,10 @@ The main, most discussed, upcoming features are screen sharing and video calling
 |---------|---------|
 | 3D Touch Support | Planned |
 | [Badges](/badges) | Available on TestFlight |
-| Channel Categories | Planned |
+| Channel Categories | In Development |
 | Chat Rewrite | Planned |
 | Custom Keyboard | Planned |
+| Dark Theme menus (various) | Available on TestFlight |
 | iOS 11 Compatibility | Planned |
 | Rich Push Notifications | Planned |
 | Security Compatibility | Planned |
@@ -40,12 +41,13 @@ The main, most discussed, upcoming features are screen sharing and video calling
 ## Android
 | Feature | Status |
 |---------|--------|
+| Android O Full Compatibility | In Development |
 | Auto-Deplay to Alpha | In Development |
 | Double Infinite Scrolling | Planned |
 | Channel Categories | In Development |
-| Channel Settings | Planned |
 | Compress Image Toggle | Planned |
 | GIF Picker In-Line Keyboard | Planned |
+| Improve Voice Experience | Planned |
 | Rich Presence | Planned |
 | Screensharing & Video Chat | In Development |
 | Security Tab/2FA Enable/Disable | Planned |
