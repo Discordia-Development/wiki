@@ -3,7 +3,7 @@
 # Discord Support
 Falls du mal Hilfe brauchst, besuche doch das Hilfeportal unter https://support.discordapp.com/hc/ or kontaktiere den Kundenservice direkt unter support@discordapp.com
 
-###Discord Hilfeportal Kategorien
+### Discord Hilfeportal Kategorien
 
 Account Einstellungen: https://support.discordapp.com/hc/en-us/categories/200404358-Account-Settings
 Kanal Setup: https://support.discordapp.com/hc/en-us/categories/200404377-Channel-Setup
