@@ -26,7 +26,7 @@ Após checar os quadros do Trello, se você não ver o seu bug lá, você pode p
 ### Enviando o relatório
 Bem simples, apenas escreva o relatório e aperte enter no canal correto.
 ### O que eu ganho?
-* Bug Hunter General - Assim que você tenha um bug aprovado, você ganha acesso ao super prestigiado canal Bug Hunter General. Os “Hunters” usam este canal para discutir sobre os bugs na fila, e às vezes zoar um pouco e ir em caçadas alucinadas por números nos status de jogando.
+* Bug Hunter General - Assim que você tiver um bug aprovado, você ganha acesso ao super prestigiado canal "Bug Hunter General". Os “Hunters” usam este canal para discutir sobre os bugs na fila, e às vezes zoar um pouco e ir em caçadas alucinadas por números nos status de jogando.
 * Aprovar ou Rejeitar Relatórios - Quando você for um Bug Hunter certificado, você pode ajudar a aprovar ou rejeitar bugs que estão na fila.
 ## Dicas e Macetes
 O melhor modo de encontrar bugs é usando o Discord normalmente, e não sair do seu caminho para encontrá-los, um deles virá até você.
