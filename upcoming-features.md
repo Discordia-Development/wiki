@@ -13,7 +13,7 @@ The main, most discussed, upcoming features are screen sharing and video calling
 | Feature |	Status |
 |---------|---------|
 | Block quotes | Planned |
-| Channel Categories | In Internal Testing |
+| Channel Categories | Available on Canary |
 | Game Notifications | Rolling Out
 | Permissions Preview Tool | Planned |
 | Report button | Retooling	|
@@ -26,14 +26,14 @@ The main, most discussed, upcoming features are screen sharing and video calling
 |---------|---------|
 | 3D Touch Support | Planned |
 | [Badges](/badges) | Available on TestFlight |
-| Channel Categories | In Development |
+| Channel Categories | Available on TestFlight |
 | Chat Rewrite | Planned |
 | Custom Keyboard | Planned |
 | Dark Theme menus (various) | Available on TestFlight |
 | iOS 11 Compatibility | Planned |
 | Rich Push Notifications | Planned |
 | Security Compatibility | Planned |
-| Server Sorting | Planned |
+| Server Sorting | In Internal Testing |
 | Share on Discord | Planned |
 | User Settings | Planned |
 | Video Chat | In Development |
@@ -44,7 +44,7 @@ The main, most discussed, upcoming features are screen sharing and video calling
 | Android O Full Compatibility | In Development |
 | Auto-Deplay to Alpha | In Development |
 | Double Infinite Scrolling | Planned |
-| Channel Categories | In Development |
+| Channel Categories | Available on Android Alpha |
 | Compress Image Toggle | Planned |
 | GIF Picker In-Line Keyboard | Planned |
 | Improve Voice Experience | Planned |
