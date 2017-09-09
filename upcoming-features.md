@@ -33,7 +33,7 @@ The main, most discussed, upcoming features are screen sharing and video calling
 | iOS 11 Compatibility | Planned |
 | Rich Push Notifications | Planned |
 | Security Compatibility | Planned |
-| Server Sorting | In Internal Testing |
+| Server Sorting | In Development |
 | Share on Discord | Planned |
 | User Settings | Planned |
 | Video Chat | In Development |
