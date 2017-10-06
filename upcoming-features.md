@@ -14,7 +14,6 @@ This is a list of features that will be occasionally updated with information ab
 | Game Notifications | Rolling Out |
 | Permissions Preview Tool | Planned |
 | Report button | Retooling	|
-| [Screensharing](/screensharing) & [Video Chat](/video-chat) | Rolling Out |
 | Spellcheck | Planned |
 | Windows Icon Badge | Planned |
 
