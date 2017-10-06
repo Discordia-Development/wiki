@@ -3,6 +3,18 @@
 
 This is the changelog/release date for major features or significant changes. PTB and Canary might have received some features sooner than the date listed below.
 
+# 10/05/2017
+Full changelog [here](https://blog.discordapp.com/5-10-2017-change-log-80f10c621c64)
+
+ * [Video Chat](/video-chat) and [Screen Sharing](/screensharing) fully released.
+ * Up to 10 people in a DM
+ * PIP mode
+ 
+ ## Mobile
+ * New create and join server UI
+ * Android [developer mode](/developer-mode)
+ * Landscape mode for videos and images
+ 
 # 08/17/2017
 Rolled out to 10% of users:
 
