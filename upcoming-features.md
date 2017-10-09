@@ -11,7 +11,11 @@ This is a list of features that will be occasionally updated with information ab
 | Feature |	Status |
 |---------|---------|
 | Block quotes | Planned |
+| Cancelable Uploads | Planned |
 | Game Notifications | Rolling Out |
+| General Overlay Improvements | Planned |
+| Group DM Invites | Planned |
+| Inline Audio/Video Player | Planned |
 | Permissions Preview Tool | Planned |
 | Report button | Retooling	|
 | Spellcheck | Planned |
@@ -23,7 +27,7 @@ This is a list of features that will be occasionally updated with information ab
 | 3D Touch Support | Planned |
 | Chat Rewrite | Planned |
 | Custom Keyboard | Planned |
-| iOS 11 Compatibility | Planned |
+| iOS 11 Compatibility | In Development |
 | Rich Push Notifications | Planned |
 | Security Compatibility | Planned |
 | Server Sorting | In Development |
@@ -40,7 +44,7 @@ This is a list of features that will be occasionally updated with information ab
 | Compress Image Toggle | Planned |
 | GIF Picker In-Line Keyboard | Planned |
 | Improve Voice Experience | Planned |
-| Rich Presence | Planned |
+| Rich Presence | In Development |
 | Screensharing & Video Chat | In Development |
 | Security Tab/2FA Enable/Disable | Planned |
 | Video Embeds | Planned |
