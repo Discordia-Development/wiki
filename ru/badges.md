@@ -14,7 +14,7 @@
 
 ![Partnerbadge](/uploads/badges/partnerbadge.png "Partnerbadge")
 # Discord Hypesquad
-Участники Discord [Hypesquad](/hypesquad) имеют значок HypeSquad в их профиле. Вы можете получить этот значок, став участником Discord HypeSquad.
+Участники Discord [Hypesquad](/hypesquad) имеют значок HypeSquad в их профиле. Вы можете получить этот значок, только если станете участником Discord HypeSquad.
 
 ![Hypesquadbadge](/uploads/badges/hypesquadbadge.png "Hypesquadbadge")
 # Discord Nitro
