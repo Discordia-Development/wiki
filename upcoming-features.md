@@ -38,9 +38,8 @@ This is a list of features that will be occasionally updated with information ab
 ## Android
 | Feature | Status |
 |---------|--------|
-| Android O Full Compatibility | In Development |
 | Auto-Deplay to Alpha | In Development |
-| Double Infinite Scrolling | Planned |
+| Double Infinite Scrolling | In Development |
 | Compress Image Toggle | Planned |
 | GIF Picker In-Line Keyboard | Planned |
 | Improve Voice Experience | Planned |
