@@ -12,7 +12,6 @@ This is a list of features that will be occasionally updated with information ab
 |---------|---------|
 | Block quotes | Planned |
 | Cancelable Uploads | Planned |
-| Game Notifications | Rolling Out |
 | General Overlay Improvements | Planned |
 | Group DM Invites | Planned |
 | Inline Audio/Video Player | Planned |
