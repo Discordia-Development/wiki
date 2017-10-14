@@ -24,6 +24,7 @@ This is a list of features that will be occasionally updated with information ab
 | Feature | Status	|
 |---------|---------|
 | 3D Touch Support | Planned |
+| Audit Log | Planned |
 | Chat Rewrite | Planned |
 | Custom Keyboard | Planned |
 | iOS 11 Compatibility | In Development |
@@ -37,6 +38,7 @@ This is a list of features that will be occasionally updated with information ab
 ## Android
 | Feature | Status |
 |---------|--------|
+| Audit Log | Planned |
 | Auto-Deplay to Alpha | In Development |
 | Double Infinite Scrolling | In Development |
 | Compress Image Toggle | Planned |
