@@ -7,7 +7,7 @@ You can enable (or disable) this feature by going into the Server Settings and o
 
 ![2017 10 18 18 48 03](/uploads/2017-10-18-18-48-03.png "2017 10 18 18 48 03")
 
-## List of all new member messages
+# List of all new member messages
 - *DiscordUser123* just joined the server - glhf!
 - *DiscordUser123* just joined. Everyone, look busy!
 - *DiscordUser123* just joined. Can I get a heal?
