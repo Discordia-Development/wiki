@@ -12,13 +12,13 @@ This is a list of features that will be occasionally updated with information ab
 |---------|---------|
 | Block quotes | Planned |
 | Cancelable Uploads | Planned |
-| General Overlay Improvements | Planned |
+| General Overlay Improvements | Available on Canary |
 | Group DM Invites | Planned |
 | Inline Audio/Video Player | Planned |
 | Permissions Preview Tool | Planned |
 | Report button | Retooling Planned	|
 | Spellcheck | Planned |
-| Windows Icon Badge | Planned |
+| Windows Icon Badge | In Development |
 
 ## iOS
 | Feature | Status	|
