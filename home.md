@@ -6,9 +6,9 @@
 
 We're a small team of Discord enthusiasts, aiming to raise awareness of a great text and voice chat platform, [Discord](https://discordapp.com).
 
-[Join us on Discord!](https://discord.gg/WHz5r3N)
+[Join us on Discord!](https://discord.gg/ZRJ9Ghh)
 
-<a href="https://discord.gg/WHz5r3N">![DISCORD EMBED PLUGIN](https://discordapp.com/api/guilds/268800390961561601/widget.png?style=banner2)</a>
+<a href="https://discord.gg/ZRJ9Ghh">![DISCORD EMBED PLUGIN](https://discordapp.com/api/guilds/367460196148183040/widget.png?style=banner2)</a>
 
 ## Editorial Staff
 > ***Wiki Administrators***
