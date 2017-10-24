@@ -16,5 +16,4 @@
 * [The Discord Wiki Support](https://discordapp.com/invite/WHz5r3N)
 * [Translating Discord to Pirate English](https://discordapp.com/invite/N2SEsmn)
 * [Discord Bots](https://discordapp.com/invite/0cDvIgU2voWn4BaD)
-* [Discord Linux](https://discordapp.com/invite/MzzfY8g)
 * [Carbonitex](https://carbonitex.net/)
