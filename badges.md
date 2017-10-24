@@ -1,5 +1,5 @@
 <!-- TITLE: Badges -->
-<!-- SUBTITLE: Discord Badges -->
+<!-- SUBTITLE: Information about Discord's Various Badges -->
 
 Discord has different badges that distinguish a user as a member of specific groups. Badges display on a user's profile card. To access someone's profile card, click them and select **view profile** by hovering over their avatar. 
 
@@ -22,4 +22,4 @@ Users who have purchased [Discord Nitro](/nitro) have the Discord Nitro badge on
 
 ![Nitrobadge](/uploads/badges/nitrobadge.png "Nitrobadge")
 
-Currently, only one badge may be displayed at a time, with the priority list being Nitro -> HypeSquad -> Partner -> Staff
+Currently, only one badge may be displayed at a time, with the priority list being Nitro 🡒 HypeSquad 🡒 Partner 🡒 Staff
