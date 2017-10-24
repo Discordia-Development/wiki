@@ -1,7 +1,7 @@
 <!-- TITLE:Audit Logs -->
-<!-- SUBTITLE: Discord Audit Logs -->
+<!-- SUBTITLE: Information about Discord's Audit Logs -->
 
-Ever wonder who created a new channel on your server? Or who the person who banned a troublesome user was? Well, have no fear, audit logs are here to tell you who did what on your servers!
+Ever wonder who created a new channel on your server? Or who the person who banned a troublesome user was? Have no fear, audit logs are here to tell you who did what on your servers!
 
 # Find Audit Logs
 So, where can you find Audit Logs? Inside the [server settings](/server-settings), there's a tab labeled Audit Logs.
@@ -39,4 +39,4 @@ And, in case you're trying to find a specific action, or an action done by a spe
 
 ![Audit Logs 4](/uploads/audit-logs/audit-logs-4.png "Audit Logs 4")
 
-Once you're finished viewing all the Audit Logs you want to see, you can either click the circle with the x in it, or hit the Escape button.
+Once you're finished viewing all the Audit Logs you want to see, you can either click the circle with the X in it, or hit the Escape button.
