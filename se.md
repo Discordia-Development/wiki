@@ -1,4 +1,4 @@
-<!-- TITLE: Home -->
+<!-- TITLE: Swedish - Home -->
 <!-- SUBTITLE: Welcome to The Discord Wiki! -->
 
 # Welcome
