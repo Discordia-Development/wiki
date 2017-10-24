@@ -1,4 +1,4 @@
-<!-- TITLE: FR - Accueil -->
+<!-- TITLE: Français - Accueil -->
 <!-- SUBTITLE: Bienvenue sur le wiki Discord ! -->
 
 # Bienvenue
