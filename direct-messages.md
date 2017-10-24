@@ -1,5 +1,5 @@
 <!-- TITLE:Direct Messages -->
-<!-- SUBTITLE: Directly sending Users messages outside of Servers -->
+<!-- SUBTITLE: Information about Direct Messages (DMs) on Discord -->
 
 Direct Messages (in short DMs) are a minimalist version of Discord guilds between multiple users. They don't have a permission system, and they only have one text channel. Users can only be invited directly by friends, unlike guilds where this has to be done using an instant invite link.
 
