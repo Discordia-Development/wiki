@@ -6,9 +6,9 @@
 
 Nous sommes une petite équipe de personnes qui apprécient Discord et qui souhaitent vanter les qualités de l'excellente plateforme de discussion textuelle et vocale qu'est [Discord](https://discordapp.com).
 
-[Rejoignez-nous sur Discord !](https://discord.gg/WHz5r3N)
+[Rejoignez-nous sur Discord !](https://discord.gg/ZRJ9Ghh)
 
-<a href="https://discord.gg/WHz5r3N">![DISCORD EMBED PLUGIN](https://discordapp.com/api/guilds/268800390961561601/widget.png?style=banner2)</a>
+<a href="https://discord.gg/ZRJ9Ghh">![DISCORD EMBED PLUGIN](https://discordapp.com/api/guilds/367460196148183040/widget.png?style=banner2)</a>
 
 ## Équipe d'édition
 > ***Administrateurs du wiki***
