@@ -1,4 +1,5 @@
 <!-- TITLE: Bots -->
+<!-- SUBTITLE: Information about various Discord Bot Libraries -->
 
 Discord allows users to create Bots and invite them to servers. Discord has created a unique API that allows users to create applications that interact directly with the server. You can view the API documentation [here](https://discordapp.com/developers/docs/intro).
 
