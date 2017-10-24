@@ -1,5 +1,5 @@
 <!-- TITLE: Developer Mode -->
-<!-- SUBTITLE: It'll seriously help you in life. -->
+<!-- SUBTITLE: An in-depth documentation of Discord's Developer Mode -->
 
 If you're going to make use of the Discord API, for instance to create a [bot](/bots), then Discord's *Developer Mode* will be of great help to you.
 
