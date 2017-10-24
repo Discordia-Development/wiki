@@ -4,7 +4,7 @@
 # Welcome
 ## About us
 
-We're a small team of Discord enthusiasts, aiming to raise awareness of a great text and voice chat platform, [Discord](https://discordapp.com).
+We're The Discord Wiki. We provide pretty much any information you might ever want to know about Discord, and for the info we *don't* provide, we've got a community support server ready to help you!
 
 [Join us on Discord!](https://discord.gg/ZRJ9Ghh)
 
@@ -14,11 +14,11 @@ We're a small team of Discord enthusiasts, aiming to raise awareness of a great 
 > ***Wiki Administrators***
 
 *Responsible for maintaining The Discord Wiki and its support server.*
-* @Dru#7700
+* @Dru#7700 (Web Administrator, maintains the backend of all of the services provided by the Wiki)
 * @Crake#9100
 * @Tiemen#0107
-* @Mikesky#3456
-* @守部 洵 ★★★★#9667
+* @Mikesky#3456 (Web Administrator, maintains the backend of all of the services provided by the Wiki)
+* @高町なのは ★★★★#9667
 
 > ***[Internationalization (i18n)](http://discordia.me/translations)***
 
