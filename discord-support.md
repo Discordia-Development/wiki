@@ -9,7 +9,13 @@
 * Discord Events, the one where you discover new events that Discord is attending, and meet Wumpus: https://discord.gg/events
 
 ## The Part Where we Talk About Community Support Servers
-* The Discord Wiki, where we provide information about anything and everything you might want to know about Discord: https://discord.gg/ZRJ9Ghh
+
+At The Discord Wiki, we aim to provide information about anything and everything you might want to know about Discord.
+We also provide general discord support on our Discord server if you need help getting your mic working, or need a quick answer to a question.
+
+<a href="https://discord.gg/ZRJ9Ghh">![DISCORD EMBED PLUGIN](https://discordapp.com/api/guilds/367460196148183040/widget.png?style=banner2)</a>
+
+There is also a number of other community support servers:
 * Discord API, where you learn how to make your bot better, *not how to code one in the first place*: https://discord.gg/discord-api
 * Discord Bots, the second place you should go to test your bot out after you put it on a test server: https://discord.gg/0cDvIgU2voWn4BaD
 * Discord Hub, where you can learn about other lesser known Discord resources: https://discord.gg/hub
