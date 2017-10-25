@@ -11,5 +11,5 @@ Verified badges are shown both near the server name and in the web invite module
 ![Verified Badge on invite module](/uploads/avak-0-xo.png "Verified Badge on invite module")
 
 ## Old Verified Badges
-Older Verified badges only existed for about 2 days, and were only on Discord-official servers, such as Discord Developers. 
+Older Verified badges only existed for a very limited period, and were only on Discord-official servers, such as Discord Developers. 
 ![Old Verified Badge](/uploads/verifiedserver.png "Old Verified Badge")
