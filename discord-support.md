@@ -11,7 +11,7 @@
 ## The Part Where we Talk About Community Support Servers
 
 At The Discord Wiki, we aim to provide information about anything and everything you might want to know about Discord.
-We also provide general discord support on our Discord server if you need help getting your mic working, or need a quick answer to a question.
+We also provide general discord support on our [Discord server](https://discord.gg/ZRJ9Ghh) if you need help getting your mic working, or need a quick answer to a question.
 
 <a href="https://discord.gg/ZRJ9Ghh">![DISCORD EMBED PLUGIN](https://discordapp.com/api/guilds/367460196148183040/widget.png?style=banner2)</a>
 
