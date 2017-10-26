@@ -13,5 +13,6 @@ There is a web version of the [Discord Public Test Build](/ptb) that may be acce
 
 # Unavailable Features
 The following features do not work on the Discord web client:
+* Overlay
 * Push to Talk
 * Game detection
