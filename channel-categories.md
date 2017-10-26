@@ -1,7 +1,7 @@
-<!-- TITLE: Subchannels -->
-<!-- SUBTITLE: A summary of subchannels. -->
+<!-- TITLE: Channel Categories -->
+<!-- SUBTITLE: A summary of channel categories. -->
 
-# Subchannels
+# Channel Categories
 Subchannels are a feature of servers, allowing advanced channel organisation. Subchannels were first announced on December 15th, 2016, as part of the 2016 End of Year Teaser. They were fully released on September 21st, 2017. Both text channels and voice channels can be in the same category.
 
 ## Subchannel Usage
