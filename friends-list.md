@@ -1,5 +1,5 @@
 <!-- TITLE: Friends List -->
-<!-- SUBTITLE: A quick summary of Friends List -->
+<!-- SUBTITLE: A quick summary of the Friends List -->
 
 # Friends List
 The friends list is a feature that allows to see your friends and what they're doing. The friends list was completely released on March 18th, 2016. There is a 1000 friend and blocked user limit.
