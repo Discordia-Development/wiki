@@ -10,6 +10,7 @@ Friend requests can either be sent from the profile, or the friends list page it
 ![DM friend](/uploads/1-lqgspe.png "DM friend")
 
 Friends can be added via their Discord username and [Discriminator](https://discordia.me/discriminator), or be suggested from your Steam or Skype friends list if those are integrated into your account. 
+
 ![Adding a friend](/uploads/4-u-22-jon.png "Adding a friend")
 
 ## Friends List Usage
