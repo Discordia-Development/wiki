@@ -6,6 +6,7 @@ The friends list is a feature that allows to see your friends and what they're d
 
 ## Adding Friends
 Friend requests can either be sent from the profile, or the friends list page itself. The friends list page can be found when clicking the Direct Messages button, or at the top of your list of Direct Messages. 
+
 ![DM friend](/uploads/1-lqgspe.png "DM friend")
 
 Friends can be added via their Discord username and [Discriminator](https://discordia.me/discriminator), or be suggested from your Steam or Skype friends list if those are integrated into your account. 
