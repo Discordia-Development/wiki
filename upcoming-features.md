@@ -10,6 +10,7 @@ This is a list of features that will be occasionally updated with information ab
 
 | Feature |	Status |
 |---------|---------|
+| Activity Feed | In Internal Testing |
 | Block quotes | Planned |
 | Cancelable Uploads | Planned |
 | General Overlay Improvements | Available on Canary |
@@ -18,6 +19,7 @@ This is a list of features that will be occasionally updated with information ab
 | Permissions Preview Tool | Planned |
 | Report button | Retooling Planned	|
 | Spellcheck | Planned |
+| Spotify Activity Syncing | In Development |
 | Windows Icon Badge | In Development |
 
 ## iOS
