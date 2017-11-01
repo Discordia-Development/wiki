@@ -48,8 +48,8 @@ This is a list of features that will be occasionally updated with information ab
 | Improve Voice Experience | Planned |
 | Rich Presence | In Development |
 | Screensharing | In Development |
-| Video Chat | Available on Android Alpha |
 | Security Tab/2FA Enable/Disable | Planned |
+| Video Chat | Available on Android Alpha |
 | Video Embeds | Planned |
 
 > Disclaimer: These are unreleased features and they might change before they are released to Canary/Android Alpha/TestFlight users. They might not be released at all, and ETAs are not available.
