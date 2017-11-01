@@ -47,7 +47,8 @@ This is a list of features that will be occasionally updated with information ab
 | GIF Picker In-Line Keyboard | Gradually Rolling Out |
 | Improve Voice Experience | Planned |
 | Rich Presence | In Development |
-| Screensharing & Video Chat | In Development |
+| Screensharing | In Development |
+| Video Chat | Available on Android Alpha |
 | Security Tab/2FA Enable/Disable | Planned |
 | Video Embeds | Planned |
 
