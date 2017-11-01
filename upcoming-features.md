@@ -44,7 +44,7 @@ This is a list of features that will be occasionally updated with information ab
 | Auto-Deplay to Alpha | In Development |
 | Double Infinite Scrolling | In Development |
 | Compress Image Toggle | Planned |
-| GIF Picker In-Line Keyboard | Planned |
+| GIF Picker In-Line Keyboard | Gradually Rolling Out |
 | Improve Voice Experience | Planned |
 | Rich Presence | In Development |
 | Screensharing & Video Chat | In Development |
