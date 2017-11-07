@@ -11,7 +11,7 @@ This is a list of features that will be occasionally updated with information ab
 | Feature |	Status |
 |---------|---------|
 | Activity Feed | In Internal Testing |
-| Block quotes | Planned |
+| Block Quotes | Planned |
 | Cancelable Uploads | Planned |
 | General Overlay Improvements | Available on Canary |
 | Group DM Invites | Planned |
