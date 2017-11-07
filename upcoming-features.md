@@ -32,10 +32,10 @@ This is a list of features that will be occasionally updated with information ab
 | iOS 11 Compatibility | In Development |
 | Rich Push Notifications | Planned |
 | Security Compatibility | Planned |
-| Server Sorting | In Development |
+| Server Sorting | Planned |
 | Share on Discord | Planned |
 | User Settings | Planned |
-| Video Chat | In Development |
+| Video Chat | Available on TestFlight |
 
 ## Android
 | Feature | Status |
@@ -46,6 +46,7 @@ This is a list of features that will be occasionally updated with information ab
 | Compress Image Toggle | Planned |
 | GIF Picker In-Line Keyboard | Gradually Rolling Out |
 | Improve Voice Experience | Planned |
+| Rich Presence | Available on Android Alpha |
 | Screensharing | In Development |
 | Security Tab/2FA Enable/Disable | Planned |
 | Video Chat | Available on Android Alpha |
