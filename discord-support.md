@@ -5,7 +5,6 @@
 ## Official Servers
 * Discord Testers, the one where you discuss beta versions of Discord, and help improve them by pointing out bugs: https://discord.gg/discord-testers
 * Discord Feedback, the one where you provide helpful feedback on how to improve Discord as a service: https://discord.gg/discord-feedback
-* Discord Gamenight, the one where you don't really get support, but you have fun watching Discord stream: https://discord.gg/gamenight
 * Discord Events, the one where you discover new events that Discord is attending, and meet Wumpus: https://discord.gg/events
 
 ## Community Support Servers
