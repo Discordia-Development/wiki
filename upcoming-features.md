@@ -46,7 +46,6 @@ This is a list of features that will be occasionally updated with information ab
 | Compress Image Toggle | Planned |
 | GIF Picker In-Line Keyboard | Gradually Rolling Out |
 | Improve Voice Experience | Planned |
-| Rich Presence | Available on Android Alpha |
 | Screensharing | In Development |
 | Security Tab/2FA Enable/Disable | Planned |
 | Video Chat | Available on Android Alpha |
