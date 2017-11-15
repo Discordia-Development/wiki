@@ -18,7 +18,7 @@ This is a list of features that will be occasionally updated with information ab
 | Inline Audio/Video Player | Planned |
 | Invite Embeds Redesign | Gradually Rolling Out |
 | Permissions Preview Tool | Planned |
-| Report button | Retooling Planned	|
+| Report Button | Retooling Planned	|
 | Spellcheck | Planned |
 | Spotify Rich Presence | In Internal Testing |
 | Windows Icon Badge | In Internal Testing |
