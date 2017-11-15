@@ -4,7 +4,6 @@
 # Official
 * [Discord Developers](http://discord.gg/discord-developers)
 * [Discord Testers](http://discord.gg/discord-testers)
-* [Discord Gamenight](http://discord.gg/gamenight)
 * [Discord Events](http://discord.gg/events)
 * [Discord Feedback](https://discord.gg/discord-feedback)
 * [Discord HypeSquad](https://discordapp.com/hypesquad) [HypeSquad](https://discord.wiki/hypesquad) Members only.
