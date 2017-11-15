@@ -16,11 +16,12 @@ This is a list of features that will be occasionally updated with information ab
 | General Overlay Improvements | Available on Canary |
 | Group DM Invites | Planned |
 | Inline Audio/Video Player | Planned |
+| Invite Embeds Redesign | Gradually Rolling Out |
 | Permissions Preview Tool | Planned |
 | Report button | Retooling Planned	|
 | Spellcheck | Planned |
-| Spotify Activity Syncing | In Development |
-| Windows Icon Badge | In Development |
+| Spotify Rich Presence | In Internal Testing |
+| Windows Icon Badge | In Internal Testing |
 
 ## iOS
 | Feature | Status	|
