@@ -35,7 +35,6 @@ This is a list of features that will be occasionally updated with information ab
 | Server Sorting | Planned |
 | Share on Discord | Planned |
 | User Settings | Planned |
-| Video Chat | Available on TestFlight |
 
 ## Android
 | Feature | Status |
@@ -48,7 +47,6 @@ This is a list of features that will be occasionally updated with information ab
 | Improve Voice Experience | Planned |
 | Screensharing | In Development |
 | Security Tab/2FA Enable/Disable | Planned |
-| Video Chat | Available on Android Alpha |
 | Video Embeds | Planned |
 
 > Disclaimer: These are unreleased features and they might change before they are released to Canary/Android Alpha/TestFlight users. They might not be released at all, and ETAs are not available.
