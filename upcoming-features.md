@@ -13,15 +13,14 @@ This is a list of features that will be occasionally updated with information ab
 | Activity Feed | In Internal Testing |
 | Block Quotes | Planned |
 | Cancelable Uploads | Planned |
-| General Overlay Improvements | Available on Canary |
 | Group DM Invites | Planned |
 | Inline Audio/Video Player | Planned |
 | Invite Embeds Redesign | Gradually Rolling Out |
 | Permissions Preview Tool | Planned |
-| Report Button | Retooling Planned	|
+| Report Button | Retooling Planned |
 | Spellcheck | Planned |
 | Spotify Rich Presence | In Internal Testing |
-| Windows Icon Badge | In Internal Testing |
+| Windows Icon Badge | Available on Canary |
 
 ## iOS
 | Feature | Status	|
