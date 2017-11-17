@@ -6,19 +6,19 @@
 
 Мы небольшая команда энтузиастов Discord, стремящаяся привлечь внимание к отличной платформе для голосового и текстового общения, [Discord](https://discordapp.com)
 
-[Присоединяйтесь к нам в Discord!](https://discord.gg/WHz5r3N)
+[Присоединяйтесь к нам в Discord!](https://discord.gg/ZRJ9Ghh)
 
-<a href="https://discord.gg/WHz5r3N">![DISCORD EMBED PLUGIN](https://discordapp.com/api/guilds/268800390961561601/widget.png?style=banner2)</a>
+<a href="https://discord.gg/ZRJ9Ghh">![DISCORD EMBED PLUGIN](https://discordapp.com/api/guilds/367460196148183040/widget.png?style=banner2)</a>
 
 ## Редакция
 > ***Высший совет***
 
 *Ответственные за обслуживание Discordia и Discord Wiki (менеджеры).*
-* @Dru#7700
-* @Harrison#9100
+* @Dru#7700 (Веб-администратор, занимается серверной частью всех сервисов, предоставляемых Wiki)
+* @Crake#9100
 * @Tiemen#0107
-* @Mikesky#3456
-* @西木野真姫★★★★#9667
+* @Mikesky#3456 (Веб-администратор, занимается серверной частью всех сервисов, предоставляемых Wiki)
+* @高町なのは ★★★★#9667
 
 > ***[Интернационализация (i18n)]((http://discordia.me/translations))***
 
@@ -39,6 +39,7 @@
 *Внесли вклад в Discord WikiBot.*
 * @HyperCoder#2975
 * @Tiemen#0107
+* @TreeFarmer#5406
 
 ## Отказ от ответственности и юридическая информация
 Привет! Добро пожаловать на Discord Wiki! Мы твердо верим в прозрачность, так что прежде, чем ты приступишь, пожалуйста, изучи наши [условия обслуживания](/terms) и [политику конфиденциальности](/ru/privacy) в целях узнать весь юредический материал, который тебе необходимо знать о наших сервисах.
