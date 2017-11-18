@@ -93,13 +93,17 @@ Translated:
 * [Channel Categories](/ru/channel-categories)
 * [Clyde](/ru/clyde)
 * [Cookie Policy](/ru/cookie-policy)
+* [Discord Canary](/ru/canary)
 * [Privacy Policy](/ru/privacy)
 
 Partially completed:
 
 To-Do:
 * Bots
-* Discord Canary
+* Discord
+* Discord Public Test Build
+* Discord Stable
+* Discord Web
 * HypeSquad
 * ToS
 
