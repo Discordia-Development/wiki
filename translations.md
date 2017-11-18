@@ -24,6 +24,7 @@ These are the members currently tasked with i18n.
 
 ### Russian [RU]
 * DaFri_Nochiterov#4289
+* OminousCry#2331
 
 ### Turkish [TR]
 * asli#2772
@@ -84,13 +85,23 @@ To-Do:
 
 ### Russian
 Translated:
+* [Home](/ru)
+* [Audit Logs](/ru/audit-logs)
+* [Badges](/ru/badges)
+* [Bug Hunters](/ru/bug-hunters)
+* [Chat Commands](/ru/chat-commands)
+* [Channel Categories](/ru/channel-categories)
+* [Clyde](/ru/clyde)
+* [Cookie Policy](/ru/cookie-policy)
+* [Privacy Policy](/ru/privacy)
 
 Partially completed:
 
 To-Do:
-* Home
+* Bots
+* Discord Canary
+* HypeSquad
 * ToS
-* Privacy policy
 
 ### Turkish
 Translated:
