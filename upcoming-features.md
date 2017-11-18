@@ -10,7 +10,7 @@ This is a list of features that will be occasionally updated with information ab
 
 | Feature |	Status |
 |---------|---------|
-| Activity Feed | In Internal Testing |
+| Activity Feed | Gradually Rolling Out |
 | Block Quotes | Planned |
 | Cancelable Uploads | Planned |
 | Group DM Invites | Planned |
