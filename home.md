@@ -18,7 +18,7 @@ We're The Discord Wiki. We're proud to be one of the leading providers of inform
 * @Crake#9100
 * @Tiemen#0107
 * @Mikesky#3456 (Web Administrator, maintains the backend of all of the services provided by the Wiki)
-* @高町なのは ★★★★#9667
+* @望月 紅葉 ★★★★#9667
 
 > ***[Internationalization (i18n)](http://discordia.me/translations)***
 
