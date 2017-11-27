@@ -20,19 +20,9 @@ We're The Discord Wiki. We're proud to be one of the leading providers of inform
 * @Mikesky#3456 (Web Administrator, maintains the backend of all of the services provided by the Wiki)
 * @望月 紅葉 ★★★★#9667
 
-> ***[Internationalization (i18n)](http://discordia.me/translations)***
+> ***Editors***
 
-* @asli#2772
-* @Daan#3356
-* @Gerd#0525
-* @Henrijoh#0216
-* @Gallium#1327
-* @DaFri_Nochiterov#4289
-* @Thereatra#3564
-* @LW001#8654
-* @LordOfTheUndead#7915
-* @Immotay#7475
-* @Luna#4677
+* OminousCry#2331
 
 > ***Bot Developers***
 
