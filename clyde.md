@@ -7,4 +7,4 @@ Clyde is a "bot" integrated into Discord notifying you if you are attempting to 
 
 Every message sent by it is in the channel or DM Group you attempted to perform that action in and only visible to you. Also the messages can be removed by clicking on the text below it. 
 
-![Clyde 2](/uploads/clyde/clyde.png "Clyde's User Profile")
+![Clyde 2](/uploads/clyde/newclyde.png "Clyde's User Profile")
