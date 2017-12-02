@@ -3,23 +3,27 @@
 
 В Discord существуют разные значки, которые выделяют пользователя как участника определенных групп. Значки отображаются в профиле пользователя. Чтобы просмотреть чей-то профиль, нажмите на нужного пользователя и выберите **Профиль**, наведя курсор на аватар.
 
-Следующие значки перечисляются в иерархическом порядке.
+Значки показываются в иерархическом порядке, и нескольких значков будут собираться в ряд.
+
+# Общие значки
+Если у пользователя есть несколько значков, все значки, имеющиеся у пользователя, будут отображены. 
+
+![Generalbadges](/uploads/badges/generalbadges.png "Общий вид значков")
+
 # Discord Staff
 Этот значок присваивается всем сотрудникам Discord. Если кто-то утверждает, что он сотрудник Discord и у него не имеется этого значка, скорее всего, этот человек лишь выдает себя за них. Этот значок является одним из немногих путей с помощью которого можно отличить сотрудников Discord от обычных пользователей.
 
-![Staffbadge](/uploads/badges/staffbadge.png "Staffbadge")
+![Staffbadge](/uploads/badges/newstaffbadge.png "Значок сотрудника Discord")
 
 # Discord Partner
 У Discord [Partners](/partner) имеется значок партнёра в их профиле. Вы можете получить данный значок только если Вы станете партнёром Discord.
 
-![Partnerbadge](/uploads/badges/partnerbadge.png "Partnerbadge")
+![Newpartnerbadge](/uploads/badges/newpartnerbadge.png "Значок партнёра Discord")
 # Discord Hypesquad
-Участники Discord [Hypesquad](/hypesquad) имеют значок HypeSquad в их профиле. Вы можете получить этот значок, только если станете участником Discord HypeSquad.
+Участники Discord [HypeSquad](/hypesquad) имеют значок HypeSquad в их профиле. Вы можете получить этот значок, только если станете участником Discord HypeSquad.
 
-![Hypesquadbadge](/uploads/badges/hypesquadbadge.png "Hypesquadbadge")
+![Hypesquadbadge](/uploads/badges/newhypesquadbadge.png "Значок участника Discord HypeSquad")
 # Discord Nitro
 Пользователи, которые приобрели [Discord Nitro](/nitro), получают соответствующий значок в их профиле. Если Вы наведёте курсор на данный значок, то сможете увидеть, когда пользователь присоединился к Discord Nitro. Если они отпишутся от Nitro, значок пропадёт.
 
-![Nitrobadge](/uploads/badges/nitrobadge.png "Nitrobadge")
-
-На данный момент, лишь один из значков отображается в профиле, со следующим приоритетом: Nitro -> HypeSquad -> Partner -> Staff
+![Nitrobadge](/uploads/badges/newnitrobadge.png "Значок пользователя с Discord Nitro")
