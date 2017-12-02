@@ -13,7 +13,7 @@ If a user has multiple badges, all badges that the user has will appear.
 # Discord Staff
 This badge is issued to all Discord Staff. If someone claims to be Discord Staff and does not have this badge, it is very likely they're impersonating. This badge is one of the only official ways Discord Staff are distinguishable from regular users. 
 
-![Staffbadge](/uploads/badges/staffbadge.png "Staffbadge")
+![Staffbadge](/uploads/badges/staffbadge.png "A Staff Member's Badge")
 
 # Discord Partner
 Discord [Partners](/partner) have the partner badge on their profile. The only way you may obtain this badge is by becoming a Discord Partner. 
