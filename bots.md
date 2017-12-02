@@ -24,7 +24,7 @@ Users have created many different libraries that make using the Discord API easi
 * [Discord-rs](https://github.com/SpaceManiac/discord-rs)
 * [Discord4J](https://github.com/austinv11/Discord4J)
 * [Discordcr](https://github.com/meew0/discordcr)
-* [Discordia](https://github.com/SinisterRectus/Discordia) *(Not Affiliated)*
+* [Discordia](https://github.com/SinisterRectus/Discordia)
 * [Discordie](https://github.com/qeled/discordie)
 * [DiscordGo](https://github.com/bwmarrin/discordgo)
 * [DiscordPHP](https://github.com/teamreflex/DiscordPHP)
