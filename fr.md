@@ -22,7 +22,10 @@ Nous sommes le wiki Discord. Nous sommes fiers d'être l'un des premiers fournis
 
 > ***Éditeurs***
 
-* @OminousCry#2331
+* @OminousCry#2331 - Russe
+* @FSΞ | S Λ M T Ξ L L#8213 - Coréen
+* @D_EaN * STS#1723 - Hongrois
+* @Saphir#9268 - Français
 
 > ***Développeurs du bot***
 
