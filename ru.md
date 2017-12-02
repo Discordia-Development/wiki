@@ -17,21 +17,14 @@
 * @Crake#9100
 * @Tiemen#0107
 * @Mikesky#3456 (Веб-администратор, занимается серверной частью всех сервисов, предоставляемых Wiki)
-* @高町なのは ★★★★#9667
+* @望月 紅葉 ★★★★#9667
 
 > ***[Интернационализация (i18n)]((http://discordia.me/translations))***
 
-* @asli#2772
-* @Daan#3356
-* @Gerd#0525
-* @Henrijoh#0216
-* @Gallium#1327
-* @DaFri_Nochiterov#4289
-* @Thereatra#3564
-* @LW001#8654
-* @LordOfTheUndead#7915
-* @Immotay#7475
-* @Luna#4677
+* @OminousCry#2331 - Russian
+* @FSΞ | S Λ M T Ξ L L#8213 - Korean
+* @D_EaN * STS#1723 - Hungarian
+* @Saphir#9268 - French
 
 > ***Разработчики бота***
 
