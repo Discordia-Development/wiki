@@ -20,9 +20,12 @@ We're The Discord Wiki. We're proud to be one of the leading providers of inform
 * @Mikesky#3456 (Web Administrator, maintains the backend of all of the services provided by the Wiki)
 * @望月 紅葉 ★★★★#9667
 
-> ***Editors***
+> ***Internationalization Volunteers***
 
-* OminousCry#2331
+* @OminousCry#2331 - Russian
+* @FSΞ | S Λ M T Ξ L L#8213 - Korean
+* @D_EaN * STS#1723 - Hungarian
+* @Saphir#9268 - French
 
 > ***Bot Developers***
 
