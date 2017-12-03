@@ -10,19 +10,22 @@ We're The Discord Wiki. We're proud to be one of the leading providers of inform
 
 <a href="https://discord.gg/ZRJ9Ghh">![DISCORD EMBED PLUGIN](https://discordapp.com/api/guilds/367460196148183040/widget.png?style=banner2)</a>
 
-## Editorial Staff
+## The Discord Wiki Staff
 > ***Wiki Administrators***
 
 *Responsible for maintaining The Discord Wiki and its support server.*
-* @Dru#7700 (Web Administrator, maintains the backend of all of the services provided by the Wiki)
+* @Dru#7700 (Systems Administrator, maintains the backend of all of the services provided by the Wiki)
 * @Crake#9100
 * @Tiemen#0107
-* @Mikesky#3456 (Web Administrator, maintains the backend of all of the services provided by the Wiki)
+* @Mikesky#3456 (Systems Administrator, maintains the backend of all of the services provided by the Wiki)
 * @望月 紅葉 ★★★★#9667
+
+> ***Department Leads***
+
+* @OminousCry#2331 - Internationalization Lead
 
 > ***Internationalization Volunteers***
 
-* @OminousCry#2331 - Russian
 * @FSΞ | S Λ M T Ξ L L#8213 - Korean
 * @D_EaN * STS#1723 - Hungarian
 * @Saphir#9268 - French
