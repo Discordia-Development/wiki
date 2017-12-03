@@ -12,6 +12,10 @@ On Discord's website [homepage](https://discordapp.com) there are many objects t
 
 One example of the clickable objects is the question-box towards the top of the page.
 
+See the button in action:
+
+[video](https://discordia.me/uploads/easter-eggs/buttonvid.mp4){.video}
+
 ![Button](/uploads/easter-eggs/newbutton.png "A Button on Discord's Homepage that produces an Easter Egg")
 
 # Remixed Ringtone
