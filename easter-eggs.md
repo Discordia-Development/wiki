@@ -12,7 +12,7 @@ On Discord's website [homepage](https://discordapp.com) there are many objects t
 
 One example of the clickable objects is the question-box towards the top of the page.
 
-![Button](/uploads/easter-eggs/button.png "Button")
+![Button](/uploads/easter-eggs/newbutton.png "A Button on Discord's Homepage that produces an Easter Egg")
 
 # Remixed Ringtone
 In ultra-rare cases, users will receive a remixed version of the incoming call ringtone during either a group or two-person voice call. If a user receives the remixed ringtone, it will play for the whole duration of the call instead of ending when the user joins the call. According to Discord staff, this is the rarest easter egg. You may hear the remixed ringtone [here](https://canary.discordapp.com/assets/b9411af07f154a6fef543e7e442e4da9.mp3).
