@@ -17,7 +17,9 @@ This is a list of features that will be occasionally updated with information ab
 | Inline Audio/Video Player | Planned |
 | Invite Embeds Redesign | Gradually Rolling Out |
 | Permissions Preview Tool | Planned |
+| Priority Speaker | Planned |
 | Report Button | Retooling Planned |
+| Screen Share Audio | Planned |
 | Spellcheck | Planned |
 | Spotify Rich Presence | In Internal Testing |
 | Windows Icon Badge | Available on Canary |
