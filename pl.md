@@ -7,3 +7,31 @@ Jesteśmy Discord Wiki. Jesteśmy dumni, że możemy być jednym z czołowych do
 [Join us on Discord!](https://discord.gg/ZRJ9Ghh)
 
 <a href="https://discord.gg/ZRJ9Ghh">![DISCORD EMBED PLUGIN](https://discordapp.com/api/guilds/367460196148183040/widget.png?style=banner2)</a>
+
+## The Discord Wiki Staff
+> ***Administratorzy Wiki***
+
+*Odpowiedzialni za utrzymywanie Discord Wiki i jego serwera wsparcia.*
+* @Dru#7700 (Administrator systemów, utrzymuje zaplecze wszystkich usług dostarczanych przez Wiki)
+* @Crake#9100
+* @Tiemen#0107
+* @Mikesky#3456 (Administrator systemów, utrzymuje zaplecze wszystkich usług dostarczanych przez Wiki)
+* @望月 紅葉 ★★★★#9667
+
+> ***Kadra liderska***
+
+* @OminousCry#2331 - Internationalization Lider
+
+> ***Tłumacze Wiki***
+
+* @erykol#9716 - Polski
+* @FSΞ | S Λ M T Ξ L L#8213 - Koreański
+* @D_EaN * STS#1723 - Węgierski
+* @Saphir#9268 - Francuski
+
+> ***Bot Developers***
+
+*Przyczynili się do stworzenia Discord WikiBot'a.*
+* @HyperCoder#2975
+* @Tiemen#0107
+* @TreeFarmer#5406
