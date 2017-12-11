@@ -15,14 +15,12 @@ This is a list of features that will be occasionally updated with information ab
 | Cancelable Uploads | Planned |
 | Group DM Invites | Planned |
 | Inline Audio/Video Player | Planned |
-| Invite Embeds Redesign | Gradually Rolling Out |
 | Permissions Preview Tool | Planned |
 | Priority Speaker | Planned |
 | Report Button | Retooling Planned |
 | Screen Share Audio | Planned |
 | Spellcheck | Planned |
 | Spotify Rich Presence | In Internal Testing |
-| Windows Icon Badge | Available on Canary |
 
 ## iOS
 | Feature | Status	|
@@ -31,7 +29,6 @@ This is a list of features that will be occasionally updated with information ab
 | Audit Log | Planned |
 | Chat Rewrite | Planned |
 | Custom Keyboard | Planned |
-| iOS 11 Compatibility | In Development |
 | Rich Push Notifications | Planned |
 | Security Compatibility | Planned |
 | Server Sorting | Planned |
