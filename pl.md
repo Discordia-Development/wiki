@@ -37,6 +37,6 @@ Jesteśmy Discord Wiki. Jesteśmy dumni, że możemy być jednym z czołowych do
 * @TreeFarmer#5406
 
 ## Zastrzeżenia i informacje prawne
-No hej! Witamy w The Discord Wiki! Jesteśmy silnymi zwolennikami przejrzystości, więc zanim wskoczycie, proszę spojrzeć na nasze [Warunki świadczenia usług] (warunki) i naszą [Politykę prywatności] (/ prywatność), abyście mogli poznać wszystkie prawne musisz wiedzieć o naszych usługach!
+No hej! Witamy w The Discord Wiki! Jesteśmy silnymi zwolennikami przejrzystości, więc zanim wskoczycie, proszę spojrzeć na nasze [Warunki świadczenia usług] (/terms) i naszą [Politykę prywatności] (/privacy), abyście mogli poznać wszystkie prawne musisz wiedzieć o naszych usługach!
 
-### *** Discord, Discord Ghost (Clyde ™) i Discordapp (w tym DISCORD) są intelektualną i prawną własnością Discord Inc. Usługi te, wymienione w [Warunkach świadczenia usług] (warunki), nie są powiązane z Discord Inc lub dowolnymi spółkami zależnymi w nim. The Discord Wiki nie twierdzi, że jest właścicielem jakiejkolwiek własności intelektualnej DISCORD, proszę nas nie oskarżać. ***
+### *** Discord, Discord Ghost (Clyde ™) i Discordapp (w tym DISCORD) są intelektualną i prawną własnością Discord Inc. Usługi te, wymienione w [Warunkach świadczenia usług] (/terms), nie są powiązane z Discord Inc lub dowolnymi spółkami zależnymi w nim. The Discord Wiki nie twierdzi, że jest właścicielem jakiejkolwiek własności intelektualnej DISCORD, proszę nas nie oskarżać. ***
