@@ -8,7 +8,7 @@ Jesteśmy Discord Wiki. Jesteśmy dumni, że możemy być jednym z czołowych do
 
 <a href="https://discord.gg/ZRJ9Ghh">![DISCORD EMBED PLUGIN](https://discordapp.com/api/guilds/367460196148183040/widget.png?style=banner2)</a>
 
-## The Discord Wiki Staff
+## Personel Discord Wiki
 > ***Administratorzy Wiki***
 
 *Odpowiedzialni za utrzymywanie Discord Wiki i jego serwera wsparcia.*
@@ -29,7 +29,7 @@ Jesteśmy Discord Wiki. Jesteśmy dumni, że możemy być jednym z czołowych do
 * @D_EaN * STS#1723 - Węgierski
 * @Saphir#9268 - Francuski
 
-> ***Bot Developers***
+> ***Deweloperzy botów***
 
 *Przyczynili się do stworzenia Discord WikiBot'a.*
 * @HyperCoder#2975
