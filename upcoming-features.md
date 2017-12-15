@@ -40,10 +40,9 @@ This is a list of features that will be occasionally updated with information ab
 |---------|--------|
 | Audit Log | Planned |
 | Auto-Deplay to Alpha | In Development |
-| Double Infinite Scrolling | In Development |
+| Double Infinite Scrolling | Available on Android Alpha |
 | Compress Image Toggle | Planned |
-| GIF Picker In-Line Keyboard | Gradually Rolling Out |
-| Improve Voice Experience | Planned |
+| Improve Voice Experience | Available on Android Alpha |
 | Screensharing | In Development |
 | Security Tab/2FA Enable/Disable | Planned |
 | Video Embeds | Planned |
