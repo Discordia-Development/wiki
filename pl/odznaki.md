@@ -25,6 +25,6 @@ Członkowie Discord [Hypesquad](/hypesquad) posiadają własną Hypesquad'ową o
 
 ![Hypesquadbadge](/uploads/badges/newhypesquadbadge.png "Odznaka Hypesquad")
 # Discord Nitro
-Użytkownicy, którzy nabyli[Discord Nitro](/nitro) mają Odznakę Nitro w swoich profilach. Jeśli najedziesz na odznakę wyświetli się data uzyskania Nitro. Jeśli zrezygnujesz z subskrybcji Nitro to odznaka zniknie. 
+Użytkownicy, którzy nabyli [Discord Nitro](/nitro) mają Odznakę Nitro w swoich profilach. Jeśli najedziesz na odznakę wyświetli się data uzyskania Nitro. Jeśli zrezygnujesz z subskrybcji Nitro to odznaka zniknie. 
 
 ![Nitrobadge](/uploads/badges/newnitrobadge.png "Odznaka nitro")
