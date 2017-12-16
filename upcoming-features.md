@@ -15,6 +15,7 @@ This is a list of features that will be occasionally updated with information ab
 | Cancelable Uploads | Planned |
 | Group DM Invites | Planned |
 | Inline Audio/Video Player | Planned |
+| LFG | In Internal Testing |
 | Permissions Preview Tool | Planned |
 | Priority Speaker | Planned |
 | Report Button | Retooling Planned |
