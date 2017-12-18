@@ -18,7 +18,7 @@ This is a list of features that will be occasionally updated with information ab
 | LFG | Gradually Rolling Out |
 | Permissions Preview Tool | Planned |
 | Priority Speaker | Planned |
-| Report Button | Retooling Planned |
+| Report Button | Available on Canary |
 | Screen Share Audio | Planned |
 | Spellcheck | Planned |
 | Spotify Rich Presence | In Internal Testing |
