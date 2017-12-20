@@ -20,12 +20,16 @@ Mi vagyunk a The Discord Wiki. Büszkék vagyunk arra, hogy a jelenleg egyik leg
 * @Mikesky#3456 (Web adminisztrátor, fenntartja a Wiki által nyújtott minden szolgáltatás backendjét)
 * @望月 紅葉 ★★★★#9667
 
+> ***Osztályvezetők***
+
+* @OminousCry#2331 - Fordítási vezető
+
 > ***Önkéntes fordítók***
 
-* @OminousCry#2331 - Orosz
 * @FSΞ | S Λ M T Ξ L L#8213 - Koreai
 * @D_EaN * STS#1723 - Magyar
 * @Saphir#9268 - Francia
+* @erykol#9716 - Lengyel
 
 > ***Bot fejlesztők***
 
