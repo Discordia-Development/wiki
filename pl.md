@@ -36,6 +36,17 @@ Jesteśmy Discord Wiki. Jesteśmy dumni, że możemy być jednym z czołowych do
 * @Tiemen#0107
 * @TreeFarmer#5406
 
+> ***Patroni***
+
+*Wielkie dzięki za wsparcie od naszych supportów z [Patreon](https://www.patreon.com/TheDiscordWiki)!*
+
+* Curse Broken#8659
+* D_EaN * STS#1723
+* DowDaw#1063
+* Tarek1337#0379
+* GoldenPheonix#6248
+* Saphir#9268
+
 ## Zastrzeżenia i informacje prawne
 No hej! Witamy w The Discord Wiki! Jesteśmy silnymi zwolennikami przejrzystości, więc zanim wskoczycie, proszę spojrzeć na nasze [Warunki świadczenia usług] (/terms) i naszą [Politykę prywatności] (/privacy), abyście mogli poznać wszystkie prawne musisz wiedzieć o naszych usługach!
 
