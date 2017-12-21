@@ -40,7 +40,7 @@ Mi vagyunk a The Discord Wiki. Büszkék vagyunk arra, hogy a jelenleg egyik leg
 
 > ***Támogatók***
 
-*Nagy köszönet [Patreon](https://www.patreon.com/TheDiscordWiki) támogatónknak!*
+*Nagy köszönet minden [Patreon](https://www.patreon.com/TheDiscordWiki) támogatónknak!*
 
 * Curse Broken#8659
 * D_EaN * STS#1723
