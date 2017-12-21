@@ -40,7 +40,7 @@ We're The Discord Wiki. We're proud to be one of the leading providers of inform
 
 > ***Patrons***
 
-A huge thank you to all our supporters on [Patreon](https://www.patreon.com/TheDiscordWiki)!
+*A huge thank you to all our supporters on [Patreon](https://www.patreon.com/TheDiscordWiki)!*
 
 * Curse Broken#8659
 * D_EaN * STS#1723
