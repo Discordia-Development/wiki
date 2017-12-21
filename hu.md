@@ -38,6 +38,17 @@ Mi vagyunk a The Discord Wiki. Büszkék vagyunk arra, hogy a jelenleg egyik leg
 * @Tiemen#0107
 * @TreeFarmer#5406
 
+> ***Támogatók***
+
+*Nagy köszönet [Patreon](https://www.patreon.com/TheDiscordWiki) támogatónknak!*
+
+* Curse Broken#8659
+* D_EaN * STS#1723
+* DowDaw#1063
+* Tarek1337#0379
+* GoldenPheonix#6248
+* Saphir#9268
+
 ## Nyilatkozatok és Jogi Információk
 Halihó! Üdvözöllek a The Discord Wikin! Az átláthatóság hívői vagyunk, szóval mielőtt belekezdenél, kérlek tégy egy pillantást a [Szolgáltatási Feltételeinkre](/terms) és az [Adatvédelmi irányelveinkre](/privacy), hogy minden jogi dolgot megtudj amit tudnod kell a szolgáltatásainkra vonatkozólag!
 
