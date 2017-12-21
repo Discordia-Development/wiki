@@ -26,10 +26,10 @@ Mi vagyunk a The Discord Wiki. Büszkék vagyunk arra, hogy a jelenleg egyik leg
 
 > ***Önkéntes fordítók***
 
-* @FSΞ | S Λ M T Ξ L L#8213 - Koreai
 * @D_EaN * STS#1723 - Magyar
-* @Saphir#9268 - Francia
 * @erykol#9716 - Lengyel
+* @FSΞ | S Λ M T Ξ L L#8213 - Koreai
+* @Saphir#9268 - Francia
 
 > ***Bot fejlesztők***
 
