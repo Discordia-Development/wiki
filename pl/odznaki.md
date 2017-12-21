@@ -1,7 +1,6 @@
 <!-- TITLE: Odznaki -->
 <!-- SUBTITLE: A quick summary of Odznaki -->
 
-# Header
 Discord posiada różne odznaki, które odróżniają użytkownika jako członka określonych grup. Odznaki wyświetlają się na karcie profilu użytkownika. Aby uzyskać dostęp do kogoś karty profilowej, kliknij go i wybierz ** wyświetl profil **, umieszczając wskaźnik myszy nad kogoś awatarem.
 
 Odznaki pojawiają się w hierarchicznej kolejności, a ich wielokrotności ulegają stackowaniu. 
