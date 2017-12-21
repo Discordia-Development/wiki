@@ -14,11 +14,11 @@ Mi vagyunk a The Discord Wiki. Büszkék vagyunk arra, hogy a jelenleg egyik leg
 > ***Wiki adminisztrátorok***
 
 *Felelősek a The Discord Wiki és a support szerver fenntartásáért.*
-* @Dru#7700 (Web adminisztrátor, fenntartja a Wiki által nyújtott minden szolgáltatás backendjét)
-* @Crake#9100
-* @Tiemen#0107
+* @SleepaDru#7700 (Web adminisztrátor, fenntartja a Wiki által nyújtott minden szolgáltatás backendjét)
 * @Mikesky#3456 (Web adminisztrátor, fenntartja a Wiki által nyújtott minden szolgáltatás backendjét)
+* @Harrison#9100
 * @望月 紅葉 ★★★★#9667
+* @Tiemen#0107
 
 > ***Osztályvezetők***
 
