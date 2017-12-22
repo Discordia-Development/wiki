@@ -27,8 +27,7 @@ According to their website, Discord looks for 'growing communities and content c
 * Reddits (8000+ subs)
 * Social Personalities (Large Facebook, Twitter, etc online personalities [10,000+ followers])
 * Content Creators/Streamers (Beam, Twitch, YouTube, Player.me, etc)
-* Non-Profits (100% acceptance if you can provide your EID)
+* Non-Profits (Requires a valid EID number)
 * Large Communities (Large guilds or gaming groups)
 
 (Not all the values given are dead set, everything is based on who/what you are and do. Everyone has a chance, but these are the low-averages for a partner.)
-*Twitch Partners and registered nonprofits are guaranteed Discord Partners.*
