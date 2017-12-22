@@ -1,7 +1,7 @@
 <!-- TITLE:Dziennik Zdarzeń -->
 <!-- SUBTITLE: Informacje o Discordowym Dzienniku Zdarzeń -->
 
-Czy zastanawiałeś się kiedyś, kto stworzył nowy kanał na twoim serwerze? Lub kto był osobą, która zbanowała kłopotliwego użytkownika? Nie obawiajcie się, Dzienniki Zdarzeń są po to, aby powiedzieć, kto, co zrobił na waszych serwerach!
+Czy zastanawiałeś się kiedyś, kto stworzył nowy kanał na twoim serwerze? Lub kto był osobą, która zbanowała kłopotliwego użytkownika? Nie obawiaj się, Dzienniki Zdarzeń są po to, aby powiedzieć, kto, co zrobił na twoim serwerze!
 # Gdzie szukać Dzienników Zdarzeń
 Więc, gdzie mogę znaleźć Dziennik Zdarzeń? Wewnątrz [server settings](/server-settings), tutaj znajduje się zakładka z Dziennikiem Zdarzeń.
 
