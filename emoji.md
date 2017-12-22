@@ -27,17 +27,9 @@ Whenever you finish making your new emote, you can edit the emoji's name by clic
 Animated emojis were added on December 21st, 2017 for Nitro users only. These emojis can be added normally, without Nitro, to servers, but only able to be used by Nitro users. Animated emojis will pause on the first frame if posted by webhooks, or if the Discord window is out of focus. These emojis will still play if posted by bots, as bot accounts have Nitro. These emojis also do not add to the total emoji cap, and instead have their own cap of 50 animated emojis.
 
 ## Other Emoji
-There *are* a few other kinds of emotes for your discord use and enjoyment; BetterTTV and Subscriber emotes.
+There *are* a few other kinds of emotes for your discord use and enjoyment; Gamewisp and Subscriber emotes.
 
 These are the only two kinds of emotes you can use globally without [**Discord Nitro**](/nitro). (Click the link for more information)
-
-## BetterTTV
-
-Better TTV is a Twitch service that provides Twitch channel emotes, and global discord emotes. (Assuming you connect your account to Discord) Users need to meet certain requirements in order to use this;
-* Twitch partner.
-* Have over 1,000 Twitch followers.
-* Stream at least 3 times a week on Twitch with at least 15 viewers.
-If you feel you meet these requirements and want your server to have global emotes for everyone, go to [this page](https://manage.betterttv.net/)
 
 ## Subscriber Emoji
 
