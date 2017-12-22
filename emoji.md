@@ -22,6 +22,10 @@ Whenever you finish making your new emote, you can edit the emoji's name by clic
 * If there are two emojis of the same name, such as having two :discord: emotes that are all lowercase, Discord will create a ~number behind it to make :discord~1:, :discord~2:, etc
 * At the current time of publication, servers are only allowed to have 50 custom emojis unless the others are BTTV or Subscribe emotes.
 
+## Animated Emoji
+
+Animated emojis were added on December 21st, 2017 for Nitro users only. These emojis can be added normally, without Nitro, to servers, but only able to be used by Nitro users. Animated emojis will pause on the first frame if posted by webhooks, or if the Discord window is out of focus. These emojis will still play if posted by bots, as bot accounts have Nitro. These emojis also do not add to the total emoji cap, and instead have their own cap of 50 animated emojis.
+
 ## Other Emoji
 There *are* a few other kinds of emotes for your discord use and enjoyment; BetterTTV and Subscriber emotes.
 
