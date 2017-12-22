@@ -6,11 +6,11 @@
 ## **Here's how it works:**
 First, navigate yourself to the nice little [Server Settings](/server-settings) box at the top of the screen and click on it
 
-**SERVER SETTINGS GIF HERE**
+![Adacbd](/uploads/adacbd.gif "Adacbd")
 
 This'll bring up a screen with several options, of which we will choose the one marked "Emoji"
 
-**EMOJI SETTINGS GIF HERE**
+![455 Dac](/uploads/455-dac.gif "455 Dac")
 
 Now, you'll be able to pick any image and upload it!
 
