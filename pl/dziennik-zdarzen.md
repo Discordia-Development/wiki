@@ -7,7 +7,7 @@ Więc, gdzie mogę znaleźć Dziennik Zdarzeń? Wewnątrz [server settings](/ser
 
 ![Audit Logs 2](/uploads/audit-logs/audit-logs-2.png "Audit Logs 2")
 
-> **UWAGA**: Dziennik Zdarzeń można przeglądać tylko wtedy, gdy masz uprawnienia **Wyświetl dziennik zdarzeń** or the **Administrator**.
+> **UWAGA**: Dziennik Zdarzeń można przeglądać tylko wtedy, gdy masz uprawnienia **Wyświetl dziennik zdarzeń** lub **Administrator**.
 
 Po kliknięciu karty Dziennik Zdarzeń zostaniesz powitany przez coś, co wygląda mniej więcej tak:
 
