@@ -12,8 +12,6 @@ Enabling Developer Mode is easy. Open your Discord settings (the <i class="icon-
 
 On Android, you can enable Developer Mode by going to your Discord settings (the <i class="icon-cog"></i> next to your name at the bottom left) and click on *Behavior*. There you will find *Developer Mode*. Click the toggle to enable it.
 
-![Android Devmode Toggle](/uploads/developer-mode/android-devmode-toggle.png "Android Devmode Toggle")
-
 # Usage
 Developer Mode adds a simple *Copy ID* option to your context menu. Right click on any server, user, message or channel to get its unique ID.
 
