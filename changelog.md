@@ -3,6 +3,60 @@
 
 This is the changelog/release date for major features or significant changes. PTB and Canary might have received some features sooner than the date listed below.
 
+# 12/21/2017
+
+## Desktop
+
+* Animated Emoji
+* 720p60 and 1080p30 options for Screensharing
+* PayPal option added for [Discord Nitro](/nitro)
+* Group DM owner marked with crown icon
+* Japanese Voice servers launced
+
+## Android 
+
+* Stability increased for voice and video calls
+* Jump to message from search or pins
+* Themeing works on more modals
+
+# 12/11/2017
+
+## Desktop
+
+* Overlay overhauled
+* Invite embed redesign
+* Profile modals redesigned, now themed
+* Discord system tray has contextual options depending on voice status
+* Can open Discord minimised on startup
+* Can choose to close discord instead of minimising to tray
+
+## iOS
+
+* Profile modals redesigned, now themed
+* Invite screen redesigned
+
+## Android
+
+* Less data used while loading images
+* Media keyboard support
+
+# 11/9/2017
+Full changelog [here](https://blog.discordapp.com/11-9-2017-change-log-b9d697899a68)
+
+* Rich Presence fully released to all developers.
+* Detailed information for games.
+* Invite to game and Spectate options in Discord client.
+
+* Manage Categories permission added
+* Data compression for mobile
+* Facebook sync option
+* Ability to direct call anyone, without being friends
+* iPhone X support.
+
+# 10/12/2017
+Full changelog [here](https://blog.discordapp.com/verified-servers-and-how-to-promote-them-4be8d23d86f0)
+
+* [Verified Servers](https://discordia.me/verified-servers) Released for game developers.
 # 10/05/2017
 Full changelog [here](https://blog.discordapp.com/5-10-2017-change-log-80f10c621c64)
 
