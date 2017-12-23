@@ -16,3 +16,4 @@ The following features do not work on the Discord web client:
 * Overlay
 * Push to Talk
 * Game detection
+* Rich Presence
