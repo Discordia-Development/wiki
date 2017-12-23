@@ -1,4 +1,4 @@
-<!-- TITLE: Internals -->
+<!-- TITLE: Technology -->
 <!-- SUBTITLE: Stuff about Discord's internal systems, with some undocumented situations as well -->
 
 # Discord's "stack"
