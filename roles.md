@@ -15,63 +15,65 @@ Permissions are divided between General Permissions, Text Permissions, and Voice
 
 * Most permissions in this section are server-management related permissions. Many of these permissions can be dangerous, and should only be given to users you can trust.
 
-* The first permission is Manage Webhooks, which allows a user to view, create, delete, and edit webhooks on any channel. Webhooks can be used to speak in the channel it is created in, even with the user not being on the server.
+* The **Administrator** permission gives a user every single permission, and also ignores channel-specific settings. **This permission is not recommended to be given out to someone you do not trust**.
 
-* The Manage Emojis permission allows users to access the Emojis tab in Server Settings. This allows them to upload, delete, and rename emojis. 
+* The **View Audit Log** permission allows a user to view the server's audit logs.
 
-* The Manage Nicknames permission allows users to rename a user with a nickname. Users can only apply or edit nicknames of users below them in the role heirarchy.
+* **Manage Server** allows a user to edit the server name, server icon, voice region, and the verification level. 
 
-* The Change Nickname permission allows a user to change their own nickname. This nickname can still be changed by anyone above them with the Manage Nicknames permission.
+* ** Manage Roles** allows a user to access the roles menu, and edit roles below their highest role. Users cannot take or give permissions they do not have.
 
-* Create Instant Invites allows a user to create a instant invite for the server. Instant Invites can be revoked in the Instant Invites channel by anyone with Manage Server.
+* **Manage Channels** allows a user to delete and create new text and voice channels. This also applies to [channel categories](/channel-categories)
 
-* The Ban Members permission allows a user to ban anyone who is below them in the heirarchy. This also allows a user to access the ban list, and unban members from it.
+* The **Kick Members** permission allows a user to kick anyone who is below them in the heirarchy. 
 
-* The Kick Members permission allows a user to kick anyone who is below them in the heirarchy. 
+* The **Ban Members** permission allows a user to ban anyone who is below them in the heirarchy. This also allows a user to access the ban list, and unban members from it.
 
-* Manage Channels allows a user to delete and create new text and voice channels.
+* **Create Instant Invites** allows a user to create a instant invite for the server. Instant Invites can be revoked in the Instant Invites channel by anyone with Manage Server.
 
-* Manage Roles allows a user to access the roles menu, and edit roles below their highest role. Users cannot take or give permissions they do not have.
+* The **Change Nickname** permission allows a user to change their own nickname. This nickname can still be changed by anyone above them with the Manage Nicknames permission.
 
-* Manage Server allows a user to edit the server name, server icon, voice region, and the verification level. 
+* The **Manage Nicknames** permission allows users to rename a user with a nickname. Users can only apply or edit nicknames of users below them in the role heirarchy.
 
-* The Administrator permission gives a user every single permission, and also ignores channel-specific settings. **This permission is not recommended to be given out to someone you do not trust**.
+* The **Manage Emojis** permission allows users to access the Emojis tab in Server Settings. This allows them to upload, delete, and rename emojis. 
+
+* The  **Manage Webhooks** permission allows a user to view, create, delete, and edit webhooks on any channel. Webhooks can be used to speak in the channel it is created in, even with the user not being on the server.
+
+* The **Read Text Channels & See Voice Channels** permission allows a user to see all the text and voice channels that are available as default to users on the server. Without this or an appropriate role, a user will see no channels on a server.
 
 ## Text Permissions
 
-* Read Messages allows a user to read messages in any channel unless denied by that channel's permissions.
+* **Send Messages** allows a user to send messages in any channel unless denied by that channel's permissions.
 
-* Send Messages allows a user to send messages in any channel unless denied by that channel's permissions.
+* **Send TTS Messages** allows a user to use /tts in any channel unless denied by that channel's permissions. This feature is disabled on many servers, and can be disabled client-side in [User Settings](/user-settings).
 
-* Send TTS Messages allows a user to use /tts in any channel unless denied by that channel's permissions. This feature is disabled on many servers, and can be disabled client-side in [User Settings](/user-settings).
+* **Manage Messages** allows a user to delete, pin, and unpin messages, unless denied by that channel's permissions.
 
-* Manage Messages allows a user to delete, pin, and unpin messages, unless denied by that channel's permissions.
+* **Embed Links** allows users to post links and have them embed. This can be denied per channel permissions.
 
-* Embed Links allows users to post links and have them embed. This can be denied per channel permissions.
+* **Attach Files** allows users to upload files. This cna be denied per channel permissions.
 
-* Attach Files allows users to upload files. This cna be denied per channel permissions.
+* **Read Channel History** allows users to read the channel's history. If denied, they can only view history as far as they have seen the channel, and is reset after they reload the client.
 
-* Read Channel History allows users to read the channel's history. If denied, they can only view history as far as they have seen the channel, and is reset after they reload the client.
+* **Mention Everyone** allows users to mention @everyone or @here, unless denied by that channel's permissions.
 
-* Mention @everyone allows users to mention @everyone or @here, unless denied by that channel's permissions.
+* **Use External Emojis** allows users to use External Emojis, such as BTTV/Twitch global emojis, and emojis from other servers, if they have [Discord Nitro](/nitro). This can be denied by a channel's permissions.
 
-* Use External Emojis allows users to use External Emojis, such as BTTV/Twitch global emojis, and emojis from other servers, if they have [Discord Nitro](/nitro). This can be denied by a channel's permissions.
-
-* Add Reactions allows users to add reactions to any message, unless denied by that channel's permissions. 
+* **Add Reactions** allows users to add reactions to any message, unless denied by that channel's permissions. 
 
 ## Voice Permissions
 
-* Connect allows users to connect to a Voice Channel, unless denied by that channel's permission.
+* ** Connect** allows users to connect to a Voice Channel, unless denied by that channel's permission.
 
-* Speak allows users to speak in a channel, unless denied by that channel's permission, or has been Server Muted.
+* **Speak** allows users to speak in a channel, unless denied by that channel's permission, or has been Server Muted.
 
-* Mute Members allows a user to Server Mute other members, which makes the muted user unable to be heard by anyone in the channel. 
+* **Mute Members** allows a user to Server Mute other members, which makes the muted user unable to be heard by anyone in the channel. 
 
-* Defean Members allows a user to Server Deafen other members, which makes the deafened user unable to hear anyone in the channel.
+* **Defean Members** allows a user to Server Deafen other members, which makes the deafened user unable to hear anyone in the channel.
 
-* Move Members allows a user to move any member from any channel to another. 
+* ** Move Members** allows a user to move any member from any channel to another. 
 
-* Use Voice Activity allows a user to not have to use Push-to-Speak, unless denied by that channel's permissions.
+* **Use Voice Activity** allows a user to not have to use Push-to-Speak, unless denied by that channel's permissions.
 
 # Other Info
 
