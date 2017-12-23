@@ -12,7 +12,7 @@ The following integrations allow you to link the apps listed below with your Dis
 * [Twitch](https://support.discordapp.com/hc/en-us/articles/212112068-Twitch-Integration-FAQ) - Allow Discord to automatically sync your partnered Twitch channel subs to a role. You can also let your Twitch subs use your Twitch emotes globally within Discord. 
 * [Youtube Gaming](https://support.discordapp.com/hc/en-us/articles/215162978-Youtube-Gaming-Integration-FAQ) - Allow Discord to automatically sync your partnered YouTube Gaming channel sponsors to a role. 
 * [Twinge](http://www.twinge.tv/sys/discord) - Allow Twinge to share analytics and Twitch community interaction within your Discord server. 
-* [Beam](https://watchbeam.zendesk.com/hc/en-us/articles/211272063-Discord-Chat) - Allow Discord to automatically sync your Beam subscribers to a role. 
+* [Mixer](https://watchbeam.zendesk.com/hc/en-us/articles/211272063-Discord-Chat) - Allow Discord to automatically sync your Mixer subscribers to a role. 
 * [GameWisp](https://gamewisp.zendesk.com/hc/en-us/articles/222644768) - Allow Discord to automatically sync your GameWisp subscribers to a role.
 * [XSplit](https://streamkit.discordapp.com/overlay) - Customize, promote, and show off your Discord community directly on your stream. 
 * [OBS](https://streamkit.discordapp.com/overlay) - Customize, promote, and show off your Discord community directly on your stream.
