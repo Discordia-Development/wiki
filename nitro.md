@@ -8,7 +8,7 @@ Nitro was launched for testing in Australia on December 22nd, 2016 and globally 
 
 Nitro can either be purchased monthly for $4.99 or yearly for $49.99. The yearly purchase gives two months for free.
 
-On December 22nd 2017, the ability to pay with PayPal was added.
+On December 22nd, 2017, the ability to pay with PayPal was added.
 
 # Features
 A Discord Nitro subscription gives users access to the following features:
