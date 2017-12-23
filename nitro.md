@@ -1,4 +1,5 @@
 <!-- TITLE: Nitro -->
+<!-- SUBTITLE: Support Discord's Development -->
 
 ![Nitrobadge](/uploads/nitro/nitrobadge.png "Nitrobadge")
 
