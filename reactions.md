@@ -46,4 +46,7 @@ It is possible to hide reactions by toggling the "Show emoji reactions on messag
 
 ## Video
 
-Reactions debuted on Discord on November 3rd, 2016. [A video](https://www.youtube.com/watch?v=pWg1uwwtB9o) was uploaded to the Discord App YouTube channel as an announcement. Proceeding the announcement, Zencha is shown performing science experiments at a nearby park.
+Reactions debuted on Discord on November 3rd, 2016. A video was uploaded to the Discord App YouTube channel as an announcement. Proceeding the announcement, Zencha is shown performing science experiments at a nearby park.
+
+[video](https://www.youtube.com/watch?v=pWg1uwwtB9o){.youtube}
+
