@@ -15,6 +15,7 @@ On December 22nd, 2017, the ability to pay with PayPal was added.
 A Discord Nitro subscription gives users access to the following features:
 
 * GIF Avatar.
+* Ability to use animated emoji.
 * Ability to use custom emoji anywhere (if the User has the Use External Emojis permission in that server).
 * Max upload size changed from 8mb to 50mb.
 * Discord Nitro [badge](/badges) on profile.
