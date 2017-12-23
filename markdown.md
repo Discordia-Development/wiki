@@ -1,3 +1,6 @@
+<!-- TITLE: Markdown -->
+<!-- SUBTITLE: Want to inject some flavor into your everyday text chat? -->
+
 Markdown is a Discord feature that enables the stylizing of text. There are a total of five different markdown operators.
 
 # Operators
