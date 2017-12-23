@@ -17,7 +17,6 @@ Userbots are fully functioning bots run through a regular account. This is again
 
 # Libraries
 Users have created many different libraries that make using the Discord API easier.
-* [Discord.hs](https://gitlab.com/jkoike/Discord.hs)
 * [Discord.io](https://github.com/izy521/discord.io)
 * [Discord.js](https://github.com/hydrabolt/discord.js)
 * [Discord.net](https://github.com/RogueException/Discord.Net)
@@ -26,12 +25,10 @@ Users have created many different libraries that make using the Discord API easi
 * [Discord-rs](https://github.com/SpaceManiac/discord-rs)
 * [Discord4J](https://github.com/austinv11/Discord4J)
 * [Discordcr](https://github.com/meew0/discordcr)
-* [Discordia](https://github.com/SinisterRectus/Discordia)
+* [Discordia](https://github.com/SinisterRectus/Discordia) (Not affiliated)
 * [Discordie](https://github.com/qeled/discordie)
 * [DiscordGo](https://github.com/bwmarrin/discordgo)
-* [DiscordPHP](https://github.com/teamreflex/DiscordPHP)
 * [Discordrb](https://github.com/meew0/discordrb)
-* [Dscord](https://github.com/b1naryth1ef/dscord)
 * [DSharpPlus](https://github.com/NaamloosDT/DSharpPlus)
 * [Eris](https://github.com/abalabahaha/eris)
 * [Javacord](https://github.com/BtoBastian/Javacord)
