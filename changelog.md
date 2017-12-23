@@ -7,7 +7,7 @@ This is the changelog/release date for major features or significant changes. PT
 
 ## Desktop
 
-* Animated Emoji
+* Animated [Emoji](https://discordia.me/emoji#animated-emoji)
 * 720p60 and 1080p30 options for Screensharing
 * PayPal option added for [Discord Nitro](/nitro)
 * Group DM owner marked with crown icon
