@@ -11,6 +11,12 @@ A role may have any combination of permissions, from Administrator to just Use E
 
 Permissions are divided between General Permissions, Text Permissions, and Voice Permissions.
 
+## Role Settings
+
+* **Display role members seperately from online members** will show members of a role in a seperate group above default users, which is determined by role order. This is sometimes known as *hoisting* a role.
+
+* **Allow anyone to @mention this role** allows any user to mention every member of a role at once, similar to how an @everyone ping functions. This is typically applied to moderation roles.
+
 ## General Permissions
 
 * Most permissions in this section are server-management related permissions. Many of these permissions can be dangerous, and should only be given to users you can trust.
