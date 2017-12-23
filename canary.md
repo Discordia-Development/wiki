@@ -17,4 +17,4 @@ You can find update notes on Discord Canary specific to each version at the link
 The Android and iOS apps have independent beta testing programs. If you are interested in participating in these beta programs, join the [Discord Testers](http://discord.gg/discord-testers) server and read the frequently asked questions.
 
 # Web Canary
-There is a web version of Discord Canary that may be accessed by going to https://canary.discordapp.com. However, this is an **unsupported version of Discord**.
+There is a web version of Discord Canary that may be accessed by going to https://canary.discordapp.com.
