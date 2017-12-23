@@ -10,8 +10,8 @@ Ta strona próbuje wymienić różne "ograniczenia" nałożone na serwery Discor
 - Serwery będą wyświetlać tylko użytkowników w trybie offline, dopóki nie osiągną **100 członków**. Po osiągnięciu 100 członków osoby offline / niewidoczne nie będą już wyświetlane na liście członków.
 - Serwer może mieć *najwyżej* **500 kanałów** - łącznie tekstowych i głosowych. Po osiągnięciu 500 kanałów nie możliwe jest utworzenie następnych. 
 - Serwer może mieć *najwyżej* **50 niestandardowych emoji**.
-- Serwer może mieć *najwyżej* **250 ról**
-- Serwer może mieć *najwyżej* **50 customowych emoji**
+- Serwer może mieć *najwyżej* **250 ról**.
+- Serwer może mieć *najwyżej* **50 customowych emoji**.
 
 # Inne limity
 - Limit wiadomości: 2000 znaków (uwaga: wzmianki o użytkownikach / kanałach / rolach i emoji zawierają o wiele więcej znaków niż może nam się wydawać!
