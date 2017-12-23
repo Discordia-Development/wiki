@@ -30,9 +30,9 @@ More clips may be found [here](https://www.twitch.tv/discordapp/clips)
 
 # Vlogs
 Unrelated to Game Night, here are some Discord video logs.
-* [Discord BlizzCon Party Vlog](https://www.youtu.be/04wdKR14kbY)
+* [Discord BlizzCon Party Vlog](https://youtu.be/04wdKR14kbY)
 * [Discord Nautical Party Vlog](https://youtu.be/fs6j5ReMsNI)
-* [Pax East 2017 Vlog](https://www.youtu.be/B5B-q0QI0II)
-* [Discord Official Unofficial Party Vlog](https://www.youtu.be/DG_qaabZeQs)
-* [Developer Vlog August 2015](https://www.youtu.be/9b-CWmwGUKw)
+* [Pax East 2017 Vlog](https://youtu.be/B5B-q0QI0II)
+* [Discord Official Unofficial Party Vlog](https://youtu.be/DG_qaabZeQs)
+* [Developer Vlog August 2015](https://youtu.be/9b-CWmwGUKw)
 
