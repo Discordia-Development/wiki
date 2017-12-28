@@ -33,7 +33,7 @@ Inside of the Moderation tab, the **Verification Level** and **Explicit Content 
 * Scan messages from users without a role.
 * Scan messages sent by all members.
 
-Server Two-Factor Authentication requires users to have Two-Factor Authentication enabled to have administrative abilities, such as banning members and accessing server settings.
+Server Two-Factor Authentication requires users to have Two-Factor Authentication enabled to have administrative abilities, such as banning members and accessing server settings. User accounts that own bot accounts must also have Two-Factor Authentication enabled to have the bot be able to use administrative permissions.
 
 ## Audit Logs
 
