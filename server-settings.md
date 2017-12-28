@@ -83,4 +83,4 @@ This tab allows you to search the banned members and unban, if you have the **Ba
 
 
 ## Delete Server
-If you are the server owner, A Delete Server option appears at the bottom of the list. This will prompt you to confirm the decision, and if you have [2FA](/2fa) enabled, you will be required to input a code before deletion.
+If you are the server owner, the Delete Server option appears at the bottom of the list. This will prompt you to confirm the decision, by typing in the server name, and if you have [2FA](/2fa) enabled, you will be required to input a code before deletion.
