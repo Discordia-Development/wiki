@@ -4,7 +4,7 @@ The settings below are specific to servers.
 
 > Accessing Server Settings
 
-<p style="text-align: center;"><img src="/uploads/server-settings/access-server-settings.gif" alt="Access Server Settings" align="middle"></p>
+<p style="text-align: center;"><img src="https://cats.needs-to-s.top/e5d137.gif" alt="Access Server Settings" align="middle"></p>
 
 # Tabs
 
