@@ -5,7 +5,7 @@
 # How to enable it
 You can enable (or disable) this feature by going into the Server Settings and on the Overview tab you can change the channel in which the system messages will appear.
 
-![2017 10 18 18 48 03](/uploads/2017-10-18-18-48-03.png "2017 10 18 18 48 03")
+![Member Messages](/uploads/new-member-messages/member-messages.png "Member Messages")
 
 # List of all new member messages
 - *DiscordUser123* just joined the server - glhf!
