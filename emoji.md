@@ -6,11 +6,11 @@
 ## **Here's how it works:**
 First, navigate yourself to the nice little [Server Settings](/server-settings) box at the top of the screen and click on it
 
-![settings](/uploads/adacbd.gif "Adacbd")
+![Accessing Server Settings](/uploads/server-settings/accessing-server-settings.gif "Accessing Server Settings")
 
 This'll bring up a screen with several options, of which we will choose the one marked "Emoji"
 
-![emojisets](/uploads/455-dac.gif "455 Dac")
+![Emoji Button](/uploads/emoji/emoji-button.gif "Emoji Button")
 
 Now, you'll be able to pick any image and upload it!
 
@@ -26,7 +26,7 @@ Whenever you finish making your new emote, you can edit the emoji's name by clic
 
 Animated emojis were added on December 21st, 2017 for Nitro users only. These emojis can be added normally, without Nitro, to servers, but only able to be used by Nitro users. Animated emojis will pause on the first frame if posted by webhooks, or if the Discord window is out of focus. These emojis will still play if posted by bots, as bot accounts have Nitro. These emojis also do not add to the total emoji cap, and instead have their own cap of 50 animated emojis.
 
-![emojicaps](/uploads/ffe-30-f.gif "Ffe 30 F")
+![Animated Emoji](/uploads/emoji/animated-emoji.gif "Animated Emoji")
 
 ## Other Emoji
 There *are* a few other kinds of emotes for your discord use and enjoyment; Gamewisp and Subscriber emotes.
