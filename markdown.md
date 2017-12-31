@@ -12,7 +12,7 @@ For example: `**The apple is sweet**`.
 
 This would make the text appear as: 
 
-![O 5 Ucyb 0](/uploads/o-5-ucyb-0.png "Bolded text in chat.")
+![Bolded Text In Chat](/uploads/markdown/bolded-text-in-chat.png "Bolded text in chat.")
 
 ## Italicized Text
 This is done with one asterisk (\*) or underscore (\_) on both sides of text selected. For example: `*The apple is sweet*` or `_The apple is sweet_`.
@@ -23,7 +23,7 @@ This is done with one asterisk (\*) or underscore (\_) on both sides of text sel
 
 This would make the text appear as:
 
-![Vjpiq 9 U](/uploads/vjpiq-9-u.png "Italicized text in chat.")
+![Italicized Text In Chat](/uploads/markdown/italicized-text-in-chat.png "Italicized Text In Chat")
 
 ## Strike-through Text
 This is done with two tildes (\~\~) on both sides of text selected. For example: `~~The apple is sweet~~`.
@@ -32,7 +32,7 @@ This is done with two tildes (\~\~) on both sides of text selected. For example:
 
 This would make the text appear as:
 
-![9 Ruvg 9 B](/uploads/9-ruvg-9-b.png "Strikethrough text in chat.")
+![Strikethrough Text In Chat](/uploads/markdown/strikethrough-text-in-chat.png "Strikethrough text in chat.")
 
 ## Inline Code Blocks
 Using one backtick (\`) you can create an inline code block. They don't take up a line on their own compared to Code Blocks themselves. You can't style them though unlike full Code Blocks.
