@@ -11,7 +11,7 @@ Friend requests can either be sent from the profile, or the friends list page it
 
 Friends can be added via their Discord username and [Discriminator](https://discordia.me/discriminator), or be suggested from your Steam or Skype friends list if those are integrated into your account. 
 
-![Adding a friend](/uploads/4-u-22-jon.png "Adding a friend")
+![Adding A Friend](/uploads/friends-list/adding-a-friend.png "Adding a friend")
 
 ## Friends List Usage
 The friend list displays the username and avatar, playing status, and mutual servers of the friend. 
