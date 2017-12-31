@@ -3,19 +3,19 @@
 ​
 
 
-Discord WikiBot ist ein simples, aber effektives Werkzeug, welches Artikel vom Discord Wiki und der Discord [Helpdesk](https://support.discordapp.com/hc/en-us) holt. Es ist wie eine hilfreiche Fee, welche Ihnen in einer Bibliothek Bücher bringen kann!
+Der Discord WikiBot ist ein simpler, aber effektiver Helfer für deinen Server, der Artikel vom Wiki und dem Discord [Hilfecenter](https://support.discordapp.com/hc/de) wiedergibt. Er ist wie ein kleiner Helfer der dir Bücher aus der Bibliothek bringt!
 ​
-Derzeit ist der WikiBot nur auf wenigen Servern verfügbar, da er nur für Offizielle Discord-Server vorgesehen ist.
+Zur Zeit ist der WikiBot nur auf ein paar wenigen Servern verfügbar, da er nur für Offizielle Discord-Server vorgesehen ist.
 ​
 ![Obktbva](/uploads/wikibot/obktbva.png "Obktbva")
-# Kommandos
-Sie können die folgenden Kommandos mit Discord WikiBot verwenden, entweder in einem Server in welchem er ist oder in einer direkten Nachricht mit dem Bot. (Sie müssen in einem Server mit dem Bot sein, um dies zu tun) Sie können die folgenden Kommandos mit dem Discord WikiBot verwenden:
+# Befehle
+Unser WikiBot beherrscht folgende Befehle, die in einem gemeinsamen Server order in direkten Nachricht verfügbar sind (solltest du einen Server mit dem Bot gemeinsam haben).
 ​
 * ?articles (?article) - Zeigt eine Liste aller Artikel im Discord Wiki
-* ?articles (?article) [Name eines Artikels] - Verlinkt Sie zum angegebenen Artikel
-* ?commands - Zeigt eine Liste von Kommandos für WikiBot
+* ?articles (?article) [Name eines Artikels] - Verlinkt dich zum angegebenen Artikel
+* ?commands - Zeigt die Liste der Befehle für den WikiBot
 * ?help - Grundlegende Informationen zum Discord WikiBot
-* ?helpdesk (?hd) [Suchbegriffe] - Durchsucht die Discord Helpdesk und gibt die ersten fünf Suchergebnisse aus (wenn etwas gefunden wurde).
-* ?ping - Überprüft die Verbindung des WikiBot
-* ?servers (?server) - Zeigt eine Liste hilfreicher Discord-server an.
-* ?servers (?server) [Servername] - Versendet Ihnen einen Link zum angegebenen Server in einer Direkten Nachricht.
+* ?helpdesk (?hd) [Suchbegriffe] - Durchsucht das Discord Hilfecenter und gibt die ersten fünf Suchergebnisse aus (wenn gegeben).
+* ?ping - Ermittelt die momentane Verbindung des WikiBots zum Server.
+* ?servers (?server) - Zeigt eine Liste hilfreicher Discord-Server an.
+* ?servers (?server) [Servername] - Sendet privat einen Link zum angegebenen Server sowie einer kleinen Beschreibung.
