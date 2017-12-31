@@ -15,19 +15,20 @@ Nous sommes le wiki Discord. Nous sommes fiers d’être l'un des premiers fourn
 
 *Responsables de la maintenance du wiki Discord et de son serveur de support.*
 * @Dru#7700 (administrateur web, gère l’organisation de tous les services fournis par le wiki)
-* @Crake#9100
-* @Tiemen#0107
 * @Mikesky#3456 (administrateur web, gère l’organisation de tous les services fournis par le wiki)
-* @守部 洵 ★★★★#9667
+* @Harrison#9100
+* @望月 紅葉 ★★★★#9667
+* @Tiemen#0107
 
 > ***Chefs de départements***
 
-* @OminousCry#2331 - Chef de l’internationalisation
+* @OminousCry#2331 - Chef du département traduction
 
 > ***Bénévoles pour l’internationalisation***
 
-* @FSΞ | S Λ M T Ξ L L#8213 - Coréen
 * @D_EaN * STS#1723 - Hongrois
+* @erykol#9716 - Polonais
+* @FSΞ | S Λ M T Ξ L L#8213 - Coréen
 * @Saphir#9268 - Français
 
 > ***Développeurs du bot***
@@ -36,6 +37,16 @@ Nous sommes le wiki Discord. Nous sommes fiers d’être l'un des premiers fourn
 * @HyperCoder#2975
 * @Tiemen#0107
 * @TreeFarmer#5406
+
+> ***Mécènes***
+
+*Un grand merci à tous ceux qui nous supportent sur [Patreon](https://www.patreon.com/TheDiscordWiki)!*
+* Curse Broken#8659
+* D_EaN * STS#1723
+* DowDaw#1063
+* Tarek1337#0379
+* GoldenPheonix#6248
+* Saphir#9268
 
 ## Avertissement et mentions légales
 Salut ! Bienvenue sur le wiki Discord ! Nous misons beaucoup sur la transparence, alors avant de commencer, nous vous invitons à jeter un oeil à nos [conditions d’utilisation](/terms) et notre [politique d’utilisation des données](/privacy) de façon à connaître toutes les informations légales concernant nos services !
