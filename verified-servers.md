@@ -7,9 +7,9 @@ Verified servers were announced on October 12, 2017, and introduced with the Min
 # Verified Badge
 Verified badges are shown both near the server name and in the web invite module. Verified badges are unlike profile badges, and are only on servers and not users. 
 
-![Verified badge on Server Name](/uploads/8-rg-7-vfm.png "Verified Badge on Server Name")
-![Verified Badge on invite module](/uploads/avak-0-xo.png "Verified Badge on invite module")
+![Verified Badge On Server Name](/uploads/verified-servers/verified-badge-on-server-name.png "Verified Badge on server name")
+![Verified Badge On Invite Module](/uploads/verified-servers/verified-badge-on-invite-module.png "Verified Badge On Invite Module")
 
 ## Old Verified Badges
 Older Verified badges only existed for a very limited period, and were only on Discord-official servers, such as Discord Developers. 
-![Old Verified Badge](/uploads/verifiedserver.png "Old Verified Badge")
+![Verifiedserver](/uploads/verified-servers/verifiedserver.png "Old Verified Badge")
