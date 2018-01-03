@@ -49,6 +49,6 @@ Nous sommes le wiki Discord. Nous sommes fiers d’être l'un des premiers fourn
 * Saphir#9268
 
 ## Avertissement et mentions légales
-Salut ! Bienvenue sur le wiki Discord ! Nous misons beaucoup sur la transparence, alors avant de commencer, nous vous invitons à jeter un oeil à nos [conditions d’utilisation](/terms) et notre [politique d’utilisation des données](/privacy) de façon à connaître toutes les informations légales concernant nos services !
+Salut ! Bienvenue sur le wiki Discord ! Nous misons beaucoup sur la transparence, alors avant de commencer, nous vous invitons à jeter un oeil à nos [conditions d’utilisation](/fr/terms) et notre [politique d’utilisation des données](/fr/privacy) de façon à connaître toutes les informations légales concernant nos services !
 
-### ***Discord, le fantôme Discord (Clyde™), et Discordapp (ci-après, DISCORD) sont la propriété intellectuelle et légale de Discord Inc. Ces services, tels que listés dans les [conditions d’utilisation](/terms) ne sont pas affiliés ou apparentés à Discord Inc. ou ses filiales. Le wiki Discord ne se considère en aucun cas détenteur de quelque propriété intellectuelle de DISCORD que ce soit. Merci de ne pas nous poursuivre en justice.***
+### ***Discord, le fantôme Discord (Clyde™), et Discordapp (ci-après, DISCORD) sont la propriété intellectuelle et légale de Discord Inc. Ces services, tels que listés dans les [conditions d’utilisation](/fr/terms) ne sont pas affiliés ou apparentés à Discord Inc. ou ses filiales. Le wiki Discord ne se considère en aucun cas détenteur de quelque propriété intellectuelle de DISCORD que ce soit. Merci de ne pas nous poursuivre en justice.***
