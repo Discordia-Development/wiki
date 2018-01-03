@@ -14,7 +14,7 @@ Nous sommes le wiki Discord. Nous sommes fiers d’être l'un des premiers fourn
 > ***Administrateurs du wiki***
 
 *Responsables de la maintenance du wiki Discord et de son serveur de support.*
-* @Dru#7700 (administrateur web, gère l’organisation de tous les services fournis par le wiki)
+* @SleepaDru#7700 (administrateur web, gère l’organisation de tous les services fournis par le wiki)
 * @Mikesky#3456 (administrateur web, gère l’organisation de tous les services fournis par le wiki)
 * @Harrison#9100
 * @望月 紅葉 ★★★★#9667
