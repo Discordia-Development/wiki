@@ -1,7 +1,7 @@
 <!-- TITLE: Badges -->
 <!-- SUBTITLE: Informatie over Discord gebruiker badges. -->
 
-Discord heeft verschillende badges die leden veronderscheiden als lid van een bepaalde groep. Badges zijn te zien op een gebruiker zijn profiel. Om toegang te krijgen tot een gebruiker zijn profiel klik je op de zijn profiel foto, daarna selecteer je met je rechtermuisknop **profiel** 
+Discord heeft verschillende badges die leden van onderscheiden als lid van een bepaalde groep. Badges zijn te zien op een gebruiker zijn profiel. Om toegang te krijgen tot een gebruiker zijn profiel klik je op de zijn profiel foto, daarna selecteer je met je rechtermuisknop **profiel** 
 
 Badges worden weergegeven in hiërarchische volgorde, wanneer een gebruiker meerdere badges heeft stapelen deze op.
 
@@ -11,7 +11,7 @@ Wanneer een gebruiker meerdere badges heeft worden kun je al deze badges zien.
 ![Generalbadges](/uploads/badges/generalbadges.png "A General Overview of Badges")
 
 # Discord Personeel
-Deze badge wordt alleen gegeven aan Discord personeelsleden. Waneer iemand zegt bij Discord te werken zonder deze badge op hun profiel te hebben is de kans heel groot dat ze zich alleen maar voordoen als Discord personeel. Deze badge is één vam de weinige officiële manieren Discord personeel te veronderscheiden van normale gebruikers.
+Deze badge wordt alleen gegeven aan Discord personeelsleden. Wanneer iemand zegt bij Discord te werken zonder deze badge op hun profiel te hebben is de kans heel groot dat ze zich alleen maar voordoen als Discord personeel. Deze badge is één van de weinige officiële manieren Discord personeel te ver onderscheiden van normale gebruikers.
 
 ![Staffbadge](/uploads/badges/newstaffbadge.png "A Staff Member's Badge")
 
