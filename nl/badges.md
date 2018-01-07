@@ -11,8 +11,7 @@ Wanneer een gebruiker meerdere badges heeft worden kun je al deze badges zien.
 ![Generalbadges](/uploads/badges/generalbadges.png "A General Overview of Badges")
 
 # Discord Personeel
-This badge is issued to all Discord Staff. If someone claims to be Discord Staff and does not have this badge, it is very likely they're impersonating. This badge is one of the only official ways Discord Staff are distinguishable from regular users. 
-Deze badge wordt alleen gegeven aan Discord personeelsleden. Waneer iemand
+Deze badge wordt alleen gegeven aan Discord personeelsleden. Waneer iemand zegt bij Discord te werken zonder deze badge op hun profiel te hebben is de kans heel groot dat ze zich alleen maar voordoen als Discord personeel. Deze badge is één vam de weinige officiële manieren Discord personeel te veronderscheiden van normale gebruikers.
 
 ![Staffbadge](/uploads/badges/newstaffbadge.png "A Staff Member's Badge")
 
