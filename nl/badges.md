@@ -24,6 +24,6 @@ Discord [Hypesquad](/hypesquad) leden hebben een Hypesquad badge op hun profiel.
 
 ![Hypesquadbadge](/uploads/badges/newhypesquadbadge.png "A Hypesquad Member's Badge")
 # Discord Nitro
-Gebruikers die [Discord Nitro](/nitro) hebben gekocht, hebben een Discord Nitro badge op hun profiel. Wanneer je met je muis over de Nitro badge gaat kan er gezien worden wanneer een gebruiker lid is geworden van Discord Nitro. Wanneer leden hun lidmaatschap opzeggen verdwijnt de Nitro badge.
+Gebruikers die een [Discord Nitro](/nitro) abonnement hebben gekocht, hebben een Discord Nitro badge op hun profiel. Wanneer je met je muis over de Nitro badge gaat kan er gezien worden wanneer een gebruiker lid is geworden van Discord Nitro. Wanneer leden hun lidmaatschap opzeggen verdwijnt de Nitro badge.
 
 ![Nitrobadge](/uploads/badges/newnitrobadge.png "A Nitro Discord User's Badge")
