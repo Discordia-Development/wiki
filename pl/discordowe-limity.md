@@ -2,7 +2,7 @@
 <!-- SUBTITLE: Różne ograniczenia serwerów Discord -->
 
 # Serwerowe limity 
-Ta strona próbuje wymienić różne "ograniczenia" nałożone na serwery Discord. Głównie, aby odpowiedzieć na pytania typu "ile X mogę napisać?". Ważne jest, aby pamiętać, że oprócz 5000 użytkowników online,**żaden z nich nie może być modyfikowany**. Obecnie nie ma funkcji / metody, dzięki której serwer lub użytkownik może ominąć ograniczenia opisane poniżej.
+Ta strona próbuje wymienić różne "ograniczenia" nałożone na serwery Discord. Głównie, aby odpowiedzieć na pytania typu "ile X mogę napisać?". Ważne jest, aby pamiętać, że oprócz 5000 użytkowników online, **żaden z nich nie może być modyfikowany**. Obecnie nie ma funkcji / metody, dzięki której serwer lub użytkownik może ominąć ograniczenia opisane poniżej.
 
 - Użytkownik nie może być na więcej niż **100 serwerach**. Po osiągnięciu tego limitu każde zaproszenie na serwer wyświetli się jako "Zaproszenie wygasło".
 - Serwery nie mają teoretycznego limitu członków - są serwery z dziesiątkami tysięcy użytkowników (75k + w jednym wystąpieniu).
