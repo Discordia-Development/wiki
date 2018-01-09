@@ -53,6 +53,6 @@ Jesteśmy Discord Wiki. Jesteśmy dumni, że możemy być jednym z czołowych do
 * Saphir#9268
 
 ## Zastrzeżenia i informacje prawne
-No hej! Witamy w The Discord Wiki! Jesteśmy silnymi zwolennikami przejrzystości, więc zanim wskoczycie, proszę spojrzeć na nasze  [Terms of Service](/terms) i naszą [Privacy Policy](/privacy) , abyście mogli poznać wszystkie prawne musisz wiedzieć o naszych usługach!
+No hej! Witamy w The Discord Wiki! Jesteśmy silnymi zwolennikami przejrzystości, więc zanim wskoczycie, proszę spojrzeć na nasze  [Terms of Service](/terms) i naszą [Privacy Policy](/privacy) , abyście mogli poznać wszystkie prawne kruczki, o których musisz wiedzieć w naszych usługach!
 
 ### ***Discord, Discord Ghost (Clyde ™) i Discordapp (w tym DISCORD) są intelektualną i prawną własnością Discord Inc. Usługi te, wymienione w [Terms of Service](/terms) , nie są powiązane z Discord Inc lub dowolnymi spółkami zależnymi w nim. Discord Wiki nie twierdzi, że jest właścicielem jakiejkolwiek własności intelektualnej DISCORD, proszę nas nie oskarżać.***
