@@ -2,7 +2,7 @@
 
 # Witaj
 ## O nas
-Jesteśmy Discord Wiki. Jesteśmy dumni, że możemy być jednym z czołowych dostawców informacji o Discord do tej pory i witamy cię na naszej stronie. Uruchmiliśmy serwer około rok temu po tym, gdy zdaliśmy sobie sprawę, że nasze zasoby mogą pomóc innym dowiedzieć się więcej o Discord, zamiast zatrzymać je wszystkie dla siebie. [Taki żarcik]. Było trudno zacząć, ale rok później udało się dostarczyć przynajmniej trochę informacji dla 1.5 miliona użytkowników miesięcznie. Ciągle poszerzamy nasze informacje, więc jeśli masz ochotę, pasję, wolę i determinację wymaganą do pisania artykułów dla nas, sprawdź kanał FAQ na naszym serwerze, aby dowiedzieć się, czy aktualnie poszukujemy współpracowników!
+Jesteśmy Discord Wiki. Jesteśmy dumni, że możemy być jednym z czołowych dostawców informacji o Discord do tej pory i witamy cię na naszej stronie. Uruchmiliśmy serwer około rok temu po tym, gdy zdaliśmy sobie sprawę, że nasze zasoby mogą pomóc innym dowiedzieć się więcej o Discord, zamiast zatrzymać je wszystkie dla siebie. [Taki żarcik]. Było trudno zacząć, ale rok później udało się dostarczyć przynajmniej trochę informacji dla 2 milionów użytkowników miesięcznie. Ciągle poszerzamy nasze informacje, więc jeśli masz ochotę, pasję, wolę i determinację wymaganą do pisania artykułów dla nas, sprawdź kanał FAQ na naszym serwerze, aby dowiedzieć się, czy aktualnie poszukujemy współpracowników!
 
 [Join us on Discord!](https://discord.gg/ZRJ9Ghh)
 
@@ -12,7 +12,7 @@ Jesteśmy Discord Wiki. Jesteśmy dumni, że możemy być jednym z czołowych do
 > ***Administratorzy Wiki***
 
 *Odpowiedzialni za utrzymywanie Discord Wiki i jego serwera wsparcia.*
-* @Dru#7700 (Administrator systemów, utrzymuje zaplecze wszystkich usług dostarczanych przez Wiki)
+* @SleepaDru#7700 (Administrator systemów, utrzymuje zaplecze wszystkich usług dostarczanych przez Wiki)
 * @Crake#9100
 * @Tiemen#0107
 * @Mikesky#3456 (Administrator systemów, utrzymuje zaplecze wszystkich usług dostarczanych przez Wiki)
@@ -25,9 +25,14 @@ Jesteśmy Discord Wiki. Jesteśmy dumni, że możemy być jednym z czołowych do
 > ***Tłumacze Wiki***
 
 * @erykol#9716 - Polski
+* @zabszk#5292 - Polski
+* @» a r i a#1593 - Niemiecki 
+* @H E N R I K#8208 - Niemiecki
 * @FSΞ | S Λ M T Ξ L L#8213 - Koreański
 * @D_EaN * STS#1723 - Węgierski
 * @Saphir#9268 - Francuski
+* @RME#3050 - Holenderski
+* @Calvin#9952 - Holenderski 
 
 > ***Deweloperzy botów***
 
