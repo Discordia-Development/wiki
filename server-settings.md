@@ -69,7 +69,16 @@ This tab is only available to users with **Manage Server**, and only to servers 
 
 ## Members
 
-In this tab, users with **Manage Server** can view Members. Users with **Manage Nicknames** can change nicknames, server owners can Transfer Ownership, users with **Kick Members** can kick, users with **Ban Members** can ban, and users with **Manage Roles** can add or remove roles from users, if that user is below them in the hierarchy. 
+In this tab, users with **Manage Server** can view Members. Users with **Manage Nicknames** can change nicknames, server owners can Transfer Ownership, users with **Kick Members** can kick and prune, users with **Ban Members** can ban, and users with **Manage Roles** can add or remove roles from users, if that user is below them in the hierarchy. 
+
+### Member Pruning
+
+Users with **Kick Members** can access the Prune Members menu. The choices for pruning includes:
+* kicking users last seen online or invisible one day ago
+* kicking users last seen online or invisible 7 days ago
+* kicking users last seen online or invisible 30 days ago
+
+Users with roles will not be kicked.
 
 ## Invites
 In this tab, users with the **Manage Server** permission can see instant invites created on the server. It shows the duration of an invite, the creator, the channel, and the number of uses on it. Users can also delete these invites by pressing the Revoke button on the right of the invite.
