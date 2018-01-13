@@ -20,7 +20,7 @@ Les [partenaires](/fr/partenaire) Discord ont le badge de partenaire sur leur pr
 
 ![Badge Partenaire](/uploads/fr/badges-partner.png "Le badge d’un partenaire Discord")
 # Discord HypeSquad
-Les membres de la Discord [HypeSquad](/fr//hypesquad) ont le badge HypeSquad sur leur profil. La seule façon d’obtenir ce badge est de devenir un membre de la Discord HypeSquad.
+Les membres de la Discord [HypeSquad](/fr/hypesquad) ont le badge HypeSquad sur leur profil. La seule façon d’obtenir ce badge est de devenir un membre de la Discord HypeSquad.
 
 ![Badge HypeSquad](/uploads/fr/badges-hypesquad.png "Le badge d’un membre de la HypeSquad")
 # Discord Nitro
