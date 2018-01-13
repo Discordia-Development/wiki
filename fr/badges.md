@@ -13,7 +13,6 @@ Si un utilisateur a plusieurs badges, tous ses badges s’affichent.
 # Équipe Discord
 Ce badge est donné à tous les membres de l’équipe de Discord. Si quelqu’un se dit membre de l’équipe de Discord et n’a pas ce badge, il est très probable qu’il mente. Ce badge est l’une des seules façons de différencier l’équipe de Discord des utilisateurs normaux.
 
-![Badges Staff](/uploads/fr/badges-staff.png "Badges Staff")
 ![Badges Staff](/uploads/fr/badges-staff.png "Le badge d’un membre de l’équipe")
 
 # Discord Partner
