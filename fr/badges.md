@@ -24,6 +24,6 @@ Les membres de la Discord [HypeSquad](/fr//hypesquad) ont le badge HypeSquad sur
 
 ![Badge HypeSquad](/uploads/fr/badges-hypesquad.png "Le badge d’un membre de la HypeSquad")
 # Discord Nitro
-Users who have purchased [Discord Nitro](/nitro) have the Discord Nitro badge on their profile. If you hover over the badge, it displays when the user joined Nitro. If they unsubscribe from Nitro, the badge will disappear. 
+Les utilisateurs qui ont souscrit à [Discord Nitro](/fr/nitro) ont le badge Discord Nitro sur leur profil. En survolant le badge, la date à laquelle l’utilisateur a souscrit à Nitro apparaît. S’il se désinscrit de Nitro, le badge disparaît.
 
-![Nitrobadge](/uploads/badges/newnitrobadge.png "A Nitro Discord User's Badge")
+![Badges Nitro](/uploads/fr/badges-nitro.png "Le badge d’un utilisateur Discord Nitro")
