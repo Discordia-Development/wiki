@@ -15,5 +15,5 @@ In case you are unable to generate a code, Discord provides you with backup code
 # Disabling 2FA
 To disable two-factor authentication, click 'Remove 2FA' under the 'My Account' tab in user settings. You must be logged into Discord to do this. 
 
-# Server T2FA
+# Server 2FA
 If you are the Server Owner, you can enable Server Two-Factor Authentication which requires staff to have two-factor authentication enabled on their account to do "dangerous administrative actions". To enable this, click on 'Enable 2FA Requirement' under the 'Moderation' tab in server settings. You will be required to enter a 6 digit code to do this. 
