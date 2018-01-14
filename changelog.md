@@ -11,7 +11,7 @@ This is the changelog/release date for major features or significant changes. PT
 * 720p60 and 1080p30 options for Screensharing
 * PayPal option added for [Discord Nitro](/nitro)
 * Group DM owner marked with crown icon
-* Japanese Voice servers launced
+* Japanese Voice servers launched
 
 ## Android 
 
