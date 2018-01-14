@@ -7,10 +7,10 @@ Download an authenticator app (such as Authy or Google Authenticator) and open D
 
 When logging into Discord when 2FA is enabled, you will be required to enter an authentication code *after* you enter your password (this is not a substitue). 
 
-**Please note: Discord Support cannot disable 2FA from your account, only you can. If you do not have a backup code and you lock yourself out of your account, you are most likely unable to recover it.**
+> NOTE: Discord Support cannot disable 2FA from your account, only you can. If you do not have a backup code and you lock yourself out of your account, you are most likely unable to recover it.
 
 # Backup Codes
-In case you are unable to generate a code, Discord provides you with backup codes. You may grab your backup codes at anytime you are logged in by clicking on 'View Backup Codes' under the 'My Account' tab in user settings. **Do not share these backup codes with anyone.** We also reccomend that you save these backup codes in a safe place in case you get locked out of your authentication app. Each Backup code only works once. 
+In case you are unable to generate a code, Discord provides you with backup codes. You may grab your backup codes at anytime you are logged in by clicking on 'View Backup Codes' under the 'My Account' tab in user settings. **Do not share these backup codes with anyone.** We also reccomend that you save these backup codes in a safe place in case you get locked out of your authentication app. **Each Backup code only works once.**
 
 # Disabling 2FA
 To disable two-factor authentication, click 'Remove 2FA' under the 'My Account' tab in user settings. You must be logged into Discord to do this. 
