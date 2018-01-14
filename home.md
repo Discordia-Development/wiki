@@ -30,6 +30,7 @@ We're The Discord Wiki. We're proud to be one of the leading providers of inform
 * @erykol#9716 - Polish
 * @FSΞ | S Λ M T Ξ L L#8213 - Korean
 * @Saphir#9268 - French
+* @zabszk#5292 - Polish
 
 > ***Bot Developers***
 
