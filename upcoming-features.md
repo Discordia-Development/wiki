@@ -27,7 +27,7 @@ This is a list of features that will be occasionally updated with information ab
 |---------|---------|
 | 3D Touch Support | Planned |
 | Audit Log | Planned |
-| Chat Rewrite | Planned |
+| Chat Rewrite | In Development |
 | Custom Keyboard | Planned |
 | Rich Push Notifications | Planned |
 | Security Compatibility | Planned |
