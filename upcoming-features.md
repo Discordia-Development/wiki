@@ -40,9 +40,7 @@ This is a list of features that will be occasionally updated with information ab
 |---------|--------|
 | Audit Log | Planned |
 | Auto-Deplay to Alpha | In Development |
-| Double Infinite Scrolling | Available on Android Beta |
 | Compress Image Toggle | Planned |
-| Improve Voice Experience | Available on Android Beta |
 | Screensharing | In Development |
 | Security Tab/2FA Enable/Disable | Planned |
 | Video Embeds | Planned |
