@@ -1,5 +1,5 @@
 <!-- TITLE: Hungarian - Főoldal -->
-<!-- SUBTITLE: Üdvözlünk a Discord Wikin! -->
+<!-- SUBTITLE: Üdvözlünk a The Discord Wikin! -->
 
 # Üdvözlünk
 ## Rólunk
@@ -30,6 +30,7 @@ Mi vagyunk a The Discord Wiki. Büszkék vagyunk arra, hogy a jelenleg egyik leg
 * @erykol#9716 - Lengyel
 * @FSΞ | S Λ M T Ξ L L#8213 - Koreai
 * @Saphir#9268 - Francia
+* @zabszk#5292 - Lengyel
 
 > ***Bot fejlesztők***
 
