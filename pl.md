@@ -24,7 +24,7 @@ Jesteśmy Discord Wiki. Jesteśmy dumni, że możemy być jednym z czołowych do
 
 > ***Tłumacze Wiki***
 
-* @erykol#9716 - Polski
+* @erykol#8141 - Polski
 * @zabszk#5292 - Polski
 * @» a r i a#1593 - Niemiecki 
 * @H E N R I K#8208 - Niemiecki
