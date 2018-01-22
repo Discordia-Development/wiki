@@ -29,8 +29,12 @@ We're The Discord Wiki. We're proud to be one of the leading providers of inform
 * @D_EaN * STS#1723 - Hungarian
 * @erykol#9716 - Polish
 * @FSΞ | S Λ M T Ξ L L#8213 - Korean
+* @Greg#4239 - German
+* @Lireoy#4444 - Hungarian
+* @MibMoot#3426 - Danish
 * @Saphir#9268 - French
 * @zabszk#5292 - Polish
+* @시온#2469 - Korean
 
 > ***Bot Developers***
 
