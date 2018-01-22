@@ -27,7 +27,7 @@ We're The Discord Wiki. We're proud to be one of the leading providers of inform
 > ***Internationalization Volunteers***
 
 * @D_EaN * STS#1723 - Hungarian
-* @erykol#9716 - Polish
+* @erykol#8141 - Polish
 * @FSΞ | S Λ M T Ξ L L#8213 - Korean
 * @Greg#4239 - German
 * @Lireoy#4444 - Hungarian
