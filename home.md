@@ -26,13 +26,17 @@ We're The Discord Wiki. We're proud to be one of the leading providers of inform
 
 > ***Internationalization Volunteers***
 
+* @Csega#1256 - Hungarian
 * @D_EaN * STS#1723 - Hungarian
 * @erykol#8141 - Polish
 * @FSΞ | S Λ M T Ξ L L#8213 - Korean
-* @Greg#4239 - German
+* @JustAndras#7645 - Hungarian
 * @Lireoy#4444 - Hungarian
 * @MibMoot#3426 - Danish
 * @Saphir#9268 - French
+* @Skidder#4239 - German
+* @Vividia#1224 - Hungarian
+* @xstarmax#0499 - Hungarian
 * @zabszk#5292 - Polish
 * @시온#2469 - Korean
 
