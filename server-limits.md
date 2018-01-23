@@ -13,11 +13,13 @@ This pages attempts to list the various "limitations" imposed upon servers in Di
 - A server can have *at most* **50 regular and 50 animated emojis**. 
 
 # Other Limits
-- Message limit: 2,000 characters (note: user/channel/role mentions and emojis contain a lot more characters than what they actually are!)
-- TTS message limit: 200 characters
-- Pinned messages limit: 50 messages
-- Maximum attachment size: 8 MB (or 8388608 bytes to be exact)
-- Maximum attachment size with Nitro: 50 MB (or 52428800 bytes to be exact)
-- Minimum time for idling: 10 minutes
+- Message limit: **2,000 characters**. (note: user/channel/role mentions and emojis contain a lot more characters than what they actually are!)
+- TTS message limit: **200 characters**.
+- Pinned messages limit: **50** messages
+- Maximum attachment size: **8 MB (or 8388608 bytes to be exact)**
+- Maximum attachment size with Nitro: **50 MB (or 52428800 bytes to be exact)**
+- Minimum time for idling: **10 minutes**.
+- Username/nickname: **32 characters**.
+- Channel topic size: **1024 characters**.
 
 
