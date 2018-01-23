@@ -1,4 +1,4 @@
-<!-- TITLE: ほも -->
+<!-- TITLE: ホーム -->
 <!-- SUBTITLE: よこそ　Discord Wiki! -->
 
 # よこそ！
