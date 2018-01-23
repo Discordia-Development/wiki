@@ -27,7 +27,7 @@ Mi vagyunk a The Discord Wiki. Büszkék vagyunk arra, hogy a jelenleg egyik leg
 > ***Önkéntes fordítók***
 
 * @D_EaN * STS#1723 - Magyar
-* @erykol#9716 - Lengyel
+* @erykol#8141 - Lengyel
 * @FSΞ | S Λ M T Ξ L L#8213 - Koreai
 * @Greg#4239 - Német
 * @Lireoy#4444 - Hungarian
