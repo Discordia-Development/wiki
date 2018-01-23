@@ -1,51 +1,52 @@
-<!-- TITLE: Home -->
-<!-- SUBTITLE: Welcome to The Discord Wiki! -->
+<!-- TITLE: ホーム -->
+<!-- SUBTITLE: よこそ　Discord Wiki! -->
 
-# Welcome
-## About us
+# よこそ！
+## 私たちに関しては
 
-We're The Discord Wiki. We're proud to be one of the leading providers of information about Discord to date, and we welcome you to our site! We started a server about a year ago after realizing that our resources could be used to help others learn about Discord instead of taking all of the tasty information bits for ourselves! A year later, we succeed in providing at least some sort of info to over 2 million users a month! We're ever expanding our information, so if you feel like you have the passion, the will, and the resolve required to write articles for us, check out the FAQs channel in our server and sign up to help contribute!
+私たちはDiscord Wikiです。 私たちはDiscordに関する情報の大手プロバイダーの1人になることを誇りに思っており、私たちのサイトへようこそ！ 私たちは、約1年前にサーバーを立ち上げました。それは、私たちのリソースが、おいしい情報ビットをすべて自分のために取る代わりに、Discordについて学ぶのを助けるために使用できることを実感した後です。 1年後には、月に200万人以上のユーザーに少なくとも何らかの情報を提供することに成功しました。 私たちは情報を拡大していますので、私たちのために記事を書くために必要な情熱、意志、そして決意を持っていると感じたら、私たちのサーバーのFAQsチャンネルをチェックしてください。
 
-[Join us on Discord!](https://discord.gg/ZRJ9Ghh)
+[Discordにご参加ください！](https://discord.gg/ZRJ9Ghh)
 
-<a href="https://discord.gg/ZRJ9Ghh">![DISCORD EMBED PLUGIN](https://discordapp.com/api/guilds/367460196148183040/widget.png?style=banner2)</a>
+<a href="https://discord.gg/ZRJ9Ghh">![DISCORD埋め込みプラグイン](https://discordapp.com/api/guilds/367460196148183040/widget.png?style=banner2)</a>
 
-## The Discord Wiki Staff
-> ***Wiki Administrators***
+## The Discord Wiki スタッフ
+> ***Wiki管理者***
 
-*Responsible for maintaining The Discord Wiki and its support server.*
-* @SleepaDru#7700 (Systems Administrator, maintains the backend of all of the services provided by the Wiki)
-* @Mikesky#3456 (Systems Administrator, maintains the backend of all of the services provided by the Wiki)
+*Discord Wikiとそのサポートサーバを管理します。*
+* @SleepaDru#7700 (システム管理者は、Wikiが提供するすべてのサービスのバックエンドを管理しています)
+* @Mikesky#3456 (システム管理者は、Wikiが提供するすべてのサービスのバックエンドを管理しています)
 * @Harrison#9100
 * @ベアトリーチェ★★★★#9667
 * @Tiemen#0107
 
-> ***Department Leads***
+> ***部門リード***
 
-* @OminousCry#2331 - Translation Lead
+* @OminousCry#2331 - 翻訳リード
 
-> ***Internationalization Volunteers***
+> ***国際化ボランティア***
 
-* @D_EaN * STS#1723 - Hungarian
-* @erykol#8141 - Polish
-* @FSΞ | S Λ M T Ξ L L#8213 - Korean
-* @Greg#4239 - German
-* @Lireoy#4444 - Hungarian
-* @MibMoot#3426 - Danish
-* @Saphir#9268 - French
-* @zabszk#5292 - Polish
-* @시온#2469 - Korean
+@D_EaN * STS#1723 - ハンガリー語
+@erykol#8141 - 研磨
+@FSΞ | S Λ M T Ξ L L#8213 - 韓国語
+@Greg#4239 - ドイツ人
+@Lireoy#4444 - ハンガリー語
+@MibMoot#3426 - デンマーク語
+@Saphir#9268 - フランス語
+@zabszk#5292 - 研磨
+@시온#2469 - 韓国語
+@jacob#0513 - 日本語
 
-> ***Bot Developers***
+> ***ボットかいはつーしゃ。***
 
-*Contributed to the Discord WikiBot.*
+*沽券した Discord WikiBot.*
 * @HyperCoder#2975
 * @Tiemen#0107
 * @TreeFarmer#5406
 
-> ***Patrons***
+> ***ぱとろんｓ。***
 
-*A huge thank you to all our supporters on [Patreon](https://www.patreon.com/TheDiscordWiki)!*
+*私たちの支持者全員に感謝します [Patreon](https://www.patreon.com/TheDiscordWiki)!*
 
 * Curse Broken#8659
 * D_EaN * STS#1723
@@ -54,7 +55,7 @@ We're The Discord Wiki. We're proud to be one of the leading providers of inform
 * GoldenPheonix#6248
 * Saphir#9268
 
-## Disclaimers and Legal Information
-Hey there! Welcome to The Discord Wiki! We're strong believers in transparency, so before you jump in, please take a look at our [Terms of Service](/terms) and our [Privacy Policy](/privacy) in order for you to know all the legal stuff you need to know regarding our services!
+## 免責事項と法的情報
+ちょっと、そこ！ Discord Wikiへようこそ！ 私たちは透明性を強く信じていますので、あなたが入る前に、法的事項をすべて知るために、[利用規約](/jp/じょこ) と[個人情報保護方針](/jp/プライバシー)  私たちのサービスに関して知る必要があります！
 
 ### ***Discord, the Discord Ghost (Clyde™), and Discordapp (Herein DISCORD) are the intellectual and legal property of Discord Inc. These Services, as listed in the [Terms of Service](/terms) are not affiliated with Discord Inc or any subsidiaries herein. The Discord Wiki does not claim to own any of DISCORD's intellectual property, please don't sue us.***
