@@ -10,7 +10,7 @@ This pages attempts to list the various "limitations" imposed upon servers in Di
 - Servers will show offline users only until it reaches **100 members**. Once 100 members are reached, offline/invisible people no longer appear in the member list.
 - A server can have *at most* **500 channels** - both text and voice combined. Once 500 channels are reached, no more channels can be created.
 - A server can have *at most* **250 roles**. 
-- A server can have *at most* **50 regular and animated emojis**. 
+- A server can have *at most* **50 regular and 50 animated emojis**. 
 
 # Other Limits
 - Message limit: 2,000 characters (note: user/channel/role mentions and emojis contain a lot more characters than what they actually are!)
