@@ -2,7 +2,7 @@
 <!-- SUBTITLE: Various limitations of servers in Discord -->
 
 # Discord Server Limits
-This pages attempts to list the various "limitations" imposed upon servers in Discord, mostly to answer "how many X can I make?" questions. It's important to note that other than the 5000 online user limit, **none of these can be modified**. There is currently no feature/method by which a server or user can bypass the limitations noted below.
+This pages attempts to list the various "limitations" imposed upon servers in Discord, mostly to answer "how many X can I make?" questions. It's important to note that other than the 5,000 online user limit, **none of these can be modified**. There is currently no feature/method by which a server or user can bypass the limitations noted below.
 
 - A user cannot be on more than **100 servers**. Once this limit is hit, any server invite will display as "Invite Expired".
 - Servers have no theoretical member limit - there are servers with tens of thousands of users (75k+ in once instance). 
@@ -10,10 +10,10 @@ This pages attempts to list the various "limitations" imposed upon servers in Di
 - Servers will show offline users only until it reaches **100 members**. Once 100 members are reached, offline/invisible people no longer appear in the member list.
 - A server can have *at most* **500 channels** - both text and voice combined. Once 500 channels are reached, no more channels can be created.
 - A server can have *at most* **250 roles**. 
-- A server can have *at most* **50 custom emoji**. 
+- A server can have *at most* **50 regular and animated emojis**. 
 
 # Other Limits
-- Message limit: 2000 characters (note: user/channel/role mentions and emojis contain a lot more characters than what they actually are!)
+- Message limit: 2,000 characters (note: user/channel/role mentions and emojis contain a lot more characters than what they actually are!)
 - TTS message limit: 200 characters
 - Pinned messages limit: 50 messages
 - Maximum attachment size: 8 MB (or 8388608 bytes to be exact)
