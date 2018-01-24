@@ -26,13 +26,17 @@ Mi vagyunk a The Discord Wiki. Büszkék vagyunk arra, hogy a jelenleg egyik leg
 
 > ***Önkéntes fordítók***
 
+* @Csega#1256 - Magyar
 * @D_EaN * STS#1723 - Magyar
 * @erykol#8141 - Lengyel
 * @FSΞ | S Λ M T Ξ L L#8213 - Koreai
-* @Greg#4239 - Német
-* @Lireoy#4444 - Hungarian
+* @JustAndras#7645 - Magyar
+* @Lireoy#4444 - Magyar
 * @MibMoot#3426 - Dán
 * @Saphir#9268 - Francia
+* @Skidder#4239 - Német
+* @Vividia#1224 - Magyar
+* @xstarmax#0499 - Magyar
 * @zabszk#5292 - Lengyel
 * @시온#2469 - Koreai
 
