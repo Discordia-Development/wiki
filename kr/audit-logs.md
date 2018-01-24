@@ -8,7 +8,7 @@
 
 ![Audit Logs 2](/uploads/audit-logs/audit-logs-2.png "Audit Logs 2")
 
-> **잠깐**: Audit Logs를 보려면 **View Audit Logs** 권한 또는 **관리자** 권환이 있어야만 합니다.
+> **잠깐**: Audit Logs를 보려면 **View Audit Logs** 권한 또는 **관리자** 권한이 있어야만 합니다.
 
 Audit Logs 탭을 클릭하면 밑과 같은 화면이 나옵니다.
 
