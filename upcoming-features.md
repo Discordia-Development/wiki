@@ -16,8 +16,8 @@ This is a list of features that will be occasionally updated with information ab
 | Group DM Invites | Planned |
 | Inline Audio/Video Player | Planned |
 | LFG | Gradually Rolling Out |
-| Permissions Preview Tool | Planned |
-| Priority Speaker | Planned |
+| Permissions Preview Tool |  |
+| Priority Speaker | In Development |
 | Report | Available on Canary |
 | Screen Share Audio | Available on Canary |
 | Spellcheck | Planned |
