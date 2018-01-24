@@ -27,7 +27,7 @@ Permissions are divided between General Permissions, Text Permissions, and Voice
 
 * **Manage Server** allows a user to edit the server name, server icon, voice region, and the verification level. 
 
-* ** Manage Roles** allows a user to access the roles menu, and edit roles below their highest role. Users cannot take or give permissions they do not have.
+* **Manage Roles** allows a user to access the roles menu, and edit roles below their highest role. Users cannot take or give permissions they do not have.
 
 * **Manage Channels** allows a user to delete and create new text and voice channels. This also applies to [channel categories](/channel-categories)
 
@@ -77,7 +77,7 @@ Permissions are divided between General Permissions, Text Permissions, and Voice
 
 * **Defean Members** allows a user to Server Deafen other members, which makes the deafened user unable to hear anyone in the channel.
 
-* ** Move Members** allows a user to move any member from any channel to another. 
+* **Move Members** allows a user to move any member from any channel to another. 
 
 * **Use Voice Activity** allows a user to not have to use Push-to-Speak, unless denied by that channel's permissions.
 
