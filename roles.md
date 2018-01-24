@@ -69,7 +69,7 @@ Permissions are divided between General Permissions, Text Permissions, and Voice
 
 ## Voice Permissions
 
-* ** Connect** allows users to connect to a Voice Channel, unless denied by that channel's permission.
+* **Connect** allows users to connect to a Voice Channel, unless denied by that channel's permission.
 
 * **Speak** allows users to speak in a channel, unless denied by that channel's permission, or has been Server Muted.
 
