@@ -17,4 +17,4 @@ Voice Chat: https://support.discordapp.com/hc/en-us/categories/200404367-Voice-C
 # Discord Wiki Support
 If you need help with The Discord Wiki, please join our official Discord server:
 
-<a href="https://discord.gg/WHz5r3N">![DISCORD EMBED PLUGIN](https://discordapp.com/api/guilds/268800390961561601/widget.png?style=banner2)</a>
+<a href="https://discord.gg/ZRJ9Ghh">![DISCORD EMBED PLUGIN](https://discordapp.com/api/guilds/268800390961561601/widget.png?style=banner2)</a>
