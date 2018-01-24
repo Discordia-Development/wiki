@@ -3,7 +3,9 @@
 
 # Patreon srácok
 
- * @Saphir#9268
- * @D_EaN * STS#1723
- * @Tarek1337#0379
- * @GoldenPheonix#6248
+ * Curse Broken#8659
+ * D_EaN * STS#1723
+ * DowDaw#1063
+ * Tarek1337#0379
+ * GoldenPheonix#6248
+ * Saphir#9268
