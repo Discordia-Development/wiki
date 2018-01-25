@@ -7,7 +7,7 @@ To access these settings, click the cog icon on the bottom left of the applicati
 Each option is divided into a section below.
 # Tabs
 ## Account
-On the Account tab, you may edit your avatar, username, email and/or password. If you have 2-factor-authentication enabled, you will need to enter a code before you may change your email or password. To claim a new account, you need to enter an email and password in this this tab. You may only change your username twice every hour. 
+On the Account tab, you may edit your avatar, username, email and/or password. If you have 2-factor-authentication enabled, you will need to enter a code before you may change your email or password. To claim a new account, you need to enter an email and password in this this tab. You may only change your username twice every hour. if you have Nitro, you can change your [discriminator](/discriminator).
 
 ## Nitro
 On the Nitro tab, you may purchase or cancel a [Discord Nitro](/nitro) subscription. More information on Discord Nitro may be found [here](/nitro).
