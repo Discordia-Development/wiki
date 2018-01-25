@@ -14,7 +14,7 @@ Jesteśmy Discord Wiki. Jesteśmy dumni, że możemy być jednym z czołowych do
 *Odpowiedzialni za utrzymywanie Discord Wiki i jego serwera wsparcia.*
 * @SleepaDru#7700 (Administrator systemów, utrzymuje zaplecze wszystkich usług dostarczanych przez Wiki)
 * @Crake#9100
-* @Tiemen#0107
+* @Tiemen#0001
 * @Mikesky#3456 (Administrator systemów, utrzymuje zaplecze wszystkich usług dostarczanych przez Wiki)
 * @望月 紅葉 ★★★★#9667
 
@@ -38,7 +38,7 @@ Jesteśmy Discord Wiki. Jesteśmy dumni, że możemy być jednym z czołowych do
 
 *Przyczynili się do stworzenia Discord WikiBot'a.*
 * @HyperCoder#2975
-* @Tiemen#0107
+* @Tiemen#0001
 * @TreeFarmer#5406
 
 > ***Patroni***
