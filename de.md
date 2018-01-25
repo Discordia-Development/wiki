@@ -16,7 +16,7 @@ Wir sind ein kleines Team von Discord-Enthusiasten mit den Ziel anderen Leuten e
 *Manager, für die Aufrechterhaltung zuständig.*
 * @Dru#7700
 * @Harrison#9100
-* @Tiemen#0107
+* @Tiemen#0001
 * @Mikesky#3456
 * @守部 洵 ★★★★#9667
 
@@ -35,7 +35,7 @@ Wir sind ein kleines Team von Discord-Enthusiasten mit den Ziel anderen Leuten e
 
 *Haben zum Discord WikiBot beigetragen.*
 * @HyperCoder#2975
-* @Tiemen#0107
+* @Tiemen#0001
 
 ## Disclaimer und Legale Information
 Hallo! Wilkommen beim Discord Wiki! Wir glauben stark an Transparenz, deshalb beachten Sie unsere [Nutzungsbedingungen](de/nutzungsbedingungen) und unsere [Datenschutzbestimmungen](/de/datenschutz) um alles wichtige über unsere Dienste zu wissen!
