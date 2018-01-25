@@ -16,7 +16,7 @@ Vi er et lille hold af Discord entusiaster, der sigter efter at øge kendskabet 
 *Ansvarlig for at vedligeholde Discordia og Discord Wikien (Ledere).*
 * @Dru#7700
 * @Harrison#9100
-* @Tiemen#0107
+* @Tiemen#0001
 * @Mikesky#3456
 * @西木野真姫★★★★#9667
 
@@ -35,7 +35,7 @@ Vi er et lille hold af Discord entusiaster, der sigter efter at øge kendskabet 
 
 *Har bidraget til Discord WikiBot.*
 * @HyperCoder#2975
-* @Tiemen#0107
+* @Tiemen#0001
 
 ## Ansvarsfraskrivelse og juridiske oplysninger
 Hej! Velkommen til Discord Wikien! Vi er store tilhængere af gennemsigtighed, så inden du går i gang, tag venligst at kigge på vores [Servicevilkår](/da/servicevilkar) og [Privatlivspolitik](/da/privatlivspolitik) sådan, at du er afklaret med alle de juridiske aspekter vedrørende vores Tjenester!
