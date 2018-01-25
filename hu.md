@@ -18,7 +18,7 @@ Mi vagyunk a The Discord Wiki. Büszkék vagyunk arra, hogy a jelenleg egyik leg
 * @Mikesky#3456 (Rendszer adminisztrátor, fenntartja a Wiki által nyújtott minden szolgáltatás backendjét)
 * @Harrison#9100
 * @ベアトリーチェ★★★★#9667
-* @Tiemen#0107
+* @Tiemen#0001
 
 > ***Osztályvezetők***
 
@@ -44,7 +44,7 @@ Mi vagyunk a The Discord Wiki. Büszkék vagyunk arra, hogy a jelenleg egyik leg
 
 *Hozzájárultak a Discord WikiBot-hoz.*
 * @HyperCoder#2975
-* @Tiemen#0107
+* @Tiemen#0001
 * @TreeFarmer#5406
 
 > ***Támogatók***
