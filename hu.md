@@ -15,7 +15,7 @@ Mi vagyunk a The Discord Wiki. Büszkék vagyunk arra, hogy a jelenleg egyik leg
 
 *Felelősek a The Discord Wiki és a support szerver fenntartásáért.*
 * @SleepaDru#7700 (Rendszer adminisztrátor, fenntartja a Wiki által nyújtott minden szolgáltatás backendjét)
-* @Mikesky#3456 (Rendszer adminisztrátor, fenntartja a Wiki által nyújtott minden szolgáltatás backendjét)
+* @Mikesky#0001 (Rendszer adminisztrátor, fenntartja a Wiki által nyújtott minden szolgáltatás backendjét)
 * @Harrison#9100
 * @ベアトリーチェ★★★★#9667
 * @Tiemen#0001
