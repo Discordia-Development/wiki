@@ -18,7 +18,7 @@ Nous sommes le wiki Discord. Nous sommes fiers d’être l'un des premiers fourn
 * @Mikesky#3456 (administrateur web, gère l’organisation de tous les services fournis par le wiki)
 * @Harrison#9100
 * @望月 紅葉 ★★★★#9667
-* @Tiemen#0107
+* @Tiemen#0001
 
 > ***Chefs de départements***
 
@@ -35,7 +35,7 @@ Nous sommes le wiki Discord. Nous sommes fiers d’être l'un des premiers fourn
 
 *Ont contribué au WikiBot Discord.*
 * @HyperCoder#2975
-* @Tiemen#0107
+* @Tiemen#0001
 * @TreeFarmer#5406
 
 > ***Mécènes***
