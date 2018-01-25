@@ -18,7 +18,7 @@ Wij zijn de Discord Wiki. We zijn trots één van de leidende providers van info
 * @Mikesky#3456 (Systeem Administrator, onderhoudt de backend van alle diensten die door de Wiki worden aangeboden)
 * @Harrison#9100
 * @望月 紅葉 ★★★★#9667
-* @Tiemen#0107
+* @Tiemen#0001
 
 >***Afdelingsleiders***
 
@@ -35,7 +35,7 @@ Wij zijn de Discord Wiki. We zijn trots één van de leidende providers van info
 
 *Hebben bijdragen geleverd aan de ontwikkeling van de Discord WikiBot*
 * @HyperCoder#2975
-* @Tiemen#0107
+* @Tiemen#0001
 
 > ***Patrons***
 
