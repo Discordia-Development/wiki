@@ -3,9 +3,9 @@
 
 # Patreon Folks
 
-* Curse Broken#8659
-* D_EaN * STS#1723
+* Curse#0001
+* D_EaN * STS#0001
 * DowDaw#1063
-* Tarek1337#0379
+* Tarek#1337
 * GoldenPheonix#6248
 * Saphir#9268
