@@ -3,11 +3,25 @@
 
 This is the changelog/release date for major features or significant changes. PTB and Canary might have received some features sooner than the date listed below.
 
+# 25/1/2018
+
+## Desktop
+
+* Ability to change your [discriminator](/discriminator) if you have Discord [Nitro](/nitro)
+* Opus audio codec updated to 1.2
+* New languages added
+* [Hypesquad](/hypesquad) reopened for applications.
+
+## Mobile
+
+* Animated [Emoji](/emoji#animated-emoji) on mobile
+* Gif avatar upload on Android
+
 # 12/21/2017
 
 ## Desktop
 
-* Animated [Emoji](https://discordia.me/emoji#animated-emoji)
+* Animated [Emoji](/emoji#animated-emoji)
 * 720p60 and 1080p30 options for Screensharing
 * PayPal option added for [Discord Nitro](/nitro)
 * Group DM owner marked with crown icon
@@ -56,7 +70,7 @@ Full changelog [here](https://blog.discordapp.com/11-9-2017-change-log-b9d697899
 # 10/12/2017
 Full changelog [here](https://blog.discordapp.com/verified-servers-and-how-to-promote-them-4be8d23d86f0)
 
-* [Verified Servers](https://discordia.me/verified-servers) Released for game developers.
+* [Verified Servers](/verified-servers) Released for game developers.
 # 10/05/2017
 Full changelog [here](https://blog.discordapp.com/5-10-2017-change-log-80f10c621c64)
 
