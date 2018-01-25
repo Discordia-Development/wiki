@@ -15,7 +15,7 @@ We're The Discord Wiki. We're proud to be one of the leading providers of inform
 
 *Responsible for maintaining The Discord Wiki and its support server.*
 * @SleepaDru#7700 (Systems Administrator, maintains the backend of all of the services provided by the Wiki)
-* @Mikesky#3456 (Systems Administrator, maintains the backend of all of the services provided by the Wiki)
+* @Mikesky#0001 (Systems Administrator, maintains the backend of all of the services provided by the Wiki)
 * @Harrison#9100
 * @ベアトリーチェ★★★★#9667
 * @Tiemen#0001
@@ -34,7 +34,7 @@ We're The Discord Wiki. We're proud to be one of the leading providers of inform
 * @Lireoy#4444 - Hungarian
 * @MibMoot#3426 - Danish
 * @Saphir#9268 - French
-* @Skidder#4239 - German
+* @Skidder#0001 - German
 * @Vividia#1224 - Hungarian
 * @xstarmax#0499 - Hungarian
 * @zabszk#5292 - Polish
@@ -51,10 +51,10 @@ We're The Discord Wiki. We're proud to be one of the leading providers of inform
 
 *A huge thank you to all our supporters on [Patreon](https://www.patreon.com/TheDiscordWiki)!*
 
-* Curse Broken#8659
+* Curse#0001
 * D_EaN * STS#1723
 * DowDaw#1063
-* Tarek1337#0379
+* Tarek#1337
 * GoldenPheonix#6248
 * Saphir#9268
 
