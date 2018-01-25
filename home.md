@@ -27,9 +27,9 @@ We're The Discord Wiki. We're proud to be one of the leading providers of inform
 > ***Internationalization Volunteers***
 
 * @Csega#1256 - Hungarian
-* @D_EaN * STS#1723 - Hungarian
+* @D_EaN * STS#0001 - Hungarian
 * @erykol#8141 - Polish
-* @FSΞ | S Λ M T Ξ L L#8213 - Korean
+* @S Λ M T Ξ L L#8213 - Korean
 * @JustAndras#7645 - Hungarian
 * @Lireoy#4444 - Hungarian
 * @MibMoot#3426 - Danish
@@ -52,7 +52,7 @@ We're The Discord Wiki. We're proud to be one of the leading providers of inform
 *A huge thank you to all our supporters on [Patreon](https://www.patreon.com/TheDiscordWiki)!*
 
 * Curse#0001
-* D_EaN * STS#1723
+* D_EaN * STS#0001
 * DowDaw#1063
 * Tarek#1337
 * GoldenPheonix#6248
