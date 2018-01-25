@@ -18,7 +18,7 @@ We're The Discord Wiki. We're proud to be one of the leading providers of inform
 * @Mikesky#3456 (Systems Administrator, maintains the backend of all of the services provided by the Wiki)
 * @Harrison#9100
 * @ベアトリーチェ★★★★#9667
-* @Tiemen#0107
+* @Tiemen#0001
 
 > ***Department Leads***
 
@@ -44,7 +44,7 @@ We're The Discord Wiki. We're proud to be one of the leading providers of inform
 
 *Contributed to the Discord WikiBot.*
 * @HyperCoder#2975
-* @Tiemen#0107
+* @Tiemen#0001
 * @TreeFarmer#5406
 
 > ***Patrons***
