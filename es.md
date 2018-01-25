@@ -16,7 +16,7 @@ Somos un equipo pequeño de entusiastas Discord, puntería a aumentar la concien
 *Responsable de mantener Discordia y The Discord Wiki (gerentes).*
 * @Dru#7700
 * @Harrison#9100
-* @Tiemen#0107
+* @Tiemen#0001
 * @Mikesky#3456
 * @西木野真姫★★★★#9667
 
@@ -35,7 +35,7 @@ Somos un equipo pequeño de entusiastas Discord, puntería a aumentar la concien
 
 *Contribuido al Discord WikiBot.*
 * @HyperCoder#2975
-* @Tiemen#0107
+* @Tiemen#0001
 
 ## Forma solicitud a edición de The Discord Wiki y Aplicaciones Wiki Editor
 ### Somos Google Forms diferentes eso permite one uno para editar El Wiki
