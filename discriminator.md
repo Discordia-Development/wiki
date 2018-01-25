@@ -13,7 +13,7 @@ Discriminators range from 0001 to 9999 and are randomly assigned. Two users with
 ![Usernamechange](/uploads/discriminator/usernamechange.png "Usernamechange")
 
 ## Changing your Discriminator
-Changing your discriminator is possible with a [Discord Nitro](/nitro) subscription. This allows you to set your discriminator to any number between 0001 and 9999, provided it isn't already taken. You are limited to 5 changes per hour. If your Nitro subscription expires, your discriminator will be randomly reset to a different number, but only if you took advantage of the perk.
+Changing your discriminator is possible by having a [Discord Nitro](/nitro) subscription, or being a [Discord Partner](/partner). This allows you to set your discriminator to any number between 0001 and 9999, provided it isn't already taken. You are limited to 5 changes per hour. If your Nitro subscription expires, your discriminator will be randomly reset to a different number, but only if you took advantage of the perk.
 
 ![Changing Discriminator](https://i.imgur.com/SuxuNHe.png "Changing Discriminator")
 
