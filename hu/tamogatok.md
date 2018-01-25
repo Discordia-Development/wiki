@@ -4,7 +4,7 @@
 # Patreon srácok
 
  * Curse#0001
- * D_EaN * STS#1723
+ * D_EaN * STS#0001
  * DowDaw#1063
  * Tarek#1337
  * GoldenPheonix#6248
