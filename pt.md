@@ -16,7 +16,7 @@ Nós somos um pequeno time de entusiastas do Discord, procurando aumentar a cons
 *Responsáveis por manter o Discordia e The Discord Wiki (gerentes).*
 * @Dru#7700
 * @Harrison#9100
-* @Tiemen#0107
+* @Tiemen#0001
 * @Mikesky#3456
 * @西木野真姫★★★★#9667
  
@@ -38,7 +38,7 @@ Nós somos um pequeno time de entusiastas do Discord, procurando aumentar a cons
  
 *Contribuíram para o Discord WikiBot.*
 * @HyperCoder#2975
-* @Tiemen#0107
+* @Tiemen#0001
  
 ## Avisos e informação legal
 Olá! Bem-vindo a Discord Wiki! Nós acreditamos fortemente em transparência, então antes de ingressar, por favor dê uma olhada nos nossos [Termos de Serviço](/pt/termos) e nossa [Política de Privacidade](/pt/privacidade) para que você saiba todas as coisas legais que precise saber sobre nossos serviços!
