@@ -18,7 +18,7 @@
 * @Mikesky#3456 (システム管理者は、Wikiが提供するすべてのサービスのバックエンドを管理しています)
 * @Harrison#9100
 * @ベアトリーチェ★★★★#9667
-* @Tiemen#0107
+* @Tiemen#0001
 
 > ***部門リード***
 
@@ -41,7 +41,7 @@
 
 *沽券した Discord WikiBot.*
 * @HyperCoder#2975
-* @Tiemen#0107
+* @Tiemen#0001
 * @TreeFarmer#5406
 
 > ***ぱとろんｓ。***
