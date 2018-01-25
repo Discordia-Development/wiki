@@ -16,7 +16,7 @@
 *Responsible for maintaining The Discord Wiki and its support server.*
 * @Dru#7700 (웹 관리자, 위키가 제공하는 백엔드 서비스 유지)
 * @Crake#9100
-* @Tiemen#0107
+* @Tiemen#0001
 * @Mikesky#3456 (웹 관리자, 위키가 제공하는 백엔드 서비스 유지)
 * @望月 紅葉 ★★★★#9667
 
@@ -31,7 +31,7 @@
 
 *디스코드 위키봇에 지원함*
 * @HyperCoder#2975
-* @Tiemen#0107
+* @Tiemen#0001
 * @TreeFarmer#5406
 
 ## Disclaimers and Legal Information
