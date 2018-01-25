@@ -51,10 +51,10 @@ Mi vagyunk a The Discord Wiki. Büszkék vagyunk arra, hogy a jelenleg egyik leg
 
 *Nagy köszönet minden [Patreon](https://www.patreon.com/TheDiscordWiki) támogatónknak!*
 
-* Curse Broken#8659
+* Curse#0001
 * D_EaN * STS#1723
 * DowDaw#1063
-* Tarek1337#0379
+* Tarek#1337
 * GoldenPheonix#6248
 * Saphir#9268
 
