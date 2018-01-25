@@ -29,7 +29,7 @@ We're The Discord Wiki. We're proud to be one of the leading providers of inform
 * @Csega#1256 - Hungarian
 * @D_EaN * STS#0001 - Hungarian
 * @erykol#8141 - Polish
-* @S Λ M T Ξ L L#8213 - Korean
+* @Samtell#0001 - Korean
 * @JustAndras#7645 - Hungarian
 * @Lireoy#4444 - Hungarian
 * @MibMoot#3426 - Danish
