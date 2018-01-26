@@ -20,7 +20,7 @@ Et Discord Nitro abonnement giver brugeren adgang til De følgende funktioner:
 * Maksimal uploadstørrelse forøget til 50MB fra 8MB.
 * 720p 60fps eller 1080p 30fps skærmdeling.
 * Discord Nitro [badge](/badges) på din profile.
-* Evnen til at ændre din [discriminator](/discriminator). (**Bemærk:** Hvis dit Nitro abonnement udløber bliver din discriminator nulstillet til et tilfældigt nummer)
+* Evnen til at ændre din [discriminator](/discriminator). *(Bemærk: Hvis dit Nitro abonnement udløber bliver din discriminator nulstillet til et tilfældigt nummer)*
 
 # At købe Nitro
 For at købe Nitro, klik på Brugerindstillinger tandhjulet i bunden af din skærm og klik på Discord Nitro fanen. Når du er der, vælg månedligt eller årligt, skriv dit credit/debit kort information, derefter postnummer. For at betale med PayPal, skal du have en failover metode af betaling registreret på din PayPal konto, som en bank konto eller kort, uanset om der er nok penge på din PayPal pung.
