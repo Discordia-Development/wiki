@@ -13,7 +13,7 @@
 ## 편집자
 > ***위키 관리자***
 
-*Responsible for maintaining The Discord Wiki and its support server.*
+*디스코드 위키와 지원 서버를 유지하는 책임자들*
 * @SleepaDru#7700 (웹 관리자, 위키가 제공하는 백엔드 서비스 유지)
 * @Mikesky#0001 (웹 관리자, 위키가 제공하는 백엔드 서비스 유지)
 * @Harrison#9100
