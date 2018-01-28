@@ -1,19 +1,17 @@
 <!-- TITLE: Боты -->
-<!-- SUBTITLE: Информация о различных библиотеках ботов Discord -->
+<!-- SUBTITLE: Информация о различных библиотеках для ботов Discord -->
 
 Discord позволяет пользователям создавать ботов и приглашать их на сервера. Команда Discord создала уникальный API, позволяющий пользователям создавать приложения, которые взаимодействуют непосредственно с сервером. Вы можете просмотреть документацию по API [здесь](https://discordapp.com/developers/docs/intro). 
 
-Существует сервер, управляемый сообществом, который посвящен API Discord, к нему можно присоединиться, перейдя по [данной ссылке](http://discord.gg/discord-api).
+Существует сервер, управляемый сообществом, который посвящен Discord API, к нему можно присоединиться, перейдя по [данной ссылке](http://discord.gg/discord-api).
 
 # Серверные боты
-Наиболее часто встречаемым видом бота являются серверные боты. 
-The most common type of bots are server bots. Server bots have dedicated bot accounts that are different from user accounts and function mainly on servers. There are hundreds of server bots on Discord that have different functions. To invite a server bot to your guild, you need to have the **Manage Server** permission, and you need to authorize it with an authorization link specific to that bot. To invite a bot, click the authorization link, select a server, deny or allow it to have the permissions listed on the page and click 'Invite'. To remove a bot from your server, simply kick or ban it like you would any other user. Bot accounts have a bot tag next to their name. If you want to create your own server bot, you need to register it through Discord's application page. Click [here](https://discordapp.com/developers/applications/me) to access the applications page.
+Наиболее часто встречаемым видом ботов являются серверные боты. Серверные боты имеют особенные учётные записи, которые отличаются от пользовательских учётных записей, они в основном функционируют на серверах. Существуют сотни серверных ботов в Discord и все они имеют разный функционал. Чтобы пригласить такого бота к себе на сервер, необходимо иметь право на **Управление сервером**, вам нужно авторизировать его при помощи определенной ссылки, соответствующей этому боту. Чтобы пригласить бота, кликните на ссылку авторизации, выберите сервер, запретите или разрешите ему иметь права, указанные на странице авторизации и нажмите 'Пригласить'. Чтобы удалить бота с вашего сервера, просто кикните или забаньте его как и любого другого пользователя. Учётные записи ботов содержат тег бота рядом с их именем. Если вы хотите создать своего серверного бота, вам нужно зарегистрировать его на странице приложений Discord. Нажмите [сюда](https://discordapp.com/developers/applications/me), чтобы перейти на данную страницу.
 
-# Selfbots
-Selfbots are when a user uses the Discord API to enhance their account and give them some automated abilities, such as a self ping and embeds. A self bot runs on your account (not through the applications page) and has the ability to post messages for you. Selfbots are against the Discord API [OAuth](https://discordapp.com/developers/docs/topics/oauth2#bot-vs-user-accounts) policy and can lead to an account termination if found. Selfbots *must* only respond to commands from you, otherwise it is deemed a userbot (see below). To use a selfbot, you need your user token which can be found on the console. **Do not give anyone your user token. If someone gets your user token, they can do serious damage to your account, including reading messages, sending messages and mess with any server you have permissions on.**
-# Userbots
-Userbots are fully functioning bots run through a regular account. This is against the Discord [Terms of Service](https://discordapp.com/terms). If you encounter a userbot, please report it to [support@discordapp.com.](mailto:support@discordapp.com) 
-
+# Селфботы
+Селфботами являются те пользователи, которые используют Discord API, чтобы улучшить их учётную запись и дать себе некоторые автоматизированные возможности, такие как упоминание себя и возможность создания встраиваемых объектов. Селфбот работает на вашей учётной записи (не на странице приложений) и имеет возможность публикации сообщений за вас. Селфботы нарушают политику [OAuth](https://discordapp.com/developers/docs/topics/oauth2#bot-vs-user-accounts) Discord API и могут привести к удалению учётной записи, если будут обнаружены. Селфботы *должны* отвечать только на ваши команды, иначе они воспринимаются как юзерботы. Чтобы использовать селфбот, вам необходим вам пользовательский токен, который можно найти в консоли. **Не предоставляйте никому свой пользовательский токен. Если кто-то получит ваш пользовательский токен, он сможет нанести серьезный урон вашей учётной записи, включая прочтение и отправку сообщений и нанесения урона любому серверу, на котором у вас имеются какие-то права. **
+# Юзерботы
+Юзерботы - это боты, которые полностью функционируют на обычной учётной записи. Они нарушают [Условия использования](https://discordapp.com/terms) Discord. Если вы заметите юзербота, пожалуйста, сообщите о нём в [support@discordapp.com.](mailto:support@discordapp.com) 
 # Библиотеки
 Пользователи создали множество различных библиотек, которые упрощают использование API Discord.
 
@@ -26,7 +24,7 @@ Userbots are fully functioning bots run through a regular account. This is again
 * [Discord-rs](https://github.com/SpaceManiac/discord-rs)
 * [Discord4J](https://github.com/austinv11/Discord4J)
 * [Discordcr](https://github.com/meew0/discordcr)
-* [Discordia](https://github.com/SinisterRectus/Discordia)
+* [Discordia](https://github.com/SinisterRectus/Discordia) (не связаны с нами)
 * [Discordie](https://github.com/qeled/discordie)
 * [DiscordGo](https://github.com/bwmarrin/discordgo)
 * [DiscordPHP](https://github.com/teamreflex/DiscordPHP)
