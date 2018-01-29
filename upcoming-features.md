@@ -28,6 +28,7 @@ This is a list of features that will be occasionally updated with information ab
 | 3D Touch Support | Planned |
 | Audit Log | Planned |
 | Custom Keyboard | Planned |
+| Quick Switcher | Planned |
 | Rich Push Notifications | Planned |
 | Security Compatibility | Planned |
 | Server Sorting | Planned |
@@ -40,6 +41,7 @@ This is a list of features that will be occasionally updated with information ab
 | Audit Log | Planned |
 | Auto-Deplay to Alpha | In Development |
 | Compress Image Toggle | Planned |
+| Quick Switcher | Available on Android Alpha |
 | Screensharing | In Development |
 | Security Tab/2FA Enable/Disable | Planned |
 | Video Embeds | Planned |
