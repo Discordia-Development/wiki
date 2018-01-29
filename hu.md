@@ -17,7 +17,7 @@ Mi vagyunk a The Discord Wiki. Büszkék vagyunk arra, hogy a jelenleg egyik leg
 * @SleepaDru#7700 (Rendszer adminisztrátor, fenntartja a Wiki által nyújtott minden szolgáltatás backendjét)
 * @Mikesky#0001 (Rendszer adminisztrátor, fenntartja a Wiki által nyújtott minden szolgáltatás backendjét)
 * @Harrison#9100
-* @ベアトリーチェ★★★★#9667
+* @ベアトリーチェ★★★★#1313
 * @Tiemen#0001
 
 > ***Osztályvezetők***
