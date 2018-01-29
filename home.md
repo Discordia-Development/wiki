@@ -17,7 +17,7 @@ We're The Discord Wiki. We're proud to be one of the leading providers of inform
 * @SleepaDru#7700 (Systems Administrator, maintains the backend of all of the services provided by the Wiki)
 * @Mikesky#0001 (Systems Administrator, maintains the backend of all of the services provided by the Wiki)
 * @Harrison#9100
-* @ベアトリーチェ★★★★#9667
+* @ベアトリーチェ★★★★#1313
 * @Tiemen#0001
 
 > ***Department Leads***
