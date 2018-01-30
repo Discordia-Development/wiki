@@ -10,7 +10,7 @@ Each tier includes the same benefits as the previous ones.
 
 ## Online Tier
 * HypeSquad [badge](/badges) for your Discord profile.
-* Hypesquad email updates.
+* HypeSquad email updates.
 
 ## Event Attendee Tier
 * Access to an exclusive HypeSquad Events server.
