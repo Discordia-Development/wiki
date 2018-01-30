@@ -26,6 +26,7 @@ Mi vagyunk a The Discord Wiki. Büszkék vagyunk arra, hogy a jelenleg egyik leg
 
 > ***Önkéntes fordítók***
 
+* @Calvijn#0001 - Holland
 * @Csega#1256 - Magyar
 * @D_EaN * STS#0001 - Magyar
 * @erykol#8141 - Lengyel
