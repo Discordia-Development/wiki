@@ -1,6 +1,6 @@
 <!-- TITLE: List of Official Inside Jokes -->
 
-Due to Discord's tongue-in-cheek nature on social media, coupled with the populatiry of the app itself, Discord has ended up spawning several inside jokes among it's users on official servers. 
+Due to Discord's tongue-in-cheek nature on social media, coupled with the popularity of the app itself, Discord has ended up spawning several inside jokes among it's users on official servers. 
 
 **Do note that, due to the nature of inside jokes, a majority of these jokes may no longer be considered funny.  Joke with caution.**
 
