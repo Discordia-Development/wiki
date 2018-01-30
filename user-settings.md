@@ -19,7 +19,7 @@ Under the connections icons, you will see all your linked accounts and whether o
 
 Under the Authorized Apps menu, you will be able to see which Discord API apps have access to what information related to your account. From here you may also remove authorized apps by hovering over them and clicking the Delete button.
 
-On Browser, the Skype and Steam options are unavaliable. On Mobile, this menu does not exist. 
+On Browser, the Skype and Steam options are unavailable. On Mobile, this menu does not exist. 
 
 ## Friends 
 On the Friends tab, you may toggle who can add you as a friend. You may chose between everyone, server members or friends of friends.
@@ -62,10 +62,10 @@ On the Keybinds tab, you may add keybinds for the following actions:
 To add a keybind, click the Add Keybind button. To edit a keybind, either click on the function drop down menu or click on the key selector to change the actual keybind. To delete a keybind, click on the trash icon next to the specific keybind. 
 
 ## Appearance
-On the Appearance tab, you may change between Dark Mode (default) and Light Mode for Discord by clicking on the respective icon. You may also switch between cozy (default) and compact mode, turn on [Developer Mode](/developermode) and toggle Hardware Acceleration on & off. On Mobile, the "Sync across clients" option is avaliable. When enabled, this will set the Theme setting on mobile across your other clients. The Hardware Acceleration option is not avaliable on Browser or Mobile editions. 
+On the Appearance tab, you may change between Dark Mode (default) and Light Mode for Discord by clicking on the respective icon. You may also switch between cozy (default) and compact mode, turn on [Developer Mode](/developermode) and toggle Hardware Acceleration on & off. On Mobile, the "Sync across clients" option is available. When enabled, this will set the Theme setting on mobile across your other clients. The Hardware Acceleration option is not available on Browser or Mobile editions. 
 
 ## Games
-On the Games tab, you may choose if you want Discord to display the current game you are playing as your status. If this is toggled on and you are playing a game, it will say "Playing ... [game name]" under your name on the userlist. If no game is detected you can manually select it by clicking on 'Add It'. Find the game on the scroll menu and click it. Once it appears in the blurple box you may click on it to rename it to anything of your choice. Your manually added games will automatically display on this tab too. You may rename previously manually added games by clicking on their names. This feature is unavalibale on the Browser and Mobile clients, but you can see other users Playing statuses.
+On the Games tab, you may choose if you want Discord to display the current game you are playing as your status. If this is toggled on and you are playing a game, it will say "Playing ... [game name]" under your name on the userlist. If no game is detected you can manually select it by clicking on 'Add It'. Find the game on the scroll menu and click it. Once it appears in the blurple box you may click on it to rename it to anything of your choice. Your manually added games will automatically display on this tab too. You may rename previously manually added games by clicking on their names. This feature is unavailable on the Browser and Mobile clients, but you can see other users Playing statuses.
 
 ## Locale
 On the Locale tab, you may change the language of your Discord client by clicking on the language menu. Only fully translated languages are available. Some languages are still be worked on, which may be viewed [here](https://i18n.discordapp.com).
