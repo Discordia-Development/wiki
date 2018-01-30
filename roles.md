@@ -13,7 +13,7 @@ Permissions are divided between General Permissions, Text Permissions, and Voice
 
 ## Role Settings
 
-* **Display role members seperately from online members** will show members of a role in a seperate group above default users, which is determined by role order. This is sometimes known as *hoisting* a role.
+* **Display role members separately from online members** will show members of a role in a separate group above default users, which is determined by role order. This is sometimes known as *hoisting* a role.
 
 * **Allow anyone to @mention this role** allows any user to mention every member of a role at once, similar to how an @everyone ping functions. This is typically applied to moderation roles.
 
@@ -31,15 +31,15 @@ Permissions are divided between General Permissions, Text Permissions, and Voice
 
 * **Manage Channels** allows a user to delete and create new text and voice channels. This also applies to [channel categories](/channel-categories)
 
-* The **Kick Members** permission allows a user to kick anyone who is below them in the heirarchy. 
+* The **Kick Members** permission allows a user to kick anyone who is below them in the hierarchy. 
 
-* The **Ban Members** permission allows a user to ban anyone who is below them in the heirarchy. This also allows a user to access the ban list, and unban members from it.
+* The **Ban Members** permission allows a user to ban anyone who is below them in the hierarchy. This also allows a user to access the ban list, and unban members from it.
 
 * **Create Instant Invites** allows a user to create a instant invite for the server. Instant Invites can be revoked in the Instant Invites channel by anyone with Manage Server.
 
 * The **Change Nickname** permission allows a user to change their own nickname. This nickname can still be changed by anyone above them with the Manage Nicknames permission.
 
-* The **Manage Nicknames** permission allows users to rename a user with a nickname. Users can only apply or edit nicknames of users below them in the role heirarchy.
+* The **Manage Nicknames** permission allows users to rename a user with a nickname. Users can only apply or edit nicknames of users below them in the role hierarchy.
 
 * The **Manage Emojis** permission allows users to access the Emojis tab in Server Settings. This allows them to upload, delete, and rename emojis. 
 
@@ -75,7 +75,7 @@ Permissions are divided between General Permissions, Text Permissions, and Voice
 
 * **Mute Members** allows a user to Server Mute other members, which makes the muted user unable to be heard by anyone in the channel. 
 
-* **Defean Members** allows a user to Server Deafen other members, which makes the deafened user unable to hear anyone in the channel.
+* **Deafen Members** allows a user to Server Deafen other members, which makes the deafened user unable to hear anyone in the channel.
 
 * **Move Members** allows a user to move any member from any channel to another. 
 
