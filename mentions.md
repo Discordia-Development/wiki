@@ -10,7 +10,7 @@ When mentioning a user directly, they will receive a notification and the messag
 When mentioning a role, every user that has access to the channel will get a notification and the channel will be highlighted as if mentioned directly. To allow a role to be mentioned by anyone, enable it for that role under Server settings > Roles > Allow anyone to @mention this role. Many server owners like to enable this for a short time when wanting to mention all users of a role once and then disable it again when making announcements to a specific role.
 
 # @everyone and @here
-Using `@everyone` and `@here` allows for mentioning every member with and without roles. The difference between the two is that `@everyone` mentions even offline users while `@here` only mentions users focussed on the channel at the moment.
+Using `@everyone` and `@here` allows for mentioning every member with and without roles. The difference between the two is that `@everyone` mentions even offline users while `@here` only mentions users who are online and aren't idle at the moment.
 
 # Mentions using IDs
 You can also directly mention an user or a role through the ID. The client replaces `@role` or `@username#discrim` with `<@ID>` and vice versa automatically. The reason this is used is because names change while IDs don't. The client not displaying mentions as the user- or role name can be achieved by escaping the mention. This can be done by typing `\@name#discrim` or `\@role` and will display the ID but still tag the user. Mentioning users by their ID is commonly used by bots.
