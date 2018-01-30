@@ -100,7 +100,7 @@ Full changelog [here](https://blog.discordapp.com/7-21-17-change-log-c9acad667d6
 * Bots able to add reasons to moderation actions
 * Chat bar facelift
 * Media proxy updated for faster loading times
-* Group call interface updated in preperation for [Video Chat](/video-chat) and [Screen Sharing](/screensharing)
+* Group call interface updated in preparation for [Video Chat](/video-chat) and [Screen Sharing](/screensharing)
 * Dark theme for most modals
 * Instant invites now default to 24 hours
 * Twitch Affiliate integration
@@ -252,7 +252,7 @@ Full changelog [here](https://blog.discordapp.com/2016-6-23-change-log-f9fbeff72
 * Jump to a message via the pin menu.
 * Jump to oldest unread message.
 * Shorter invite links.
-* Norweigan support.
+* Norwegian support.
 ## Android
 * Voice channel settings.
 # 06/03/2016
