@@ -24,5 +24,5 @@ Clicking on a username or avatar will direct you to your Direct Messages with th
 
 * All - shows all friends, online or offline.
 * Online - shows only online (Online, DND, and Idle) friends.
-* Pending - shows either sent or recieved friend requests.
+* Pending - shows either sent or received friend requests.
 * Blocked - shows all blocked users.
