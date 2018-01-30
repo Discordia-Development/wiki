@@ -8,7 +8,7 @@ When you click the search bar, the following dropmenu will appear.
 
 ![Search 1](/uploads/search/search-1.png "Search 1")
 
-Type in what you want to search for in the search bar. For example, if you want to see all messages that contain the word "Wumpus", type Wumpus in the search bar. After a few seconds, the search results will appear. You can jump to a message by clicking on it in the results. To see more results (if applicable), click the arrows on the bottom of the results window to scroll between pages. Switch between Recent and Revelant (located on the top left of the results window) to slighty change the search results.
+Type in what you want to search for in the search bar. For example, if you want to see all messages that contain the word "Wumpus", type Wumpus in the search bar. After a few seconds, the search results will appear. You can jump to a message by clicking on it in the results. To see more results (if applicable), click the arrows on the bottom of the results window to scroll between pages. Switch between Recent and Relevant (located on the top left of the results window) to slightly change the search results.
 ## Filters
 To narrow down your search, use the following filters along with your search query. You may use as many or as little filters as you want.
 
