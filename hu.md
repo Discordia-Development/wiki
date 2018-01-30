@@ -29,6 +29,7 @@ Mi vagyunk a The Discord Wiki. Büszkék vagyunk arra, hogy a jelenleg egyik leg
 * @Csega#1256 - Magyar
 * @D_EaN * STS#0001 - Magyar
 * @erykol#8141 - Lengyel
+* @Joni#0001 - Finn
 * @JustAndras#0001 - Magyar
 * @Lireoy#4444 - Magyar
 * @MibMoot#3426 - Dán
