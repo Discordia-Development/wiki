@@ -29,7 +29,7 @@ Mi vagyunk a The Discord Wiki. Büszkék vagyunk arra, hogy a jelenleg egyik leg
 * @Csega#1256 - Magyar
 * @D_EaN * STS#0001 - Magyar
 * @erykol#8141 - Lengyel
-* @JustAndras#7645 - Magyar
+* @JustAndras#0001 - Magyar
 * @Lireoy#4444 - Magyar
 * @MibMoot#3426 - Dán
 * @Samtell#0001 - Koreai
@@ -56,7 +56,7 @@ Mi vagyunk a The Discord Wiki. Büszkék vagyunk arra, hogy a jelenleg egyik leg
 * DowDaw#1063
 * Tarek#1337
 * GoldenPheonix#6248
-* Saphir#9268
+* Saphir#0001
 
 ## Nyilatkozatok és Jogi Információk
 Halihó! Üdvözöllek a The Discord Wikin! Az átláthatóság hívői vagyunk, szóval mielőtt belekezdenél, kérlek tégy egy pillantást a [Szolgáltatási Feltételeinkre](/terms) és az [Adatvédelmi irányelveinkre](/privacy), hogy minden jogi dolgot megtudj amit tudnod kell a szolgáltatásainkra vonatkozólag!
