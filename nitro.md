@@ -23,7 +23,7 @@ A Discord Nitro subscription gives users access to the following features:
 * Ability to change your [discriminator](/discriminator). (Note, if your nitro expires your discriminator will be reset to a random number)
 
 # Purchasing Nitro
-To purchase Nitro, click the user settings cog on the bottom left of your screen and click the Nitro tab. Once there, select monthly or yearly, enter your credit or debit card information, then zipcode when prompted. To pay with PayPal, you need to have a failover method of payment registered on your PayPal account, such as a bank account or card, regardless of wether there is sufficient funds in your PayPal wallet.
+To purchase Nitro, click the user settings cog on the bottom left of your screen and click the Nitro tab. Once there, select monthly or yearly, enter your credit or debit card information, then zipcode when prompted. To pay with PayPal, you need to have a failover method of payment registered on your PayPal account, such as a bank account or card, regardless of whether there is sufficient funds in your PayPal wallet.
 # Official Launch Video
 
 [video](https://www.youtube.com/watch?v=psIIWROIvtM){.youtube}
