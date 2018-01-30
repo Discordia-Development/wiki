@@ -3,7 +3,7 @@
 Discord [StreamKit](https://discordapp.com/streamkit) allows you to enhance your streaming experience by adding tools to your Discord server. 
 
 The StreamKit provides streamers with integration for popular streaming-related apps, fun server bots and Discord [art](https://cdn.discordapp.com/streamkit.zip) to use on their websites and channels.
-# Intergrations
+# Integrations
 The following integrations allow you to link the apps listed below with your Discord server. Click on the app to add the integration to your Discord server.
 
 * [Patreon](https://patreon.zendesk.com/hc/en-us/articles/213552323-How-do-I-set-up-Discord-rewards-?utm_medium=partnerships&utm_source=zendesk&utm_campaign=discord0913) - Allow Discord to automatically sync your patrons to a role. This integration also lets you give exclusive permissions to the integrated role.
