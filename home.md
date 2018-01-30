@@ -26,6 +26,7 @@ We're The Discord Wiki. We're proud to be one of the leading providers of inform
 
 > ***Internationalization Volunteers***
 
+* @Calvijn#0001 - Dutch
 * @Csega#1256 - Hungarian
 * @D_EaN * STS#0001 - Hungarian
 * @erykol#8141 - Polish
