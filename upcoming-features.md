@@ -15,12 +15,10 @@ This is a list of features that will be occasionally updated with information ab
 | Cancelable Uploads | Planned |
 | Group DM Invites | Planned |
 | Inline Audio/Video Player | Planned |
-| LFG | Gradually Rolling Out |
 | Permissions Preview Tool |  |
 | Priority Speaker | In Development |
-| Screen Share Audio | Available on Canary |
+| Soundshare | Available on Canary |
 | Spellcheck | Planned |
-| Spotify Rich Presence | In Internal Testing |
 
 ## iOS
 | Feature | Status	|
