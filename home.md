@@ -58,7 +58,7 @@ We're The Discord Wiki. We're proud to be one of the leading providers of inform
 * D_EaN * STS#0001
 * DowDaw#1063
 * Tarek#1337
-* GoldenPheonix#6248
+* Pheonix#5555
 * Saphir#0001
 
 ## Disclaimers and Legal Information
