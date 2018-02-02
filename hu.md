@@ -58,7 +58,7 @@ Mi vagyunk a The Discord Wiki. Büszkék vagyunk arra, hogy a jelenleg egyik leg
 * D_EaN * STS#0001
 * DowDaw#1063
 * Tarek#1337
-* GoldenPheonix#6248
+* Pheonix#5555
 * Saphir#0001
 
 ## Nyilatkozatok és Jogi Információk
