@@ -15,9 +15,9 @@ Nous sommes le wiki Discord. Nous sommes fiers d’être l'un des premiers fourn
 
 *Responsables de la maintenance du wiki Discord et de son serveur de support.*
 * @SleepaDru#7700 (administrateur web, gère l’organisation de tous les services fournis par le wiki)
-* @Mikesky#3456 (administrateur web, gère l’organisation de tous les services fournis par le wiki)
+* @Mikesky#0001 (administrateur web, gère l’organisation de tous les services fournis par le wiki)
 * @Harrison#9100
-* @望月 紅葉 ★★★★#9667
+* @望月 紅葉 ★★★★#1313
 * @Tiemen#0001
 
 > ***Chefs de départements***
@@ -26,10 +26,22 @@ Nous sommes le wiki Discord. Nous sommes fiers d’être l'un des premiers fourn
 
 > ***Bénévoles pour l’internationalisation***
 
-* @D_EaN * STS#1723 - Hongrois
-* @erykol#9716 - Polonais
-* @FSΞ | S Λ M T Ξ L L#8213 - Coréen
-* @Saphir#9268 - Français
+* @Calvijn#0001 - Néerlandais
+* @Csega#1256 - Hongrois
+* @D_EaN * STS#0001 - Hongrois
+* @erykol#8141 - Polonais
+* @jacob#0513 - Japonais
+* @Joni#0001 - Finlandais
+* @JustAndras#0001 - Hongrois
+* @Lireoy#4444 - Hongrois
+* @MibMoot#3426 - Danois
+* @Samtell#0001 - Coréen
+* @Saphir#0001 - Français
+* @Skidder#0001 - Allemand
+* @Vividia#1224 - Hongrois
+* @xstarmax#0499 - Hongrois
+* @zabszk#5292 - Polonais
+* @시온#2469 - Coréen
 
 > ***Développeurs du bot***
 
@@ -41,12 +53,12 @@ Nous sommes le wiki Discord. Nous sommes fiers d’être l'un des premiers fourn
 > ***Mécènes***
 
 *Un grand merci à tous ceux qui nous supportent sur [Patreon](https://www.patreon.com/TheDiscordWiki)!*
-* Curse Broken#8659
-* D_EaN * STS#1723
+* Curse#0001
+* D_EaN * STS#0001
 * DowDaw#1063
-* Tarek1337#0379
-* GoldenPheonix#6248
-* Saphir#9268
+* Tarek#1337
+* Pheonix#5555
+* Saphir#0001
 
 ## Avertissement et mentions légales
 Salut ! Bienvenue sur le wiki Discord ! Nous misons beaucoup sur la transparence, alors avant de commencer, nous vous invitons à jeter un oeil à nos [conditions d’utilisation](/fr/terms) et notre [politique d’utilisation des données](/fr/privacy) de façon à connaître toutes les informations légales concernant nos services !
