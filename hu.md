@@ -35,6 +35,7 @@ Mi vagyunk a The Discord Wiki. Büszkék vagyunk arra, hogy a jelenleg egyik leg
 * @JustAndras#0001 - Magyar
 * @Lireoy#4444 - Magyar
 * @MibMoot#3426 - Dán
+* @RME#3050 - Holland
 * @Samtell#0001 - Koreai
 * @Saphir#0001 - Francia
 * @Skidder#0001 - Német
