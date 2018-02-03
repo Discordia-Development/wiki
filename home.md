@@ -35,6 +35,7 @@ We're The Discord Wiki. We're proud to be one of the leading providers of inform
 * @JustAndras#0001 - Hungarian
 * @Lireoy#4444 - Hungarian
 * @MibMoot#3426 - Danish
+* @RME#3050 - Dutch
 * @Samtell#0001 - Korean
 * @Saphir#0001 - French
 * @Skidder#0001 - German
