@@ -1,4 +1,4 @@
-<!-- TITLE: Partner -->
+<!-- TITLE: Partenaire -->
 
 Un partenaire Discord est une personne disposant d’un grand nombre d’abonnés ou d’un serveur très fréquenté dont une candidature a été acceptée par Discord afin que lui et sa guilde bénéficient de fonctionnalités VIP.
 
