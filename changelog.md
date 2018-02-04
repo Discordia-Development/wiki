@@ -1,16 +1,27 @@
 <!-- TITLE: Changelog -->
-<!-- SUBTITLE: Discord Changelog updated as of 10/05/2017 -->
+<!-- SUBTITLE: Discord Changelog updated as of 02/01/2018 -->
 
 This is the changelog/release date for major features or significant changes. PTB and Canary might have received some features sooner than the date listed below.
 
-# 25/1/2018
+# 2/1/2018
+* [Spotify](/spotify-integration) integration added
+* Spotify Premium users able to listen along with friends
+* Hong Kong and Singapore voice server capacity increased
+* Oxford comma added when 3 people are typing in chat
+* Crown icon beside a server owner's name
+* @mentioning improved in larger servers
+* Performance improved in larger servers
+* Discord [Web](/web) no longer turns on your microphone automatically.
+* Performance improvements for large [friends lists](/friends-list)
+
+# 1/25/2018
 
 ## Desktop
 
 * Ability to change your [discriminator](/discriminator) if you have Discord [Nitro](/nitro)
 * Opus audio codec updated to 1.2
 * New languages added
-* [Hypesquad](/hypesquad) reopened for applications.
+* [Hypesquad](/hypesquad) reopened for applications
 
 ## Mobile
 
