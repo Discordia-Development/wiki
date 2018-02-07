@@ -12,10 +12,9 @@ This is a list of features that will be occasionally updated with information ab
 |---------|---------|
 | Activity Feed | Gradually Rolling Out |
 | Block Quotes | Planned |
-| Cancelable Uploads | Planned |
 | Group DM Invites | Planned |
 | Inline Audio/Video Player | Planned |
-| Permissions Preview Tool |  |
+| Permissions Preview Tool | Planned |
 | Priority Speaker | In Development |
 | Soundshare | Available on Canary |
 | Spellcheck | Planned |
