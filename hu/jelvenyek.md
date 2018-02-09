@@ -11,7 +11,7 @@ Ha többféle jelvénye van egy felhasználónak, akkor mind megjelenik.
 ![Generalbadges](/uploads/badges/generalbadges.png "A jelvények kinézete")
 
 # Discord Személyzet
-Ez a jelvény minden Discord munkatárs profilján megjelenik. Ha valaki a Discord Személyzet egyik tagjának vallja magát, és nincs ilyen jelvénye, akkor az állítása nem igaz. Ez a jelvény az egyik hivatalos módja a Discord Személyzeti tagok azonosításának, megkülönböztetve őket az átlagos felhasználóktól.
+Ez a jelvény minden Discord munkatárs profilján megjelenik. Ha valaki a Discord Személyzet egyik tagjának vallja magát, és nincs ilyen jelvénye, akkor az állítása nem igaz. Ez a jelvény az egyik hivatalos módja a Discord Személyzeti tagok azonosításának, mely megkülönbözteti őket az átlagos felhasználóktól.
 
 ![Staffbadge](/uploads/badges/newstaffbadge.png "Egy személyzeti jelvény")
 
