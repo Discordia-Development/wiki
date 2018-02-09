@@ -42,7 +42,7 @@ This is the changelog/release date for major features or significant changes. PT
 
 * Stability increased for voice and video calls
 * Jump to message from search or pins
-* Themeing works on more modals
+* Theming works on more modals
 
 # 12/11/2017
 
