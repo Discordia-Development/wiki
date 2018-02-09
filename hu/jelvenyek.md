@@ -3,7 +3,7 @@
 
 A Discordnak sokféle jelvénye van, amik besorolják a különböző felhasználókat adott csoportokba. A jelvényeket az adott felhasználó profilkártyáján találod. Ahhoz, hogy megtaláld valaki profilkártyáját, kattints egy felhasználóra és az egeredet vidd a profilképére, majd ismét kattints rá.
 
-A jelvények hierarchikus sorrendben jelennek meg, és ha több is van, halmozódik.
+A jelvények hierarchikus sorrendben jelennek meg, és ha több is van, halmozódnak.
 
 # Általános jelvények
 Ha többféle jelvénye van egy felhasználónak, akkor mind megjelenik.
