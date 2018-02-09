@@ -17,7 +17,7 @@ This is a list of features that will be occasionally updated with information ab
 | Permissions Preview Tool | Planned |
 | Priority Speaker | In Development |
 | Soundshare | Available on Canary |
-| Spellcheck | Planned |
+| Spellcheck | Available on Canary (macOS) |
 
 ## iOS
 | Feature | Status	|
