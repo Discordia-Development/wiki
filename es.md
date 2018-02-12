@@ -10,40 +10,59 @@ Somos la Wiki de Discord. Estamos orgullosos de ser uno de los proveedores princ
 
 <a href="https://discord.gg/ZRJ9Ghh">![DISCORD EMBED PLUGIN](https://discordapp.com/api/guilds/367460196148183040/widget.png?style=banner2)</a>
 
-## Personal Editorial
-> ***Consejo Alto***
+## Personal del Wiki de Discord
+> ***Administradores de la Wiki***
 
-*Responsable de mantener Discordia y The Discord Wiki (gerentes).*
-* @Dru#7700
+*Responsables de mantener el Wiki de Discord y su servidor de soporte.*
+* @SleepaDru#7700 (Administrador de Sistemas, mantiene el backend de todos los servicios proveídos por la Wiki)
+* @Mikesky#0001 (Administrador de Sistemas, mantiene el backend de todos los servicios proveídos por la Wiki)
 * @Harrison#9100
+* @ベアトリーチェ★★★★#1313
 * @Tiemen#0001
-* @Mikesky#3456
-* @西木野真姫★★★★#9667
 
-> ***Internacionalización (i18n)***
+> ***Dirigentes de Equipos***
 
-* @asli#2772
-* @Daan#3356
-* @Gerd#0525
-* @Henrijoh#0216
-* @Gallium#1327
-* @DaFri_Nochiterov#4289
-* @Thereatra#3564
-* @LW001#8654
+* @OminousCry#2331 - Dirigente de Traducción
 
-> ***Desarrolladores de Bot***
+> ***Voluntarios de Traducción***
 
-*Contribuido al Discord WikiBot.*
+* @Calvijn#0001 - Holandés
+* @Csega#1256 - Húngaro
+* @D_EaN * STS#0001 - Húngaro
+* @erykol#8141 - Polaco
+* @jacob#0513 - Japones
+* @Joni#0001 - Finlandés
+* @JustAndras#0001 - Húngaro
+* @Lireoy#4444 - Húngaro
+* @MibMoot#3426 - Danés
+* @RME#3050 - Holandés
+* @Samtell#0001 - Coreano
+* @Saphir#0001 - Francés
+* @Skidder#0001 - Alemán
+* @Vividia#1224 - Húngaro
+* @xstarmax#0499 - Húngaro
+* @zabszk#5292 - Polaco
+* @시온#2469 - Coreano
+
+> ***Desarrolladores de Bots***
+
+*Contribuidores de el Discord WikiBot.*
 * @HyperCoder#2975
 * @Tiemen#0001
+* @TreeFarmer#5406
 
-## Forma solicitud a edición de The Discord Wiki y Aplicaciones Wiki Editor
-### Somos Google Forms diferentes eso permite one uno para editar El Wiki
+> ***Patrons***
 
-[Â¡Enviar una solicitud a edición Aqui!](https://goo.gl/forms/tXAUTq1uWNd5UJo43)
+*¡Muchísimas gracias a todos nuestros ayudadores en [Patreon](https://www.patreon.com/TheDiscordWiki)!*
 
-[Â¡Aplicar para convertirse en un Wiki Editor Aqui!](https://goo.gl/forms/acaEgDcB2wLvAyUs1)
-## Renuncias y Información Legal
-Â¡Hola! Bievenidos a The Discord Wiki! Somos creyentes fuertes en transparencia, así que antes usted saltar, por favor echa un vistazo a nuestra [Términos de Servicio](/terms) y nuestra [Polótica de Privacidad](/privacy) para ti sabe todas las cosas legales necesita saber respecto a nuestros servicios!
+* Curse#0001
+* D_EaN * STS#0001
+* DowDaw#1063
+* Tarek#1337
+* Pheonix#5555
+* Saphir#0001
 
-### ***Discord, el Discord Ghost (Clyde™), y Discordapp (En esta DISCORD) son los propiedad intelectual y legal de Discord Inc. Estos Servicios, enumerados en el [Términos de Servicio](/terms) no están afiliados a Discord Inc o cualquier filiales en esta. The Discord Wiki no reclama poseer cualquiera propiedad intelectual de DISCORD, Por favor, no nos demanden.***
+## Avisos Legales e Información Legal
+¡Hola! ¡Bienvenido a la Wiki de Discord! Nosotros somos creyentes de la transparencia, así que antes de que te involucres, tomate un tiempo para mirar nuestros [Términos de Servicio](/terms) y nuestra [Política de Privacidad](/privacy), ¡para que puedas comprender todas las cosas legales que necesites saber acerca de nuestros servicios!
+
+### ***Discord, el Fantasma Discord (Clyde™), y Discordapp (también como DISCORD) son la propiedad intelectual y legal de Discord Inc. Estos servicios, listados en los [Términos de Servicio](/terms) no están afiliados con Discord Inc. o cualquier otra subsidiaria. La Wiki de Discord no reclama poseer ninguna de la propiedad intelectual de DISCORD, por favor, no nos demanden.***
