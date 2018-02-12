@@ -1,5 +1,5 @@
 <!-- TITLE: Spanish - Página Principal -->
-<!-- SUBTITLE: ¡Bienvenidos a The Discord Wiki! -->
+<!-- SUBTITLE: ¡Bienvenido a la Wiki de Discord! -->
 
 # Bienvenidos
 ## Sobre Nosotros
