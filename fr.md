@@ -35,6 +35,7 @@ Nous sommes le wiki Discord. Nous sommes fiers d’être l'un des premiers fourn
 * @JustAndras#0001 - Hongrois
 * @Lireoy#4444 - Hongrois
 * @MibMoot#3426 - Danois
+* @RME#3050 - Néerlandais
 * @Samtell#0001 - Coréen
 * @Saphir#0001 - Français
 * @Skidder#0001 - Allemand
