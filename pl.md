@@ -13,10 +13,10 @@ Jesteśmy Discord Wiki. Jesteśmy dumni, że możemy być jednym z czołowych do
 
 *Odpowiedzialni za utrzymywanie Discord Wiki i jego serwera wsparcia.*
 * @SleepaDru#7700 (Administrator systemów, utrzymuje zaplecze wszystkich usług dostarczanych przez Wiki)
-* @Crake#9100
-* @Tiemen#0001
 * @Mikesky#3456 (Administrator systemów, utrzymuje zaplecze wszystkich usług dostarczanych przez Wiki)
-* @望月 紅葉 ★★★★#9667
+* @Harrison#9100
+* @ベアトリーチェ★★★★#1313
+* @Tiemen#0001
 
 > ***Kadra liderska***
 
@@ -26,13 +26,21 @@ Jesteśmy Discord Wiki. Jesteśmy dumni, że możemy być jednym z czołowych do
 
 * @erykol#8141 - Polski
 * @zabszk#5292 - Polski
-* @» a r i a#1593 - Niemiecki 
-* @H E N R I K#8208 - Niemiecki
-* @FSΞ | S Λ M T Ξ L L#8213 - Koreański
-* @D_EaN * STS#1723 - Węgierski
-* @Saphir#9268 - Francuski
+* @Calvijn#0001 - Holenderski
 * @RME#3050 - Holenderski
-* @Calvin#9952 - Holenderski 
+* @Csega#1256 - Wegierski
+* @D_EaN * STS#0001 - Węgierski
+* @JustAndras#0001 - Węgierski
+* @Lireoy#4444 - Węgierski
+* @Vividia#1224 - Węgierski
+* @xstarmax#0499 - Węgierski
+* @jacob#0513 - Japoński
+* @Joni#0001 - Fiński
+* @MibMoot#3426 - Duński
+* @Samtell#0001 - Koreański
+* @시온#2469 - Koreański
+* @Saphir#0001 - Francuski
+* @Skidder#0001 - Niemiecki
 
 > ***Deweloperzy botów***
 
