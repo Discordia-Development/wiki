@@ -27,4 +27,3 @@ Aby dołączyć do HypeSquad musisz wysłać [application](https://discordapp.co
 [video](https://www.youtube.com/watch?v=rXZkTT-5m9o){.youtube}<!-- TITLE: Hypesquad -->
 <!-- SUBTITLE: A quick summary of Hypesquad -->
 
-# Header
