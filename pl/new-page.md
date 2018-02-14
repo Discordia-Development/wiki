@@ -9,7 +9,7 @@ Discord HypeSquad to członkowie Społeczności Discord wybrane do reprezentowan
 Każdy poziom zawiera te same korzyści, co poprzednie.
 
 ## Członek Online
-* HypeSquad [Odznaki](/Odznaki) na Twoim Discordowym profilu.
+* HypeSquad [odznaki](/odznaki) na Twoim Discordowym profilu.
 * HypeSquadowe informacje o aktualizacjach Discorda.
 
 ## Uczestnik Wydarzeń
