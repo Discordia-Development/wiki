@@ -13,11 +13,12 @@ This is a list of features that will be occasionally updated with information ab
 | Activity Feed | Gradually Rolling Out |
 | Block Quotes | Planned |
 | Group DM Invites | Planned |
-| Inline Audio/Video Player | Available on Canary |
+| Inline Audio Player | In Development |
+| Inline Video Player | Available on PTB |
 | Permissions Preview Tool | Planned |
 | Priority Speaker | In Development |
 | Soundshare | Available on Canary |
-| Spellcheck | Available on Canary |
+| Spellcheck | Available on PTB |
 
 ## iOS
 | Feature | Status	|
