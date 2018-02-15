@@ -1,8 +1,22 @@
 <!-- TITLE: Changelog -->
-<!-- SUBTITLE: Discord Changelog updated as of 02/01/2018 -->
+<!-- SUBTITLE: Discord Changelog updated as of 02/15/2018 -->
 
 This is the changelog/release date for major features or significant changes. PTB and Canary might have received some features sooner than the date listed below.
 
+# 2/15/2018
+
+## Desktop
+
+* Added spellchecker to text chat
+* SMS authentication for [2FA](/2-fa)
+* Play videos directly in chat
+* Gifs autoplay when window is focused (toggleable)
+* Uploads can be cancelled
+
+## Mobile
+
+* [Verified Server](/verified-servers) icon added
+* Android now has quick switcher
 # 2/1/2018
 * [Spotify](/spotify-integration) integration added
 * Spotify Premium users able to listen along with friends
@@ -270,7 +284,7 @@ Full changelog [here](https://blog.discordapp.com/2016-6-23-change-log-f9fbeff72
 Full changelog [here](https://blog.discordapp.com/2016-6-3-change-log-3ef9ff28dbba#.g0ixkbx9b)
 
 * 2 Factor Authentication released.
-* Optionally require server mods to use 2FA.
+* Optionally require server mods to use [2FA](/2-fa).
 * Requires email check when logging in from new IP.
 * Vine and Soundcloud links embed.
 # 05/29/2016
