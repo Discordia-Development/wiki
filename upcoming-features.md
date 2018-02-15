@@ -14,11 +14,9 @@ This is a list of features that will be occasionally updated with information ab
 | Block Quotes | Planned |
 | Group DM Invites | Planned |
 | Inline Audio Player | In Development |
-| Inline Video Player | Available on PTB |
 | Permissions Preview Tool | Planned |
 | Priority Speaker | In Development |
 | Soundshare | Available on Canary |
-| Spellcheck | Available on PTB |
 
 ## iOS
 | Feature | Status	|
@@ -39,7 +37,6 @@ This is a list of features that will be occasionally updated with information ab
 | Audit Log | Planned |
 | Auto-Deplay to Alpha | In Development |
 | Compress Image Toggle | Planned |
-| Quick Switcher | Available on Android Alpha |
 | Screensharing | In Development |
 | Security Tab/2FA Enable/Disable | Planned |
 | Video Embeds | Planned |
