@@ -28,6 +28,7 @@ Mi vagyunk a The Discord Wiki. Büszkék vagyunk arra, hogy a jelenleg egyik leg
 
 * @Calvijn#0001 - Holland
 * @Csega#1256 - Magyar
+* @cyon_217#2469 - Koreai, Kínai
 * @D_EaN * STS#0001 - Magyar
 * @erykol#8141 - Lengyel
 * @jacob#0513 - Japán
@@ -42,7 +43,6 @@ Mi vagyunk a The Discord Wiki. Büszkék vagyunk arra, hogy a jelenleg egyik leg
 * @Vividia#1224 - Magyar
 * @xstarmax#0499 - Magyar
 * @zabszk#5292 - Lengyel
-* @시온#2469 - Koreai
 
 > ***Bot fejlesztők***
 
