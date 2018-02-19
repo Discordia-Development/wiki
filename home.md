@@ -28,6 +28,7 @@ We're The Discord Wiki. We're proud to be one of the leading providers of inform
 
 * @Calvijn#0001 - Dutch
 * @Csega#1256 - Hungarian
+* @cyon_217#2469 - Korean, Chinese
 * @D_EaN * STS#0001 - Hungarian
 * @erykol#8141 - Polish
 * @jacob#0513 - Japanese
@@ -42,7 +43,6 @@ We're The Discord Wiki. We're proud to be one of the leading providers of inform
 * @Vividia#1224 - Hungarian
 * @xstarmax#0499 - Hungarian
 * @zabszk#5292 - Polish
-* @시온#2469 - Korean
 
 > ***Bot Developers***
 
