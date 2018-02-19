@@ -61,6 +61,7 @@ Mi vagyunk a The Discord Wiki. Büszkék vagyunk arra, hogy a jelenleg egyik leg
 * Tarek#1337
 * Pheonix#5555
 * Saphir#0001
+* Skidder#6775
 
 ## Nyilatkozatok és Jogi Információk
 Halihó! Üdvözöllek a The Discord Wikin! Az átláthatóság hívői vagyunk, szóval mielőtt belekezdenél, kérlek tégy egy pillantást a [Szolgáltatási Feltételeinkre](/terms) és az [Adatvédelmi irányelveinkre](/privacy), hogy minden jogi dolgot megtudj amit tudnod kell a szolgáltatásainkra vonatkozólag!
