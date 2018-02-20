@@ -15,7 +15,7 @@ Hey there! Welcome to The Unofficial Discord Wiki! We're strong believers in tra
 
 ### ***Discord, the Discord Ghost (Clyde™), and Discordapp (Herein DISCORD) are the intellectual and legal property of Discord Inc. These Services, as listed in the [Terms of Service](/terms) are not affiliated with Discord Inc or any subsidiaries herein. The Unofficial Discord Wiki does not claim to own any of DISCORD's intellectual property, please no Cease and Desist :^)***
 
-## The Unofficial Discord Wiki Staff
+## Wiki Staff
 > ***Wiki Administrators***
 
 *Responsible for maintaining The Unofficial Discord Wiki and its support server.*
