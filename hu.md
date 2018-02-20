@@ -13,7 +13,7 @@ Mi vagyunk a The Unofficial Discord Wiki. Büszkék vagyunk arra, hogy a jelenle
 ## Nyilatkozatok és Jogi Információk
 Halihó! Üdvözöllek a The Unofficial Discord Wikin! Az átláthatóság hívői vagyunk, szóval mielőtt belekezdenél, kérlek tégy egy pillantást a [Szolgáltatási Feltételeinkre](/terms) és az [Adatvédelmi irányelveinkre](/privacy), hogy minden jogi dolgot megtudj amit tudnod kell a szolgáltatásainkra vonatkozólag!
 
-### ***Discord, a Discord Ghost (Clyde™), és Discordapp (továbbiakban DISCORD) szellemi és jogi tulajdona a Discord Inc-nek. Ezek a szolgáltatások, ahogy a [Szolgáltatási Feltételekben](/terms) van listázva, nem kapcsolódnak se a Discord Inc-hez, se bármilyen leányvállalatához. A The Unofficial Discord Wiki nem állítja, hogy tulajdonosa a DISCORD bármely szellemi tulajdonának, kérlek ne adj ki abbahagyásra kötelező közigazgatási határozatot :^)***
+### ***Discord, a Discord Ghost (Clyde™), és Discordapp (továbbiakban DISCORD) szellemi és jogi tulajdona a Discord Inc-nek. Ezek a szolgáltatások, ahogy a [Szolgáltatási Feltételekben](/terms) van listázva, nem kapcsolódnak se a Discord Inc-hez, se bármilyen leányvállalatához. A The Unofficial Discord Wiki nem állítja, hogy tulajdonosa a DISCORD bármely szellemi tulajdonának, kérlek ne nyújts be abbahagyásra kötelező közigazgatási határozathoz kérelmet :^)***
 
 ## Szerkesztői személyzet
 > ***Wiki adminisztrátorok***
