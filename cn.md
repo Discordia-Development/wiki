@@ -15,7 +15,7 @@
 
 ### ***Discord, the Discord Ghost (Clyde™), and Discordapp (Herein DISCORD) are the intellectual and legal property of Discord Inc. These Services, as listed in the [Terms of Service](/terms) are not affiliated with Discord Inc or any subsidiaries herein. The Unofficial Discord Wiki does not claim to own any of DISCORD's intellectual property, please no Cease and Desist :^)***
 
-## 非官方Discord维基的员工
+## 维基的员工
 > ***维基的管理员***
 
 *负责保持非官方Discord维基和支持服务器。*
