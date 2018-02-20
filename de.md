@@ -1,5 +1,5 @@
 <!-- TITLE: German - Startseite -->
-<!-- SUBTITLE: Willkommen beim Discord Wiki! -->
+<!-- SUBTITLE: Willkommen beim unoffizielen Discord Wiki! -->
 
 # Willkommen
 ## Über uns
@@ -13,12 +13,13 @@ Wir sind ein kleines Team von Discord-Enthusiasten mit den Ziel anderen Leuten e
 ## Redaktion
 > ***Hohes Konzil***
 
-*Manager, für die Aufrechterhaltung zuständig.*
-* @Dru#7700
+*Verantwortlich für die Wartung dess  Unofficielen Discord Wiki's und den Support Server.*
+
+* @SleepaDru#7700 (System Administrator,  pflegt das Backend aller Systeme vom Wiki)
+* @Mikesky#0001 (System Administrator, pflegt das Backend aller Systeme vom Wiki)
 * @Harrison#9100
+* @ベアトリーチェ★★★★#1313
 * @Tiemen#0001
-* @Mikesky#3456
-* @守部 洵 ★★★★#9667
 
 > ***[Internationalisierung (i18n)](http://discordia.me/translations)***
 
