@@ -12,7 +12,7 @@
 
 # Community Driven Discord Resources
 * [Discord API](http://discord.gg/discord-api)
-* [The Discord Wiki Support](https://discordapp.com/invite/ZRJ9Ghh)
+* [The Unofficial Discord Wiki Support](https://discordapp.com/invite/ZRJ9Ghh)
 * [Translating Discord to Pirate English](https://discordapp.com/invite/N2SEsmn)
 * [Discord Bots](https://discordapp.com/invite/0cDvIgU2voWn4BaD)
 * [Carbonitex](https://carbonitex.net/)
