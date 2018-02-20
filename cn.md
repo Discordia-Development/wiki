@@ -1,19 +1,24 @@
 <!-- TITLE: 汉语 - 主页 -->
-<!-- SUBTITLE: 欢迎您来Discord维基！ -->
+<!-- SUBTITLE: 欢迎您来非官方Discord维基！ -->
 
 # 欢迎
 ## 介绍我们
 
-我们是Discord维基。我们很自豪能最快提供Discord的资料，我们也欢迎您来我们的网页！我们前年启动了这台服务器，实现了我们的资料可以用来帮助别人学习关于Discord代替用只用我们实用资料！一年后，我们成功了每月提供我们的资料给二百万个人以上！我们还在扩展我们的资料，所以如果你有热情，意志和你写文章的决断，请查我们服务器的常问问题频道，然后注册参与贡献！
+我们是非官方Discord维基。我们很自豪能最快提供Discord的资料，我们也欢迎您来我们的网页！我们前年启动了这台服务器，实现了我们的资料可以用来帮助别人学习关于Discord代替用只用我们实用资料！一年后，我们成功了每月提供我们的资料给二百万个人以上！我们还在扩展我们的资料，所以如果你有热情，意志和你写文章的决断，请查我们服务器的常问问题频道，然后注册参与贡献！
 
-[加入我们的Discord服务器！](https://discord.gg/ZRJ9Ghh)
+[加入非官方Discord维基的服务器！](https://discord.gg/ZRJ9Ghh)
 
 <a href="https://discord.gg/ZRJ9Ghh">![DISCORD EMBED PLUGIN](https://discordapp.com/api/guilds/367460196148183040/widget.png?style=banner2)</a>
 
-## Discord维基的员工
+## 免责声明和法律信息
+嘿！我们欢迎您来Discord维基！我们坚信透明度，所以您来这儿之前，请残我们的[服务条款**（英语版）**](/terms)和[隐私政策**（英语版）**](/privacy)，那您可以知道你需要知道关于我们的服务！ 
+
+### ***Discord, the Discord Ghost (Clyde™), and Discordapp (Herein DISCORD) are the intellectual and legal property of Discord Inc. These Services, as listed in the [Terms of Service](/terms) are not affiliated with Discord Inc or any subsidiaries herein. The Unofficial Discord Wiki does not claim to own any of DISCORD's intellectual property, please no Cease and Desist :^)***
+
+## 非官方Discord维基的员工
 > ***维基的管理员***
 
-*负责保持Discord维基和支持服务器。*
+*负责保持非官方Discord维基和支持服务器。*
 * @SleepaDru#7700 (系统管理员，保持每项在维基提供服务的后端)
 * @Mikesky#0001 (系统管理员，保持每项在维基提供服务的后端)
 * @Harrison#9100
@@ -62,8 +67,3 @@
 * Pheonix#5555
 * Saphir#0001
 * Skidder#6775
-
-## 免责声明和法律信息
-嘿！我们欢迎您来Discord维基！我们坚信透明度，所以您来这儿之前，请残我们的[服务条款**（英语版）**](/terms)和[隐私政策**（英语版）**](/privacy)，那您可以知道你需要知道关于我们的服务！ 
-
-### ***Discord, the Discord Ghost (Clyde™), and Discordapp (Herein DISCORD) are the intellectual and legal property of Discord Inc. These Services, as listed in the [Terms of Service](/terms) are not affiliated with Discord Inc or any subsidiaries herein. The Discord Wiki does not claim to own any of DISCORD's intellectual property, please don't sue us.***
