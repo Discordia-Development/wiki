@@ -6,7 +6,7 @@
 
 我们是Discord维基。我们很自豪能最快提供Discord的资料，我们也欢迎您来我们的网页！我们前年启动了这台服务器，实现了我们的资料可以用来帮助别人学习关于Discord代替用只用我们实用资料！一年后，我们成功了每月提供我们的资料给二百万个人以上！我们还在扩展我们的资料，所以如果你有热情，意志和你写文章的决断，请查我们服务器的常问问题频道，然后注册参与贡献！
 
-[加入我们的Discord！](https://discord.gg/ZRJ9Ghh)
+[加入我们的Discord服务器！](https://discord.gg/ZRJ9Ghh)
 
 <a href="https://discord.gg/ZRJ9Ghh">![DISCORD EMBED PLUGIN](https://discordapp.com/api/guilds/367460196148183040/widget.png?style=banner2)</a>
 
