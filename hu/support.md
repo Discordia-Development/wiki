@@ -15,6 +15,6 @@ Szerver beüzemelés: https://support.discordapp.com/hc/en-us/categories/2004043
 Szöveges chat: https://support.discordapp.com/hc/en-us/categories/200404368-Text-Chat
 Hangos chat: https://support.discordapp.com/hc/en-us/categories/200404367-Voice-Chat
 # Discord Wiki Support
-Ha segítségre van szükséged a The Discord Wikivel kapcsolatban, kérjük csatlakozz a hivatalos Discord szerverünkhöz:
+Ha segítségre van szükséged a The Unofficial Discord Wikivel kapcsolatban, kérjük csatlakozz a hivatalos Discord szerverünkhöz:
 
 <a href="https://discord.gg/ZRJ9Ghh">![DISCORD EMBED PLUGIN](https://discordapp.com/api/guilds/367460196148183040/widget.png?style=banner2)</a>
