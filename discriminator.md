@@ -18,4 +18,4 @@ Changing your discriminator is possible by having a [Discord Nitro](/nitro) subs
 ![Changing Discriminator](https://i.imgur.com/SuxuNHe.png "Changing Discriminator")
 
 
-Changing your discriminator without Nitro is possible once every 24 hours. However, it is prohibited to "discriminator farm" (using a bot to change your username until you get the discriminator you wish), and as a result, The Discord Wiki will not condone the use of discriminator farms. We also heavily advise against manually changing your username to find the discriminator you desire, but it is technically permitted.
+Changing your discriminator without Nitro is possible once every 24 hours. However, it is prohibited to "discriminator farm" (using a bot to change your username until you get the discriminator you wish), and as a result, The Unofficial Discord Wiki will not condone the use of discriminator farms. We also heavily advise against manually changing your username to find the discriminator you desire, but it is technically permitted.
