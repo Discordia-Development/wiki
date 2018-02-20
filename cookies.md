@@ -6,7 +6,7 @@ In order for this site to work properly, we sometimes place small data files cal
 
 ## What are cookies?
 
-A cookie is a small text file saved on your computer or mobile device by a website when you visit The Discord Wiki. The cookie enables the website to remember your actions and preferences such as login, language, font size and other display preferences to keep you from having to reenter them on every visit to the website or when browsing from page to page.
+A cookie is a small text file saved on your computer or mobile device by a website when you visit The Unofficial Discord Wiki. The cookie enables the website to remember your actions and preferences such as login, language, font size and other display preferences to keep you from having to reenter them on every visit to the website or when browsing from page to page.
 
 ## How do we use cookies?
 
