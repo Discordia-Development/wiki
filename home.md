@@ -1,24 +1,24 @@
 <!-- TITLE: Home -->
-<!-- SUBTITLE: Welcome to The Discord Wiki! -->
+<!-- SUBTITLE: Welcome to The Unofficial Discord Wiki! -->
 
 # Welcome
 ## About us
 
-We're The Discord Wiki. We're proud to be one of the leading providers of information about Discord to date, and we welcome you to our site! We started a server about a year ago after realizing that our resources could be used to help others learn about Discord instead of taking all of the tasty information bits for ourselves! A year later, we succeed in providing at least some sort of info to over 2 million users a month! We're ever expanding our information, so if you feel like you have the passion, the will, and the resolve required to write articles for us, check out the FAQs channel in our server and sign up to help contribute!
+We're The Unofficial Discord Wiki. We're proud to be one of the leading providers of information about Discord to date, and we welcome you to our site! We started a server about a year ago after realizing that our resources could be used to help others learn about Discord instead of taking all of the tasty information bits for ourselves! A year later, we succeed in providing at least some sort of info to over 3.5 million users a month! We're ever expanding our information, so if you feel like you have the passion, the will, and the resolve required to write articles for us, check out the FAQs channel in our server and sign up to help contribute!
 
 [Join us on Discord!](https://discord.gg/ZRJ9Ghh)
 
 <a href="https://discord.gg/ZRJ9Ghh">![DISCORD EMBED PLUGIN](https://discordapp.com/api/guilds/367460196148183040/widget.png?style=banner2)</a>
 
 ## Disclaimers and Legal Information
-Hey there! Welcome to The Discord Wiki! We're strong believers in transparency, so before you jump in, please take a look at our [Terms of Service](/terms) and our [Privacy Policy](/privacy) in order for you to know all the legal stuff you need to know regarding our services!
+Hey there! Welcome to The Unofficial Discord Wiki! We're strong believers in transparency, so before you jump in, please take a look at our [Terms of Service](/terms) and our [Privacy Policy](/privacy) in order for you to know all the legal stuff you need to know regarding our services!
 
-### ***Discord, the Discord Ghost (Clyde™), and Discordapp (Herein DISCORD) are the intellectual and legal property of Discord Inc. These Services, as listed in the [Terms of Service](/terms) are not affiliated with Discord Inc or any subsidiaries herein. The Discord Wiki does not claim to own any of DISCORD's intellectual property, please don't sue us.***
+### ***Discord, the Discord Ghost (Clyde™), and Discordapp (Herein DISCORD) are the intellectual and legal property of Discord Inc. These Services, as listed in the [Terms of Service](/terms) are not affiliated with Discord Inc or any subsidiaries herein. The Unofficial Discord Wiki does not claim to own any of DISCORD's intellectual property, please don't sue us.***
 
-## The Discord Wiki Staff
+## The Unofficial Discord Wiki Staff
 > ***Wiki Administrators***
 
-*Responsible for maintaining The Discord Wiki and its support server.*
+*Responsible for maintaining The Unofficial Discord Wiki and its support server.*
 * @SleepaDru#7700 (Systems Administrator, maintains the backend of all of the services provided by the Wiki)
 * @Mikesky#0001 (Systems Administrator, maintains the backend of all of the services provided by the Wiki)
 * @Harrison#9100
