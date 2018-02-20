@@ -14,7 +14,7 @@ Permissions: https://support.discordapp.com/hc/en-us/categories/200404388-Permis
 Server Setup: https://support.discordapp.com/hc/en-us/categories/200404378-Server-Setup
 Text Chat: https://support.discordapp.com/hc/en-us/categories/200404368-Text-Chat
 Voice Chat: https://support.discordapp.com/hc/en-us/categories/200404367-Voice-Chat
-# Discord Wiki Support
-If you need help with The Discord Wiki, please join our official Discord server:
+# Unofficial Discord Wiki Support
+If you need help with The Unofficial Discord Wiki, please join our official Discord server:
 
 <a href="https://discord.gg/ZRJ9Ghh">![DISCORD EMBED PLUGIN](https://discordapp.com/api/guilds/367460196148183040/widget.png?style=banner2)</a>
