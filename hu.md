@@ -10,6 +10,11 @@ Mi vagyunk a The Discord Wiki. Büszkék vagyunk arra, hogy a jelenleg egyik leg
 
 <a href="https://discord.gg/ZRJ9Ghh">![DISCORD EMBED PLUGIN](https://discordapp.com/api/guilds/367460196148183040/widget.png?style=banner2)</a>
 
+## Nyilatkozatok és Jogi Információk
+Halihó! Üdvözöllek a The Discord Wikin! Az átláthatóság hívői vagyunk, szóval mielőtt belekezdenél, kérlek tégy egy pillantást a [Szolgáltatási Feltételeinkre](/terms) és az [Adatvédelmi irányelveinkre](/privacy), hogy minden jogi dolgot megtudj amit tudnod kell a szolgáltatásainkra vonatkozólag!
+
+### ***Discord, a Discord Ghost (Clyde™), és Discordapp (továbbiakban DISCORD) szellemi és jogi tulajdona a Discord Inc-nek. Ezek a szolgáltatások, ahogy a [Szolgáltatási Feltételekben](/terms) van listázva, nem kapcsolódnak se a Discord Inc-hez, se bármilyen leányvállalatához. A The Discord Wiki nem állítja, hogy tulajdonosa a DISCORD bármely szellemi tulajdonának, kérlek ne perelj be minket.***
+
 ## Szerkesztői személyzet
 > ***Wiki adminisztrátorok***
 
@@ -62,8 +67,3 @@ Mi vagyunk a The Discord Wiki. Büszkék vagyunk arra, hogy a jelenleg egyik leg
 * Pheonix#5555
 * Saphir#0001
 * Skidder#6775
-
-## Nyilatkozatok és Jogi Információk
-Halihó! Üdvözöllek a The Discord Wikin! Az átláthatóság hívői vagyunk, szóval mielőtt belekezdenél, kérlek tégy egy pillantást a [Szolgáltatási Feltételeinkre](/terms) és az [Adatvédelmi irányelveinkre](/privacy), hogy minden jogi dolgot megtudj amit tudnod kell a szolgáltatásainkra vonatkozólag!
-
-### ***Discord, a Discord Ghost (Clyde™), és Discordapp (továbbiakban DISCORD) szellemi és jogi tulajdona a Discord Inc-nek. Ezek a szolgáltatások, ahogy a [Szolgáltatási Feltételekben](/terms) van listázva, nem kapcsolódnak se a Discord Inc-hez, se bármilyen leányvállalatához. A The Discord Wiki nem állítja, hogy tulajdonosa a DISCORD bármely szellemi tulajdonának, kérlek ne perelj be minket.***
