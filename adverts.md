@@ -15,6 +15,6 @@ The Unofficial Discord Wiki isn't affiliated with Discord whatsoever, we're just
 Any leftovers after costs have been paid will be donated to [Special Effect](https://www.specialeffect.org.uk). Here's a little bit from them:
 
 > We put fun and inclusion back into the lives of people with physical disabilities by helping them to play video games.
-> By using technology ranging from modified joypads to eye-control, we're finding a way for people to play to the very best of their abilities. But we're not just doing it for fun. By levelling the playing field, we're bringing families and friends together and having a > profoundly positive impact on therapy, confidence and rehabilitation.
+> By using technology ranging from modified joypads to eye-control, we're finding a way for people to play to the very best of their abilities. But we're not just doing it for fun. By levelling the playing field, we're bringing families and friends together and having a profoundly positive impact on therapy, confidence and rehabilitation.
 
 You can find out more [here](https://www.specialeffect.org.uk/what-we-do).
