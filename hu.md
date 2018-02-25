@@ -35,6 +35,7 @@ Halihó! Üdvözöllek a The Unofficial Discord Wikin! Az átláthatóság hív�
 * @Csega#1256 - Magyar
 * @cyon_217#2469 - Koreai, Kínai
 * @D_EaN * STS#0001 - Magyar
+* @Daan#1337 - Holland
 * @erykol#8141 - Lengyel
 * @jacob#0513 - Japán
 * @Joni#0001 - Finn
