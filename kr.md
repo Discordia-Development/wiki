@@ -34,6 +34,7 @@
 * @Calvijn#0001 - 네덜란드어
 * @Csega#1256 - 헝가리어
 * @cyon_217#2469 - 한국어, 중국어
+* @Daan#1337 - 네덜란드어
 * @D_EaN * STS#0001 - 헝가리어
 * @erykol#8141 - 폴란드어
 * @jacob#0513 - 일본어
@@ -43,8 +44,8 @@
 * @MibMoot#3426 - 덴마크어
 * @RME#3050 - 네덜란드어
 * @Samtell#0001 - 한국어
-* @Saphir#0001 - 프랑스어
-* @Skidder#0001 - 독일어
+* @Saphir#0001 - 불어
+* @Skidder#6775 - 독일어
 * @Vividia#1224 - 헝가리어
 * @xstarmax#0499 - 헝가리어
 * @zabszk#5292 - 폴란드어
@@ -66,3 +67,4 @@
 * Tarek#1337
 * GoldenPheonix#6248
 * Saphir#9268
+* Skidder#6775
