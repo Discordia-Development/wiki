@@ -1,5 +1,5 @@
 <!-- TITLE: Badges -->
-<!-- SUBTITLE: Informations concernant les différents badges des utilisateurs de Disord -->
+<!-- SUBTITLE: Informations concernant les différents badges des utilisateurs de Discord -->
 
 Discord a différents badges permettant d’identifier un utilisateur comme membre de groupes spécifiques. Les badges s’affichent sur la carte de profil de l’utilisateur. Pour accéder à la carte de profil de quelqu’un, cliquez sur son nom puis sur **voir le profil** en survolant son avatar.
 
