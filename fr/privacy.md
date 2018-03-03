@@ -7,10 +7,15 @@ Au wiki Discord non officiel, nous collectons et gérons les données des utilis
 # Collecte des données
 Nous collectons des données anonymes concernant chaque visiteur des services afin de surveiller le trafic et de corriger des bugs. Par exemple, nous collectons des informations telles que les requêtes web, les données envoyées en réponse à de telles requêtes, l’adresse de protocole Internet, le type de navigateur, la langue du navigateur et un horodatage pour la requête.
 
+### Google Analytics
+Nous utilisons un outil appelé « Google Analytics » pour collecter des informations relatives à l’utilisation de ce site. Google Analytics collecte des informations telles que la fréquance à laquelle les utilisateurs visitent ce site, quelles pages ils visitent le cas échéant, et sur quels sites ils étaient avant d’entrer sur ce site. Nous utilisons les informations que nous obtenons de Google Analytics seulement pour améliorer ce site. Google Analytics ne collecte que l’adresse IP qui vous est assignée à la date à laquelle vous visitez ce site. Nous ne combinons pas les informations collectées à travers l’utilisation de Google Analytics avec des informations d’identification personnelles. Par ailleurs, nous utilisons une fonctionnalité fille de Google Analytics nommée Google Analytics Demographics and Interest Reporting. Cette fonctionnalité nous permet d’obtenir des informations agrégées concernant nos utilisateurs en fonction de leur âge, leur genre et leurs intérêts généraux avant de vous fournir l’information la plus pertinente. Bien que Google Analytics place un témoin de connexion permanent sur votre navigateur Internet afin de vous identifier comme un unique utilisateur la prochaine fois que vous visiterez le site, ce témoin de connexion ne peut être utilisé par quiconque autre que Google. La capacité de Google à utiliser et partager les informations collectées par Google Analytics en relation avec vos visites sur le site est restreinte par les [conditions d’utilisation de Google Analytics](https://www.google.com/analytics/terms/) et la [politique de confidentialité de Google](https://www.google.com/policies/privacy/). Vous pouvez empêcher Google Analytics de vous reconnaître lors de vos prochaines visites sur ce site en désactivant les témoins de connexion sur votre navigateur, ou en installant le [module complémentaire de navigateur pour la désactivation de Google Analytics](https://tools.google.com/dlpage/gaoptout/).
+
+### Comptes d’utilisateurs
 Nous vous demandons de vous connecter et de nous fournir certaines informations personnelles (telles que votre nom et adresse de messagerie électronique) de sorte à permettre l’enregistrement de votre profil et des documents et commentaires qui y sont associés. De façon à activer ces fonctionnalités ou d’autres liées à une identification, nous utilisons des témoins de connexion pour stocker vos informations de session pour votre confort. Vous pouvez bloquer ou supprimer ces témoins de connexion sans que cela ne vous empêche d’utiliser le wiki Discord non officiel, cependant, si vous le faites, votre nom d’utilisateur et votre mot de passe vous seront demandés à chacune de vos connexions aux services. De façon à profiter de certaines fonctionnalités des services, vous pouvez également choisir de nous fournir d’autres informations personnelles, telles que votre photographie ou site Internet personnel, mais la décision d’utiliser ces fonctionnalités et de fournir de telles informations est à votre discrétion.
 
 Vous pouvez visualiser, modifier et supprimer les données associées à votre profil. Si vous choisissez de supprimer votre compte, merci de nous contacter à support@discordia.me et nous reviendrons vers vous concernant votre requête dès que possible.
 
+### COPPA
 Vous devez avoir treize ans ou plus pour utiliser ce site, conformément à la [loi sur la protection de la vie privée des enfants sur Internet](https://www.ftc.gov/enforcement/rules/rulemaking-regulatory-reform-proceedings/childrens-online-privacy-protection-rule). En utilisant nes services, vous confirmez que vous êtes dans la capacité légale de contracter un accord ou qu’un parent ou tuteur légal l’a fait pour vous.
 
 # Utilisation des données
@@ -18,9 +23,9 @@ Nous n’utilisons vos informations personnelles que pour vous fournir les servi
 
 Nous utilisons des techniques de protection conformes aux normes du secteur contre l’accès non-autorisé aux données que nous stockons vous concernant, y compris les informations personnelles.
 
-**Nous ne partageons pas les informations personnelles que vous nous avez fournies sans votre consentement, sauf :**
+**Nous ne partageons pas les informations d’identification personnelles que vous nous avez fournies sans votre consentement, sauf :**
 * si le faire est adapté dans le cadre de nos propres requêtes ;
-* si nous le jugeons nécessaire à l’application de nos conditions d’utilisation, ou si la loi nous le demande ;
+* si nous le jugeons nécessaire à l’application de nos conditions d’utilisation, ou si la loi nous le demande sur réquisition du gouvernement ;
 * si nous le jugeons nécessaire à la détection ou à la prévention d’une fraude, ou à la protection contre celle-ci, des failles de sécurité ou des problèmes techniques ;
 * pour protéger dans quelqu’autre cas notre propriété, nos droits légaux ou ceux d’autres personnes.
 
