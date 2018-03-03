@@ -25,7 +25,7 @@ We employ industry standard techniques to protect against unauthorized access of
 
 **We do not share personally identifiable information you have provided to us without your consent, unless:**
 * doing so is appropriate to carry out your own request;
-* we believe it's needed to enforce our Terms of Service, or that is legally required by a governement-issued subpoena;
+* we believe it's needed to enforce our Terms of Service, or that is legally required by a government-issued subpoena;
 * we believe it's needed to detect, prevent or address fraud, security or technical issues;
 * otherwise protect our property, legal rights, or that of others.
 
