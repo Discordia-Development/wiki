@@ -1,5 +1,5 @@
 <!-- TITLE: Discord Support -->
-<!-- SUBTITLE: Discord Community Support Servers and Information -->
+<!-- SUBTITLE: Discord Community Support Servers -->
 
 # Official Support Routes and Information
 ## Official Servers
