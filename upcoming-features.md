@@ -28,7 +28,6 @@ This is a list of features that will be occasionally updated with information ab
 | Rich Push Notifications | Planned |
 | Security Compatibility | Planned |
 | Server Sorting | Planned |
-| Share on Discord | Available on iOS TestFlight |
 | User Settings | Planned |
 
 ## Android
