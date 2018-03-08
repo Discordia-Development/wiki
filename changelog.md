@@ -4,7 +4,7 @@
 This is the changelog/release date for major features or significant changes. PTB and Canary might have received some features sooner than the date listed below.
 
 # 3/7/2018
-* League of Legends Rich Presence added.
+* League of Legends Rich Presence added
 # 2/15/2018
 
 ## Desktop
