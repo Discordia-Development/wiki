@@ -27,6 +27,7 @@ Halihó! Üdvözöllek a The Unofficial Discord Wikin! Az átláthatóság hív�
 
 > ***Osztályvezetők***
 
+* @Azrael#6867 - Közösségi vezető
 * @OminousCry#2331 - Fordítási vezető
 
 > ***Önkéntes fordítók***
