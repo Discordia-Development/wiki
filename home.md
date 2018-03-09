@@ -27,7 +27,7 @@ Hey there! Welcome to The Unofficial Discord Wiki! We're strong believers in tra
 
 > ***Department Leads***
 
-* @Azrael#6867
+* @Azrael#6867 - Community Lead
 * @OminousCry#2331 - Translation Lead
 
 > ***Internationalization Volunteers***
