@@ -33,5 +33,5 @@ Levels:
 * (╯°□°）╯︵ ┻━┻ - In addition to the above verification levels, the user must also be in the server for 10 minutes.
 * ┻━┻ ﾐヽ(ಠ益ಠ)ノ彡┻━┻ - The user must have a verified phone number tied to their Discord account.
 
-# Vanity URLs
-Some servers have custom invite URLs containing words instead of randomly generated numbers and letters. One example of this is https://discord.gg/discord-developers, which links to the Discord Developers server. Servers typically get vanity URLs if they are a [Discord Partner](/partner). Only Discord Developers or Partnered users can create Vanity URLs for servers that have been partnered.
+# Vanity Invites
+Some servers have the ability to be able to set custom invite links, instead of a randomly generated one. One example is https://discord.gg/discord-developers. Servers gain the ability to set vanity invites if they are a [Discord Partner](/partner), [Verified Server](/verified-servers), or owned by a Discord Developer. Any member with Manage Server can customize the vanity invite.
