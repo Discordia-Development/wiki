@@ -27,6 +27,7 @@ Salut ! Bienvenue sur le wiki Discord non officiel ! Nous misons beaucoup sur la
 
 > ***Chefs de départements***
 
+* @Azrael#6867 - Chef du département communauté
 * @OminousCry#2331 - Chef du département traduction
 
 > ***Bénévoles pour l’internationalisation***
