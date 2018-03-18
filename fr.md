@@ -46,7 +46,7 @@ Salut ! Bienvenue sur le wiki Discord non officiel ! Nous misons beaucoup sur la
 * @RME#3050 - Néerlandais
 * @Samtell#0001 - Coréen
 * @Saphir#0001 - Français
-* @Skidder#0001 - Allemand
+* @Skidder#6775 - Allemand
 * @Vividia#1224 - Hongrois
 * @xstarmax#0499 - Hongrois
 * @zabszk#5292 - Polonais
