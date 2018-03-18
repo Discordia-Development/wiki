@@ -61,6 +61,7 @@ Salut ! Bienvenue sur le wiki Discord non officiel ! Nous misons beaucoup sur la
 > ***Mécènes***
 
 *Un grand merci à tous ceux qui nous supportent sur [Patreon](https://www.patreon.com/TheDiscordWiki)!*
+* chrissy#0176
 * Curse#0001
 * D_EaN * STS#0001
 * DowDaw#1063
