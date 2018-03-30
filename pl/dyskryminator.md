@@ -2,7 +2,7 @@
 <!-- SUBTITLE: Informacje o Discordowych Dyskryminatorach -->
 
 # Dyskryminator
-Dyskryminator jest numerem wyświetlanym obok kogoś nicku na Discordzie. Dyskryminator rozróżnia użytkowników o tej samiej nazwie.
+Dyskryminator jest numerem wyświetlanym obok nicku na Discordzie. Dyskryminator rozróżnia użytkowników o tej samej nazwie.
 
 ![Przykład Dyskryminatora](/uploads/discriminator-example.png "Przykład Dyskryminatora")
 
@@ -12,5 +12,7 @@ Zasięg liczb w dyskryminatorze wynosi od 0001 do 9999 i jest nadawany losowo. D
 
 ![Zmiana Nicku](/uploads/discriminator/usernamechange.png "Zmiana Nicku")
 
-## Zmienianie swojego Dyskryminatora
-Zmiana Twojego dyskryminatora jest możliwa raz na 24 godziny. Jednakże zabronione jest "farmienie Dyskryminatorów" (używanie bota do zmiany nazwy użytkownika, dopóki nie otrzymasz żądanego Czynnika Dyskryminującego) w wyniku czego Discord Wiki odradza używanie takich wspomagaczy. Odradzamy również ręczne zmienianie nazwy użytkownika, aby znaleźć wskazany Dyskryminator, choć jest to technicznie dozwolone.
+## Zmiana Dyskryminatora
+Zmiana Twojego Dyskryminatora jest możliwa za pomocą Subskrybcji [Discord Nitro](/nitro) lub będąc [Discord Partner](/partner). Umożliwia to ustawienie Dyskryminatora z zakresu od 0001 do 9999, jeżeli nie został on wcześniej zajęty. Jesteś ograniczony do 5 zmian na godzinę. Jeżeli twoja Subskrybcja Nitro wygaśnie to Dyskryminator zostanie zrestartowany do dowolnego numeru, ale tylko wtedy, gdy skorzystałeś z funkcji zmiany Nitro.
+
+![Changing Discriminator](https://i.imgur.com/SuxuNHe.png "Changing Discriminator")
