@@ -13,4 +13,4 @@ Zasięg liczb w dyskryminatorze wynosi od 0001 do 9999 i jest nadawany losowo. D
 ![Zmiana Nicku](/uploads/discriminator/usernamechange.png "Zmiana Nicku")
 
 ## Zmienianie swojego Dyskryminatora
-Zmiana Twojego dyskryminatora jest możliwa raz na 24 godziny. Jednakże zabronione jest "farmienie Dyskryminatorów" (używanie bota do zmiany nazwy użytkownika, dopóki nie otrzymasz żądanego Czynnika Dyskryminującego) w wyniku czego Discord Wiki odradza używanie takich wspomagaczy. Odradzamy również ręczne zmienianie nazwy użytkownika, aby znaleźć wskazany Dyskryminator, ale jest to technicznie dozwolone.
+Zmiana Twojego dyskryminatora jest możliwa raz na 24 godziny. Jednakże zabronione jest "farmienie Dyskryminatorów" (używanie bota do zmiany nazwy użytkownika, dopóki nie otrzymasz żądanego Czynnika Dyskryminującego) w wyniku czego Discord Wiki odradza używanie takich wspomagaczy. Odradzamy również ręczne zmienianie nazwy użytkownika, aby znaleźć wskazany Dyskryminator, choć jest to technicznie dozwolone.
