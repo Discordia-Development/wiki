@@ -34,10 +34,10 @@ Salut ! Bienvenue sur le wiki Discord non officiel ! Nous misons beaucoup sur la
 
 * @Calvijn#0001 - Néerlandais
 * @Csega#1256 - Hongrois
-* @cyon_217#2469 - Coréen / Chinois
-* @D_EaN * STS#0001 - Hongrois
+* @D_EaN * STS#0105 - Hongrois
 * @Daan#1337 - Néerlandais
 * @erykol#8141 - Polonais
+* @Improvement - Cyon#2469 - Coréen / Chinois
 * @jacob#0513 - Japonais
 * @Joni#0001 - Finlandais
 * @JustAndras#0001 - Hongrois
