@@ -2,7 +2,7 @@
 <!-- SUBTITLE: A csatorna kategóriák leírása -->
 
 # Csatorna kategóriák
-A csatorna kategóriák a szerverek azon funkciói, melyek lehetővé teszik a csatornák magasabb szintű rendezését. A kategóriákat 2016. december 15-én jelentették be a 2016-os évvégi előzetes bejelentésében. 2017 szeptember 21-én tették mindenki számára elérhetővé. Egy kategóriába lehetnek egyszerre hang- és szöveges csatornák is.
+A csatorna kategóriák a szerverek azon funkciói, melyek lehetővé teszik a csatornák magasabb szintű rendezését. A kategóriákat 2016. december 15-én jelentették be a 2016-os év végi előzetes bejelentésében. 2017. szeptember 21-én tették mindenki számára elérhetővé. Egy kategóriába lehetnek egyszerre hang- és szöveges csatornák is.
 
 ## A csatorna kategóriák használata
 Kategóriát a szerver nevére kattintva a lenyíló menüből, valamint a csatornák között a jobb egérgomb lenyomására megjelenő menüből hozhatsz létre.
