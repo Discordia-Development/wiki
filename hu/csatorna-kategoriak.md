@@ -7,7 +7,7 @@ A csatorna kategóriák a szerverek azon funkciói, melyek lehetővé teszik a c
 ## A csatorna kategóriák használata
 Kategóriát a szerver nevére kattintva a lenyíló menüből, valamint a csatornák között a jobb egérgomb lenyomására megjelenő menüből hozhatsz létre.
 
-![Szerever beállítások menü](/uploads/qg-3-hnlj.png "Szerever beállítások menü")
+![Szerver beállítások menü](/uploads/qg-3-hnlj.png "Szerver beállítások menü")
 
 Csak úgy mint a hangcsatornák nevei, a kategória nevek is tartalmazhatnak ékezetes betűket, speciális karaktereket, mint például az alap emotikonok. A kategóriák jogait ugyanúgy be lehet állítani, mint a többi csatorna esetében, de a kategórián belüli csatornákra csak akkor vonatkoznak a beállítások, ha ezek szinkronizálva vannak.
 
