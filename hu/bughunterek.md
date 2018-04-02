@@ -29,6 +29,6 @@ Nagyon egyszerű, csak formázd a jelentésed, és küldd el a megfelelő hiba j
 * Bug Hunter General – Miután ellenőrizték a jelentésed, hozzáférést nyersz az ultra-különleges Bug Hunter General csatornához. A Bug Hunterek ezt a csatornát használják az elfogadatlan hibák megvitatására, és viccelődésre.
 * Ellenőrizd a jelentett hibákat – Amint hivatalosan is Bug Hunter leszel, elfogadhatod, vagy elutasíthatod a jelentett hibákat.
 ## Tippek
-A hibák felfedezésének legjob módja, ha normál, átlagos módon használod a Discordot. Ne keresd görcsösen a hibákat, majd eléd kerül egy.
+A hibák felfedezésének legjob módja, ha normál, átlagos módon használod a Discordot. Ne keresd görcsösen a hibákat, előbb-utóbb majd eléd kerül egy.
 * Használd a Discord Canary klienst, hogy minnél hamarabb megkapd a legfrissebb funkciókat és hogy tesztelhesd azokat. 
 * Ne engedd, hogy egy elutasított hiba amit te jelentettél elvegye a kedved. Mindenkivel megesik. Lépj tovább, olvasd el az okot, hogy miért utasították el. Minden rendben lesz!
