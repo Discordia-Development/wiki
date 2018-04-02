@@ -42,7 +42,7 @@ Halihó! Üdvözöllek a The Unofficial Discord Wikin! Az átláthatóság hív�
 * @Joni#0001 - Finn
 * @JustAndras#0001 - Magyar
 * @Lireoy#4444 - Magyar
-* @MibMoot#3426 - Dán
+* @Mib#0001 - Dán
 * @RME#3050 - Holland
 * @Samtell#0001 - Koreai
 * @Saphir#0001 - Francia
@@ -64,9 +64,9 @@ Halihó! Üdvözöllek a The Unofficial Discord Wikin! Az átláthatóság hív�
 
 * Curse#0001
 * D_EaN * STS#0105
-* DowDaw#1063
+* DowDaw#1339
 * Tarek#1337
 * Pheonix#5555
 * Saphir#0001
 * Skidder#6775
-* chrissy#0176
+* christopher#0176
