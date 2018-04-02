@@ -42,7 +42,7 @@ Hey there! Welcome to The Unofficial Discord Wiki! We're strong believers in tra
 * @Joni#0001 - Finnish
 * @JustAndras#0001 - Hungarian
 * @Lireoy#4444 - Hungarian
-* @MibMoot#3426 - Danish
+* @Mib#0001 - Danish
 * @RME#3050 - Dutch
 * @Samtell#0001 - Korean
 * @Saphir#0001 - French
@@ -64,9 +64,9 @@ Hey there! Welcome to The Unofficial Discord Wiki! We're strong believers in tra
 
 * Curse#0001
 * D_EaN * STS#0105
-* DowDaw#1063
+* DowDaw#1339
 * Tarek#1337
 * Pheonix#5555
 * Saphir#0001
 * Skidder#6775
-* chrissy#0176
+* christopher#0176
