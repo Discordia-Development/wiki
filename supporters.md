@@ -4,7 +4,7 @@
 # Patreon Folks
 
 * Curse#0001
-* D_EaN * STS#0001
+* D_EaN * STS#0105
 * DowDaw#1339
 * Tarek#1337
 * Pheonix#5555
