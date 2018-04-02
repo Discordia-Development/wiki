@@ -34,7 +34,7 @@ Halihó! Üdvözöllek a The Unofficial Discord Wikin! Az átláthatóság hív�
 
 * @Calvijn#0001 - Holland
 * @Csega#1256 - Magyar
-* @D_EaN * STS#0001 - Magyar
+* @D_EaN * STS#0105 - Magyar
 * @Daan#1337 - Holland
 * @erykol#8141 - Lengyel
 * @Improvement - Cyon#2469 - Koreai, Kínai
@@ -63,7 +63,7 @@ Halihó! Üdvözöllek a The Unofficial Discord Wikin! Az átláthatóság hív�
 *Nagy köszönet minden [Patreon](https://www.patreon.com/TheDiscordWiki) támogatónknak!*
 
 * Curse#0001
-* D_EaN * STS#0001
+* D_EaN * STS#0105
 * DowDaw#1063
 * Tarek#1337
 * Pheonix#5555
