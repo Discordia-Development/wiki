@@ -34,7 +34,7 @@ Hey there! Welcome to The Unofficial Discord Wiki! We're strong believers in tra
 
 * @Calvijn#0001 - Dutch
 * @Csega#1256 - Hungarian
-* @D_EaN * STS#0001 - Hungarian
+* @D_EaN * STS#0105 - Hungarian
 * @Daan#1337 - Dutch
 * @erykol#8141 - Polish
 * @Improvement - Cyon#2469 - Korean, Chinese
@@ -63,7 +63,7 @@ Hey there! Welcome to The Unofficial Discord Wiki! We're strong believers in tra
 *A huge thank you to all our supporters on [Patreon](https://www.patreon.com/TheDiscordWiki)!*
 
 * Curse#0001
-* D_EaN * STS#0001
+* D_EaN * STS#0105
 * DowDaw#1063
 * Tarek#1337
 * Pheonix#5555
