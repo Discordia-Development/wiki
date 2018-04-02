@@ -37,7 +37,7 @@ Hey there! Welcome to The Unofficial Discord Wiki! We're strong believers in tra
 * @D_EaN * STS#0105 - Hungarian
 * @Daan#1337 - Dutch
 * @erykol#8141 - Polish
-* @Improvement - Cyon#2469 - Korean, Chinese
+* @CYON#2469 - Korean, Chinese
 * @jacob#0513 - Japanese
 * @Joni#0001 - Finnish
 * @JustAndras#0001 - Hungarian
