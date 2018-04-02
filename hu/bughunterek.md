@@ -31,4 +31,4 @@ Nagyon egyszerű, csak formázd a jelentésed, és küldd el a megfelelő hiba j
 ## Tippek
 A hibák felfedezésének legjob módja, ha normál, átlagos módon használod a Discordot. Ne keresd görcsösen a hibákat, előbb-utóbb majd eléd kerül egy.
 * Használd a Discord Canary klienst, hogy minnél hamarabb megkapd a legfrissebb funkciókat és hogy tesztelhesd azokat. 
-* Ne engedd, hogy egy elutasított hiba amit te jelentettél elvegye a kedved. Mindenkivel megesik. Lépj tovább, olvasd el az okot, hogy miért utasították el. Minden rendben lesz!
+* Ne engedd, hogy egy elutasított hiba amit te jelentettél elvegye a kedved. Mindenkivel megesik. Lépj tovább, olvasd el az okot, hogy miért utasították el.
