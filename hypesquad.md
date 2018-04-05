@@ -21,7 +21,7 @@ Each tier includes the same benefits as the previous ones.
 * Quarterly swag box for distributing at events.
 
 # Join the HypeSquad
-To join the HypeSquad you must submit an [application](https://discordapp.com/hypesquad). If you apply as an event attendee or an event coordinator, you must submit a video (this is not required for the online only option, though if you want a T-shirt you will need to). The video is encouraged to be shot in a selfie style, answering a few questions as detailed on the submission form.
+To join the HypeSquad you must submit an [application](https://discordapp.com/hypesquad). If you apply as online, you will be accepted instantly. If you apply as an event attendee or an event coordinator, you must submit a video (this is not required for the online only option, though if you want a T-shirt you will need to). The video is encouraged to be shot in a selfie style, answering a few questions as detailed on the submission form.
 
 # Official Video
 
