@@ -1,10 +1,20 @@
 <!-- TITLE: Changelog -->
-<!-- SUBTITLE: Discord Changelog updated as of 02/15/2018 -->
+<!-- SUBTITLE: Discord Changelog updated as of 04/01/2018 -->
 
 This is the changelog/release date for major features or significant changes. PTB and Canary might have received some features sooner than the date listed below.
 
+# 4/1/2018 (April Fool's)
+* @someone ping, randomly selects someone in the server
+* Discord crashes at random
+* Typing 'owo' while in a voice channel causes Discord to let out a cry of distress
+* @supereveryone ping for when there's something urgent to say, bypassess all permission settings
+* Removed memes
+* Removed the Wumpus
+* Discord [Nitro](/nitro) is now 'Discord Stop': drops calls, messages, and reduces file upload by half
+
 # 3/7/2018
 * League of Legends Rich Presence added
+
 # 2/15/2018
 
 ## Desktop
@@ -20,6 +30,7 @@ This is the changelog/release date for major features or significant changes. PT
 * [Verified Server](/verified-servers) icon added
 * Android now has quick switcher
 # 2/1/2018
+
 * [Spotify](/spotify-integration) integration added
 * Spotify Premium users able to listen along with friends
 * Hong Kong and Singapore voice server capacity increased
