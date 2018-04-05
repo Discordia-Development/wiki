@@ -46,7 +46,7 @@ Hey there! Welcome to The Unofficial Discord Wiki! We're strong believers in tra
 * @RME#3050 - Dutch
 * @Samtell#0001 - Korean
 * @Saphir#0001 - French
-* @Skidder#6775 - German
+* @Skidder#0001 - German
 * @Vividia#1224 - Hungarian
 * @xstarmax#0499 - Hungarian
 * @zabszk#5292 - Polish
@@ -68,5 +68,5 @@ Hey there! Welcome to The Unofficial Discord Wiki! We're strong believers in tra
 * Tarek#1337
 * Pheonix#5555
 * Saphir#0001
-* Skidder#6775
+* Skidder#0001
 * christopher#0176
