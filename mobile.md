@@ -1,7 +1,10 @@
 <!-- TITLE: Mobile -->
 <!-- SUBTITLE: Discord mobile apps -->
 
-Discord also has mobile apps, which allow you to use the great service on your phone.
+Discord has mobile apps available for iOS and Android devices, which allow you to use the great service on your phone.
+
+* iOS requires iOS 9 and above.
+* Android requires Android 4.1.1 and above.
 
 # Download
 - [iOS](https://itunes.apple.com/us/app/discord-chat-for-games/id985746746)
