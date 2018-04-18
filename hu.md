@@ -43,6 +43,7 @@ Halihó! Üdvözöllek a The Unofficial Discord Wikin! Az átláthatóság hív�
 * @JustAndras#0001 - Magyar
 * @Lireoy#4444 - Magyar
 * @Mib#0001 - Dán
+* @Nooby#4562 - Francia
 * @RME#3050 - Holland
 * @Samtell#0001 - Koreai
 * @Saphir#0001 - Francia
