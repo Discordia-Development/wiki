@@ -33,15 +33,16 @@
 
 * @Calvijn#0001 - 네덜란드어
 * @Csega#1256 - 헝가리어
-* @cyon_217#2469 - 한국어, 중국어
+* @CYON#2469 - 한국어, 중국어
 * @Daan#1337 - 네덜란드어
-* @D_EaN * STS#0001 - 헝가리어
+* @D_EaN * STS#0105 - 헝가리어
 * @erykol#8141 - 폴란드어
 * @jacob#0513 - 일본어
 * @Joni#0001 - 핀란드어
 * @JustAndras#0001 - 헝가리어
 * @Lireoy#4444 - 헝가리어
-* @MibMoot#3426 - 덴마크어
+* @Mibt#0001 - 덴마크어
+* @Nooby™#4562 - 불어
 * @RME#3050 - 네덜란드어
 * @Samtell#0001 - 한국어
 * @Saphir#0001 - 불어
@@ -61,10 +62,11 @@
 
 *[Patreon](https://www.patreon.com/TheDiscordWiki)을 통해 저희를 후원해주신 여러분께 큰 감사를 표합니다!*
 
+* christopher#0176
 * Curse#0001
 * D_EaN * STS#0001
 * DowDaw#1063
 * Tarek#1337
-* GoldenPheonix#6248
-* Saphir#9268
+* Pheonix#5555
+* Saphir#0001
 * Skidder#6775
