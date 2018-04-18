@@ -63,6 +63,7 @@ Hey there! Welcome to The Unofficial Discord Wiki! We're strong believers in tra
 
 *A huge thank you to all our supporters on [Patreon](https://www.patreon.com/TheDiscordWiki)!*
 
+* christopher#0176
 * Curse#0001
 * D_EaN * STS#0105
 * DowDaw#1339
@@ -70,4 +71,3 @@ Hey there! Welcome to The Unofficial Discord Wiki! We're strong believers in tra
 * Pheonix#5555
 * Saphir#0001
 * Skidder#0001
-* christopher#0176
