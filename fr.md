@@ -37,12 +37,13 @@ Salut ! Bienvenue sur le wiki Discord non officiel ! Nous misons beaucoup sur la
 * @D_EaN * STS#0105 - Hongrois
 * @Daan#1337 - Néerlandais
 * @erykol#8141 - Polonais
-* @Improvement - Cyon#2469 - Coréen / Chinois
+* @CYON#2469 - Coréen / Chinois
 * @jacob#0513 - Japonais
 * @Joni#0001 - Finlandais
 * @JustAndras#0001 - Hongrois
 * @Lireoy#4444 - Hongrois
-* @MibMoot#3426 - Danois
+* @Mib#0001 - Danois
+* @Nooby™#4562 - Français
 * @RME#3050 - Néerlandais
 * @Samtell#0001 - Coréen
 * @Saphir#0001 - Français
@@ -61,9 +62,9 @@ Salut ! Bienvenue sur le wiki Discord non officiel ! Nous misons beaucoup sur la
 > ***Mécènes***
 
 *Un grand merci à tous ceux qui nous supportent sur [Patreon](https://www.patreon.com/TheDiscordWiki)!*
-* chrissy#0176
+* christopher#0176
 * Curse#0001
-* D_EaN * STS#0001
+* D_EaN * STS#0105
 * DowDaw#1063
 * Tarek#1337
 * Pheonix#5555
