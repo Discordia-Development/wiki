@@ -43,6 +43,7 @@ Hey there! Welcome to The Unofficial Discord Wiki! We're strong believers in tra
 * @JustAndras#0001 - Hungarian
 * @Lireoy#4444 - Hungarian
 * @Mib#0001 - Danish
+* @Nooby#4562 - French
 * @RME#3050 - Dutch
 * @Samtell#0001 - Korean
 * @Saphir#0001 - French
