@@ -67,7 +67,7 @@ Hey there! Welcome to The Unofficial Discord Wiki! We're strong believers in tra
 * Curse#0001
 * D_EaN * STS#0105
 * DowDaw#1339
-* Tarek#1337
 * Pheonix#5555
 * Saphir#0001
 * Skidder#0001
+* Tarek#1337
