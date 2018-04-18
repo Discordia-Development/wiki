@@ -63,6 +63,7 @@ Halihó! Üdvözöllek a The Unofficial Discord Wikin! Az átláthatóság hív�
 
 *Nagy köszönet minden [Patreon](https://www.patreon.com/TheDiscordWiki) támogatónknak!*
 
+* christopher#0176
 * Curse#0001
 * D_EaN * STS#0105
 * DowDaw#1339
@@ -70,4 +71,3 @@ Halihó! Üdvözöllek a The Unofficial Discord Wikin! Az átláthatóság hív�
 * Pheonix#5555
 * Saphir#0001
 * Skidder#6775
-* christopher#0176
