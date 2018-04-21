@@ -1,5 +1,5 @@
 <!-- TITLE: Verified Servers -->
-<!-- SUBTITLE: A description of Discord's Verified servers. -->
+<!-- SUBTITLE: A description of Discord's Verified servers -->
 
 # Summary
 Verified servers were announced on October 12, 2017, and introduced with the Minecraft, PUBG, Supercell, and Offworld servers. Unlike normal servers which are run by normal members, verified servers are run by game publishers and/or developers. Along with being run by official members of the community, they also have different requirements, such as Medium verification level, and enabled Explicit Content Filter. These servers also get Partner server perks, such as custom discord.gg links and invite backgrounds. One exclusive perk is Verified badges.
