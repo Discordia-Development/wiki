@@ -1,5 +1,5 @@
 <!-- TITLE: Channel Categories -->
-<!-- SUBTITLE: A summary of channel categories. -->
+<!-- SUBTITLE: A summary of channel categories -->
 
 # Channel Categories
 Channel categories are a feature of servers, allowing advanced channel organisation. Channel categories were first announced on December 15th, 2016, as part of the 2016 End of Year Teaser. They were fully released on September 21st, 2017. Both text channels and voice channels can be in the same category.
