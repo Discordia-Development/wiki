@@ -34,10 +34,10 @@ Halihó! Üdvözöllek a The Unofficial Discord Wikin! Az átláthatóság hív�
 
 * @Calvijn#0001 - Holland
 * @Csega#1256 - Magyar
+* @시온#2469 - Koreai, Kínai
 * @D_EaN * STS#0105 - Magyar
 * @Daan#1337 - Holland
 * @erykol#8141 - Lengyel
-* @CYON#2469 - Koreai, Kínai
 * @jacob#0513 - Japán
 * @Joni#0001 - Finn
 * @JustAndras#0001 - Magyar
