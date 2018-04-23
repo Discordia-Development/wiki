@@ -46,7 +46,7 @@ This would make the text appear as:
 ## Code block formatting
 Surround text with three backticks (\`\`\`) to create a Code Block, if you want colored text, follow with a Highlight.js language ID)
 
-![A 16 Ed 5](/uploads/markdown/a-16-ed-5.png "Multiline code block in typing window")
+![A 16 Ed 5](/uploads/markdown/a-16-ed-5.png "Multiline code block in typing window.")
 
 This would make the text appear as:
 
