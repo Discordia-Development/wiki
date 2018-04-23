@@ -26,10 +26,26 @@ Wij zijn de Discord Wiki. We zijn trots één van de leidende providers van info
 
 > ***Vrijwilligers die de Discord Wiki vertalen***
 
-* @D_EaN * STS#1723 - Hungarian
-* @erykol#9716 - Polish
-* @FSΞ | S Λ M T Ξ L L#8213 - Korean
-* @Saphir#9268 - French
+* @Calvijn#0001 - Nederlands
+* @Csega#1256 - Hungaars
+* @시온#2469 - Koreaans, Chinees
+* @D_EaN * STS#0105 - Hungaars
+* @Daan#1337 - Nederlands
+* @Disegual#4088 - Italiaans
+* @erykol#8141 - Pools
+* @jacob#0513 - Japans
+* @Joni#0001 - Fins
+* @JustAndras#0001 - Hungaars
+* @Lireoy#4444 - Hungaars
+* @Mib#0001 - Deens
+* @Nooby™#4562 - Frans
+* @RME#3050 - Nederlands
+* @Samtell#0001 - Koreaans
+* @Saphir#0001 - Frans
+* @Skidder#0001 - Duitsland
+* @Vividia#1224 - Hungaars
+* @xstarmax#0499 - Hungaars
+* @zabszk#5292 - Pools
 
 > ***Bot Ontwikkelaars***
 
