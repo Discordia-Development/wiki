@@ -23,7 +23,7 @@ This is done with one asterisk (\*) or underscore (\_) on both sides of text sel
 
 This would make the text appear as:
 
-![Italicized Text In Chat](/uploads/markdown/italicized-text-in-chat.png "Italicized Text In Chat")
+![Italicized Text In Chat](/uploads/markdown/italicized-text-in-chat.png "Italicized text in chat.")
 
 ## Strike-through Text
 This is done with two tildes (\~\~) on both sides of text selected. For example: `~~The apple is sweet~~`.
