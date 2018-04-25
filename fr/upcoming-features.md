@@ -10,7 +10,7 @@ Voici la liste des fonctionnalités qui seront régulièrement mises à jour ave
 
 | Fonctionnalité |	Etat |
 |---------|---------|
-| Flux d'activité | Gradually Rolling Out |
+| Flux d'activité | Déploiement progressif |
 | Block de citations | Prévu |
 | Invitations Groupe privés | Prévu |
 | Lecteur audio en ligne | En développement |
