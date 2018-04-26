@@ -2,21 +2,21 @@
 <!-- SUBTITLE: Informations à propos des fonctionnalités à venir -->
 
 # Fonctionnalités à venir
-Voici la liste des fonctionnalités qui seront régulièrement mises à jour avec des informations concernant les nouvelles fonctionnalités à venir sur Discord, sur Ordinateur, Android ou iOS. Les fonctionnalités listées si dessous sont en cours de développement ou en tests internes, sauf indication contraire. Pour voir les dernières nouveautés disponible sur Discord, allez jeter un oeil sur le [changelog](/changelog).
+Voici la liste des fonctionnalités qui seront régulièrement mises à jour avec des informations concernant les nouvelles fonctionnalités à venir sur Discord, que ce soit sur ordinateur, Android ou iOS. Les fonctionnalités listées ci-dessous sont en cours de développement ou de test en interne, sauf indication contraire. Pour voir les dernières nouveautés disponibles sur Discord, allez jeter un oeil au [journal des changements](/fr/journal-des-changements).
 
-> Note: Ce n'est pas la liste complète des fonctionnalités sur lesquelles Discord travaille actuellement, ni dans cet ordre précis. Les fonctionnalités seront déployés lorsque Discord estimera qu'elles sont prêtes.
+> Note : ceci n’est pas la liste complète des fonctionnalités sur lesquelles Discord travaille actuellement, et les fonctionnalités ne sont pas listées dans un ordre précis. Les fonctionnalités seront déployées lorsque Discord estimera qu’elles sont prêtes.
 
 ## Ordinateur
 
 | Fonctionnalité |	Etat |
 |---------|---------|
-| Flux d'activité | Déploiement progressif |
-| Block de citations | Prévu |
-| Invitations Groupe privés | Prévu |
-| Lecteur audio en ligne | En développement |
+| Flux d’activité | Déploiement progressif |
+| Bloc de citation | Prévu |
+| Invitations à des groupe privés | Prévu |
+| Lecteur audio intégré | En développement |
 | Outil de prévisualisation des permissions | Prévu |
 | Orateur prioritaire | En développement |
-| Partage de son | Disponible sur Discord Canary |
+| Partage de son | Disponible sur Canary |
 
 ## iOS
 | Fonctionnalité | Etat	|
@@ -25,7 +25,7 @@ Voici la liste des fonctionnalités qui seront régulièrement mises à jour ave
 | Journal du serveur | Prévu |
 | Clavier personnalisé | Prévu |
 | Quick Switcher | Prévu |
-| Notifications poussées et riches | Prévu |
+| Notifications sur mobile riches | Prévu |
 | Compatibilité de sécurité | Prévu |
 | Tri des serveurs | Prévu |
 | Paramètres utilisateur | Prévu |
@@ -34,10 +34,10 @@ Voici la liste des fonctionnalités qui seront régulièrement mises à jour ave
 | Fonctionnalité | Etat |
 |---------|--------|
 | Journal du serveur | Prévu |
-| Lecture automatique vers Alpha | En développement |
-| Activer/Désactiver la compression des images | Prévu |
-| Partage d'écran | En développement |
-| Onglet Sécurité / Activer/Désactiver la double authentification | Prévu |
-| Vidéos intégrés | Prévu |
+| Déploiement automatique de l’Alpha | En développement |
+| Activer/désactiver la compression des images | Prévu |
+| Partage d’écran | En développement |
+| Onglet Sécurité / Activer/désactiver la double authentification | Prévu |
+| Vidéos intégrées | Prévu |
 
-> Avertissement: Ce sont des fonctionnalités qui ne sont pas encore déployés et risque de subir des changements à leurs sorties pour les utilisateurs de Discord Canary/Android Alpha et TestFlight. Il se peut qu'ils soient jamais déployés, et que des ETA ne soient pas disponibles.
+> Avertissement : ces fonctionnalités ne sont pas encore déployées et risquent de subir des changements à leur sortie pour les utilisateurs de Canary, Android Alpha et TestFlight. Il se peut qu'elles ne soient jamais déployées, et aucun délai avant déploiement n’est disponible.
