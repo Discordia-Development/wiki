@@ -6,10 +6,10 @@ Cette page tente de lister les différentes "limites" imposées aux serveurs Dis
 
 - Un utilisateur ne peut pas avoir plus de **100 serveurs**. Lorsque la limite est atteinte, toute invitation vers des serveurs s'affichera comme expirée. 
 - Les serveurs n'ont pas, en théorie de limite de membres. Il y a en effet des serveurs avec des dizaines de milliers d'utilisateurs, cela peut même aller jusqu'à plus de 75 000 membres sur un serveur!
-- Les serveurs qui atteignent **5000** membres connectés en simultané doivent contacter le support pour être transférés sur des serveurs plus puissants, capable d'accueillir de gros serveurs. C'est à ce moment là que les membres commenceront à recevoir des erreurs "Serveur Indisponible"
+- Les serveurs qui atteignent **5000** membres connectés en simultané doivent contacter le support pour être transférés sur des serveurs plus puissants, capable d'accueillir de gros serveurs. C'est à ce moment là que les membres commenceront à recevoir des erreurs "Serveur Indisponible".
 - Les serveurs afficheront les utilisateurs hors-ligne jusqu'à qu'ils atteignent **100 membres**. Une fois ce seuil dépassé, les utilisateurs hors-ligne n'apparaîtront plus dans la liste des membres. 
 - Un serveur ne peut avoir qu'au maximum **500 salons**, textuels et vocaux combinés. Une fois que les 500 salons sont atteints, il vous sera impossible d'en créer de nouveau. 
-- Un serveur ne peut avoir qu'au maximum **250 rôles**
+- Un serveur ne peut avoir qu'au maximum **250 rôles**.
 - Un serveur ne peut posséder que **50 émoticônes statiques et 50 émoticônes animés**.
 
 # Autres limites
