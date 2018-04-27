@@ -24,8 +24,8 @@ Voici la liste des fonctionnalités qui seront régulièrement mises à jour ave
 | Support du 3D Touch | Prévu |
 | Journal du serveur | Prévu |
 | Clavier personnalisé | Prévu |
-| Quick Switcher | Prévu |
-| Notifications sur mobile riches | Prévu |
+| Échange rapide | Prévu |
+| Notifications sur mobile enrichies | Prévu |
 | Compatibilité de sécurité | Prévu |
 | Tri des serveurs | Prévu |
 | Paramètres utilisateur | Prévu |
