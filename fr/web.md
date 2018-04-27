@@ -5,10 +5,10 @@ Discord possède une application web qui vous permet d'accéder au service sans 
 
 Toutes les fonctions ne sont pas disponible sur la version web de Discord, il est donc recommandé d’utiliser la version téléchargeable lorsque c’est possible.
 
-## Web Canary
+## Canary sur navigateur
 Il y a une version web de [Discord Canary](/canary), vous pouvez y accéder en allant sur https://canary.discordapp.com.
 
-## Web PTB
+## PTB sur navigateur
 Il y a une version web de [Discord Public Test Build](/ptb), vous pouvez y accéder en allant sur https://ptb.discordapp.com.
 
 # Fonctionnalités indisponibles
