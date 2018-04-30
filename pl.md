@@ -2,7 +2,7 @@
 
 # Witaj
 ## O nas
-Jesteśmy Nieoficjalną Discord Wiki. Jesteśmy dumni, że możemy być jednym z czołowych dostawców informacji o Discord do tej pory i witamy cię na naszej stronie. Uruchmiliśmy serwer około rok temu po tym, gdy zdaliśmy sobie sprawę, że nasze zasoby mogą pomóc innym dowiedzieć się więcej o Discord, zamiast zatrzymać je wszystkie dla siebie. [Taki żarcik]. Było trudno zacząć, ale rok później udało się dostarczyć przynajmniej trochę informacji dla 2 milionów użytkowników miesięcznie. Ciągle poszerzamy nasze informacje, więc jeśli masz ochotę, pasję, wolę i determinację wymaganą do pisania artykułów dla nas, sprawdź kanał FAQ na naszym serwerze, aby dowiedzieć się, czy aktualnie poszukujemy współpracowników!
+Jesteśmy Nieoficjalną Discord Wiki. Jesteśmy dumni, że możemy być jednym z czołowych dostawców informacji o Discord do tej pory i witamy cię na naszej stronie. Uruchmiliśmy serwer około rok temu po tym, gdy zdaliśmy sobie sprawę, że nasze zasoby mogą pomóc innym dowiedzieć się więcej o Discord, zamiast zatrzymać je wszystkie dla siebie. [Taki żarcik]. Było trudno zacząć, ale rok później udało się dostarczyć przynajmniej trochę informacji dla 3.5 miliona użytkowników miesięcznie. Ciągle poszerzamy nasze informacje, więc jeśli masz ochotę, pasję, wolę i determinację wymaganą do pisania artykułów dla nas, sprawdź kanał FAQ na naszym serwerze, aby dowiedzieć się, czy aktualnie poszukujemy współpracowników!
 
 [Join us on Discord!](https://discord.gg/ZRJ9Ghh)
 
@@ -13,9 +13,9 @@ Jesteśmy Nieoficjalną Discord Wiki. Jesteśmy dumni, że możemy być jednym z
 
 *Odpowiedzialni za utrzymywanie Discord Wiki i jego serwera wsparcia.*
 * @SleepaDru#7700 (Administrator systemów, utrzymuje zaplecze wszystkich usług dostarczanych przez Wiki)
-* @Mikesky#3456 (Administrator systemów, utrzymuje zaplecze wszystkich usług dostarczanych przez Wiki)
+* @Mikesky#0001 (Administrator systemów, utrzymuje zaplecze wszystkich usług dostarczanych przez Wiki)
 * @Harrison#9100
-* @ベアトリーチェ★★★★#1313
+* @Miku ★★★★#0039
 * @Tiemen#0001
 
 > ***Kadra liderska***
@@ -29,18 +29,21 @@ Jesteśmy Nieoficjalną Discord Wiki. Jesteśmy dumni, że możemy być jednym z
 * @zabszk#5292 - Polski
 * @Calvijn#0001 - Holenderski
 * @RME#3050 - Holenderski
+* @Daan#1337 - Holenderski
 * @Csega#1256 - Wegierski
 * @D_EaN * STS#0001 - Węgierski
 * @JustAndras#0001 - Węgierski
 * @Lireoy#4444 - Węgierski
 * @Vividia#1224 - Węgierski
 * @xstarmax#0499 - Węgierski
+* @Disegual#4088 - Włoski
 * @jacob#0513 - Japoński
 * @Joni#0001 - Fiński
 * @MibMoot#3426 - Duński
 * @Samtell#0001 - Koreański
 * @시온#2469 - Koreański
 * @Saphir#0001 - Francuski
+* @Nooby™#4562 - Francuski
 * @Skidder#0001 - Niemiecki
 
 > ***Deweloperzy botów***
@@ -62,6 +65,6 @@ Jesteśmy Nieoficjalną Discord Wiki. Jesteśmy dumni, że możemy być jednym z
 * Saphir#9268
 
 ## Zastrzeżenia i informacje prawne
-No hej! Witamy w The Discord Wiki! Jesteśmy silnymi zwolennikami przejrzystości, więc zanim wskoczycie, proszę spojrzeć na nasze  [Terms of Service](/terms) i naszą [Privacy Policy](/privacy) , abyście mogli poznać wszystkie prawne kruczki, o których musisz wiedzieć w naszych usługach!
+No hej! Witamy w The Discord Wiki! Jesteśmy silnymi zwolennikami przejrzystości, więc zanim wskoczycie w wir informacji, proszę spojrzeć na nasze  [Terms of Service](/terms) i naszą [Privacy Policy](/privacy) , abyście mogli poznać wszystkie prawne kruczki, o których musisz wiedzieć korzystając z naszych usług!
 
 ### ***Discord, Discord Ghost (Clyde ™) i Discordapp (w tym DISCORD) są intelektualną i prawną własnością Discord Inc. Usługi te, wymienione w [Terms of Service](/terms) , nie są powiązane z Discord Inc lub dowolnymi spółkami zależnymi w nim. Discord Wiki nie twierdzi, że jest właścicielem jakiejkolwiek własności intelektualnej DISCORD, proszę nas nie oskarżać.***
