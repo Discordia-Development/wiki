@@ -21,7 +21,7 @@ Jesteśmy Nieoficjalną Discord Wiki. Jesteśmy dumni, że możemy być jednym z
 > ***Kadra liderska***
 
 * @OminousCry#2331 - Internationalization Lider
-* @Azrael#6867 - Community Leader
+* @Azrael#6867 - Community Lider
 
 > ***Tłumacze Wiki***
 
