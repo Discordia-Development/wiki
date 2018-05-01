@@ -1,5 +1,5 @@
-<!-- TITLE: Channel Categories -->
-<!-- SUBTITLE: Un résumé des catégories de canaux-->
+<!-- TITLE: Catégories -->
+<!-- SUBTITLE: Un résumé des catégories-->
 
 # Catégories de canaux
 Les catégories sont une fonctionnalité attribués aux serveurs, permettant d’organiser davantage son serveur. Les catégories ont d’abord été annoncées le 16 Décembre 2016, dans le cadre du teaser de la fin de l'année 2016. Elles ont été déployées le 21 Septembre 2017.  Les salons textuels et vocaux peuvent être dans la même catégorie.
