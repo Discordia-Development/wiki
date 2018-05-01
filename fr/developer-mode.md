@@ -4,7 +4,7 @@
 Si vous comptez utiliser l’interface de programmation de Discord, pour créer un [bot](/bots), alors le *Mode Développeur* de Discord peut vous être grandement utile.
 
 # Activer le mode Développeur
-Pour activer le mode Développeur c’est très facile. Ouvrez les paramètres de Discord (le <i class="icon-cog"></i> après votre nom en bas à gauche)et cliquez sur *Apparence*. Vous allez trouver *Mode Développeur*. Cliquez sur le bouton pour l’activer.
+Pour activer le mode Développeur c’est très facile. Ouvrez les paramètres de Discord (le <i class="icon-cog"></i> après votre nom en bas à gauche) puis cliquez sur *Apparence*. Vous allez trouver *Mode Développeur*. Cliquez sur le bouton pour l’activer.
 
 ![Bouton Mode Développeur](/uploads/developer-mode/devmode-toggle.png "Bouton Mode Développeur")
 
