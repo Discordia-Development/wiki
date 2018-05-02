@@ -6,9 +6,9 @@
 
 Nous sommes le wiki Discord non officiel. Nous sommes fiers d’être l'un des premiers fournisseurs d’informations à propos de Discord à ce jour, et vous souhaitons la bienvenue sur notre site ! Nous avons commencé un serveur il y a à peu près un an après que nous avons réalisé que nos ressources pouvaient être utilisées pour aider d’autres personnes à apprendre ce qu’était Discord au lieu de garder toutes ces délicieuses parts d’informations pour nous (c’est le communisme, les amis) ! Le début a été un peu difficile, mais près d’un an plus tard, nous parvenons à fournir au moins quelques informations à plus d’un million et demi d’utilisateurs par mois ! L’information que nous mettons à votre disposition augmente de jour en jour, donc si vous vous sentez la passion, la volonté et la résolution d’écrire des articles pour nous, regardez le canal FAQs sur notre serveur et inscrivez-vous comme contributeur !
 
-[Rejoignez-nous sur Discord !](https://discord.gg/ZRJ9Ghh)
+[Rejoignez-nous sur Discord !](https://discord.gg/jhKm4K2)
 
-<a href="https://discord.gg/ZRJ9Ghh">![DISCORD EMBED PLUGIN](https://discordapp.com/api/guilds/367460196148183040/widget.png?style=banner2)</a>
+<a href="https://discord.gg/jhKm4K2">![DISCORD EMBED PLUGIN](https://discordapp.com/api/guilds/367460196148183040/widget.png?style=banner2)</a>
 
 ## Avertissement et mentions légales
 Salut ! Bienvenue sur le wiki Discord non officiel ! Nous misons beaucoup sur la transparence, alors avant de commencer, nous vous invitons à jeter un oeil à nos [conditions d’utilisation](/fr/terms) et notre [politique d’utilisation des données](/fr/privacy) de façon à connaître toutes les informations légales concernant nos services !
