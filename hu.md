@@ -6,9 +6,9 @@
 
 Mi vagyunk a The Unofficial Discord Wiki. Büszkék vagyunk arra, hogy a jelenleg egyik legnagyobb Discorddal kapcsolatos információ megosztók vagyunk, és üdvözlünk az oldalunkon! Körülbelül egy éve indult az oldal miután rájöttünk, hogy a tudásunk segítheti azokat, akik szeretnének a Discordról többet megtudni, ahelyett, hogy megtartanánk a szaftos információkat magunknak! (Ez a kommunizmus srácok) Kicsit necces volt az indulás, de közel egy évvel később sikerült havonta több, mint 1.5 millió felhasználónak valamiféle információt biztosítanunk! Folyamatosan bővítjük az információtárunkat, szóval ha úgy gondolod, hogy megvan a szenvedélyed, az akaratod, és a szükséges elhatározásod, hogy cikkeket írj nekünk, akkor nézd meg a szerverünk GyIK csatornáját, hogy megtudhasd jelenleg fogadunk-e hozzájárulókat!
 
-[Csatlakozz hozzánk Discordon!](https://discord.gg/ZRJ9Ghh)
+[Csatlakozz hozzánk Discordon!](https://discord.gg/uzXm38t)
 
-<a href="https://discord.gg/ZRJ9Ghh">![DISCORD EMBED PLUGIN](https://discordapp.com/api/guilds/367460196148183040/widget.png?style=banner2)</a>
+<a href="https://discord.gg/uzXm38t">![DISCORD EMBED PLUGIN](https://discordapp.com/api/guilds/367460196148183040/widget.png?style=banner2)</a>
 
 ## Nyilatkozatok és Jogi Információk
 Halihó! Üdvözöllek a The Unofficial Discord Wikin! Az átláthatóság hívői vagyunk, szóval mielőtt belekezdenél, kérlek tégy egy pillantást a [Szolgáltatási Feltételeinkre](/terms) és az [Adatvédelmi irányelveinkre](/privacy), hogy minden jogi dolgot megtudj amit tudnod kell a szolgáltatásainkra vonatkozólag!
