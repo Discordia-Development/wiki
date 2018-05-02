@@ -6,7 +6,7 @@
 
 Wir sind ein kleines Team von Discord-Enthusiasten mit den Ziel anderen Leuten eine großartige VoIP Plattform, [Discord](https://discordapp.com), näherzubringen.
 
-[Treten Sie unserem Discord-Server bei!](https://discord.gg/WHz5r3N)
+[Treten Sie unserem Discord-Server bei!](https://discord.gg/ZRJ9Ghh)
 
 <a href="https://discord.gg/ZRJ9Ghh">![DISCORD EMBED PLUGIN](https://discordapp.com/api/guilds/367460196148183040/widget.png?style=banner2)</a></a>
 
