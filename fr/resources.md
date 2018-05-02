@@ -6,8 +6,8 @@
 * [Discord Testers](http://discord.gg/discord-testers)
 * [Discord Evénements](http://discord.gg/events)
 * [Discord Avis](https://discord.gg/discord-feedback)
-* [Discord HypeSquad](https://discordapp.com/hypesquad) Membres [HypeSquad](https://discord.wiki/hypesquad) seulement.
-* [Discord Partenaires](https://discordapp.com/partners) Discord [Partenaires](https://discord.wiki/partner) seulement.
+* [Discord HypeSquad](https://discordapp.com/hypesquad) | Membres [HypeSquad](https://discord.wiki/hypesquad) seulement.
+* [Discord Partenaires](https://discordapp.com/partners) | Discord [Partenaires](https://discord.wiki/partner) seulement.
 
 
 # Ressources communautaires sur Discord
