@@ -1,7 +1,7 @@
 <!-- TITLE: Ressources Discord -->
 <!-- SUBTITLE: Ci-dessous se trouve une liste de ressources utiles pour Discord -->
 
-# Officiels
+# Ressources Officielles
 * [Discord Développeurs](http://discord.gg/discord-developers)
 * [Discord Testers](http://discord.gg/discord-testers)
 * [Discord Evénements](http://discord.gg/events)
