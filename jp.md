@@ -6,9 +6,9 @@
 
 私たちはDiscord Wikiです。 私たちはDiscordに関する情報の大手プロバイダーの1人になることを誇りに思っており、私たちのサイトへようこそ！ 私たちは、約1年前にサーバーを立ち上げました。それは、私たちのリソースが、おいしい情報ビットをすべて自分のために取る代わりに、Discordについて学ぶのを助けるために使用できることを実感した後です。 1年後には、月に200万人以上のユーザーに少なくとも何らかの情報を提供することに成功しました。 私たちは情報を拡大していますので、私たちのために記事を書くために必要な情熱、意志、そして決意を持っていると感じたら、私たちのサーバーのFAQsチャンネルをチェックしてください。
 
-[Discordにご参加ください！](https://discord.gg/ZRJ9Ghh)
+[Discordにご参加ください！](https://discord.gg/PUVBPzP)
 
-<a href="https://discord.gg/ZRJ9Ghh">![DISCORD埋め込みプラグイン](https://discordapp.com/api/guilds/367460196148183040/widget.png?style=banner2)</a>
+<a href="https://discord.gg/PUVBPzP">![DISCORD埋め込みプラグイン](https://discordapp.com/api/guilds/367460196148183040/widget.png?style=banner2)</a>
 
 ## The Discord Wiki スタッフ
 > ***Wiki管理者***
