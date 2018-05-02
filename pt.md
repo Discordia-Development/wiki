@@ -6,9 +6,9 @@
  
 Nós somos um pequeno time de entusiastas do Discord, procurando aumentar a conscientização de uma ótima plataforma de conversa de texto e voz, o [Discord](https://discordapp.com).
  
-[Junte-se a nós no Discord!](https://discord.gg/WHz5r3N)
+[Junte-se a nós no Discord!](https://discord.gg/ZRJ9Ghh)
  
-<a href="https://discord.gg/WHz5r3N">![DISCORD EMBED PLUGIN](https://discordapp.com/api/guilds/268800390961561601/widget.png?style=banner2)</a>
+<a href="https://discord.gg/ZRJ9Ghh">![DISCORD EMBED PLUGIN](https://discordapp.com/api/guilds/367460196148183040/widget.png?style=banner2)</a>
  
 ## Equipe Editorial
 > ***Alto Conselho***
