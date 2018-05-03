@@ -22,7 +22,7 @@ Hey there! Welcome to The Unofficial Discord Wiki! We're strong believers in tra
 * @SleepaDru#7700 (Systems Administrator, maintains the backend of all of the services provided by the Wiki)
 * @Mikesky#0001 (Systems Administrator, maintains the backend of all of the services provided by the Wiki)
 * @Harrison#9100
-* @Miku ★★★★#0039
+* @西木野真姫 ★★★★#0419
 * @Tiemen#0001
 
 > ***Department Leads***
