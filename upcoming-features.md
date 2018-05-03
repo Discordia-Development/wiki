@@ -10,8 +10,8 @@ This is a list of features that will be occasionally updated with information ab
 
 | Feature |	Status |
 |---------|---------|
-| Activity Feed | Gradually Rolling Out |
 | Block Quotes | Planned |
+| Games Feed | In Development |
 | Group DM Invites | Planned |
 | Inline Audio Player | Available on Canary |
 | Permissions Preview Tool | Planned |
