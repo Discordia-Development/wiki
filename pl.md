@@ -57,12 +57,15 @@ Jesteśmy Nieoficjalną Discord Wiki. Jesteśmy dumni, że możemy być jednym z
 
 *Wielkie dzięki za wsparcie od naszych supportów z [Patreon](https://www.patreon.com/TheDiscordWiki)!*
 
-* Curse Broken#8659
-* D_EaN * STS#1723
-* DowDaw#1063
-* Tarek1337#0379
-* GoldenPheonix#6248
-* Saphir#9268
+* christopher#0176
+* Curse#0001
+* D_EaN * STS#0105
+* DowDaw#1339
+* Pheonix#5555
+* Saphir#0001
+* Skidder#0001
+* Tarek#1337
+
 
 ## Zastrzeżenia i informacje prawne
 No hej! Witamy w The Discord Wiki! Jesteśmy silnymi zwolennikami przejrzystości, więc zanim wskoczycie w wir informacji, proszę spojrzeć na nasze  [Terms of Service](/terms) i naszą [Privacy Policy](/privacy) , abyście mogli poznać wszystkie prawne kruczki, o których musisz wiedzieć korzystając z naszych usług!
