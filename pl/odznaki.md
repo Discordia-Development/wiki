@@ -1,5 +1,5 @@
 <!-- TITLE: Odznaki -->
-<!-- SUBTITLE: A quick summary of Odznaki -->
+
 
 Discord posiada różne odznaki, które odróżniają użytkownika jako członka określonych grup. Odznaki wyświetlają się na karcie profilu użytkownika. Aby uzyskać dostęp do kogoś karty profilowej, kliknij go i wybierz ** wyświetl profil **, umieszczając wskaźnik myszy nad kogoś awatarem.
 
@@ -20,10 +20,10 @@ Discordowi [Partners](/partner) mają własną Partnerską odznakę. Jedyną met
 
 ![Newpartnerbadge](/uploads/badges/newpartnerbadge.png "Odznaka Partnerska")
 # Discord Hypesquad
-Członkowie Discord [Hypesquad](/hypesquad) posiadają własną Hypesquad'ową odznakę w swoich profilach. Jedyną metodą na uzyskanie tej odznaki jest przynależność do Hypesquad'u. 
+Członkowie Discord [Hypesquad](https://discordia.me/pl/hypesquad) posiadają własną Hypesquad'ową odznakę w swoich profilach. Jedyną metodą na uzyskanie tej odznaki jest przynależność do Hypesquad'u. 
 
 ![Hypesquadbadge](/uploads/badges/newhypesquadbadge.png "Odznaka Hypesquad")
 # Discord Nitro
-Użytkownicy, którzy nabyli [Discord Nitro](/nitro) mają Odznakę Nitro w swoich profilach. Jeśli najedziesz na odznakę wyświetli się data uzyskania Nitro. Jeśli zrezygnujesz z subskrybcji Nitro to odznaka zniknie. 
+Użytkownicy, którzy nabyli [Discord Nitro](https://discordia.me/pl/nitro) mają Odznakę Nitro w swoich profilach. Jeśli najedziesz na odznakę wyświetli się data uzyskania Nitro. Jeśli zrezygnujesz z subskrybcji Nitro to odznaka zniknie. 
 
 ![Nitrobadge](/uploads/badges/newnitrobadge.png "Odznaka nitro")
