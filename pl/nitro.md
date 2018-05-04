@@ -20,7 +20,7 @@ Subskrybcja Discord Nitro daje użytkownikom dostęp do następujących funkcji:
 * Maksymalny upload ulega zmianie z 8MB na 50MB.
 * Udostępnianie ekranu 720p 60fps lub 1080p 30fps.
 * [Odznaka](https://discordia.me/pl/odznaki) Discord Nitro w profilu.
-* Możliwość zmiany [dyskryminatora](https://discordia.me/pl/dyskryminator) ,(Notka: Jeżeli twoja subskrybcja wygaśnie to dyskryminator zostanie zresetowany do dowolnego numeru)
+* Możliwość zmiany [dyskryminatora](https://discordia.me/pl/dyskryminator), (Notka: Jeżeli twoja subskrybcja wygaśnie to dyskryminator zostanie zresetowany do dowolnego numeru)
 
 # Jak nabyć Nitro?
 Aby nabyć Nitro kliknij w ustawieniach po lewej stronie na zakładkę Nitro. Następnie wybierz preferowaną przez siebie opcję [miesięczna lub roczna subskrybcja], potem wprowadź dane twojej karty debetowej lub kredytowej i kod pocztowy. Aby zapłacić w systemie PayPal musisz musisz mieć metodę płatności awaryjnej zarejestrowaną na koncie PayPal, taką jak konto bankowe lub karta, bez względu na to, czy masz wystarczające środki w swoim portfelu PayPal.
