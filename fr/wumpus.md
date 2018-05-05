@@ -14,7 +14,7 @@ Wumpus est aussi régulièrement affiché sur le [twitter de Discord](https://tw
 
 ![alt text](https://i.imgur.com/9rsvKZ8.png)
 # PAX
-Lors d'événements PAX, les visiteurs peuvent rencontrer Wumpus dans la vraie réelle. Wumpus a fait ses débuts à la PAX South 2017.
+Lors d'événements PAX, les visiteurs peuvent rencontrer Wumpus dans la vie réelle. Wumpus a fait ses débuts à la PAX South 2017.
 
 ![alt text](http://i.imgur.com/afGy7sg.jpg?1)
 
