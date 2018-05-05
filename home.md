@@ -8,7 +8,7 @@ We're The Unofficial Discord Wiki. We're proud to be one of the leading provider
 
 [Join us on Discord!](https://discord.gg/ZRJ9Ghh)
 
-<a href="<https://discord.gg/9CPA7W9>">![DISCORD EMBED PLUGIN](https://discordapp.com/api/guilds/367460196148183040/widget.png?style=banner2)</a>
+<a href="https://discord.gg/ZRJ9Ghh">![DISCORD EMBED PLUGIN](https://discordapp.com/api/guilds/367460196148183040/widget.png?style=banner2)</a>
 
 ## Disclaimers and Legal Information
 Hey there! Welcome to The Unofficial Discord Wiki! We're strong believers in transparency, so before you jump in, please take a look at our [Terms of Service](/terms) and our [Privacy Policy](/privacy) in order for you to know all the legal stuff you need to know regarding our services!
