@@ -35,7 +35,7 @@ Halihó! Üdvözöllek a The Unofficial Discord Wikin! Az átláthatóság hív�
 * @Calvijn#0001 - Holland
 * @CLeaSeGame#8444 - Magyar
 * @Csega#1256 - Magyar
-* @시온#2469 - Koreai, Kínai
+* @Cyon aka UnityK#2469 - Koreai, Kínai
 * @D_EaN * STS#0105 - Magyar
 * @Daan#1337 - Holland
 * @Disegual#4088 - Olasz
