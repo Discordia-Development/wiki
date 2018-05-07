@@ -37,6 +37,8 @@ These are only accessible on Windows, MacOSX/macOS and Linux:
 **Canary:** This is Discord's Canary build, with the earliest of features introduced to users. It's the bleeding edge of the client and can have instability and issues and bugs with new features whilst also introduce bug fixes present on the Stable and PTB builds.
 *It can be downloaded through the Discord Testers group (https://discord.gg/discord-testers).*
 
+**Web:** This is the Web browser client, meaning it can be accessible through a Web Browser. Whilst it misses some features which can only be used on Discord Clients, it allows compatibility for devices such as Chromebooks which run ChromeOS.
+
 ## Mobile
 These are accessible through TestFlight or Google's Developer Platform:
 
