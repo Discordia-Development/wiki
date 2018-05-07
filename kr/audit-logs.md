@@ -1,4 +1,4 @@
-<!-- TITLE:Audit Logs -->
+<!-- TITLE:Audit Logs - Korean -->
 <!-- SUBTITLE: 디스코드의 Audit Logs에 대한 정보 -->
 
 누가 당신의 서버에 새로운 채널을 만들었는지 궁금하신 적 있으셨나요? 아니면 누가 말썽꾸러기 유저를 강퇴 시켰는지요? 걱정하지 마세요, Audit Logs는 당신의 서버에서 누가 무엇을 했는지 알려드릴 수 있습니다!
