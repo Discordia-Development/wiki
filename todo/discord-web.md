@@ -1,4 +1,3 @@
-
 <!--TITLE: Discord Web -->
 
 Discord Web is the accessible client on Web Browsers. This allows users without a mobile device or a compatible computer to access Discord. The website for Discord is https://discordapp.com. You will need to be logged in to access it.
@@ -14,4 +13,4 @@ Discord Web lacks features which are on Discord Client due to limitations.
 * It does not support Video Chat; this means you cannot talk to other users with your webcam turned on.
 * You cannot change the Audio Input and Output devices on the Web client, it's only set to the default audio device, or the one set by the web browser.
 * You cannot right click on messages to delete or pin or react to them. You need to use the three dots on the side-end of the message.
-* Advanced features it misses is Hardware Accelleration and Zoom Level.
+* Advanced features it misses is Hardware Acceleration and Zoom Level.
