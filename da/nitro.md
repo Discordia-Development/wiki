@@ -1,4 +1,4 @@
-<!-- TITLE: Nitro -->
+<!-- TITLE: Danish - Nitro -->
 <!-- SUBTITLE: Støt Discords Udvikling -->
 
 ![Nitrobadge](/uploads/nitro/nitrobadge.png "Nitrobadge")
