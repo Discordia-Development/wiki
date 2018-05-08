@@ -1,4 +1,4 @@
-<!-- TITLE: Partner -->
+<!-- TITLE: German - Partner -->
 
 Ein Discord Partner ist jemand der eine große Community hat und sich bei Discord bewirbt und als Partner akzeptiert wird. Er erhält VIP Austattungen für sich und seinen Server. 
 
