@@ -1,4 +1,4 @@
-<!-- TITLE: Quick Switcher -->
+<!-- TITLE: Romanian - Quick Switcher -->
 <!-- SUBTITLE: Cu puterea fulgerului, Quick Switcher este o nouă cale de accesa serverele tale favorite mai repede ca niciodată! -->
 
 # Prezentare
