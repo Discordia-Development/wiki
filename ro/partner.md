@@ -1,4 +1,4 @@
-<!-- TITLE: Partner -->
+<!-- TITLE: Romanian - Partner -->
 
 Un Discord Partner este cineva cu mulți fani sau un server mare care s-a înscris și a fost acceptat de Discord să primească niște bonusuri VIP pentru el și serverul lui.
 
