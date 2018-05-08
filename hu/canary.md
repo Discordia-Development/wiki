@@ -1,4 +1,4 @@
-<!-- TITLE:Discord Canary -->
+<!-- TITLE: Hungarian - Discord Canary -->
 
 A Canary a Discord alpha tesztelő programja. Nagyon instabil és teli van hibákkal, de általában előbb kapja meg a funkciókat, mint a [PTB](/ptb) vagy a [Stabil](/stable) kliens. A Canary célja az, hogy segítse a Discord felhasználóknak kipróbálni az új funkciókat. Ha hibát találsz Canaryn, akkor kérlek jelentsd a [Discord Testers](http://discord.gg/discord-testers) szerveren.
 
