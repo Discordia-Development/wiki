@@ -1,4 +1,4 @@
-<!-- TITLE:Video Chat -->
+<!-- TITLE: Romanian - Video Chat -->
 
 Video chat este un serviciu la care momentan se lucrează și care nu a fost încă lansat. Se lucrează și la [screensharing](/screensharing), deodată cu video chat. Discord va folosi tehnologie WebRTC modificată pentru video chat.
 
