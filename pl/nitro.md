@@ -1,4 +1,4 @@
-<!-- TITLE: Nitro -->
+<!-- TITLE: Polish - Nitro -->
 <!-- SUBTITLE: Wspieranie rozwoju Discorda -->
 
 ![Nitrobadge](/uploads/nitro/nitrobadge.png "Nitrobadge")
