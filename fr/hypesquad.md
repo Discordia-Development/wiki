@@ -1,4 +1,4 @@
-<!-- TITLE: HypeSquad -->
+<!-- TITLE: French - HypeSquad -->
 <!-- SUBTITLE: Vous avez la « hype » ? Parce que moi je l’ai à fond pour vous parler de ce truc super cool ! -->
 
 ![Hypesquadsmall](/uploads/hypesquad/hypesquadsmall.png "Hypesquadsmall")
