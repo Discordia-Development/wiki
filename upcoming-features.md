@@ -16,7 +16,6 @@ This is a list of features that will be occasionally updated with information ab
 | Inline Audio Player | Available on Canary |
 | Permissions Preview Tool | Planned |
 | Priority Speaker | In Development |
-| Soundshare | Available on Canary |
 
 ## iOS
 | Feature | Status	|
