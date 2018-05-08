@@ -1,4 +1,4 @@
-<!-- TITLE: ホーム -->
+<!-- TITLE: Japanese - ホーム -->
 <!-- SUBTITLE: よこそ　Discord Wiki! -->
 
 # よこそ！
