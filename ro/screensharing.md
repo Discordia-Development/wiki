@@ -1,4 +1,4 @@
-<!-- TITLE:Screensharing -->
+<!-- TITLE: Romanian - Screensharing -->
 <!-- SUBTITLE:În curând! -->
 
 Screensharing este un serviciu care nu a fost încă lansat și care va permite utilizatorilor să transmită conținut de pe ecranul lor altor utilizatori Discord. Se lucrează și la video chat, deodată cu screensharing.
