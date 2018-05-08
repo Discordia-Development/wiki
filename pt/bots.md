@@ -1,4 +1,4 @@
-<!-- TITLE: Bots -->
+<!-- TITLE: Portuguese - Bots -->
  
 O Discord permite que usuários criem robôs/Bots e que convidem eles a servidores. O Discord criou uma API única que permite que usuários criem apps que interagem diretamente com o servidor. Você pode ver a documentação da API [aqui (em inglês)](https://discordapp.com/developers/docs/intro)
  
