@@ -1,4 +1,4 @@
-<!-- TITLE: Streamer Mode -->
+<!-- TITLE: Danish - Streamer Mode -->
 <!-- SUBTITLE: Discord Streamer Tilstand -->
 
 Discord har en Streamer Mode, der giver dig adgang til Discord under en livestream uden risiko for at afsløre personlig information.
