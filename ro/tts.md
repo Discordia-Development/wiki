@@ -1,4 +1,4 @@
-<!-- TITLE: Text to Speech -->
+<!-- TITLE: Romanian - Text to Speech -->
 
 Text to Speech (pe scurt TTS) îți dă posibiliatea de a transmite verbal un mesaj persoanelor dintr-un canal. Pentru a face asta, scrie comanda `/tts <MESAJ>` în canalul căruia vrei să-i transmiți mesajul. Este tot mereu folosit TTS-ul sistemului, ca urmare sunetele vor fi diferite de la un dispozitiv la altul.
 
