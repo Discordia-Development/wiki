@@ -22,7 +22,7 @@ Salut ! Bienvenue sur le wiki Discord non officiel ! Nous misons beaucoup sur la
 * @SleepaDru#7700 (administrateur web, gère l’organisation de tous les services fournis par le wiki)
 * @Mikesky#0001 (administrateur web, gère l’organisation de tous les services fournis par le wiki)
 * @Harrison#9100
-* @望月 紅葉 ★★★★#1313
+* @望月 紅葉 ★★★★#0419
 * @Tiemen#0001
 
 > ***Chefs de départements***
@@ -33,11 +33,14 @@ Salut ! Bienvenue sur le wiki Discord non officiel ! Nous misons beaucoup sur la
 > ***Bénévoles pour l’internationalisation***
 
 * @Calvijn#0001 - Néerlandais
+* @CLeaSeGame#8444 - Hongrois
 * @Csega#1256 - Hongrois
+* @Cyon aka UnityK#2469 - Coréen / Chinois
 * @D_EaN * STS#0105 - Hongrois
 * @Daan#1337 - Néerlandais
+* @Disegual#4088 - Italien
 * @erykol#8141 - Polonais
-* @CYON#2469 - Coréen / Chinois
+* @Getmanxed#4343 - Hongrois
 * @jacob#0513 - Japonais
 * @Joni#0001 - Finlandais
 * @JustAndras#0001 - Hongrois
@@ -47,7 +50,7 @@ Salut ! Bienvenue sur le wiki Discord non officiel ! Nous misons beaucoup sur la
 * @RME#3050 - Néerlandais
 * @Samtell#0001 - Coréen
 * @Saphir#0001 - Français
-* @Skidder#6775 - Allemand
+* @Skidder#0001 - Allemand
 * @Vividia#1224 - Hongrois
 * @xstarmax#0499 - Hongrois
 * @zabszk#5292 - Polonais
@@ -62,11 +65,12 @@ Salut ! Bienvenue sur le wiki Discord non officiel ! Nous misons beaucoup sur la
 > ***Mécènes***
 
 *Un grand merci à tous ceux qui nous supportent sur [Patreon](https://www.patreon.com/TheDiscordWiki)!*
+
 * christopher#0176
 * Curse#0001
 * D_EaN * STS#0105
-* DowDaw#1063
-* Tarek#1337
+* DowDaw#1339
 * Pheonix#5555
 * Saphir#0001
-* Skidder#6775
+* Skidder#0001
+* Tarek#1337
