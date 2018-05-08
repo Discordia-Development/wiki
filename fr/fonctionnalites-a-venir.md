@@ -16,7 +16,6 @@ Voici la liste des fonctionnalités qui seront régulièrement mises à jour ave
 | Lecteur audio intégré | En développement |
 | Outil de prévisualisation des permissions | Prévu |
 | Orateur prioritaire | En développement |
-| Partage de son | Disponible sur Canary |
 
 ## iOS
 | Fonctionnalité | Etat	|
