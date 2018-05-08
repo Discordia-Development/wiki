@@ -24,6 +24,5 @@ Każdy poziom zawiera te same korzyści, co poprzednie.
 Aby dołączyć do HypeSquad musisz wysłać [podanie](https://discordapp.com/hypesquad). Jeśli aplikujesz na Uczestnika Wydarzeń lub Koordynatora Wydarzeń to musisz załaczyć również krótki filmik (nie jest to wymagane na Członka Online, jeżeli chcesz dostać koszulkę to będzie to konieczne). Filmik zachęca do odpowiadania na pytania aplikacyjne w formie wideo Bloga.
 # Oficjalny Film o Hypesquadzie
 
-[video](https://www.youtube.com/watch?v=rXZkTT-5m9o){.youtube}<!-- TITLE: Hypesquad -->
-<!-- SUBTITLE: A quick summary of Hypesquad -->
+[video](https://www.youtube.com/watch?v=rXZkTT-5m9o){.youtube}
 
