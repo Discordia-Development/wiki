@@ -1,4 +1,4 @@
-<!--TITLE: Discord -->
+<!--TITLE: Russian - Discord -->
 
 ![Logo](/uploads/discord/logo.png "Логотип")
 
