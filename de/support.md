@@ -1,4 +1,4 @@
-<!-- TITLE: Support -->
+<!-- TITLE: German - Support -->
 
 # Discord Support
 Falls du mal Hilfe brauchst, besuche doch das Hilfeportal unter https://support.discordapp.com/hc/ or kontaktiere den Kundenservice direkt unter support@discordapp.com
