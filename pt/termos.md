@@ -1,4 +1,4 @@
-<!-- TITLE: Termos de Serviço -->
+<!-- TITLE: [PT] Termos de Serviço -->
 <!-- SUBTITLE: Os Termos de Serviço para quaisquer serviços providos pela Discord Wiki -->
  
 # 1. Aceitação dos Termos de Serviço
