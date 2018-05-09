@@ -1,4 +1,4 @@
-<!-- TITLE: Portuguese - Audit Logs -->
+<!-- TITLE: [PT] Audit Logs -->
 <!-- SUBTITLE: Discord Audit Logs -->
  
 Já se perguntou quem criou um novo canal no seu servidor? Ou quem foi a pessoa que baniu um usuário problemático? Bem, não tema, audit logs estão aqui para te contar quem fez o quê nos seus servidores!
