@@ -1,4 +1,4 @@
-<!-- TITLE: Limites des serveurs Discord -->
+<!-- TITLE: French - Limites des serveurs Discord -->
 <!-- SUBTITLE: Les différentes limites des serveurs Discord -->
 
 # Limites des serveurs Discord
