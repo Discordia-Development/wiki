@@ -9,7 +9,7 @@
 * [Discord HypeSquad](https://discordapp.com/hypesquad) | Membres [HypeSquad](https://discord.wiki/hypesquad) seulement.
 * [Discord Partenaires](https://discordapp.com/partners) | [Partenaires](https://discord.wiki/partner) Discord seulement.
 
-*\* Archived: Server is in a read-only state. Users can still join and read, but are unable to send messages.*
+*\* Archivé : le serveur est disponible en lecture uniquement. Les utilisateurs peuvent toujours le rejoindre et lire le contenu, mais ne peuvent envoyer de messages.*
 # Ressources communautaires sur Discord
 * [Interface de programmation Discord](http://discord.gg/discord-api)
 * [Support du wiki Discord non officiel](https://discord.gg/jhKm4K2)
