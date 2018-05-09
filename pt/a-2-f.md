@@ -1,4 +1,4 @@
-<!-- TITLE: Autenticação de 2 Fatores -->
+<!-- TITLE: [PT] Autenticação de 2 Fatores -->
 <!-- SUBTITLE: Usando a Autenticação de 2 Fatores no Discord -->
 
 Autenticação de Dois Fatores (ou verificação em duas etapas) é uma medida de segurança secundária ao logar no Discord. Não é requerido, mas é recomendado por razões de segurança.
