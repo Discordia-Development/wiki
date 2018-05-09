@@ -1,25 +1,31 @@
-<!-- TITLE: Insígnias -->
-<!-- SUBTITLE: Insígnias do Discord -->
- 
-O Discord possui diferentes insígnias que distinguem um usuário como membro de um grupo específico. As insígnias são mostradas no perfil do usuário. Para acessar o perfil de um usuário, clique nele e selecione **ver perfil** passando o mouse em cima do avatar.
- 
-As seguintes insígnias estão listadas em ordem hierárquica.
+<!-- TITLE: [PT] Insígnias -->
+<!-- SUBTITLE: Informação sobre as várias Insígnias de Usuário do Discord -->
+
+O Discord tem diferentes insígnias que distinguem um usuário como membro de grupos específicos. Insígnias são mostradas no cartão de perfil de um usuário. Para acessar o cartão de perfil de alguém, clique nele e selecione **ver perfil** ao passar o mouse sobre seu avatar.
+
+Insígnias aparecem em uma ordem hierárquica, e múltiplas insígnias vão acumular.
+
+# Insígnias Gerais
+Se um usuário tem múltiplas insígnias, todas as insígnias que o usuário possui irão aparecer.
+
+![insigniasGerais](/uploads/badges/generalbadges.png "A General Overview of Badges")
+
 # Equipe do Discord
-Esta insígnia é dada a toda a Equipe do Discord. Se alguém alega ser da Equipe do Discord e não possui esta insígnia, é bem provável que seja mentira. Esta insígnia é uma das únicas maneiras oficiais de distinguir um membro da Equipe do Discord de um usuário comum.
- 
-![Staffbadge](/uploads/badges/staffbadge.png "Staffbadge")
- 
+Esta insígnia é entregue a toda a Equipe do Discord. Se alguém diz ser da Equipe do Discord e não possui esta insígnia, é bem provável que esteja tentando se passar por outra pessoa. Esta insígnia é um dos únicos meios oficiais que um membro da Equipe do Discord tem de se distinguir de usuários comuns.
+
+![insigniaEquipe](/uploads/badges/newstaffbadge.png "A Staff Member's Badge")
+
 # Discord Partner
-Discord [Partners](/pt/parceiro) possuem esta insígnia em seu perfil. O único modo de obter esta insígnia é se tornando um Discord Partner. 
- 
-![Partnerbadge](/uploads/badges/partnerbadge.png "Partnerbadge")
+Discord [Partners](/partner) têm a insígnia de parceiro em seu perfil. O único modo de obtê-la é se tornando um parceiro do Discord.
+
+![Newpartnerbadge](/uploads/badges/newpartnerbadge.png "A Discord Partner Badge")
+
 # Discord Hypesquad
-Membros do Discord [Hypesquad](/hypesquad) tem a insígnia do Hypesquad em seu perfil. O único modo de obter esta insígnia é se tornando um membro do Discord Hypesquad.
- 
-![Hypesquadbadge](/uploads/badges/hypesquadbadge.png "Hypesquadbadge")
+Membros do Discord [Hypesquad](/hypesquad) têm a insígnia do Hypesquad em seu perfil. O único modo de obtê-la é se tornando um membro do Discord Hypesquad.
+
+![Hypesquadbadge](/uploads/badges/newhypesquadbadge.png "A Hypesquad Member's Badge")
+
 # Discord Nitro
-Usuários que compraram [Discord Nitro](/pt/nitro) tem a insígnia do Discord Nitro em seu perfil. Se você passar o mouse por cima da insígnia, ela mostra desde quando o usuário tem o Nitro. Ao cancelar a assinatura do Nitro, a insígnia desaparecerá.
- 
-![Nitrobadge](/uploads/badges/nitrobadge.png "Nitrobadge")
- 
-Atualmente, apenas uma insígnia pode ser mostrada por vez, com a lista de prioridade sendo: Nitro -> HypeSquad -> Parceiro -> Equipe.
+Usuários que compraram o [Discord Nitro](/nitro) têm a insígnia do Discord Nitro em seu perfil. Se você passar o mouse em cima da insígnia, ela mostrará quando o usuário assinou o Nitro. Ao cancelar a assinatura do Nitro, a insígnia desaparece.
+
+![Nitrobadge](/uploads/badges/newnitrobadge.png "A Nitro Discord User's Badge")
