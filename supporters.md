@@ -3,11 +3,11 @@
 
 # Patreon Folks
 
+* christopher#0176
 * Curse#0001
 * D_EaN * STS#0105
 * DowDaw#1339
-* Tarek#1337
 * Pheonix#5555
 * Saphir#0001
 * Skidder#6775
-* christopher#0176
+* Tarek#1337
