@@ -1,4 +1,4 @@
-<!-- TITLE: Comandos de Chat -->
+<!-- TITLE: [PT] Comandos de Chat -->
 <!-- SUBTITLE: Descreve todos os comandos de chat disponíveis, até os não-óbvios/não-documentados -->
  
 # Comandos de Chat do Discord
