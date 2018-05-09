@@ -1,4 +1,4 @@
-<!-- TITLE: Discriminant -->
+<!-- TITLE: French - Discriminant -->
 <!-- SUBTITLE: Informations à propos des discriminants Discord -->
 
 # Discriminant
