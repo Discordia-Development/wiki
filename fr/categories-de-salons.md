@@ -1,4 +1,4 @@
-<!-- TITLE: Catégories de salons -->
+<!-- TITLE: French - Catégories de salons -->
 <!-- SUBTITLE: Une présentation des catégories de salons -->
 
 # Catégories de salons
