@@ -1,4 +1,4 @@
-<!-- TITLE: Mode développeur -->
+<!-- TITLE: French - Mode développeur -->
 <!-- SUBTITLE: Une documentation approfondie du mode développeur de Discord. -->
 
 Si vous comptez utiliser l’interface de programmation de Discord, pour créer un [bot](/fr/bots), alors le *mode développeur* de Discord peut vous être grandement utile.
