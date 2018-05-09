@@ -1,4 +1,4 @@
-<!-- TITLE: Política de Privacidade -->
+<!-- TITLE: [PT] Política de Privacidade -->
 <!-- SUBTITLE: A política de privacidade para quaisquer serviços providos pela Discord Wiki -->
 
 # Introdução
