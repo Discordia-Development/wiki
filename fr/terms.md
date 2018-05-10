@@ -1,4 +1,4 @@
-<!-- TITLE: French - Conditions d’utilisation -->
+<!-- TITLE: [FR] Conditions d’utilisation -->
 <!-- SUBTITLE: Les conditions d’utilisation de tous les services fournis par le wiki Discord non officiel -->
 
 # 1. Acceptation des conditions d’utilisation
