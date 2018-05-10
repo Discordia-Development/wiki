@@ -1,4 +1,4 @@
-<!-- TITLE: Spanish - Nitro -->
+<!-- TITLE: [ES] Nitro -->
 
 ![Insignia Nitro](/uploads/nitro/nitrobadge.png "Insignia Nitro")
 
