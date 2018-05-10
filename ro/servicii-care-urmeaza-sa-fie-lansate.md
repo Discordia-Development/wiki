@@ -1,4 +1,4 @@
-<!-- TITLE: Servicii care urmează să fie lansate -->
+<!-- TITLE: [RO] Servicii care urmează să fie lansate -->
 <!-- SUBTITLE: O scurtă listă a serviciilor care urmează să fie lansate -->
 
 # Servicii care urmează să fie lansate
