@@ -1,4 +1,4 @@
-<!-- TITLE: Dutch - Nitro -->
+<!-- TITLE: [NL] Nitro -->
 
 ![Nitro badge](/uploads/nitro/nitrobadge.png "Nitrobadge")
 
