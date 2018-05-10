@@ -1,4 +1,4 @@
-<!-- TITLE: Cookie-Richtlinien -->
+<!-- TITLE: [DE] Cookie-Richtlinien -->
 <!-- SUBTITLE: Cookierichtlinien gemäß EU-Gesetzen -->
 
 # Info
