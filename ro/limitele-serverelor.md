@@ -1,4 +1,4 @@
-<!-- TITLE: Limitele Serverelor -->
+<!-- TITLE: [RO] Limitele Serverelor -->
 <!-- SUBTITLE: Diverse limite impuse serverelor pe Discord -->
 
 # Limitele Serverelor
