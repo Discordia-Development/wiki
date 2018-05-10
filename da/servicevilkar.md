@@ -1,4 +1,4 @@
-<!-- TITLE: Danish - Servicevilkår -->
+<!-- TITLE: [DA] Servicevilkår -->
 <!-- SUBTITLE: The Terms of Service for any services provided by The Discord Wiki -->
 
 # 1. Acceptance of the Terms of Service
