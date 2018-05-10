@@ -1,4 +1,4 @@
-<!-- TITLE: French - Discord Web -->
+<!-- TITLE: [FR] Discord Web -->
 <!-- SUBTITLE: Client Discord sur navigateur web -->
 
 Discord possède une application web qui vous permet d’accéder au service sans télécharger de logiciel. Pour accéder à la version web, allez sur discordapp.com/channels/@me. 
