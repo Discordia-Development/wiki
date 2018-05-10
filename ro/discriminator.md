@@ -1,4 +1,4 @@
-<!-- TITLE: Discriminator -->
+<!-- TITLE: [RO] Discriminator -->
 <!-- SUBTITLE: Informații despre Discord discriminators -->
 
 # Discriminator
