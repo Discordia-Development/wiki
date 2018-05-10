@@ -1,4 +1,4 @@
-<!-- TITLE:Mesaje Directe -->
+<!-- TITLE: [RO] Mesaje Directe -->
 <!-- SUBTITLE: Trimite direct mesaje utilizatorilor înafara serverelor  -->
 
 Mesajele Directe (pe scurt MD-uri) sunt o versiune simplă de servere între mai mulți utilizatori. Ele nu au un sistem de permisiuni și au un singur canal de text. Utilizatorii nu pot fi invitați decât direct de prieteni, spre deosebire de servere unde asta trebuie să fie făcut cu un invite link.
