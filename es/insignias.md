@@ -1,4 +1,4 @@
-<!-- TITLE: Insignias -->
+<!-- TITLE: [ES] Insignias -->
 <!-- SUBTITLE: Insignias Discord -->
 
 Discord tiene diferentes insignas que distinguen a un usuario como miembro de grupos específicos. Las Insignias se muestran en la tarjeta de perfil del usuario. Para acceder a la tarjeta de perfil de alguien, haz clic en ellos y selecciona **ver perfil** flotando sobre su avatar.
