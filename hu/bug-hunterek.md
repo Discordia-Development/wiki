@@ -1,4 +1,4 @@
-<!-- TITLE: Bug Hunterek-->
+<!-- TITLE: [HU] Bug Hunterek-->
 <!-- SUBTITLE: Segítenek a Discord fejlesztőinek a hibajelentések kezelésében és a hibák javításában -->
 # Bug Hunterek
 A Bug Hunterek olyan Discord felhasználók akik olyan hibákat találtak bármely Discord kliensben, majd jelentették azt, és ezt három másik felhasználó megerősítette [Dabb](https://cdn.discordapp.com/attachments/309775070065328131/316330589634560020/DabbitDab.gif)it Prime vezetésével. Ők segítenek a Discord fejlesztőknek felfedezni, majd javítani a hibákat.
