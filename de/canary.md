@@ -1,4 +1,4 @@
-<!-- TITLE: Discord Canary -->
+<!-- TITLE: [DE] Discord Canary -->
 
 Canary ist das Alpha-Testprogramm von Discord. Es ist sehr instabil und hat viele Bugs, bekommt aber meistens schon früher neue Features als die [PTB](/ptb) oder die [Discord Stable](/de/discord-stable) Versionen. Der Zweck des Canary-Baus ist es, den Benutzern zu helfen, Discord beim Test von neuen Funktionen zu helfen. Falls du einen Fehler auf einer Canary-Version finden, melde ihn bitte auf dem Server [Discord Testers](http://discord.gg/discord-testers).
 
