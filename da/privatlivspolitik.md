@@ -1,4 +1,4 @@
-<!-- TITLE: Danish - Privatlivspolitik -->
+<!-- TITLE: [DA] Privatlivspolitik -->
 <!-- SUBTITLE: Privatlivspolitikken for alle Tjenester leveret af Discord Wiki -->
 
 # Indledning
