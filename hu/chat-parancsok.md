@@ -1,4 +1,4 @@
-<!-- TITLE: Chat parancsok -->
+<!-- TITLE: [HU] Chat parancsok -->
 <!-- SUBTITLE: Az összes parancs (ideértve a nem dokumentáltakat is) leírása. -->
 
 # Discord Chat parancsok
