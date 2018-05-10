@@ -1,4 +1,4 @@
-<!-- TITLE: French - Ressources Discord -->
+<!-- TITLE: [FR] Ressources Discord -->
 <!-- SUBTITLE: Ci-dessous se trouve une liste de ressources utiles pour Discord -->
 
 # Ressources officielles
