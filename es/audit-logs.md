@@ -1,4 +1,4 @@
-<!-- TITLE:Registro de Auditoria -->
+<!-- TITLE: [ES] Registro de Auditoria -->
 <!-- SUBTITLE: Información sobre el Registro de Auditoria de Discord -->
 
 Alguna vez te has preguntado quien ha creado un nuevo canal en tu servidor? O acaso quien ha bloqueado a un usuario buscapleitos? Que no cunda el pánico, ¡el Registro de Auditoria esta aquí para decirte quien hizo que en tus servidores!
