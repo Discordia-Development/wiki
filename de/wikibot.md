@@ -1,4 +1,4 @@
-<!-- TITLE: German - Discord WikiBot -->
+<!-- TITLE: [DE] Discord WikiBot -->
 <!-- SUBTITLE: Discordia's WikiBot -->
 ​
 
