@@ -1,4 +1,4 @@
-<!-- TITLE: Betöltő szövegek -->
+<!-- TITLE: [HU] Betöltő szövegek -->
 <!-- SUBTITLE: Egy gyors összefoglaló a betöltő szövegekről -->
 
 A betöltő üzenetek a Discord asztali és iOS verziójainak funkciói. Ezek egy mondást, általában egy videojáték referenciát jelenítenek meg, a "Loading" szóval együtt, amíg a Discord be nem tölt, majd a "Ready" szót fogja kiírni. Ezek a Discord frissítésekor is megjelennek.
