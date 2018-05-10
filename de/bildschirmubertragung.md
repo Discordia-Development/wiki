@@ -1,4 +1,4 @@
-<!-- TITLE: Bildschirmübertragung -->
+<!-- TITLE: [DE] Bildschirmübertragung -->
 <!-- SUBTITLE: Demnächst verfügbar!-->
 
 Die Bildschirmübertragung ist eine unveröffentlichte Funktion, die es dem Benutzer ermöglicht, seinen Bildschirminhalt zu erfassen und zu übertragen. Neben der Bildschirmübertragung werden auch [Videoanrufe](/de/videoanrufe) entwickelt.
