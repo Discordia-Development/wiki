@@ -1,4 +1,4 @@
-<!-- TITLE:Dziennik Zdarzeń -->
+<!-- TITLE: [PL] Dziennik Zdarzeń -->
 <!-- SUBTITLE: Informacje o Discordowym Dzienniku Zdarzeń -->
 
 Czy zastanawiałeś się kiedyś, kto stworzył nowy kanał na twoim serwerze? Lub kto był osobą, która zbanowała kłopotliwego użytkownika? Nie obawiaj się, Dzienniki Zdarzeń są po to, aby powiedzieć, kto, co zrobił na twoim serwerze!
