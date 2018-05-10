@@ -1,4 +1,4 @@
-<!-- TITLE:Discord Stable -->
+<!-- TITLE: [RO] Discord Stable -->
 
 Discord Stable este programul Discord principal. 
 Programul principal este numit Stable deoarece are foarte puține erori.
