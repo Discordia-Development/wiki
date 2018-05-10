@@ -1,4 +1,4 @@
-<!-- TITLE: Starea Utilizatorilor -->
+<!-- TITLE: [RO] Starea Utilizatorilor -->
 <!-- SUBTITLE: Apasă un singur buton pentru a activa sau dezactiva notificațiile. -->
 
 Starea de utilizator pe Discord constă în 4 setări care sunt de fapt schimbări făcute rapid pentru notificații. Este inspirat de opțiunea de status din alte programe de chat și VoIP. Starea poate fi schimbată făcând click pe imaginea ta de profil din stânga în programele de desktop și mobil.
