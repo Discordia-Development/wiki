@@ -1,4 +1,4 @@
-<!-- TITLE:Discord WikiBot -->
+<!-- TITLE: [RO] Discord WikiBot -->
 <!-- SUBTITLE: Discordia WikiBot -->
 
 Discord WikiBot este o unealtă simplă, dar efectivă care preia articole de pe Discord Wiki și Discord [Helpdesk](https://support.discordapp.com/hc/en-us). Este ca un omuleț de treabă care poate lua cărți din bibliotecă pentru tine! 
