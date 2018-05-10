@@ -1,4 +1,4 @@
-<!-- TITLE: French - Politique de confidentialité -->
+<!-- TITLE: [FR] Politique de confidentialité -->
 <!-- SUBTITLE: La politique de confidentialité relative à tous les services proposés par le wiki Discord non officiel -->
 
 # Introduction
