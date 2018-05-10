@@ -1,4 +1,4 @@
-<!-- TITLE: Emojis -->
+<!-- TITLE: [RO] Emojis -->
 <!-- SUBTITLE: O imagine face cât o mie de cuvinte, deci de ce să nu ai propriile tale emojis? Din fericire, Discord include un mod foarte simplu și rapid de adăuga aproape orice image ca un emote personalizat! (Atât timp cât ai permisiunea „Administrează Emojis”) -->
 
 ## Emoji Personalizate
