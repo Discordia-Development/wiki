@@ -1,4 +1,4 @@
-<!-- TITLE: Suche -->
+<!-- TITLE: [DE] Suche -->
 ​
 Discord hat eine Suchfunktion erstellt, welche Ihnen ermöglicht, Nachrichten einfach zu finden anstatt durch Textkanäle scrollen zu müssen.
 # Verwenden der Suchfunktion
