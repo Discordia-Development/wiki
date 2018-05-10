@@ -1,4 +1,4 @@
-<!-- TITLE: French - Authentification à deux facteurs -->
+<!-- TITLE: [FR] Authentification à deux facteurs -->
 <!-- SUBTITLE: Utilisation de l’authentification à deux facteurs -->
 
 L’authentification à deux facteurs est une deuxième mesure de sécurité lors de la connexion à Discord. Elle n’est pas nécessaire, mais recommandée pour des raisons de sécurité. 
