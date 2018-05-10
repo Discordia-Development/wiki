@@ -1,4 +1,4 @@
-<!-- TITLE: Modul Dezvoltator -->
+<!-- TITLE: [RO] Modul Dezvoltator -->
 <!-- SUBTITLE: Chiar te va ajuta în viață. -->
 
 Dacă te vei folosi de Discord API, spre exemplu dacă vrei să faci un [robot](/bots), atunci Modul Dezvoltator de pe Discord îți va fi de mare ajutor.
