@@ -1,4 +1,4 @@
-<!-- TITLE: French - Support Discord -->
+<!-- TITLE: [FR] Support Discord -->
 <!-- SUBTITLE: Serveurs communautaires de support et informations relatifs à Discord -->
 
 # Lieux officiels d’obtention de support et d’information
