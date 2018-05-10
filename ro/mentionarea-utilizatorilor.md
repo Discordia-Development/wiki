@@ -1,4 +1,4 @@
-<!-- TITLE: Menționări -->
+<!-- TITLE: [RO] Menționări -->
 <!-- SUBTITLE: Trimite notificații direct utilizatorilor -->
 
 Menționările sunt un mod de a notifica un utilizatori, mai mulți utilizatori sau roluri în mesaje. Scopul lor principal este de a face pe cineva să vizualizeze un canal sau de a-i arată că vrei să-i transmiți ceva. Poți menționa utilizatori sau roluri folosind `@name`.
