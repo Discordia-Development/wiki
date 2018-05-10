@@ -1,4 +1,4 @@
-<!-- TITLE:GameBridge -->
+<!-- TITLE: [RO] GameBridge -->
 <!-- SUBTITLE: O integrare pentru Dezvoltatorii de Jocuri -->
 
 GameBridge este un SDK care le permite dezvoltatorilor să integreze Discord în jocurile lor. GameBridge este încă într-un program beta privat și trebuie să te înscrii pentru a participa în el.
