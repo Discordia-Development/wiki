@@ -1,4 +1,4 @@
-<!-- TITLE: Łowcy Błędów -->
+<!-- TITLE: [PL] Łowcy Błędów -->
 <!-- SUBTITLE: Pomagają Deweloperom Discord zarządzać raportami o błędach i je naprawiać -->
 # Bug Hunters
 Łowcy Błędów [ang. *Bug Hunters*] to elitarna grupa użytkowników Discord, którzy z sukcesem odkryli błąd Discord na dowolnym kliencie, który następnie został odtworzony przez trzech dowolnych użytkowników z Teamu pod przewodnictwem [Dabb](https://cdn.discordapp.com/attachments/309775070065328131/316330589634560020/DabbitDab.gif)ita Prime. Pomagają oni Deweloperom dowiedzieć się więcej o występujących błędach.
