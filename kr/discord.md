@@ -1,4 +1,4 @@
-<!-- TITLE: 디스코드 -->
+<!-- TITLE: [KR] 디스코드 -->
 
 ![로고](/uploads/discord/logo.png "로고")
 
