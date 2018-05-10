@@ -1,4 +1,4 @@
-<!-- TITLE: Text zu Sprache -->
+<!-- TITLE: [DE] Text zu Sprache -->
 
 Mit Text zu Sprache (Kurzform TTS) können Sie eine Nachricht an Personen in einem Kanal senden. Um dies zu tun, führen Sie den Befehl `/ tts <MESSAGE>` in dem Kanal aus, in dem die Nachricht gesendet werden soll. Dies verwendet immer die System-TTS-Engine, daher klingt es auf jedem Gerät anders.
 
