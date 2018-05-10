@@ -1,4 +1,4 @@
-<!-- TITLE: Hungarian - Support -->
+<!-- TITLE: [HU] Support -->
 
 # Discord Support
 Ha segítségre van szükséged a Discorddal kapcsolatban, látogass el a [Segítség Központba](https://support.discordapp.com/hc/en-us), vagy lépj kapcsolatba a Vevőszolgálattal a support@discordapp.com e-mail címen.
