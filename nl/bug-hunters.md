@@ -1,4 +1,4 @@
-<!-- TITLE: Dutch - Bug Hunters -->
+<!-- TITLE: [NL] Bug Hunters -->
 <!-- SUBTITLE: Helpen Discord Developers met het rapporteren en fixen van Bugs -->
 # Bug Hunters
 Bug Hunters zijn een elite groep Discord gebruikers die met succes voor een van de Discord clients een bug hebben gevonden en deze door drie individuele gebruikers gereproduceerd krijgen. Zij helpen de Discord developers met het leren kennen en fixen van bugs.
