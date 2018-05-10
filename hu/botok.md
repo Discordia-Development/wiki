@@ -1,4 +1,4 @@
-<!-- TITLE: Botok -->
+<!-- TITLE: [HU] Botok -->
 <!-- SUBTITLE: Információ a különböző Discord bot könyvtárakról -->
 
 A Discord lehetővé teszi a felhasználók számára, hogy botokat hozzanak létre, és meghívják azokat szerverekre. A Discord létrehozott egy egyedi API-t, aminek a segítségével applikációk hozhatóak létre, melyek közvetlenül a szerverrel lépnek interakcióba. Az API dokumentációt [itt](https://discordapp.com/developers/docs/intro) tekintheted meg.
