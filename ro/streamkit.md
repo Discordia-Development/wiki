@@ -1,4 +1,4 @@
-<!-- TITLE: Discord StreamKit -->
+<!-- TITLE: [RO] Discord StreamKit -->
 
 Discord [StreamKit](https://discordapp.com/streamkit) îți pune la dispoziție o serie de unelte care îți pot face experiența de streaming mai bună. 
 
