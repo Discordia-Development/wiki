@@ -1,4 +1,4 @@
-<!-- TITLE: Bots -->
+<!-- TITLE: [DE] Bots -->
 
 Discord erlaubt Benutzern, Bots zu erstellen und sie in Server einzuladen. Discord hat eine einzigartige API (zu deutsch: Anwendungsprogrammierschnittstelle) erstellt, die es Benutzern erlaubt Anwendungen zu entwickeln die direkt mit dem Server interagieren. Du kannst dir die API Dokumentation [hier](https://discordapp.com/developers/docs/intro) anschauen.
 [Hier](http://discord.gg/discord-api) geht es zum API Discord Server der von der Community geleitet wird.
