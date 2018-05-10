@@ -1,4 +1,4 @@
-<!-- TITLE: Allgemeine Geschäftsbedingungen -->
+<!-- TITLE: [DE] Allgemeine Geschäftsbedingungen -->
 <!-- SUBTITLE: Die Nutzungsbedingungen für alle Dienste von The Discord Wiki -->
 
 # 1. Annahme der Nutzungsbedingungen
