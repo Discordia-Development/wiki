@@ -1,4 +1,4 @@
-<!-- TITLE: German - HypeSquad -->
+<!-- TITLE: [DE] HypeSquad -->
 <!-- SUBTITLE: Bist du auch schon gehyped? Denn ich fühle mich mega hype dir das Coolste erzählen zu können! -->
 
 ![Hypesquadsmall](/uploads/hypesquad/hypesquadsmall.png "Hypesquadsmall")
