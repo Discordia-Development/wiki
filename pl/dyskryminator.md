@@ -1,4 +1,4 @@
-<!-- TITLE: Dyskryminator -->
+<!-- TITLE: [PL] Dyskryminator -->
 <!-- SUBTITLE: Informacje o Discordowych Dyskryminatorach -->
 
 # Dyskryminator
