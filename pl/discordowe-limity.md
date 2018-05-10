@@ -1,4 +1,4 @@
-<!-- TITLE: Limity Serwerowe -->
+<!-- TITLE: [PL] Limity Serwerowe -->
 <!-- SUBTITLE: Różne ograniczenia serwerów Discord -->
 
 # Serwerowe limity 
