@@ -18,7 +18,5 @@ Poți folosi `@everyone` și `@here` pentru a menționa fiecare membru cu sau f�
 # Menționarea folosind ID-uri
 
 Poți de asemenea menționa direct un utilizator sau rol cu ID-uri. Programul schimbă `@role` sau `@username#discrim` cu `<@ID>` și invers automat. Motivul pentru care se folosește această metodă este că numele se schimbă, dar ID-urile nu. Poți face programul să nu afișeze menționările ca utilizatorul- sau numele rolului ieșind din menționare. Poți scrie `\@name#discrim` sau `\@role` și va fi afișat ID-ul, iar utilizatorul tot va fi menționat. Menționarea utilizatorilor folosind ID-ul este foarte des întâmpinată la roboți.
-<!-- TITLE: Mentionarea Utilizatorilor -->
-<!-- SUBTITLE: A quick summary of Mentionarea Utilizatorilor -->
 
 # Header
