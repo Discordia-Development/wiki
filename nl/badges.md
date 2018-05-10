@@ -1,4 +1,4 @@
-<!-- TITLE: Dutch - Badges -->
+<!-- TITLE: [NL] Badges -->
 <!-- SUBTITLE: Informatie over Discord gebruiker badges. -->
 
 Discord heeft verschillende badges die leden van onderscheiden als lid van een bepaalde groep. Badges zijn te zien op een gebruiker zijn profiel. Om toegang te krijgen tot een gebruiker zijn profiel klik je op de zijn profiel foto, daarna selecteer je met je rechtermuisknop **profiel** 
