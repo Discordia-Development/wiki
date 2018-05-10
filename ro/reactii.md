@@ -1,4 +1,4 @@
-<!-- TITLE: Reacții -->
+<!-- TITLE: [RO] Reacții -->
 
 Reacțiile te lasă să „reacționezi” la mesajele altor persoane. Reacțiile vor apărea ca un emoji mic poziționat sub un mesaj, împreună cu o numărătoare pentru fiecare reacție. Trebuie să ai permisiunea „Adaugă reacție” pentru a reacționa la un mesaj, dar, nu este nevoie de nicio permisiune pentru a reacționa cu o reacție deja adăugată, deja prezentă pentru un mesaj. Numărătoarea arată câți oameni au reacționat cu același emoji.
 
