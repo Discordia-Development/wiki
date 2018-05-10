@@ -1,4 +1,4 @@
-<!-- TITLE: Datenschutzbestimmungen -->
+<!-- TITLE: [DE] Datenschutzbestimmungen -->
 <!-- SUBTITLE: Die Datenschutzbestimmungen für alle Dienste von The Discord Wiki -->
 
 # Einführung
