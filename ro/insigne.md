@@ -1,4 +1,4 @@
-<!-- TITLE: Insigne -->
+<!-- TITLE: [RO] Insigne -->
 <!-- SUBTITLE: Insigne Discord -->
 
 Discord are diferite insigne pentru a evidenția că un utilizator aparține de niște grupuri specifice. Insignele sunt afișate pe cardul de profil al unui utilizator. Pentru a accesa cardul de profil al unui utilizator, dă click pe el, pune cursorul peste imaginea lui de profil și selectează **vezi profil**.
