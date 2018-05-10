@@ -1,4 +1,4 @@
-<!-- TITLE: Discord Web -->
+<!-- TITLE: [RO] Discord Web -->
 <!-- SUBTITLE:Aplicația Discord pentru browser -->
 
 Discord are un web app care îți permite să folosești serviciul fără a descărca aplicația. Pentru a accesa web app-ul, mergi la discordapp.com/channels/@me. 
