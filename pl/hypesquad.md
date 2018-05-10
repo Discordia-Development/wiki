@@ -1,4 +1,4 @@
-<!-- TITLE: Polish - HypeSquad -->
+<!-- TITLE: [PL] HypeSquad -->
 <!-- SUBTITLE: Czy masz dużo Hypu? Ponieważ czujemy się bardzo podjarani, aby opowiedzieć ci o tej naprawdę fajnej rzeczy! -->
 
 ![Hypesquadsmall](/uploads/hypesquad/hypesquadsmall.png "Hypesquadsmall")
