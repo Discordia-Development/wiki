@@ -1,4 +1,4 @@
-<!-- TITLE: Jelvények -->
+<!-- TITLE: [HU] Jelvények -->
 <!-- SUBTITLE: Információ a Discord különböző felhasználó jelvényeiről -->
 
 A Discordnak sokféle jelvénye van, amik besorolják a különböző felhasználókat adott csoportokba. A jelvényeket az adott felhasználó profilkártyáján találod. Ahhoz, hogy megtaláld valaki profilkártyáját, kattints egy felhasználóra és az egeredet vidd a profilképére, majd ismét kattints rá.
