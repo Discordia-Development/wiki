@@ -1,4 +1,4 @@
-<!-- TITLE: HypeSquad -->
+<!-- TITLE: [RO] HypeSquad -->
 <!-- SUBTITLE: Ești entuziasmat? Pentru că eu sunt super duper entuziasmat să-ți spun despre chestia asta foarte cool! -->
 
 ![Hypesquadsmall](/uploads/hypesquad/hypesquadsmall.png "Hypesquadsmall")
