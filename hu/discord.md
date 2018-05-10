@@ -1,4 +1,4 @@
-<!--TITLE: Hungarian - Discord -->
+<!--TITLE: [HU] Discord -->
 
 ![Logo](/uploads/discord/logo.png "Logó")
 
