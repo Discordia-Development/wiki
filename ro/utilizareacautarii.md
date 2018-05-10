@@ -1,5 +1,4 @@
-
-<!-- TITLE: Căutare -->
+<!-- TITLE: [RO] Căutare -->
 
 Discord a creeat o funcție care îți permite să cauți și găsești mesaje fără a fi nevoie să faci scrolling în canalele de text.
 
