@@ -1,4 +1,4 @@
-<!-- TITLE: French - Wumpus -->
+<!-- TITLE: [FR] Wumpus -->
 
 Wumpus est l’une des mascottes de Discord.
 
