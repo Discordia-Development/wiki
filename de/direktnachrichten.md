@@ -1,4 +1,4 @@
-<!-- TITLE: Direktnachrichten -->
+<!-- TITLE: [DE] Direktnachrichten -->
 <!-- SUBTITLE: Senden von Nachrichten an Nutzern außerhalb des Servers -->
 
 Direkte Nachrichten (kurz "DMs") sind eine minimalistische Version von Discord Gilden zwischen mehreren Nutzern. Sie haben kein Berechtigungssystem, und nur einen Kanal. Benutzer können nur direkt von Freunden eingeladen werden, im Gegensatz zu Gilden, wo dies mit einem sofortigen Einladungslink durchgeführt werden muss.
