@@ -1,4 +1,4 @@
-<!-- TITLE: Discord Web-->
+<!-- TITLE: [DE] Discord Web-->
 <!-- SUBTITLE: Discord Browser Client-->
 
 Discord hat eine Web-App, die es ermöglicht, auf den Dienst zuzugreifen, ohne eine Anwendung herunterzuladen. Um auf die Web-App zuzugreifen, gehen Sie zu discordapp.com/channels/@me.
