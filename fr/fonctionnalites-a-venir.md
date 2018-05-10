@@ -1,4 +1,4 @@
-<!-- TITLE: French - Fonctionnalités à venir -->
+<!-- TITLE: [FR] Fonctionnalités à venir -->
 <!-- SUBTITLE: Informations à propos des fonctionnalités à venir -->
 
 # Fonctionnalités à venir
