@@ -1,4 +1,4 @@
-<!-- TITLE: Chat-Befehle -->
+<!-- TITLE: [DE] Chat-Befehle -->
 <!-- SUBTITLE: Beschreibt alle verfügbaren Chat-Befehle, auch die nicht-offensichtlichen / nicht-dokumentierten Befehle -->
 
 # Discord Chat-Befehle
