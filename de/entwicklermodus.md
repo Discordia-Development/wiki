@@ -1,4 +1,4 @@
-<!-- TITLE: Entwicklermodus -->
+<!-- TITLE: [DE] Entwicklermodus -->
 <!-- SUBTITLE: Es wird Ihnen ernsthaft im Leben helfen. -->
 
 Wenn Sie die Discord API nutzen werden, zum Beispiel um einen [Bot](/bots) zu erstellen, dann wird Discord's *Entwicklermodus* eine große Hilfe für Sie darstellen.
