@@ -1,4 +1,4 @@
-<!-- TITLE: French - Serveurs -->
+<!-- TITLE: [FR] Serveurs -->
 <!-- SUBTITLE: Une présentation rapide des serveurs -->
 Le serveur (parfois appelé une *guilde* dans la documentation de Discord) est la fonctionnalité principale de Discord.
 
