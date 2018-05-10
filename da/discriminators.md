@@ -1,4 +1,4 @@
-<!-- TITLE: Danish - Discriminator -->
+<!-- TITLE: [DA] Discriminator -->
 <!-- SUBTITLE: Information om Discord discriminators -->
 
 # Discriminator
