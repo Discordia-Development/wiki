@@ -1,4 +1,4 @@
-<!-- TITLE: Csatorna kategóriák -->
+<!-- TITLE: [HU] Csatorna kategóriák -->
 <!-- SUBTITLE: A csatorna kategóriák leírása -->
 
 # Csatorna kategóriák
