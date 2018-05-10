@@ -1,4 +1,4 @@
-<!-- TITLE: Integracja ze Spotify -->
+<!-- TITLE: [PL] Integracja ze Spotify -->
 
 # Integracja ze Spotify
 ## Dodawanie integracji
