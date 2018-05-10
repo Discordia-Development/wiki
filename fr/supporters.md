@@ -1,4 +1,4 @@
-<!-- TITLE: French - Soutiens du wiki Discord non officiel -->
+<!-- TITLE: [FR] Soutiens du wiki Discord non officiel -->
 <!-- SUBTITLE: Cette page est complètement et entièrement dédiée aux adorables personnes qui nous aident à payer notre hébergement web ! Honnêtement, sans votre aide, ce projet serait un monstre absolu qu’il faudrait affronter seul, alors : merci ! -->
 
 # Gens de Patreon
