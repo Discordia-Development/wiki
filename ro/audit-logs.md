@@ -1,4 +1,4 @@
-<!-- TITLE:Audit Logs -->
+<!-- TITLE: [RO] Audit Logs -->
 <!-- SUBTITLE: Audit Logs pe Discord -->
 
 Te-ai întrebat vreodată cine a creat un nou canal pe server-ul tău? Sau cine a interzis accesul unui utilizator care vă dădea bătăi de cap? Atunci, ai găsit ce căutai, audit logs sunt aici să-ți spună cine a făcut ce pe serverele tale !
