@@ -1,4 +1,4 @@
-<!-- TITLE: Mobil -->
+<!-- TITLE: [RO] Mobil -->
 <!-- SUBTITLE: Aplicații Discord pentru mobil -->
 
 Discord are și aplicații de mobil care îți permit să folosești minunatul program pe telefonul tău.
