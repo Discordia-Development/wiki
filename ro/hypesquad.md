@@ -18,5 +18,4 @@ Ca să intri în HypeSquad, trebuie să completezi un [formular](https://discord
 
 # Video Oficial
 
-[video](https://www.youtube.com/watch?v=rXZkTT-5m9o){.youtube}<!-- TITLE: Hypesquad -->
-<!-- SUBTITLE: A quick summary of Hypesquad -->
+[video](https://www.youtube.com/watch?v=rXZkTT-5m9o){.youtube}
