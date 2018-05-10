@@ -1,4 +1,4 @@
-<!-- TITLE: Discord Stable -->
+<!-- TITLE: [DE] Discord Stable -->
 
 Discord Stable ist der Hauptclient von Discord. Den Namen hat er deswegen, da er sehr wenige Bugs (Programmfehler) hat. Alle Funktionen die auf dem Hauptclient veröffentlicht werden, wurden vorher von Benutzern auf dem [Canary](/de/canary) und/oder auf der öffentlichen Testversion (PTB) getest.
 
