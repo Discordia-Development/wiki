@@ -1,4 +1,4 @@
-<!-- TITLE: Vizsgálati napló -->
+<!-- TITLE: [HU] Vizsgálati napló -->
 <!-- SUBTITLE: Információk a Discord Vizsgálati naplóról -->
 
 Gondolkodtál már azon, hogy ki hozott létre új csatornát a szervereden? Vagy hogy ki tiltott ki egy bajkeverő felhasználót? Egyet se félj, a Vizsgálati napló megérkezett, hogy elmeséljen mindent arról ami a szervereiden történt!
