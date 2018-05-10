@@ -1,4 +1,4 @@
-<!-- TITLE: Dutch - Servicevoorwaarden -->
+<!-- TITLE: [NL] Servicevoorwaarden -->
 <!-- SUBTITLE: De Servicevoorwaarden voor de door The Discord Wiki aangeboden diensten -->
 
 # 1. Acceptatie van de Servicevoorwaarden
