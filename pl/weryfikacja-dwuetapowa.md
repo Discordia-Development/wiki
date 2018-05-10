@@ -1,4 +1,4 @@
-<!-- TITLE: Weryfikacja Dwuetapowa -->
+<!-- TITLE: [PL] Weryfikacja Dwuetapowa -->
 <!-- SUBTITLE: Używanie weryfikacji dwuetapowej na Discordzie -->
 
 Weryfikacja dwuetapowa jest drugim stopniem bezpieczeństwa podczas logowania do Discorda. Nie jest wymagana, lecz zalecana ze względów bezpieczeństwa.
