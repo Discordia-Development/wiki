@@ -1,4 +1,4 @@
-<!-- TITLE: Chinese - 汉语 - 主页 -->
+<!-- TITLE: Chinese - 主页 -->
 <!-- SUBTITLE: 欢迎您来非官方Discord维基！ -->
 
 # 欢迎
