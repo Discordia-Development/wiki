@@ -44,7 +44,7 @@ This would make the text appear as:
 ![C 144 Da](/uploads/markdown/c-144-da.png "Inline code block in chat.")
 
 ## Code block formatting
-Surround text with three backticks (\`\`\`) to create a Code Block, if you want colored text, follow with a Highlight.js language ID)
+Surround text with three backticks (\`\`\`) to create a Code Block, if you want colored text, follow with a Highlight.js language ID
 
 ![A 16 Ed 5](/uploads/markdown/a-16-ed-5.png "Multiline code block in typing window.")
 
