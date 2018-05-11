@@ -13,7 +13,6 @@ This is a list of features that will be occasionally updated with information ab
 | Block Quotes | Planned |
 | Games Feed | In Development |
 | Group DM Invites | Planned |
-| Inline Audio Player | Available on Canary |
 | Permissions Preview Tool | Planned |
 | Priority Speaker | In Development |
 
@@ -22,8 +21,9 @@ This is a list of features that will be occasionally updated with information ab
 |---------|---------|
 | 3D Touch Support | Planned |
 | Audit Log | Planned |
+| Jump to Message | Planned |
 | Custom Keyboard | Planned |
-| Quick Switcher | Planned |
+| Quick Switcher | Available on iOS TestFlight |
 | Rich Push Notifications | Planned |
 | Security Compatibility | Planned |
 | Server Sorting | Planned |
