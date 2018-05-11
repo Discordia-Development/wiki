@@ -41,6 +41,7 @@ Olá! Bem-vindo a The Unofficial Discord Wiki! Nós acreditamos fortemente em tr
 * @Disegual#4088 - Italiano
 * @erykol#8141 - Polonês
 * @Getmanxed#4343 - Húngaro
+* @Immotay#0001 - Português-Brasileiro
 * @jacob#0513 - Japonês
 * @Joni#0001 - Finlandês
 * @JustAndras#0001 - Húngaro
@@ -54,7 +55,6 @@ Olá! Bem-vindo a The Unofficial Discord Wiki! Nós acreditamos fortemente em tr
 * @Vividia#1224 - Húngaro
 * @xstarmax#0499 - Húngaro
 * @zabszk#5292 - Polonês
-* @Immotay#0001 - Português-Brasileiro
 
 > ***Desenvolvedores do Bot***
 
