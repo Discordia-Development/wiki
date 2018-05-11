@@ -41,6 +41,7 @@ Hey there! Welcome to The Unofficial Discord Wiki! We're strong believers in tra
 * @Disegual#4088 - Italian
 * @erykol#8141 - Polish
 * @Getmanxed#4343 - Hungarian
+* @Immotay#0001 - Brazilian-Portuguese
 * @jacob#0513 - Japanese
 * @Joni#0001 - Finnish
 * @JustAndras#0001 - Hungarian
