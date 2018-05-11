@@ -41,6 +41,7 @@ Halihó! Üdvözöllek a The Unofficial Discord Wikin! Az átláthatóság hív�
 * @Disegual#4088 - Olasz
 * @erykol#8141 - Lengyel
 * @Getmanxed#4343 - Magyar
+* @Immotay#0001 - Brazilíai-Portugál
 * @jacob#0513 - Japán
 * @Joni#0001 - Finn
 * @JustAndras#0001 - Magyar
