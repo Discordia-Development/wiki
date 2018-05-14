@@ -3,7 +3,7 @@
 
 This is the changelog/release date for major features or significant changes. PTB and Canary might have received some features sooner than the date listed below.
 
-# 5/14/18
+# 5/14/2018
 * Offline members no longer hidden in smaller guilds
 * Data bandwith reduction
 * Battery consumption rediction
