@@ -3,15 +3,26 @@
 
 This is the changelog/release date for major features or significant changes. PTB and Canary might have received some features sooner than the date listed below.
 
+# 5/14/18
+* Offline members no longer hidden in smaller guilds
+* Data bandwith reduction
+* Battery consumption rediction
+* Increased max server capacity
+* Xbox connection added (Xbox insiders only)
+* Native audio file player
+* [Screensharing](/screensharing) now includes audio
+* New login/authentication screens
+* Added volume slider to inline media player
+* Instant invite popup has user suggestions
+* Made more dark theme modals dark
 # 5/1/2018
 
 ## iOS
 
-* Long press a message to see who reacted. You can also remove reactions now.
+* Long press a message to see who reacted
 * Added hide muted channels toggle
 * Added Privacy Settings
-* You can now connect your account with Xbox Live.
-* Bug fixes
+
 # 4/17/2018
 
 ## iOS
@@ -19,7 +30,7 @@ This is the changelog/release date for major features or significant changes. PT
 * Added support for iOS's native share menu
 * Added change logs
 * Added support for the Bug Hunter badge
-* Bug fixes
+
 # 4/1/2018 (April Fool's)
 * @someone ping, randomly selects someone in the server
 * Discord crashes at random
