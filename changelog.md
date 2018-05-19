@@ -3,6 +3,9 @@
 
 This is the changelog/release date for major features or significant changes. PTB and Canary might have received some features sooner than the date listed below.
 
+# 5 18/2018
+* Xbox integration released to all
+
 # 5/14/2018
 * Offline members no longer hidden in smaller guilds
 * Data bandwith reduction
