@@ -27,7 +27,7 @@ Alors, qu’est-ce que tout cela signifie ? Et bien, chaque fois qu’un utilisa
 * la création, la suppression ou la modification d'un rôle ;
 * une modification du serveur ;
 * la création, la modification ou la suppression d’un webhook ;
-* la suppression d’un message par un utilisateur ou un [robot](/fr/bots)
+* la suppression d’un message par un utilisateur ou un [robot](/fr/bots).
 
 
 # Avoir plus de détails
