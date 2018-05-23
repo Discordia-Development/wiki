@@ -1,11 +1,11 @@
-<!-- TITLE: Spotify Integration -->
+![E 96 Faa](/uploads/e-96-faa.png "E 96 Faa")<!-- TITLE: Spotify Integration -->
 
 # Spotify Integration
 ## Adding the Integration
 
 A Spotify account can be added to your profile through the Connections tab in User Settings.
 
-<p style="text-align: left;"><img src="https://cats.needs-to-s.top/e96faa.png" alt="Connections" align="middle"></p>
+![Integrations](/uploads/e-96-faa.png "E 96 Faa")
 
 Upon clicking the Spotify logo, you will be directed to a login page to enter your Spotify username and password. Once this is done, your Spotify account will appear in the Connections tab. 
 Below the profile, options will include:
