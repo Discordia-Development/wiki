@@ -1,4 +1,4 @@
-![E 96 Faa](/uploads/e-96-faa.png "E 96 Faa")<!-- TITLE: Spotify Integration -->
+<!-- TITLE: Spotify Integration -->
 
 # Spotify Integration
 ## Adding the Integration
