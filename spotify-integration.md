@@ -5,7 +5,7 @@
 
 A Spotify account can be added to your profile through the Connections tab in User Settings.
 
-<p style="text-align: left;"><img src="https://cats.needs-to-s.top/c8e0fe.png" alt="Connections" align="middle"></p>
+<p style="text-align: left;"><img src="https://cats.needs-to-s.top/e96faa.png" alt="Connections" align="middle"></p>
 
 Upon clicking the Spotify logo, you will be directed to a login page to enter your Spotify username and password. Once this is done, your Spotify account will appear in the Connections tab. 
 Below the profile, options will include:
