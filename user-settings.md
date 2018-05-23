@@ -1,55 +1,73 @@
 <!-- TITLE: User Settings -->
 
 The following settings are available to Discord users. *Note: Some of these settings may not be available on the [web](/web) or [mobile](/mobile) applications.*
+# Online Status
+You may change your online status by clicking on your profile picture on the user settings bar located on the bottom left of the Discord application. A user's online status displayed by the dot that is on their profile picture on the userlist. If the user is offline (or invisible) they are not displayed with a dot or on the online userlist. You have the ability to change your online status to the following options:
 
-To access these settings, click the cog icon on the bottom left of the application.
+* Online - Default. Green dot.
+* Idle - Indicates that you are not actively on Discord or replying/reading messages. You will still receive notifications. Yellow dot. 
+* Do Not Disturb - Indicates you are busy. You will not receive desktop notifications. Red dot.
+* Invisible - Displays you as offline to everyone else but you still receive desktop notifications and have full access to Discord. Grey dot on your own screen, no dot on other users' screens (since you’re displayed as offline).
+
+To access the main settings, click the cog icon on the bottom left of the application.
 
 Each option is divided into a section below.
 # Tabs
 ## Account
 On the Account tab, you may edit your avatar, username, email and/or password. If you have 2-factor-authentication enabled, you will need to enter a code before you may change your email or password. To claim a new account, you need to enter an email and password in this this tab. You may only change your username twice every hour. if you have Nitro, you can change your [discriminator](/discriminator).
 
+You can also Delete or Disable your account from this tab, which you can find more information about [here](https://support.discordapp.com/hc/en-us/articles/360004066391-How-Do-I-Disable-My-Account-).
+
+You may also set up or disable [Two Factor Authentication](/2-fa) from this screen, and view your backup codes. There is also an option to set up or disable SMS authentication.
+
+## Privacy & Safety
+
+On the Privacy & Safety tab, you can edit your [Direct Messaging](/direct-messages) safety level. The three different safety levels control what content is scanned that is sent to you over DM's. You can also set your default preferences for enabling DM's from server members.
+
+The next section allows you to choose who can add you as a friend, which can be set to Everyone, Friends of Friends, and Server Members.
+
+### Data Privacy
+
+The lower section of this tab allows you to control how Discord uses your data, such as in analytics, and to customise certain parts of the application for you. You can [Request a copy of your data](/data-request) every 30 days.
+
+## Authorised Apps
+
+In this tab you can see any [bot applications](/bots) that you've authorised to use your data on Discord. You can deauthorise any of these applications at any time.
+
+## Connections
+This tab allows you to review the various account connections you have enabled on your account. More information can be found on the [Connections](/connections) page.
+
+-----
+
 ## Nitro
 On the Nitro tab, you may purchase or cancel a [Discord Nitro](/nitro) subscription. More information on Discord Nitro may be found [here](/nitro).
 
-## Connections
-On the Connections tab, you may connect a Twitch, Youtube, Skype, Steam, Reddit or Twitter account to your Discord account under the Connected Accounts menu. Click on a respective icon to connect an account from that website. From here you may also toggle whether or not Discord can automatically detect accounts from other platforms or not on your device.
+-----
 
-Under the connections icons, you will see all your linked accounts and whether or not you want to display it on your profile or if you want to sync friends from that platform to Discord.
+## Voice & Video
+The Voice and Video tab allows you to control your inputs and outputs for chatting.
 
-Under the Authorized Apps menu, you will be able to see which Discord API apps have access to what information related to your account. From here you may also remove authorized apps by hovering over them and clicking the Delete button.
+The top section allows you to change your input and output devices, and the relative volume levels for each of them. You can choose between using Voice Activity or Push to Talk for your microphone. Voice activity can either be automatically triggered, or a volume threshold can be set using the slider. Push to Talk allows you to set a key combination to turn your microphone on or off when in a voice channel or call. You also have the ability to change the release delay of this combination.
 
-On Browser, the Skype and Steam options are unavailable. On Mobile, this menu does not exist. 
+Video Settings allows you to select a camera input device for use in [video chat](/video-chat). Although this is usually a webcam, other devices such as capture cards may also appear on this list. Beside it, you can preview the output of the selected camera.
 
-## Friends 
-On the Friends tab, you may toggle who can add you as a friend. You may chose between everyone, server members or friends of friends.
-
-## Text & Images
-On the Text & Images tab, you may toggle the following options on or off:
-
-* Display Images, Videos and Lolcats when posted to the chat as links.
-* Display Images, Videos and Lolcats When uploaded directly to Discord.
-* Show website info preview from links sent into the chat.
-* Show emoji reactions on messages.
-* Convert emoticons to emoji.
-* Hear and use the text-to-speech command.
-
-## Voice
-On the Voice tab, you will find a Basic and Advanced menu.
-
-Under the Basic menu you may change your input device, output device and the volume of each device. Also, you may toggle between Push to Talk and Voice Activity. If you choose Push to Talk, you may also indicate a key bind to use to turn your mic on or off when in a voice channel or call. Finally, you also have the ability to change the Push to Talk release delay.
-
-Under the Advanced menu, you may toggle the following options on or off:
-* Echo Cancellation. 
-* Noise Suppression.
-* Automatic Gain Control.
-* Enable Quality of Service High Packet Priority.
-* Show a warning when no audio is detected from your microphone.
+Under the Advanced list, you may toggle the following options on or off:
+* Echo Cancellation
+* Noise Suppression
+* Automatic Gain Control
+* Enable Quality of Service High Packet Priority
+* Attenuation
+* Use Legacy Audio Subsystem
+* Show a warning when no audio is detected from your microphone
+* Debug Logging
 
 You also have the option to reset voice settings to default from this menu. 
 
+## Overlay
+The overlay tab contains control features for the in-game overlay. Here you may set the keybind for activating the overlay menu, and choose between large or small display avatars, if you want to display usernames, and wether to permanently display user icons.
+
 ## Notifications
-On the Notifications tab, you have the option to enable desktop notifications, enable text-to-speech and toggle sounds on and off for many different features (such as Push to Talk activation, incoming voice call, etc).
+On the Notifications tab, you have the option to enable desktop notifications, the unread message badge and taskbar flashing, how long to wait before forwarding notifications to your mobile device, and enable text-to-speech and toggle sounds on and off for many different features (such as Push to Talk activation, incoming voice call, etc).
 
 ## Keybinds
 On the Keybinds tab, you may add keybinds for the following actions:
@@ -61,14 +79,23 @@ On the Keybinds tab, you may add keybinds for the following actions:
 
 To add a keybind, click the Add Keybind button. To edit a keybind, either click on the function drop down menu or click on the key selector to change the actual keybind. To delete a keybind, click on the trash icon next to the specific keybind. 
 
-## Appearance
-On the Appearance tab, you may change between Dark Mode (default) and Light Mode for Discord by clicking on the respective icon. You may also switch between cozy (default) and compact mode, turn on [Developer Mode](/developermode) and toggle Hardware Acceleration on & off. On Mobile, the "Sync across clients" option is available. When enabled, this will set the Theme setting on mobile across your other clients. The Hardware Acceleration option is not available on Browser or Mobile editions. 
-
 ## Games
-On the Games tab, you may choose if you want Discord to display the current game you are playing as your status. If this is toggled on and you are playing a game, it will say "Playing ... [game name]" under your name on the userlist. If no game is detected you can manually select it by clicking on 'Add It'. Find the game on the scroll menu and click it. Once it appears in the blurple box you may click on it to rename it to anything of your choice. Your manually added games will automatically display on this tab too. You may rename previously manually added games by clicking on their names. This feature is unavailable on the Browser and Mobile clients, but you can see other users Playing statuses.
+On the Games tab, you may choose if you want Discord to display the current game you are playing as your status. If this is toggled on and you are playing a game, it will say "Playing ... [game name]" under your name on the userlist. If no game is detected you can manually select it by clicking on 'Add It'. Find the game on the scroll menu and click it. Once it appears in the blurple box you may click on it to rename it to anything of your choice. Your manually added games will automatically display on this tab too. You may rename previously manually added games by clicking on their names. This feature is unavailable on the Browser and Mobile clients, but you can see other users playing statuses.
 
-## Locale
-On the Locale tab, you may change the language of your Discord client by clicking on the language menu. Only fully translated languages are available. Some languages are still be worked on, which may be viewed [here](https://i18n.discordapp.com).
+## Text & Images
+On the Text & Images tab, you may toggle the following options on or off:
+
+* Display Images, Videos and Lolcats when posted to the chat as links.
+* Display Images, Videos and Lolcats When uploaded directly to Discord.
+* Automatically play gifs when Discord is focused.
+* Show website info preview from links sent into the chat.
+* Show emoji reactions on messages.
+* Play animated emoji
+* Convert emoticons to emoji.
+* Hear and use the text-to-speech command.
+
+## Appearance
+On the Appearance tab, you may change between Dark Mode (default) and Light Mode for Discord by clicking on the respective icon. You may also switch between cozy (default) and compact mode. Scaling options are available for chat font, and the overall zoom level. You can turn on [Developer Mode](/developermode) and toggle Hardware Acceleration on & off. On Mobile, the "Sync across clients" option is available. When enabled, this will set the Theme setting on mobile across your other clients. The Hardware Acceleration option is not available on Browser or Mobile editions. 
 
 ## Streamer Mode
 On the Streamer Mode tab, you may enable or disable Streamer Mode and toggle whether Discord may automatically turn on streamer mode when it detects OBS or XSplit running on your computer. 
@@ -79,16 +106,19 @@ You may also toggle the following preferences for when Streamer Mode is activate
 * Disable sounds.
 * Disable notifications.
 
-## Security
-On the Security tab, you may enable 2-factor-authentication. If it is already enabled, you may view backup codes or disable it.
+## Language
+On the Language tab, you may change the language of your Discord client by clicking on the language menu. Only fully translated languages are available. Some languages are still be worked on, which may be viewed [here](https://i18n.discordapp.com).
 
-# Changelog
+## Windows Settings
+Windows only, for obvious reasons.
+
+Here you can choose to open Discord on startup, wether it should be minimised on startup, and the behaviour of the Close button when it is clicked.
+
+-----
+## Changelog
 You can view the most recent Changelog by accessing the user settings menu and clicking 'Changelog'. To view older changelogs, visit the Discord [blog](https://blog.discordapp.com) or see our [changelog wiki page](/changelog).
 
-# Online Status
-You may change your online status by clicking on your profile picture on the user settings bar located on the bottom left of the Discord application. A user's online status displayed by the dot that is on their profile picture on the userlist. If the user is offline (or invisible) they are not displayed with a dot or on the online userlist. You have the ability to change your online status to the following options:
+-----
 
-* Online - Default. Green dot.
-* Idle - Indicates that you are not actively on Discord or replying/reading messages. You will still receive notifications. Yellow dot. 
-* Do Not Disturb - Indicates you are busy. You will not receive desktop notifications. Red dot.
-* Invisible - Displays you as offline to everyone else but you still receive desktop notifications and have full access to Discord. Grey dot on your own screen, no dot on other users' screens (since you’re displayed as offline).
+## Log Out
+Click here to log out of the application and return to the login screen. This only logs you out of your current device.
