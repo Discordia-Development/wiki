@@ -1,4 +1,5 @@
 <!-- TITLE: User Settings -->
+<!-- SUBTITLE: Make Discord just the way you want it! -->
 
 The following settings are available to Discord users. *Note: Some of these settings may not be available on the [web](/web) or [mobile](/mobile) applications.*
 # Online Status
