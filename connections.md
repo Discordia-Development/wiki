@@ -5,7 +5,7 @@ The Connections menu is within the [/user-settings](User Settings) of your Disco
 
 ## Avaliable Connections
 
-![Connections | Desktop App (Windows)](/uploads/e-96-faa.png "E 96 Faa")
+![Connections | Desktop App (Windows)](/uploads/e-96-faa.png "Connections | Desktop App (Windows)")
 
 The avaliable connections include:
 * Twitch
