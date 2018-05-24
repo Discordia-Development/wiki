@@ -1,7 +1,7 @@
 <!-- TITLE: Connections -->
 <!-- SUBTITLE: Connect your Discord account to your other accounts! -->
 
-The Connections menu is within the [/user-settings](User Settings) of your Discord account. 
+The Connections menu is within the [user-settings](User Settings) of your Discord account. 
 
 ## Avaliable Connections
 
