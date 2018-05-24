@@ -1,11 +1,28 @@
 <!-- TITLE: Connections -->
 <!-- SUBTITLE: Connect your Discord account to your other accounts! -->
 
-# Placeholder
-On the Connections tab, you may connect a Twitch, Youtube, Skype, Steam, Reddit or Twitter account to your Discord account under the Connected Accounts menu. Click on a respective icon to connect an account from that website. From here you may also toggle whether or not Discord can automatically detect accounts from other platforms or not on your device.
+The Connections menu is within the [/user-settings](User Settings) of your Discord account. 
 
-Under the connections icons, you will see all your linked accounts and whether or not you want to display it on your profile or if you want to sync friends from that platform to Discord.
+## Avaliable Connections
 
-Under the Authorized Apps menu, you will be able to see which Discord API apps have access to what information related to your account. From here you may also remove authorized apps by hovering over them and clicking the Delete button.
+![Connections | Desktop App (Windows)](/uploads/e-96-faa.png "E 96 Faa")
 
-On Browser, the Skype and Steam options are unavailable. On Mobile, this menu does not exist. 
+The avaliable connections include:
+* Twitch
+* YouTube
+* Battle.net
+* League of Legends
+* Skype
+* Steam
+* Reddit
+* Facebook
+* Twitter
+* Spotify
+* Xbox Live
+
+
+## Connections Menu
+
+Pressing any of the icons on the page will direct you to a login page to connect your account. The only exceptions to this are Skype, Battle.net, and League of Legends, as these connections require the corresponding desktop application to be open. These connections are also unavaliable on the mobile and browser clients.
+
+In this menu, you can also see connected accounts, manage settings (such as Display on profile, or more specific settings as Display Spotify as your status) for them, and unconnect them from your Discord account. You can also set whether Discord will automatically connect accounts that are open on other applications (such as Skype, Battle.net, Steam, or League of Legends).
