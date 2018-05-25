@@ -3,7 +3,21 @@
 
 This is the changelog/release date for major features or significant changes. PTB and Canary might have received some features sooner than the date listed below.
 
-# 5 18/2018
+# 5/25/2018
+* GDPR data features
+* @everyone and @here mention warnings
+
+## iOS
+* Quick Switcher
+* Xbox Live integration
+* Long press a link to copy or share it
+* Invite links now embed
+* Added a NSFW toggle in channel settings
+* 1Password and LastPass support for logging in
+* Invite links to voice channels now take you to the appropriate voice channel
+* Offline members are no longer hidden after you cross 100 members
+* Discord uses a lot less data and battery now
+# 5/18/2018
 * Xbox integration released to all
 
 # 5/14/2018
