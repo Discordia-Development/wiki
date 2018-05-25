@@ -23,7 +23,6 @@ This is a list of features that will be occasionally updated with information ab
 | Audit Log | Planned |
 | Jump to Message | Planned |
 | Custom Keyboard | Planned |
-| Quick Switcher | Available on iOS TestFlight |
 | Rich Push Notifications | Planned |
 | Security Compatibility | Planned |
 | Server Sorting | Planned |
