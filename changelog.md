@@ -14,6 +14,7 @@ This is the changelog/release date for major features or significant changes. PT
 * Invite links now embed
 * Added a NSFW toggle in channel settings
 * 1Password and LastPass support for logging in
+* GDPR data features
 * Invite links to voice channels now take you to the appropriate voice channel
 * Offline members are no longer hidden after you cross 100 members
 * Discord uses a lot less data and battery now
