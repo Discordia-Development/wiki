@@ -12,7 +12,7 @@ This is a list of features that will be occasionally updated with information ab
 |---------|---------|
 | Block Quotes | Planned |
 | Games Tab | In Development |
-| Group DM Invites | In Development |
+| Group DM Invites | In Internal Testing |
 | Permissions Preview Tool | Planned |
 | Priority Speaker | In Development |
 
