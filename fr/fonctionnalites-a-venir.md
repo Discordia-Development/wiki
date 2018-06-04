@@ -10,10 +10,9 @@ Voici la liste des fonctionnalités qui seront régulièrement mises à jour ave
 
 | Fonctionnalité |	Etat |
 |---------|---------|
-| Flux d’activité | Déploiement progressif |
 | Bloc de citation | Prévu |
-| Invitations à des groupe privés | Prévu |
-| Lecteur audio intégré | En développement |
+| Onglet jeux | En développement |
+| Invitations à des groupe privés | Disponible sur Canary |
 | Outil de prévisualisation des permissions | Prévu |
 | Orateur prioritaire | En développement |
 
@@ -21,9 +20,9 @@ Voici la liste des fonctionnalités qui seront régulièrement mises à jour ave
 | Fonctionnalité | Etat	|
 |---------|---------|
 | Support du 3D Touch | Prévu |
-| Journal du serveur | Prévu |
+| Journal d’audit | Prévu |
+| Sauter à un message | Prévu |
 | Clavier personnalisé | Prévu |
-| Échange rapide | Prévu |
 | Notifications sur mobile enrichies | Prévu |
 | Compatibilité de sécurité | Prévu |
 | Tri des serveurs | Prévu |
@@ -32,9 +31,10 @@ Voici la liste des fonctionnalités qui seront régulièrement mises à jour ave
 ## Android
 | Fonctionnalité | Etat |
 |---------|--------|
-| Journal du serveur | Prévu |
+| Journal d’audit | Prévu |
 | Déploiement automatique de l’Alpha | En développement |
 | Activer/désactiver la compression des images | Prévu |
+| Réponse rapide | Disponible sur la bêta Android |
 | Partage d’écran | En développement |
 | Onglet Sécurité / Activer/désactiver la double authentification | Prévu |
 | Vidéos intégrées | Prévu |
