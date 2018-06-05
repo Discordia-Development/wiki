@@ -12,7 +12,6 @@ This is a list of features that will be occasionally updated with information ab
 |---------|---------|
 | Block Quotes | Planned |
 | Games Tab | In Development |
-| Group DM Invites | Available on Canary |
 | Permissions Preview Tool | Planned |
 | Priority Speaker | In Development |
 
