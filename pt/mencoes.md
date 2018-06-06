@@ -1,4 +1,4 @@
-<!-- TITLE: Menções -->
+<!-- TITLE: [PT] Menções -->
 <!-- SUBTITLE: Notifique usuários diretamente -->
 
 Menções são um modo de notificar diretamente um usuário, múltiplos usuários ou cargos em mensagens. O seu propósito principal é chamar a atenção de alguém para um canal ou mostrar para alguém que você está falando especificamente com ele. Você pode mencionar usuários ou cargos usando `@nome`.
