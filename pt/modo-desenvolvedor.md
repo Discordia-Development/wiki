@@ -18,6 +18,6 @@ O Modo de Desenvolvedor adiciona uma simples opção de *Copiar ID* no seu menu 
 
 ![Clique direito do modo de desenvolvedor](/uploads/developer-mode/devmode-rightclick.png "Devmode Rightclick")
 
-> NOTA: O Modo de Desenvolvedor não está disponível no iOS neste momento.
+> NOTA: O Modo de Desenvolvedor não está disponível no iOS neste momento<sup>[1]</sup>.
 
-<sub>[1]</sub> - Checado pela última vez em 06 de Junho de 2018
+<sub>[1] - Checado pela última vez em 06 de Junho de 2018</sub>
