@@ -11,7 +11,7 @@ This is a list of features that will be occasionally updated with information ab
 | Feature |	Status |
 |---------|---------|
 | Block Quotes | Planned |
-| Games Tab | In Development |
+| Games Tab | Gradually Rolling Out |
 | Permissions Preview Tool | Planned |
 | Priority Speaker | In Development |
 
