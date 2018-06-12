@@ -1,5 +1,5 @@
-<!-- TITLE: Home -->
-<!-- SUBTITLE: Welcome to The Unofficial Discord Wiki! -->
+<!-- TITLE: Pagina Iniziale -->
+<!-- SUBTITLE: Benvenuto nella Unofficial Discord Wiki! -->
 
 # Benvenuto
 ## Chi siamo
