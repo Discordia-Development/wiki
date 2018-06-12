@@ -1,6 +1,6 @@
 <!-- TITLE: Partner -->
 
-Un Discord Partner è qualcuno con un grande seguito o qualcuno il cui server è stato accettato da Discord per ricevere perk speciali per sè e il server.
+Un Partner Discord è qualcuno con un grande seguito o qualcuno il cui server è stato accettato da Discord per ricevere perk speciali per sè e il server.
 
 ![Partnerlogo](/uploads/partner/partnerlogo.png "Partnerlogo")
 
@@ -11,23 +11,23 @@ Un Discord Partner è qualcuno con un grande seguito o qualcuno il cui server è
 * Vanity URL personalizzato ; (Link di invito personale)
 * Gilda hostata su server VIP; (Bitrate maggiore nei canali vocali)
 * Splash screen personalizzata per la propria gilda; (Immagine personale nella schermata iniziale)
-* Felpa Discord Partner gratis; (Per il proprietario del server)
+* Felpa Partner Discord gratis; (Per il proprietario del server)
 * Discord Nitro gratis; (Per il proprietario del server)
 * Medaglia partner per il proprio sito web, canale Twitch, etc;
 * Accesso nella gilda dei Partner Discord per supporto immediato e opportunità di collaborazione con altri partner.
 
 ![Njjbheg](/uploads/partner/njjbheg.png "Njjbheg")
 
-# Becoming a Discord Partner
-To get a chance for Discord partnership, go to the [Discord Partnership page](http://discordapp.com/partners) and fill out the application.
+# Diventare un Partner Discord
+Per avere la possibilità di diventare un Partner Discord, vai sulla [pagina dei Partner Discord](http://discordapp.com/partners) e compila il modulo.
 
-According to their website, Discord looks for 'growing communities and content creators that show an authentic enthusiasm for Discord (which means you’re already using Discord for your community). We want to support communities that support us. Acceptance into the program is extremely qualitative and will vary from one candidate to the next.'
+Secondo il loro sito, Discord sta cercando "community in crescita e creatori di contenuti che mostrano entusiasmo per Discord (il che significa che stanno già usando Discord). Vogliamo sostenere le community che ci sostengono. L'accettazione è estremamente qualitativa e varia da un candidato agli altri."
 
-**Specific communities that are usually accepted include:**
-* Reddits (8000+ subs)
-* Social Personalities (Large Facebook, Twitter, etc online personalities [10,000+ followers])
-* Content Creators/Streamers (Beam, Twitch, YouTube, Player.me, etc)
-* Non-Profits (Requires a valid EID number)
-* Large Communities (Large guilds or gaming groups)
+**Community che sono spesso accettate sono:**
+* Reddits (8000+ iscritti)
+* Personaggi pubblici (Personaggi di Facebook, Twitter, etc [10,000+ seguaci])
+* Creatori di contenuti/Streamers (Beam, Twitch, YouTube, Player.me, etc)
+* Non-Profit (Richiede un numero EID valido)
+* Grandi community (Grandi gilde o gruppi di gioco)
 
-(Not all the values given are dead set, everything is based on who/what you are and do. Everyone has a chance, but these are the low-averages for a partner.)
+(Non tutti i valori sono precisi, tutto è basato su chi/cosa sei e che fai. Tutti hanno la possibilità ma questa è la media dei vari partner.)
