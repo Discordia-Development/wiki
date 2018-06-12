@@ -55,6 +55,7 @@ Hey! Benvenuto nella Unofficial Discord Wiki! Crediamo molto nella trasparenza, 
 * @Vividia#1224 - Ungherese
 * @xstarmax#0499 - Ungherese
 * @zabszk#5292 - Polacco
+* @deframet#0707 - Italiano
 
 > ***Sviluppatori***
 
