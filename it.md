@@ -38,6 +38,7 @@ Hey! Benvenuto nella Unofficial Discord Wiki! Crediamo molto nella trasparenza, 
 * @Cyon aka UnityK#2469 - Coreano, Cinese
 * @D_EaN * STS#0105 - Ungherese
 * @Daan#1337 - Olandese
+* @deframet#0707 - Italiano
 * @Disegual#4088 - Italiano
 * @erykol#8141 - Polacco
 * @Getmanxed#4343 - Ungherese
@@ -55,7 +56,6 @@ Hey! Benvenuto nella Unofficial Discord Wiki! Crediamo molto nella trasparenza, 
 * @Vividia#1224 - Ungherese
 * @xstarmax#0499 - Ungherese
 * @zabszk#5292 - Polacco
-* @deframet#0707 - Italiano
 
 > ***Sviluppatori***
 
