@@ -7,7 +7,7 @@ Discord Nitro è un abbonamento a pagamento a Discord che dà accesso agli utent
 
 Nitro è stato prima lanciato in Australia il 22 dicembre 2016, come fase di test, poi globalmente il 23 gennaio 2017.
 
-Nitro può essere acquistato con l'abbonamento mensile (4.99$). L'abbonamento annuale contiene due mesi gratuiti.
+Nitro può essere acquistato con l'abbonamento mensile (4.99$) o quello annuale ($49.99). L'abbonamento annuale contiene due mesi gratuiti.
 
 Il 22 dicembre 2017, è stata aggiunta la possibilità di pagare con Paypal.
 
