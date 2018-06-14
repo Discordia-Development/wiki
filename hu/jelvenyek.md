@@ -24,6 +24,6 @@ A Discord [HypeSquad](/hypesquad) tagoknak egy HypeSquad jelvény van a profilju
 
 ![HypeSquad jelvény](/uploads/badges/newhypesquadbadge.png "Egy Hypesquad tag jelvénye")
 # Discord Nitró
-Azok a felhasználók akik [Discord Nitrót](/nitro) vettek, azoknak egy Discord Nitró jelvény van a profiljukon. Ha a jelvényre viszed az egered, akkor láthatod, hogy az adott felhasználó mióta rendelkezik Nitró előfizetéssel. Ha leiratkoznak róla, a jelvény eltűnik.
+Azok a felhasználók akik [Discord Nitrót](/hu/nitro) vettek, azoknak egy Discord Nitró jelvény van a profiljukon. Ha a jelvényre viszed az egered, akkor láthatod, hogy az adott felhasználó mióta rendelkezik Nitró előfizetéssel. Ha leiratkoznak róla, a jelvény eltűnik.
 
 ![Nitró jelvény](/uploads/badges/newnitrobadge.png "Egy Discord Nitró jelvény")
