@@ -13,7 +13,7 @@ Siamo la Unofficial Discord Wiki. Siamo fieri di essere fra i più importanti di
 ## Disclaimer e informazioni legali
 Hey! Benvenuto nella Unofficial Discord Wiki! Crediamo molto nella trasparenza, quindi prima di unirti o usare un nostro servizio, perfavore leggi i [Termini di Servizio](/terms) e la nostra [Politica sulla Privacy](/privacy) per conoscere tutte le formalità legali riguardanti il nostro servizio!
 
-### ***Discord, il Discord Ghost (Clyde™), e Discordapp (qui DISCORD) sono proprietà iltellettuali e legali di Discord Inc. Questi servizi, come elencato nei [Termini di Servizio](/terms), non sono affiliati con Discord Inc o alcuna delle sue sussidiarie. La Unofficial Discord Wiki non dichiara di possedere alcuna delle proprietà intellettuali di DISCORD, perfavore nessuna lettera di diffida :^)***
+### ***Discord, il Discord Ghost (Clyde™), e Discordapp (qui DISCORD) sono proprietà intellettuali e legali di Discord Inc. Questi servizi, come elencato nei [Termini di Servizio](/terms), non sono affiliati con Discord Inc o alcuna delle sue sussidiarie. La Unofficial Discord Wiki non dichiara di possedere alcuna delle proprietà intellettuali di DISCORD, perfavore nessuna lettera di diffida :^)***
 
 ## Staff
 > ***Amministratori della wiki***
