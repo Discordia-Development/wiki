@@ -27,7 +27,7 @@ Szóval, ez mind mit jelent? Hát, mikor egy felhasználó végrehajt egy utasí
 * Rang létrehozása, törlése, és frissítése
 * Szerver frissítések
 * Webhook létrehozása, törlése, és frissítése
-* Üzenet törlése a felhasználók és [Botok](/bots) által
+* Üzenet törlése a felhasználók és [Botok](/hu/botok) által
 
 
 # Részletek megtekintése
