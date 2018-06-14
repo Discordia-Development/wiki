@@ -1,10 +1,10 @@
-<!-- TITLE:Clyde -->
-<!-- SUBTITLE:The Discord Bot -->
+<!-- TITLE: [HU] Clyde -->
+<!-- SUBTITLE: A Discord bot -->
 
-Clyde is a "bot" integrated into Discord notifying you if you are attempting to do unsupported operations. He reports to you in different scenarios, e.g. changing your nickname, attempting to use server-specific emotes in different guilds or direct messages without Nitro, sending a Message to a user who blocked you, etc. His ID is 1, and his pings (<@1>) only transform into @Clyde if you have summoned his messages at least once in the current session.
+Clyde egy Discordba integrált „bot”, aki értesít, ha nem támogatott műveletet próbálsz végrehajtani. Tájékoztat különböző helyzetekben, pl. becenév megváltoztatásakor, szerver-specifikus emotikonok használatakor más szervereken vagy közvetlen üzenetekben amennyiben nincs Nitró előfizetésed, olyan felhasználónak történő üzenetküldéskor, aki letiltott, stb. Az ő azonosítója az 1-es, és az említései <@1> csak akkor alakulnak át @Clyde formába, ha már legalább egyszer megidézted az üzeneteit a jelenlegi munkamenetben.
 
 ![Clyde 1](/uploads/clyde/clyde-1.png "Clyde 1")
 
-Every message sent by it is in the channel or DM Group you attempted to perform that action in and only visible to you. Also the messages can be removed by clicking on the text below it. 
+Minden általa küldött üzenet abban a csatornában vagy közvetlen üzenetben jelenik meg, ahol megpróbáltad végrehajtani a műveletet, és ez csak számodra látható. Az üzenetek bezárhatók az alattuk található szövegre kattintva. 
 
-![Clyde 2](/uploads/clyde/newclyde.png "Clyde's User Profile")
+![Clyde 2](/uploads/clyde/newclyde.png "Clyde felhasználói profilja")
