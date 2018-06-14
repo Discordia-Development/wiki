@@ -30,4 +30,4 @@ A Nitró megvásárlásához kattints a fogaskerékre a képernyő bal alsó sar
 
 
 # További információk
-A Nitrórol további információkat a http://discordapp.com/nitro oldalon, vagy a Felhasználói beállításaid Discord Nitró menüpontjában találsz.
+A Nitrórol további információkat a http://discordapp.com/nitro oldalon, vagy a Felhasználói beállítások Discord Nitró menüpontjában találsz.
