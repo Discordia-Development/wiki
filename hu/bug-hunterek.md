@@ -3,7 +3,7 @@
 # Bug Hunterek
 A Bug Hunterek olyan Discord felhasználók akik olyan hibákat találtak bármely Discord kliensben, majd jelentették azt, és ezt három másik felhasználó megerősítette [Dabb](https://cdn.discordapp.com/attachments/309775070065328131/316330589634560020/DabbitDab.gif)it Prime vezetésével. Ők segítenek a Discord fejlesztőknek felfedezni, majd javítani a hibákat.
 
-Minden nap megnyitják a Discordot, és keresik a további hibákat, és megerősítik a más felhasználók által jelentetteket. A [Discord Canary](/canary) klienst használják, és mindennap keményen dolgoznak, hogy segítsenek az új felhasználóknak hibákat találni, ellenőrzik, hogy nincs-e olyan hiba melyet többször jelentettek, és néha segítenek a jelentések formázásában is.
+Minden nap megnyitják a Discordot, és keresik a további hibákat, és megerősítik a más felhasználók által jelentetteket. A [Discord Canary](/hu/canary) klienst használják, és mindennap keményen dolgoznak, hogy segítsenek az új felhasználóknak hibákat találni, ellenőrzik, hogy nincs-e olyan hiba melyet többször jelentettek, és néha segítenek a jelentések formázásában is.
 ## Légy te is Bug Hunter!
 Hogy Bug Hunter lehess az alábbiakat kell megtenned:
 
