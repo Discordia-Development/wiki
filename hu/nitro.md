@@ -19,7 +19,7 @@ A Discord Nitró előfizetés a következő funkciókat tartalmazza:
 * Egyedi emotikonok használata mindenhol (ha a felhasználónak joga van ezek használatához az adott szerveren).
 * A feltölthető fájlok maximális mérete 8MB helyett 50MB.
 * 720p 60fps vagy 1080p 30fps képernyőmegosztás.
-* Discord Nitró [jelvény](hu/jelvenyek) a profilodon.
+* Discord Nitró [jelvény](/jelvenyek) a profilodon.
 * Megváltoztathatod a [diszkriminátorod](/discriminator). (Amennyiben megváltoztatod a Nitró lejárta után újragenerálódik.)
 
 # Nitró megvásárlása
