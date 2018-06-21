@@ -1,4 +1,4 @@
-<!-- TITLE: Üdvözlő üzenetek szervereken -->
+<!-- TITLE: [HU] Üdvözlő üzenetek szervereken -->
 
 Az **üdvözlő üzenetek** olyan speciális rendszerüzenetek, melyek véletlen szerűen jelennek meg a kijelölt csatornában, amikor egy felhasználó csatlakozik egy szerverhez.
 
