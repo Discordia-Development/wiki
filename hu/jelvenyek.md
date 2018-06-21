@@ -16,7 +16,7 @@ Ez a jelvény minden Discord munkatárs profilján megjelenik. Ha valaki a Disco
 ![Személzeti jelvény](/uploads/badges/newstaffbadge.png "Egy személyzeti jelvény")
 
 # Discord Partner
-A Discord [Partnereknek](/partner) egy partner jelvény van a profiljukon. Csak akkor tudod megszerezni ezt a jelvényt, ha Discord  Partner leszel.
+A Discord [Partnereknek](/hu/partner) egy partner jelvény van a profiljukon. Csak akkor tudod megszerezni ezt a jelvényt, ha Discord  Partner leszel.
 
 ![Partner jelvény](/uploads/badges/newpartnerbadge.png "Egy Discord Partner jelvény")
 # Discord HypeSquad
