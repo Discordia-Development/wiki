@@ -11,7 +11,6 @@ This is a list of features that will be occasionally updated with information ab
 | Feature |	Status |
 |---------|---------|
 | Block Quotes | Planned |
-| Games Tab | Available on Canary |
 | Permissions Preview Tool | Planned |
 | Priority Speaker | In Development |
 | Server Video Chat/Screen Sharing | In Internal Testing |
