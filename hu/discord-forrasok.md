@@ -7,7 +7,7 @@
 * [Discord Események](http://discord.gg/events)
 * [Discord Visszajelzés](https://discord.gg/discord-feedback)
 * [Discord HypeSquad](https://discordapp.com/hypesquad) ([HypeSquad](/hypesquad) tagok csak.)
-* [Discord Partnerek](https://discordapp.com/partners) (Discord [Partnerek](/partner) csak.)
+* [Discord Partnerek](https://discordapp.com/partners) (Discord [Partnerek](/hu/partner) csak.)
 * [Discord Gamenight](https://discord.gg/gamenight)\*
 
 *\*Archivált: Olyan szerver, melyen csak olvasási joga van mindenkinek. További felhasználók csatlakozhatnak, és megtekinthetik a már meglévő beszélgetéseket, de nem küldhetnek további üzeneteket.*
