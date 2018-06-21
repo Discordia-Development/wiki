@@ -54,7 +54,7 @@ Hey there! Welcome to The Unofficial Discord Wiki! We're strong believers in tra
 * @Saphir#0001 - French
 * @Skidder#0001 - German
 * @Vividia#1224 - Hungarian
-* @xstarmax#0499 - Hungarian
+* @thelittleerik#0499 - Hungarian
 * @zabszk#5292 - Polish
 
 > ***Bot Developers***
