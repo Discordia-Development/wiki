@@ -1,8 +1,16 @@
 <!-- TITLE: Changelog -->
-<!-- SUBTITLE: Discord Changelog updated as of 05/14/2018 -->
+<!-- SUBTITLE: Discord Changelog updated as of 06/21/2018 -->
 
 This is the changelog/release date for major features or significant changes. PTB and Canary might have received some features sooner than the date listed below.
 
+# 6/21/2018
+* Games tab added
+* Group DM invites
+* Ability to create empty group DMs
+* @everyone and @here message warnings
+* Colourblind mode (initial release)
+* Improvements to Japanese, Korean and Chinese fonts
+* Sound when changing input or output device
 # 5/25/2018
 * GDPR data features
 * @everyone and @here mention warnings
