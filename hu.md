@@ -54,7 +54,7 @@ Halihó! Üdvözöllek a The Unofficial Discord Wikin! Az átláthatóság hív�
 * @Saphir#0001 - Francia
 * @Skidder#6775 - Német
 * @Vividia#1224 - Magyar
-* @xstarmax#0499 - Magyar
+* @thelittleerik#0499 - Magyar
 * @zabszk#5292 - Lengyel
 
 > ***Bot fejlesztők***
