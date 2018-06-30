@@ -14,6 +14,6 @@ Così come i canali vocali, anche le categorie supportano spazi e caratteri pers
 ![Sync alert](https://i.imgur.com/5jcViFZ.png "Non sincronizzato")
 ![Already Synced](https://i.imgur.com/Ieoi37w.png "Sincronizzato")
 
-###NOTA: A causa di un errore nella traduzione, entrambe le voci hanno la stessa dicitura. Si può determinare se un canale è o non è sincronizzato dalla presenza del bottone "Sincronizza".
+### NOTA: A causa di un errore nella traduzione, entrambe le voci hanno la stessa dicitura. Si può determinare se un canale è o non è sincronizzato dalla presenza del bottone "Sincronizza".
 
 I vecchi canali testuali e vocali verranno ora riuniti automaticamente in delle categorie nei server creati da adesso in poi, mentre i vecchi server resteranno inalterati. I canali predefiniti (i due canali Generali) continueranno comunque ad esistere, ma nella stessa categoria.
