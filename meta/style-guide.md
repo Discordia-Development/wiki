@@ -10,19 +10,26 @@ The Style Guide is for maintaining consistency across the Discord Wik. More in-d
 * The first letter of the title should always be capitalized, unless it is stylized that way by Discord. 
 > HypeSquad
 {.is-success}
+
 > hypeSquad
 {.is-danger}
+
 * An, A, or The should not be used as the first word, unless it is stylized that way by Discord.
 > Channel Permissions
 {.is-success}
+
 > The Channel Permissions
 {.is-danger}
+
 * Punctuation should not be used, unless stylized that way by Discord.
 > Discord Nitro
 {.is-success}
+
 > Discord Nitro.
 {.is-danger}
+
 > Battle.net 
 {.is-success}
+
 > Battlenet
 {.is-danger}
