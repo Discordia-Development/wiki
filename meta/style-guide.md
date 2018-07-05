@@ -12,6 +12,7 @@ The Style Guide is for maintaining consistency across The Discord Wiki. More in-
 * Articles should not be made on general, information lacking subjects such as specific permissions, or unreleased features.
 * Sources should always come from Discord, and not third-party leaks or anything.
 * The Discord Wiki should always be formatted as `The Discord Wiki`, with The capitalized.
+* Brand names that are stylized as a link (such as Battle.​net) should have a zero-width space inserted to break the link.
 
 # Title Rules
 * Any title should be relatively short and able to be read in under ten seconds. 
@@ -73,4 +74,3 @@ The Style Guide is for maintaining consistency across The Discord Wiki. More in-
 
 * As Discord is an American company, English articles should use American terms.
 * If different spellings of words exist, the most common variation should be used.
-* 
