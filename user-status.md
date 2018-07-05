@@ -19,7 +19,7 @@ The away status also automatically is set by the client if there wasn't any mous
 Do Not Disturb (short DND) disables all desktop and push notifications, even from mentions. The status color will be red.
 
 ## Invisible
-Invisible lets you use Discord normally though you won't show up in the member list of servers larger than 50 members and with offline users in servers with less than 50 members, exactly as if you were offline. Typing indicators still show.
+Invisible lets you use Discord normally though you will show up in the member list with offline users, exactly as if you were offline. Typing indicators still show.
 
 ## Offline
 This status is applied to your account as soon as every connected client loses connection. It can't be applied manually.
