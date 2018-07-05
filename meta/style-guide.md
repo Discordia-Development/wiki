@@ -1,8 +1,8 @@
 <!-- TITLE: Style Guide -->
-<!-- SUBTITLE: Style guide for consistency across the Discord Wiki. -->
+<!-- SUBTITLE: Style guide for consistency across The Discord Wiki. -->
 
 # Style Guide [WIP]
-The Style Guide is for maintaining consistency across the Discord Wik. More in-depth sections of the guide are below. Due to the different writing styles that editors of the Discord Wiki have, 100% consistency across every artice will be impossible. The following rules should be taken into consideration when writing any article, however any questions with formatting not answered in this guide should be brought up in the Discord server. 
+The Style Guide is for maintaining consistency across The Discord Wiki. More in-depth sections of the guide are below. Due to the different writing styles that editors of The Discord Wiki have, 100% consistency across every artice will be impossible. The following rules should be taken into consideration when writing any article, however any questions with formatting not answered in this guide should be brought up in the Discord server. 
 
 # General Rules
 * Do not edit articles only to fix the style.
@@ -10,7 +10,8 @@ The Style Guide is for maintaining consistency across the Discord Wik. More in-d
 * Images should be directly uploaded instead of using imgur or other file upload services.
 * Titles and subtitles must always be provided.
 * Articles should not be made on general, information lacking subjects such as specific permissions, or unreleased features.
-* Sources should always come from Discord, and not third-party leaks or anything 
+* Sources should always come from Discord, and not third-party leaks or anything.
+* The Discord Wiki should always be formatted as `The Discord Wiki`, with The capitalized.
 
 # Title Rules
 * Any title should be relatively short and able to be read in under ten seconds. 
