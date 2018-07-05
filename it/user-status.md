@@ -9,7 +9,7 @@ Questo articolo riguarda gli stati utente di Discord. Se stai cercando lo stato 
 Qui sotto c'è una lista delle varie opzioni di stato e una derscrizione delle stesse.
 
 ## Online
-Online è l'opzione predefinita. Ricevi le notifiche, usi Discord e compari normalmente nella lista membri normalmente. Avrai anche un cerchio verde nella alla tua foto profilo.
+Online è l'opzione predefinita. Ricevi le notifiche, usi Discord e compari nella lista membri normalmente. Avrai anche un cerchio verde nella alla tua foto profilo.
 
 ## Inattivo
 Lo stato Inattivo ti lascia usare discord normalmente ma fa capire agli altri che non ci sei al momento. Le notifiche compaiono normalmente e puoi usare Discord normalmente. 
