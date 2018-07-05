@@ -16,7 +16,7 @@ The Style Guide is for maintaining consistency across The Discord Wiki. More in-
 
 # Title Rules
 * Any title should be relatively short and able to be read in under ten seconds. 
-* Title Case should always be used, unless it is stylized that way by Discord, or looks more natural.
+* Title case should always be used, unless it is stylized that way by Discord, or looks more natural.
 * The first letter of the title should always be capitalized, unless it is stylized that way by Discord. 
 > HypeSquad
 {.is-success}
