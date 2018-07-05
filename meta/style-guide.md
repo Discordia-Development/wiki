@@ -10,7 +10,7 @@ The Style Guide is for maintaining consistency across The Discord Wiki. More in-
 * Images should be directly uploaded instead of using imgur or other file upload services.
 * Titles and subtitles must always be provided.
 * Articles should not be made on general, information lacking subjects such as specific permissions, or unreleased features.
-* Sources should always come from Discord, and not third-party leaks or anything.
+* Sources should always come from Discord, and not third-party leaks.
 * The Discord Wiki should always be formatted as `The Discord Wiki`, with The capitalized.
 * Brand names that are stylized as a link (such as Battle.​net) should have a zero-width space inserted to break the link.
 
