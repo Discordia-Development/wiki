@@ -19,11 +19,11 @@ Hey there! Welcome to The Unofficial Discord Wiki! We're strong believers in tra
 > ***Wiki Administrators***
 
 *Responsible for maintaining The Unofficial Discord Wiki and its support server.*
-* @SleepaDru#7700 (Systems Administrator, maintains the backend of all of the services provided by the Wiki)
 * @Mikesky#0001 (Systems Administrator, maintains the backend of all of the services provided by the Wiki)
 * @Harrison#9100
 * @西木野真姫 ★★★★#0419
 * @Tiemen#0001
+* @cats#5485
 
 > ***Department Leads***
 
