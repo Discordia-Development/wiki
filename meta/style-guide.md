@@ -4,7 +4,15 @@
 # Style Guide [WIP]
 The Style Guide is for maintaining consistency across the Discord Wik. More in-depth sections of the guide are below. Due to the different writing styles that editors of the Discord Wiki have, 100% consistency across every artice will be impossible. The following rules should be taken into consideration when writing any article, however any questions with formatting not answered in this guide should be brought up in the Discord server. 
 
-# General Title Rules
+# General Rules
+* Do not edit articles only to fix the style.
+* The main style should be relatively relaxed, but any inside or unnecessary jokes should not be added.
+* Images should be directly uploaded instead of using imgur or other file upload services.
+* Titles and subtitles must always be provided.
+* Articles should not be made on general, information lacking subjects such as specific permissions, or unreleased features.
+* Sources should always come from Discord, and not third-party leaks or anything 
+
+# Title Rules
 * Any title should be relatively short and able to be read in under ten seconds. 
 * Title Case should always be used, unless it is stylized that way by Discord, or looks more natural.
 * The first letter of the title should always be capitalized, unless it is stylized that way by Discord. 
@@ -33,3 +41,35 @@ The Style Guide is for maintaining consistency across the Discord Wik. More in-d
 
 > Battlenet
 {.is-danger}
+
+## Section Title Rules
+* Main title rules should always be considered in naming sections.
+* Section titles should not refer to the subject of the article.
+> Features
+{.is-success}
+
+> Features of Discord Nitro
+{.is-danger}
+
+# Translation Rules
+* Article titles must always start with the locale code.
+> [FR] Discord
+{.is-success}
+
+> Discord - French
+{.is-danger}
+
+> Discord [FR]
+{.is-danger}
+
+* Translated articles must always be in the respective language folder.
+* Translators should not edit articles that are not in their respective language, unless they are the main English articles.
+* Translators must always wait until the English version of the article is live.
+* Discord, Nitro, and other branded words should not be translated.
+* Regional currency conversions (such as the British pound, and EU euro) should be listed with the main USD price.
+
+## English Variation Rules
+
+* As Discord is an American company, English articles should use American terms.
+* If different spellings of words exist, the most common variation should be used.
+* 
