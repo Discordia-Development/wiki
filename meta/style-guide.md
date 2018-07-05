@@ -28,7 +28,7 @@ The Style Guide is for maintaining consistency across the Discord Wik. More in-d
 > Discord Nitro.
 {.is-danger}
 
-> Battle.net 
+> Battle.​net 
 {.is-success}
 
 > Battlenet
