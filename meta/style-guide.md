@@ -1,7 +1,7 @@
 <!-- TITLE: Style Guide -->
 <!-- SUBTITLE: Style guide for consistency across The Discord Wiki. -->
 
-# Style Guide [WIP]
+# Style Guide
 The Style Guide is for maintaining consistency across The Discord Wiki. More in-depth sections of the guide are below. Due to the different writing styles that editors of The Discord Wiki have, 100% consistency across every artice will be impossible. The following rules should be taken into consideration when writing any article, however any questions with formatting not answered in this guide should be brought up in the Discord server. 
 
 # General Rules
