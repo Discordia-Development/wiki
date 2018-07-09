@@ -4,7 +4,7 @@
 # Willkommen
 ## Über uns
 
-Dies ist das inoffizielle Discord Wiki. Wir sind stolz darauf, einer der führenden Anbieter von Informationen über Discord zu sein und begrüßen Dich auf unserer Webseite! Nachdem wir vor ungefähr einem Jahr erkannten, dass unsere Ressourcen dazu verwendet werden können um anderen zu helfen und mehr über Discord zu erfahren, gründetet wir einen Discord Server, statt all die köstlichen Informationen für uns zu behalten. Schon ein Jahr später gelang es uns über 3,5 Millionen Nutzer pro Monat mit Informationen zu beliefern. Wir erweitern unsere Informationssammlung ständig. Solltest Du also das Interesse, den Willen und die Entschlossen haben uns zu unterstützen und Artikel für uns zu schreiben, lies Dir bitte unser FAQ auf unserem Server durch und bewirb dich um beizutragen.
+Dies ist das inoffizielle Discord Wiki. Wir sind stolz darauf, einer der führenden Anbieter von Informationen über Discord zu sein und begrüßen Dich auf unserer Webseite! Nachdem wir vor ungefähr einem Jahr erkannten, dass unsere Ressourcen dazu verwendet werden können um anderen zu helfen und mehr über Discord zu erfahren, gründetet wir einen Discord Server, statt all die Informationen für uns zu behalten. Schon ein Jahr später gelang es uns über 3,5 Millionen Nutzer pro Monat mit Informationen zu beliefern. Wir erweitern unsere Informationssammlung ständig. Solltest Du also das Interesse, den Willen und die Entschlossen haben uns zu unterstützen und Artikel für uns zu schreiben, lies Dir bitte unser FAQ auf unserem Server durch und bewirb dich um beizutragen.
 
 [Treten Sie unserem Discord-Server bei!](https://discord.gg/ZeG8hbu)
 
