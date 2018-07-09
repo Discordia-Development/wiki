@@ -1,4 +1,4 @@
-<!-- TITLE: Fehlerjäger -->
+<!-- TITLE: [DE] Fehlerjäger -->
 <!-- SUBTITLE: Discord Entwicklern beim finden und beheben von Fehlern helfen -->
 # Fehlerjäger
 Fehlerjäger sind eine Elitegruppe von Discord-Benutzern, die erfolgreich Fehler bei Discord auf jedem Client gefunden und von drei Nutzern unter der Leitung von Dabbit Prime reproduziert haben. Sie helfen den Discord-Entwicklern, Fehler zu erkennen und zu beheben.
