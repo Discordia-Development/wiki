@@ -42,3 +42,5 @@ Hallo! Wilkommen beim Discord Wiki! Wir glauben stark an Transparenz, deshalb be
 *Haben zum Discord WikiBot beigetragen.*
 * @HyperCoder#2975
 * @Tiemen#0001
+
+*(Artikel zuletzt von Ishidres#0001 editiert und vervollständigt)*
