@@ -1,4 +1,4 @@
-<!-- TITLE: Pagina Iniziale -->
+<!-- TITLE: Italian - Pagina Iniziale -->
 <!-- SUBTITLE: Benvenuto nella Unofficial Discord Wiki! -->
 
 # Benvenuto
