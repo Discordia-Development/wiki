@@ -1,4 +1,4 @@
-![It Channel Categories 1](/uploads/it/it-channel-categories-1.png "It Channel Categories 1")<!-- TITLE: [IT] Categorie di Canali -->
+<!-- TITLE: [IT] Categorie di Canali -->
 <!-- SUBTITLE: Un riassunto sulle categorie di canali -->
 
 # Categorie di Canali
