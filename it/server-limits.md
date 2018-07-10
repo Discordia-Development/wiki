@@ -1,4 +1,4 @@
-<!-- TITLE: Limiti dei Server -->
+<!-- TITLE: [IT] Limiti dei Server -->
 <!-- SUBTITLE: Varie limitazioni dei server in Discord -->
 
 # Limiti dei Server Discord
