@@ -1,4 +1,4 @@
-<!-- TITLE:Discord Canary -->
+<!-- TITLE:[IT] Discord Canary -->
 
 Canary è la versione alpha di Discord. Essa è instabile e presenta molti bug, però riceve le novità prima del canale [PTB](/it/ptb) o [Stable](/it/stable). Il client Canary aiuta gli sviluppatori a trovare bug e testare le novità. Se trovi un bug nel client Canary, perfavore segnalalo sul server [Discord Testers](http://discord.gg/discord-testers).
 
