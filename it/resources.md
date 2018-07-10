@@ -1,4 +1,4 @@
-<!-- TITLE: Risorse di Discord -->
+<!-- TITLE: [IT] Risorse di Discord -->
 <!-- SUBTITLE: Server Discord utili -->
 
 # Ufficiali
