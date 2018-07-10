@@ -1,4 +1,4 @@
-<!-- TITLE: [IT] Discriminatori -->
+![It Discriminator 1](/uploads/it/it-discriminator-1.png "It Discriminator 1")<!-- TITLE: [IT] Discriminatori -->
 <!-- SUBTITLE: Informationi sui discriminatori di Discord -->
 
 # Discriminatori
@@ -10,12 +10,12 @@ I Discriminatori sono compresi tra 0001 e 9999 e sono assegnati casualmente. Due
 
  > NOTA: Non puoi creare un utente per cui i suoi discriminatori sono tutti già assegnati. Se provi a cambiare il tuo username in uno che ha già tutti i discriminatori assegnati, Discord mostrerà un errore.
 
-![Usernamechange](https://i.imgur.com/UAjI8Oa.png "Usernamechange")
+![It Discriminator 1](/uploads/it/it-discriminator-1.png "Cambiare il proprio username")
 
 ## Cambiare il tuo discriminatore
 Cambiare il priprio discriminatore è possibile avendo un abbonamento a [Discord Nitro](/it/nitro), oppure essendo un [Partner](/it/partner) di Discord. Questo ti permette di cambiare il tuo discriminatore con qualsiasi valore compreso tra 0001 e 9999, a patto che non sia già assegnato. Puoi cambiare il tuo discriminatore al massimo 5 volte all'ora. Se il tuo abbonamento a Nitro scade, il tuo discriminatore sarà resettato ad un valore casuale, ma solo se lo avevi precedentemente modificato.
 
-![Changing Discriminator](https://i.imgur.com/AkHESZJ.png "Changing Discriminator")
+![It Discriminator 1](/uploads/it/it-discriminator-2.png "Cambiare il proprio discriminatore")
 
 
 Cambiare il proprio discriminatore è possibile anche per gli utenti senza Nitro ogni 24 ore. Bisogna ricordare che la pratica del "discriminator farm" è proibita (cambiare il proprio username automaticamente con un bot finché non si ottiene il discriminatore sperato), e quindi, la Unofficial Discord Wiki non supporta l'uso di questo tipo di bot. Suggeriamo caldamente di non provare neanche a cambiare l'username manualmente anche se, tecnicamente, è permesso.
