@@ -1,4 +1,4 @@
-<!-- TITLE: Stato Utente -->
+<!-- TITLE: [IT] Stato Utente -->
 <!-- SUBTITLE: Imposta le notifiche semplicemente con un click. -->
 
 Esistono quattro stati utente in Discord che permettono di cambiare velocemente le impostazioni di notifica. Questi sono stati creati ispirandosi alle opzioni di stato presenti in molti altri programmi di VoIP. Lo stato può essere cambiato cliccando sulla propria icona nel riquadro in basso a sinistra nelle versioni desktop e mobile.
