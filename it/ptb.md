@@ -1,6 +1,6 @@
 <!-- TITLE:[IT] Discord Public Test Build -->
 
-Il client Public Test Build (build pubblica di prova) è la versione beta del client Discord e la terra di mezzo tra Stable e Canary. La Public Test Build può avere funzioni che non sono ancora state rilasciate per il canale [Stable](/it/stable). La PTB è un modo per gli utenti di aiutare lo sviluppo di nuove funzioni, quindi il canale PTB può essere meno stabile del canale principale. PTB di solito riceve le novità solo dopo il canale [Canary](/canary), di solito. Se trovi un bug nel client PTB, perfavore segnalalo sul server [Discord Testers](https://discord.gg/discord-testers).
+Il client Public Test Build (build pubblica di prova) è la versione beta del client Discord e la terra di mezzo tra Stable e Canary. La Public Test Build (PTB) può avere funzioni che non sono ancora state rilasciate per il canale [Stable](/it/stable). La PTB è un modo per gli utenti di aiutare lo sviluppo di nuove funzioni, quindi il canale PTB può essere meno stabile del canale principale. PTB di solito riceve le novità solo dopo il canale [Canary](/canary), di solito. Se trovi un bug nel client PTB, perfavore segnalalo sul server [Discord Testers](https://discord.gg/discord-testers).
 
 Il client PTB ha la stessa icona del client Stable.
 # Download
