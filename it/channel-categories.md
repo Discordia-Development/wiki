@@ -1,4 +1,4 @@
-<!-- TITLE: [IT] Categorie di Canali -->
+![It Channel Categories 1](/uploads/it/it-channel-categories-1.png "It Channel Categories 1")<!-- TITLE: [IT] Categorie di Canali -->
 <!-- SUBTITLE: Un riassunto sulle categorie di canali -->
 
 # Categorie di Canali
@@ -7,12 +7,12 @@ Le categorie di canali sono una caratteristica dei server, consentendo una più 
 ## Uso delle Categorie di Canali
 Le categorie possono essere create sia attraverso il menu contestuale, sia attraverso il menu a scomparsa del server.  
 
-![Server settings drop down with categories](https://i.imgur.com/LdqtKM6.png "Menu a scomparsa del server")
+![It Channel Categories 1](/uploads/it/it-channel-categories-1.png "Menu a scomparsa del server")
 
 Così come i canali vocali, anche le categorie supportano spazi e caratteri personalizzati, come le emoji predefinite. I canali hanno anche i loro permessi indipendenti, ma saranno appplicati ai loro canali solo se saranno sincronizzati. 
 
-![Sync alert](https://i.imgur.com/5jcViFZ.png "Non sincronizzato")
-![Already Synced](https://i.imgur.com/Ieoi37w.png "Sincronizzato")
+![It Channel Categories 1](/uploads/it/it-channel-categories-2.png "Non sincronizzato")
+![It Channel Categories 1](/uploads/it/it-channel-categories-3.png "Sincronizzato")
 
 ### NOTA: A causa di un errore nella traduzione, entrambe le voci hanno la stessa dicitura. Si può determinare se un canale è o non è sincronizzato dalla presenza del bottone "Sincronizza".
 
