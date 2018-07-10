@@ -1,4 +1,4 @@
-![It Discriminator 1](/uploads/it/it-discriminator-1.png "It Discriminator 1")<!-- TITLE: [IT] Discriminatori -->
+<!-- TITLE: [IT] Discriminatori -->
 <!-- SUBTITLE: Informationi sui discriminatori di Discord -->
 
 # Discriminatori
