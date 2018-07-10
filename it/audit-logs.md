@@ -6,13 +6,13 @@ Ti sei mai chiesto chi fosse stato a creare un canale sul tuo server? Oppure chi
 # Accedi al Registro
 Quindi, dove posso trovare questo registro? Dentro le [impostazioni utente](/it/server-settings), che una voce chiamata Registro Attività.
 
-![Audit Logs 2](https://i.imgur.com/bnWSvfK.png "Audit Logs 2")
+![It Audit Logs 1](/uploads/it/it-audit-logs-1.png "It Audit Logs 1")
 
 > **NOTA**: Puoi accedere al Registro Attività solo se hai il permesso di **Visualizzare il Registro Attività** o di **Amministratore**.
 
 Ona volta aperto il Registro, ti troverai davanti ad una schermata del genere:
 
-![Audit Logs 3](https://i.imgur.com/N0ibKGQ.png "Audit Logs 3")
+![It Audit Logs 2](/uploads/it/it-audit-logs-2.png "It Audit Logs 2")
 
 # Cosa registra?
 
@@ -33,10 +33,10 @@ In sostanza, di cosa tiene traccia il Registro? Quando un utente compie un azion
 # Ottenere i dettagli
 Per molte di queste azioni, vengono dati ulteriori dettagli espandendo la voce.
 
-![Audit Logs 1](https://i.imgur.com/sQV5x8Y.png "Audit Logs 1")
+![It Audit Logs 3](/uploads/it/it-audit-logs-3.png "It Audit Logs 3")
 
 E, se dovessi cercare un'azione in particolare, o fatta da uno specifico utente, niente panico! Discord dà la possibilità di filtrare gli elementi per tipo e per utente!
 
-![Audit Logs 4](https://i.imgur.com/FPLZM9c.png "Audit Logs 4")
+![It Audit Logs 4](/uploads/it/it-audit-logs-4.png "It Audit Logs 4")
 
 Una volta finito di vedere tutti gli eventi che si desidera, si può uscire premendo Esc o cliccando la X in alto a destra.
