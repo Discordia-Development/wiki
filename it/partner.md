@@ -1,4 +1,4 @@
-<!-- TITLE: Partner -->
+<!-- TITLE: [IT] Partner -->
 
 Un Partner Discord è qualcuno con un grande seguito o qualcuno il cui server è stato accettato da Discord per ricevere perk speciali per sè e il server.
 
