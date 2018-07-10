@@ -1,4 +1,4 @@
-<!-- TITLE: Categorie di Canali -->
+<!-- TITLE: [IT] Categorie di Canali -->
 <!-- SUBTITLE: Un riassunto sulle categorie di canali -->
 
 # Categorie di Canali
