@@ -1,4 +1,4 @@
-<!-- TITLE: Registro Attività -->
+<!-- TITLE: [IT] Registro Attività -->
 <!-- SUBTITLE: Informazioni sul Registro Attività di Discord -->
 
 Ti sei mai chiesto chi fosse stato a creare un canale sul tuo server? Oppure chi ha bannato quell'utente? Non aver paura, il Registro Attività è qui per dirti tutto quello che succede nel server!
