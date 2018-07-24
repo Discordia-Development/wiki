@@ -11,8 +11,12 @@ This is a list of features that will be occasionally updated with information ab
 | Feature |	Status |
 |---------|---------|
 | Block Quotes | Planned |
+| Keyboard Navigation | Planned |
 | Permissions Preview Tool | Planned |
+| Overlay Home Bar | In Development |
+| Overlay Text Chat | In Development |
 | Priority Speaker | In Development |
+| Screen Reader Support | In Development |
 | Server Video Chat/Screen Sharing | In Internal Testing |
 
 ## iOS
@@ -33,7 +37,7 @@ This is a list of features that will be occasionally updated with information ab
 | Audit Log | Planned |
 | Auto-Deplay to Alpha | In Development |
 | Compress Image Toggle | Planned |
-| Screensharing | In Development |
+| Screensharing | Planned |
 | Security Tab/2FA Enable/Disable | Planned |
 | Video Embeds | Planned |
 
