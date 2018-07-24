@@ -16,7 +16,6 @@ This is a list of features that will be occasionally updated with information ab
 | Overlay Home Bar | In Development |
 | Overlay Text Chat | In Development |
 | Priority Speaker | In Development |
-| Screen Reader Support | In Development |
 | Server Video Chat/Screen Sharing | In Internal Testing |
 
 ## iOS
