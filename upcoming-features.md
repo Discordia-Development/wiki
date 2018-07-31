@@ -15,7 +15,7 @@ This is a list of features that will be occasionally updated with information ab
 | Permissions Preview Tool | Planned |
 | Overlay Home Bar | In Development |
 | Overlay Text Chat | In Internal Testing |
-| Priority Speaker | In Development |
+| Priority Speaker | In Internal Testing |
 | Server Video Chat/Screen Sharing | Gradually Rolling Out |
 
 ## iOS
