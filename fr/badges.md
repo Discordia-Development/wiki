@@ -16,7 +16,7 @@ Ce badge est donné à tous les membres de l’équipe de Discord. Si quelqu’u
 ![Badge Équipe](/uploads/fr/badges-staff.png "Le badge d’un membre de l’équipe")
 
 # Partenaire Discord
-Les [partenaires](/fr/partenaire) Discord ont le badge de partenaire sur leur profil. La seule façon d’obtenir ce badge est de devenir un partenaire Discord.
+Les [partenaires](/fr/partenaire) Discord ont le badge de partenaire sur leur profil. La seule façon d’obtenir ce badge est de [devenir un partenaire Discord](https://discordapp.com/partners).
 
 ![Badge Partenaire](/uploads/fr/badges-partner.png "Le badge d’un partenaire Discord")
 # Discord HypeSquad
