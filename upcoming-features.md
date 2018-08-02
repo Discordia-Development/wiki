@@ -14,7 +14,7 @@ This is a list of features that will be occasionally updated with information ab
 | Keyboard Navigation | Planned |
 | Permissions Preview Tool | Planned |
 | Overlay Home Bar | In Development |
-| Overlay Text Chat | In Internal Testing |
+| Overlay Text Chat | Available on Canary |
 | Priority Speaker | Available on Canary |
 | Server Video Chat/Screen Sharing | Gradually Rolling Out |
 
