@@ -15,7 +15,6 @@ This is a list of features that will be occasionally updated with information ab
 | Permissions Preview Tool | Planned |
 | Overlay Home Bar | In Development |
 | Overlay Text Chat | Available on Canary |
-| Priority Speaker | Available on Canary |
 | Server Video Chat/Screen Sharing | Gradually Rolling Out |
 
 ## iOS
@@ -36,6 +35,7 @@ This is a list of features that will be occasionally updated with information ab
 | Audit Log | Planned |
 | Auto-Deplay to Alpha | In Development |
 | Compress Image Toggle | Planned |
+| Game Detection | Available on Android Alpha |
 | Screensharing | Planned |
 | Security Tab/2FA Enable/Disable | Planned |
 | Video Embeds | Planned |
