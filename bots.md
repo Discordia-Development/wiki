@@ -5,7 +5,7 @@ Discord allows users to create Bots and invite them to servers. Discord has crea
 
 There is a community driven Discord API server that may be accessed [here](http://discord.gg/discord-api).
 
-The Unofficial Discord Wiki has it's own bot, Wikibot, which you can read about [here](https://discordia.me/wikibot).
+The Discord Wiki has it's own bot, Wikibot, which you can read about [here](https://discordia.me/wikibot).
 
 # Server Bots
 The most common type of bots are server bots. Server bots have dedicated bot accounts that are different from user accounts and function mainly on servers. There are hundreds of server bots on Discord that have different functions. To invite a server bot to your guild, you need to have the **Manage Server** permission, and you need to authorize it with an authorization link specific to that bot. To invite a bot, click the authorization link, select a server, deny or allow it to have the permissions listed on the page and click 'Invite'. To remove a bot from your server, simply kick or ban it like you would any other user. Bot accounts have a bot tag next to their name. If you want to create your own server bot, you need to register it through Discord's application page. Click [here](https://discordapp.com/developers/applications/me) to access the applications page.
