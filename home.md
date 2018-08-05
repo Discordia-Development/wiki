@@ -60,11 +60,5 @@ The Discord Wiki is not affiliated with Discord. We're just here to help Discord
 
 *A huge thank you to all our supporters on [Patreon](https://www.patreon.com/TheDiscordWiki)!*
 
-* christopher#0176
-* Curse#0001
-* D_EaN * STS#0105
 * DowDaw#1339
-* Pheonix#5555
 * Saphir#0001
-* Skidder#0001
-* Tarek#1337
