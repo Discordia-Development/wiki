@@ -4,21 +4,21 @@
 # Bem-vindo
 ## Sobre nós
 
-Nós somos a The Unofficial Discord Wiki. Estamos orgulhosos em ser um dos provedores líderes de informações sobre o Discord na atualidade, seja bem vindo ao nosso site! Nós começamos um servidor há cerca de um ano, após perceber que nossos recursos poderiam ser usados para ajudar outros a aprender sobre o Discord em vez de ficar com todos os pedacinhos de informação só para nós! Um ano depois, nós nos sucedemos em prover ao menos algum tipo de informação para mais de 3,5 milhões de usuários por mês! Nós estamos sempre expandindo nossas informações, então se você sentir que tem a paixão, a vontade, e a determinação requirida para escrever artigos para nós, dê uma olhada no canal FAQs no nosso servidor e se inscreva para ajudar a contribuir!
+Nós somos a The Discord Wiki. Estamos orgulhosos em ser um dos provedores líderes de informações sobre o Discord na atualidade, seja bem vindo ao nosso site! Nós começamos um servidor há cerca de um ano, após perceber que nossos recursos poderiam ser usados para ajudar outros a aprender sobre o Discord em vez de ficar com todos os pedacinhos de informação só para nós! Um ano depois, nós nos sucedemos em prover ao menos algum tipo de informação para mais de 3,5 milhões de usuários por mês! Nós estamos sempre expandindo nossas informações, então se você sentir que tem a paixão, a vontade, e a determinação requirida para escrever artigos para nós, dê uma olhada no canal FAQs no nosso servidor e se inscreva para ajudar a contribuir!
 
 [Junte-se a nós no Discord!](https://discord.gg/gxkMuKC)
 
 <a href="https://discord.gg/gxkMuKC">![DISCORD EMBED PLUGIN](https://discordapp.com/api/guilds/367460196148183040/widget.png?style=banner2)</a>
 
 ## Avisos e informação legal
-Olá! Bem-vindo a The Unofficial Discord Wiki! Nós acreditamos fortemente em transparência, então antes de ingressar, por favor dê uma olhada nos nossos [Termos de Serviço](/pt/termos) e nossa [Política de Privacidade](/pt/privacidade) para que você saiba todas as coisas legais que precise saber sobre nossos serviços!
+Olá! Bem-vindo a The Discord Wiki! Nós acreditamos fortemente em transparência, então antes de ingressar, por favor dê uma olhada nos nossos [Termos de Serviço](/pt/termos) e nossa [Política de Privacidade](/pt/privacidade) para que você saiba todas as coisas legais que precise saber sobre nossos serviços!
 
 ### ***Discord, o Fantasma do Discord (Clyde™), e Discordapp (Aqui DISCORD) são propriedades intelectual e legal de Discord Inc. Estes Serviços, conforme listados nos [Termos de Serviço](/pt/termos) não estão afiliados com o Discord Inc. ou quaisquer subsidiárias neste documento. The Discord Wiki não alega possuir qualquer propriedade intelectual do DISCORD, por favor não nos processem. :^)***
 
 ## Equipe da Wiki
 > ***Administradores da Wiki***
 
-*Responsáveis por manter a The Unofficial Discord Wiki e seu servidor de suporte.*
+*Responsáveis por manter a The Discord Wiki e seu servidor de suporte.*
 * @SleepaDru#7700 (Administrador do Sistema, mantém o backend de todos os serviços providos pela Wiki)
 * @Mikesky#0001 (Administrador do Sistema, mantém o backend de todos os serviços providos pela Wiki)
 * @Harrison#9100
