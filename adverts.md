@@ -1,5 +1,5 @@
 <!-- TITLE: Advertisements -->
-<!-- SUBTITLE: Why The Unofficial Discord Wiki has an advertisement, and why we'd appreciate you not blocking it: A Blog Post -->
+<!-- SUBTITLE: Why The Discord Wiki has an advertisement, and why we'd appreciate you not blocking it: A Blog Post -->
 
 # That Sidebar Advertisement and You
 
@@ -9,7 +9,7 @@ Hey there, I'm SleepaDru#7700! I'm the guy with the wallet, the guy who works ov
 We have no plans to put any more advertisements, just that lovely sidebarboi.
 
 ## Why do you have ads when Discord doesn't?
-The Unofficial Discord Wiki isn't affiliated with Discord whatsoever, we're just an informationbase about the service. Running all of the server stuff that we do is expensive as booty as stated above :3
+The Discord Wiki isn't affiliated with Discord whatsoever, we're just an informationbase about the service. Running all of the server stuff that we do is expensive as booty as stated above :3
 
 ## What will you do with the extra money?
 Any leftovers after costs have been paid will be donated to [Special Effect](https://www.specialeffect.org.uk). Here's a little bit from them:
