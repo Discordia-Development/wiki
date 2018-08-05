@@ -12,7 +12,7 @@
 
 *\*Archived: Server is in a read-only state. Users can still join and read, but are unable to send messages.*
 # Community Driven Discord Resources
-* [The Unofficial Discord Wiki Support](https://discordapp.com/invite/ZRJ9Ghh)
+* [The Discord Wiki Support](https://discordapp.com/invite/ZRJ9Ghh)
 * [Discord API](http://discord.gg/discord-api)
 * [Discord Linux](https://discord.gg/discord-linux)
 * [Discord Translators](https://discordapp.com/invite/mmfyqEQ)
