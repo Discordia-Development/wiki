@@ -13,7 +13,7 @@
 ## 免责声明和法律信息
 嘿！我们欢迎您来Discord维基！我们坚信透明度，所以您来这儿之前，请残我们的[服务条款**（英语版）**](/terms)和[隐私政策**（英语版）**](/privacy)，那您可以知道你需要知道关于我们的服务！ 
 
-### ***Discord, the Discord Ghost (Clyde™), and Discordapp (Herein DISCORD) are the intellectual and legal property of Discord Inc. These Services, as listed in the [Terms of Service](/terms) are not affiliated with Discord Inc or any subsidiaries herein. The Unofficial Discord Wiki does not claim to own any of DISCORD's intellectual property, please no Cease and Desist :^)***
+### ***Discord, the Discord Ghost (Clyde™), and Discordapp (Herein DISCORD) are the intellectual and legal property of Discord Inc. These Services, as listed in the [Terms of Service](/terms) are not affiliated with Discord Inc or any subsidiaries herein. The Discord Wiki does not claim to own any of DISCORD's intellectual property, please no Cease and Desist :^)***
 
 ## 维基的员工
 > ***维基的管理员***
