@@ -13,7 +13,7 @@
 ## 면책 조항 및 법적 정보
 안녕하세요! 비공식 디스코드 위키에 오신 것을 환영합니다. 저희는 투명성을 중요시 여기므로, 시작하기 전에 저희 웹사이트 [서비스 약관](/terms)과 [개인 정보 정책](/privacy)을 한번 보아주시면 감사하겠습니다.
 
-### ***Discord, the Discord Ghost (Clyde™), and Discordapp (Herein DISCORD) are the intellectual and legal property of Discord Inc. These Services, as listed in the [Terms of Service](/terms) are not affiliated with Discord Inc or any subsidiaries herein. The Unofficial Discord Wiki does not claim to own any of DISCORD's intellectual property, please no Cease and Desist :^)***
+### ***Discord, the Discord Ghost (Clyde™), and Discordapp (Herein DISCORD) are the intellectual and legal property of Discord Inc. These Services, as listed in the [Terms of Service](/terms) are not affiliated with Discord Inc or any subsidiaries herein. The Discord Wiki does not claim to own any of DISCORD's intellectual property, please no Cease and Desist :^)***
 
 ## 편집자
 > ***위키 관리자***
