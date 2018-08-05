@@ -18,7 +18,7 @@ The Discord Wiki is not affiliated with Discord. We're just here to help Discord
 ## Wiki Staff
 > ***Wiki Administrators***
 
-*Responsible for maintaining The Unofficial Discord Wiki and its support server.*
+*Responsible for maintaining The Discord Wiki and its support server.*
 * Mikesky#0001 (Systems Administrator, maintains the backend of all of the services provided by the Wiki)
 * Harrison#9100
 * 西木野真姫 ★★★★#0419
