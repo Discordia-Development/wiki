@@ -30,7 +30,7 @@ Hey! Benvenuto nella Discord Wiki! Crediamo molto nella trasparenza, quindi prim
 * @Azrael#6867 - Coordinatore della community
 * @OminousCry#2331 - Coordinatore delle traduzioni
 
-> ***Volontari per l'internazionalizzazione***
+> ***Contributori della Wiki***
 
 * @Cyon aka UnityK#2469 - Coreano, Cinese
 * @D_EaN * STS#0105 - Ungherese
