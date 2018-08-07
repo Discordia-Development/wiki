@@ -32,29 +32,22 @@ Hey! Benvenuto nella Discord Wiki! Crediamo molto nella trasparenza, quindi prim
 
 > ***Volontari per l'internazionalizzazione***
 
-* @Calvijn#0001 - Olandese
-* @CLeaSeGame#8444 - Ungherese
-* @Csega#1256 - Ungherese
 * @Cyon aka UnityK#2469 - Coreano, Cinese
 * @D_EaN * STS#0105 - Ungherese
 * @Daan#1337 - Olandese
 * @deframet#0707 - Italiano
 * @Disegual#4088 - Italiano
 * @erykol#8141 - Polacco
-* @Getmanxed#4343 - Ungherese
 * @Immotay#0001 - Brasiliano-Portoghese
-* @jacob#0513 - Giapponese
-* @Joni#0001 - Finlandese
-* @JustAndras#0001 - Ungherese
+* @Ishidres#0001 - Tedesco
 * @Lireoy#4444 - Ungherese
 * @Mib#0001 - Danese
+* @Neerwan#9498 - French
 * @Nooby™#4562 - Francese
+* @Pushbox#9898
 * @RME#3050 - Olandese
 * @Samtell#0001 - Coreano
 * @Saphir#0001 - Francese
-* @Skidder#0001 - Tedesco
-* @Vividia#1224 - Ungherese
-* @xstarmax#0499 - Ungherese
 * @zabszk#5292 - Polacco
 
 > ***Sviluppatori***
@@ -62,17 +55,10 @@ Hey! Benvenuto nella Discord Wiki! Crediamo molto nella trasparenza, quindi prim
 *Hanno contribuito allo svuluppo di WikiBot.*
 * @HyperCoder#2975
 * @Tiemen#0001
-* @TreeFarmer#5406
 
 > ***Sostenitori***
 
 *Un grande abbraccio a tutti i nostri sostenitori su [Patreon](https://www.patreon.com/TheDiscordWiki)!*
 
-* christopher#0176
-* Curse#0001
-* D_EaN * STS#0105
 * DowDaw#1339
-* Pheonix#5555
 * Saphir#0001
-* Skidder#0001
-* Tarek#1337
