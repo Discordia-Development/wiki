@@ -14,10 +14,10 @@ Jesteśmy Discord Wiki. Rozpiera nas duma, że możemy być jednym z czołowych 
 *Odpowiedzialni za utrzymywanie Discord Wiki i jego serwera wsparcia.*
 
 * @Mikesky#0001 (Administrator systemów, utrzymuje zaplecze wszystkich usług dostarczanych przez Wiki)
-* Harrison#9100
-* kwando aka ハンイット ★★★★#1313
-* Tiemen#0001
-* cats#5485
+* @Harrison#9100
+* @kwando aka ハンイット ★★★★#1313
+* @Tiemen#0001
+* @cats#5485
 
 > ***Kadra liderska***
 
