@@ -2,7 +2,7 @@
 
 # Witaj
 ## O nas
-Jesteśmy Discord Wiki. Rozpiera nas duma, że możemy być jednym z czołowych dostawców informacji o Discord do tej pory i witamy cię na naszej stronie. Uruchmiliśmy serwer około rok temu po tym, gdy zdaliśmy sobie sprawę, że nasze zasoby mogą pomóc innym dowiedzieć się więcej o Discord, zamiast zatrzymać to wszystko dla siebie. [Taki żarcik]. Było trudno zacząć, ale rok później udało się dostarczyć przynajmniej trochę informacji dla 3.5 miliona użytkowników miesięcznie. Ciągle poszerzamy nasze informacje, więc jeśli masz ochotę, pasję, wolę i determinację wymaganą do pisania artykułów dla nas, sprawdź kanał FAQ na naszym serwerze, aby dowiedzieć się, czy aktualnie poszukujemy współpracowników!
+Jesteśmy Discord Wiki. Rozpiera nas duma, że możemy być jednym z czołowych dostawców informacji o Discord do tej pory i witamy cię na naszej stronie. Uruchmiliśmy serwer około rok temu po tym, gdy zdaliśmy sobie sprawę, że nasze zasoby mogą pomóc innym dowiedzieć się więcej o Discord, zamiast zatrzymać to wszystko dla siebie [Taki żarcik]. Było trudno zacząć, ale rok później udało się dostarczyć przynajmniej trochę informacji dla 3.5 miliona użytkowników miesięcznie. Ciągle poszerzamy nasze zasoby, więc jeśli masz ochotę, pasję, wolę i determinację wymaganą do pisania artykułów dla nas, sprawdź kanał FAQ na naszym serwerze, aby dowiedzieć się, czy aktualnie poszukujemy współpracowników!
 
 [Join us on Discord!](https://discord.gg/9CPA7W9)
 
@@ -12,11 +12,12 @@ Jesteśmy Discord Wiki. Rozpiera nas duma, że możemy być jednym z czołowych 
 > ***Administratorzy Wiki***
 
 *Odpowiedzialni za utrzymywanie Discord Wiki i jego serwera wsparcia.*
-* @SleepaDru#7700 (Administrator systemów, utrzymuje zaplecze wszystkich usług dostarczanych przez Wiki)
+
 * @Mikesky#0001 (Administrator systemów, utrzymuje zaplecze wszystkich usług dostarczanych przez Wiki)
-* @Harrison#9100
-* @Miku ★★★★#0039
-* @Tiemen#0001
+* Harrison#9100
+* kwando aka ハンイット ★★★★#1313
+* Tiemen#0001
+* cats#5485
 
 > ***Kadra liderska***
 
@@ -57,17 +58,5 @@ Jesteśmy Discord Wiki. Rozpiera nas duma, że możemy być jednym z czołowych 
 
 *Wielkie dzięki za wsparcie od naszych supportów z [Patreon](https://www.patreon.com/TheDiscordWiki)!*
 
-* christopher#0176
-* Curse#0001
-* D_EaN * STS#0105
 * DowDaw#1339
-* Pheonix#5555
 * Saphir#0001
-* Skidder#0001
-* Tarek#1337
-
-
-## Zastrzeżenia i informacje prawne
-No hej! Witamy na Discord Wiki! Jesteśmy silnymi zwolennikami przejrzystości, więc zanim wskoczycie w wir informacji, proszę spojrzeć na nasze  [Terms of Service](/terms) i naszą [Privacy Policy](/privacy) , abyście mogli poznać wszystkie prawne kruczki, o których musicie wiedzieć korzystając z naszych usług!
-
-### ***Discord, Discord Ghost (Clyde ™) i Discordapp (w tym DISCORD) są intelektualną i prawną własnością Discord Inc. Usługi te, wymienione w [Terms of Service](/terms) , nie są powiązane z Discord Inc lub dowolnymi spółkami zależnymi w nim. Discord Wiki nie twierdzi, że jest właścicielem jakiejkolwiek własności intelektualnej DISCORD, proszę nas nie oskarżać.***
