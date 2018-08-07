@@ -1,5 +1,5 @@
-<!-- TITLE: [PL] Patroni Nieoficjalnej Discord Wiki -->
-<!-- SUBTITLE: Ta strona jest w całości poświęcona i zadedykowana naszym uroczym sponsorom, którzy pomagają nam płacić za nasz hosting! Mówiąc szczerze bez waszej pomocy ten projekt nie miałby szansy istnieć, więc szczerze wam dziękujemy! -->
+<!-- TITLE: [PL] Patroni Discord Wiki -->
+<!-- SUBTITLE: Ta strona jest w całości poświęcona i zadedykowana naszym kochanym sponsorom, którzy pomagają nam płacić za nasz hosting! Mówiąc szczerze bez waszej pomocy ten projekt nie miałby szansy istnieć, więc zwyczajnie wam dziękujemy! -->
 
 # Nasi Patroni
 
