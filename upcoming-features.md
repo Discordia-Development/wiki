@@ -11,6 +11,7 @@ This is a list of features that will be occasionally updated with information ab
 | Feature |	Status |
 |---------|---------|
 | Block Quotes | Planned |
+| Game Store | Rolling Out |
 | Keyboard Navigation | Planned |
 | Permissions Preview Tool | Planned |
 | Overlay Home Bar | In Development |
