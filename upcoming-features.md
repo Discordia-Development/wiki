@@ -14,8 +14,6 @@ This is a list of features that will be occasionally updated with information ab
 | Keyboard Navigation | Planned |
 | Permissions Preview Tool | Planned |
 | Overlay Home Bar | In Development |
-| Overlay Notifications | Available on Canary |
-| Overlay Text Chat | Available on Canary |
 | Server Video Chat/Screen Sharing | Gradually Rolling Out |
 
 ## iOS
