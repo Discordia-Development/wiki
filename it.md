@@ -4,7 +4,7 @@
 # Benvenuto
 ## Chi siamo
 
-Siamo la Discord Wiki. Siamo fieri di essere fra i più importanti divulgatori di informazione su Discord, e ti diamo il benvenuto sul nostro sito! Abbiamo creato un server circa un anno fa dopo aver compreso che le nostre competenze possano aiutare gli altri ad utilizzare discord invece che tenerci tutte queste succose informazioni solo per noi! L'anno dopo, abbiamo raggiunto il traguardo di fornire informazioni a più di 3.5 milioni di utenti al mese! Il sito è in costante evoluzione, quindi se pensi di avere la passione, la volontà, e la determinazione richiesta per scrivere articoli per noi, leggi il canale FAQ nel nostro server ed iscriviti per contribuire!
+Siamo The Discord Wiki. Siamo fieri di essere fra i più importanti divulgatori di informazione su Discord, e ti diamo il benvenuto sul nostro sito! Abbiamo creato un server circa un anno fa dopo aver compreso che le nostre competenze possano aiutare gli altri ad utilizzare discord invece che tenerci tutte queste succose informazioni solo per noi! L'anno dopo, abbiamo raggiunto il traguardo di fornire informazioni a più di 3.5 milioni di utenti al mese! Il sito è in costante evoluzione, quindi se pensi di avere la passione, la volontà, e la determinazione richiesta per scrivere articoli per noi, leggi il canale FAQ nel nostro server ed iscriviti per contribuire!
 
 [Unisciti su Discord!](https://discord.gg/ZRJ9Ghh)
 
