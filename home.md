@@ -53,7 +53,6 @@ The Discord Wiki is not affiliated with Discord. We're just here to help Discord
 * Neerwan#9498 - French
 * Nooby™#4562 - French
 * PapuleX#2589 - Czech
-* Pushbox#9898
 * RME#3050 - Dutch
 * Samtell#0001 - Korean
 * Saphir#0001 - French
