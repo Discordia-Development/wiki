@@ -32,22 +32,36 @@ The Discord Wiki is not affiliated with Discord. We're just here to help Discord
 
 > ***Wiki Contributors***
 
+* alcyneous#2803 - Indonesian
+* Anaís#4719 - Spanish
+* Comi#2319 - French
 * Cyon aka FOR3VER#2469 - Korean, Chinese
 * D_EaN * STS#0105 - Hungarian
 * Daan#1337 - Dutch
 * deframet#0707 - Italian
 * Disegual#4088 - Italian
 * erykol#8141 - Polish
+* GreenTeen#6366 - Lithuanian
+* Harfeur#3633 - French
 * Immotay#0001 - Brazilian-Portuguese
 * Ishidres#0001 - German
+* Justman#0150 - Russian
 * Lireoy#4444 - Hungarian
+* Manfre#9262 - Italian
+* marcyblaze - Italian
 * Mib#0001 - Danish
 * Neerwan#9498 - French
 * Nooby™#4562 - French
+* PapuleX#2589 - Czech
 * Pushbox#9898
 * RME#3050 - Dutch
 * Samtell#0001 - Korean
 * Saphir#0001 - French
+* 魏 Sync#9198 - Indonesian
+* TheMelvinNL#0001 - Dutch
+* Tim#6235 - German
+* Voknehzyr#1338 - Russian
+* webhp#1337 - Pirate English
 * zabszk#5292 - Polish
 
 > ***Bot Developers***
