@@ -7,7 +7,7 @@ Scarica un app di autenticazione (per esempio Authy o Google Authenticator) ed a
 
 Qunado accedi a Discord mentre 2FA è abilitata, ti sarà chiesto di inserire un codice *dopo* aver inserito la password (non è un sostituto). 
 
-> NOTA: Discord Support non può disabilitare 2FA dal tuo account, solo tu puoi. Se non hai dei codici di backup e ti blocchi fuori dall'account, probabilmente non potrai recuperarlo.
+> NOTA: Discord Support non può rimuovere 2FA dal tuo account, solo tu puoi. Se non hai dei codici di backup e ti blocchi fuori dall'account, probabilmente non potrai recuperarlo.
 
 # Codici di riserva
 Nel caso in cui non riesci a generare dei codici, Discord ti dà alcuni codici di riserva. Puoi prendere questi codici in qualunque momento cliccando su 'Mostra i codici di riserva' nella sezione 'Il mio account' delle impostazioni utente. **Non far vedere questi codici a nessuno.** Ricordiamo inoltre di salvare questi codici in un posto sicuro nel caso perdi l'accesso all'app di autenticazione. **Ogni codice può essere usato solo una volta.**
