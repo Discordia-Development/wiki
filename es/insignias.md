@@ -6,7 +6,7 @@ Discord tiene diferentes insignias que distinguen a un usuario como miembro de g
 Las siguientes insignias se enumeran en orden jerárquico.
 
 
-# Insignias generales
+# Insignias en general
 Si un usuario tiene muchas insignias, aparecerán todas.
 
 ![General 1](/uploads/es/general-1.png "Vista general de las insignias")
