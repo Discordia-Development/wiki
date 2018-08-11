@@ -19,16 +19,16 @@ Hey! Benvenuto nella Discord Wiki! Crediamo molto nella trasparenza, quindi prim
 > ***Amministratori della wiki***
 
 *Responsabili per la manutenzione della Discord Wiki ed il server di supporto.*
-* @SleepaDru#7700 (Amministratore di sistema, mantiene il backend di tutti i servizi messi a disposizione dalla Wiki)
-* @Mikesky#0001 (Amministratore di sistema, mantiene il backend di tutti i servizi messi a disposizione dalla Wiki)
-* @Harrison#9100
-* @西木野真姫 ★★★★#0419
-* @Tiemen#0001
+* SleepaDru#7700 (Amministratore di sistema, mantiene il backend di tutti i servizi messi a disposizione dalla Wiki)
+* Mikesky#0001 (Amministratore di sistema, mantiene il backend di tutti i servizi messi a disposizione dalla Wiki)
+* Harrison#9100
+* 西木野真姫 ★★★★#0419
+* Tiemen#0001
 
 > ***Capi reparto***
 
-* @Azrael#6867 - Coordinatore della community
-* @OminousCry#2331 - Coordinatore delle traduzioni
+* Azrael#6867 - Coordinatore della community
+* OminousCry#2331 - Coordinatore delle traduzioni
 
 > ***Contributori della Wiki***
 
@@ -66,8 +66,8 @@ Hey! Benvenuto nella Discord Wiki! Crediamo molto nella trasparenza, quindi prim
 > ***Sviluppatori***
 
 *Hanno contribuito allo svuluppo di WikiBot.*
-* @HyperCoder#2975
-* @Tiemen#0001
+* HyperCoder#2975
+* Tiemen#0001
 
 > ***Sostenitori***
 
