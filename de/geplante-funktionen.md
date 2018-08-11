@@ -1,4 +1,4 @@
-<!-- TITLE: [DE] Geplante Funktionen -->
+<!-- TITLE: [DE] geplante Funktionen -->
 <!-- SUBTITLE: Eine kurze Übersicht von geplanten Funktionen -->
 
 # Geplante Funktionen
@@ -10,34 +10,34 @@ Dies ist eine Liste von Funktionen, welche gelegentlich mit Informationen über 
 
 | Funktion |	Status |
 |---------|---------|
-| Block Quotes | Geplant |
+| Block Quotes | geplant |
 | Game Store | schrittweises Veröffentlichen |
-| Keyboard Navigation | Geplant |
-| Permissions Preview Tool | Geplant |
+| Keyboard Navigation | geplant |
+| Permissions Preview Tool | geplant |
 | Overlay Home Bar | in Entwicklung |
 | Server Video Chat/Screen Sharing | schrittweises Veröffentlichen |
 
 ## iOS
 | Funktion | Status	|
 |---------|---------|
-| 3D Touch Support | Geplant |
-| Audit Log | Geplant |
-| Jump to Message | Geplant |
-| Custom Keyboard | Geplant |
-| Rich Push Notifications | Geplant |
-| Security Compatibility | Geplant |
-| Server Sorting | Geplant |
-| User Settings | Geplant |
+| 3D Touch Support | geplant |
+| Audit Log | geplant |
+| Jump to Message | geplant |
+| Custom Keyboard | geplant |
+| Rich Push Notifications | geplant |
+| Security Compatibility | geplant |
+| Server Sorting | geplant |
+| User Settings | geplant |
 
 ## Android
 | Funktion | Status |
 |---------|--------|
-| Audit Log | Geplant |
+| Audit Log | geplant |
 | Auto-Deplay to Alpha | in Entwicklung |
-| Compress Image Toggle | Geplant |
+| Compress Image Toggle | geplant |
 | Game Detection | in Entwicklung |
-| Screensharing | Geplant |
-| Security Tab/2FA Enable/Disable | Geplant |
-| Video Embeds | Geplant |
+| Screensharing | geplant |
+| Security Tab/2FA Enable/Disable | geplant |
+| Video Embeds | geplant |
 
-> Hinweis: Dies isnd unveröffentlichte Funktionen und es kann sein, dass sich diese noch ändern, bevor sie für Canary/Android Alpha/TestFlight Benutzer veröffentlicht werden. Es kann auch sein, dass sie garnicht veröffentlicht werden und es sind auch keine ungefähren Zeitpunkte für die Veröffentlichung vorhanden.
+> Hinweis: Dies sind unveröffentlichte Funktionen und es kann sein, dass sich diese noch ändern, bevor sie für Canary/Android Alpha/TestFlight Benutzer veröffentlicht werden. Es kann auch sein, dass sie garnicht veröffentlicht werden und es sind auch keine ungefähren Zeitpunkte für die Veröffentlichung vorhanden.
