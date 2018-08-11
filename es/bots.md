@@ -13,7 +13,7 @@ El tipo más común de bots es el de servidor. Los bots de servidor tienen cuent
 # Selfbots
 Los selfbots son para cuando un usuario utiliza la API de Discord para mejorar su cuenta y darle algunas acciones automatizadas, como autoping y embeds. Un selfbot funciona en tu cuenta (sin pasar por la página de aplicaciones) y tiene la capacidad de publicar mensajes por ti. Los selfbots van contra la política [OAuth](https://discordapp.com/developers/docs/topics/oauth2#bot-vs-user-accounts) de la API de Discord y puede llevar al cierre de una cuenta si se encuentra alguno. Los selfbots solo *deben* responder a tus comandos, de otra manera se considera un usuario bot (ver abajo). Para utilizar un selfbot, necesitas el identificador de tu usuario, el cual se puede encontrar en la consola. **No le des a nadie el identificador de tu usuario. Si alguien lo obtiene, puede causar daños serios en tu cuenta, incluyendo leer y enviar mensajes y meterse en cualquier servidor donde tengas permisos.**
 # Bots de usuario
-Los bots de usuario son bots totalmente operativos que funcionan con una cuenta normal. Esto va contra los [Términos de Servicio](https://discordapp.com/terms) de Discord. Si encuentras un usuario bot, por favor repórtalo a [support@discordapp.com.](mailto:support@discordapp.com) 
+Los bots de usuario son bots totalmente operativos que funcionan con una cuenta normal. Esto va contra los [Términos de Servicio](https://discordapp.com/terms) de Discord. Si te encuentras con un usuario bot, por favor repórtalo a [support@discordapp.com.](mailto:support@discordapp.com) 
 
 # Bibliotecas
 Los usuarios han creado muchas bibliotecas distintas que hacen que el uso de la API de Discord API sea más sencillo.
