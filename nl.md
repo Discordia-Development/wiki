@@ -10,7 +10,12 @@ Wij zijn de Discord Wiki. We zijn trots één van de leidende providers van info
 
 <a href="https://discord.gg/V6f8rZ2">![DISCORD EMBED PLUGIN](https://discordapp.com/api/guilds/367460196148183040/widget.png?style=banner2)</a>
 
-## De Redactie
+## Disclaimers en Juridische Informatie
+De Discord Wiki is niet verant aan Discord. We zijn hier alleen om Discord gebruikers te helpen nieuwe informatie te ontdekken over het platform. We zijn sterk gelovig in openheid, dus voordat je begint, neem alsjeblieft een kijkje naar onze [Servicevoorwaarden](/terms) en ons [Privacybeleid](/privacy) zodat je alle juridische dingen weet die je moet weten met betrekking tot onze diensten!
+
+### ***Discord, De Discord Ghost (Clyde™), en Discordapp (Herein DISCORD) zijn eigendom van Discord Inc. Deze Diensten, zoals vermeld in de [Servicevoorwaarden](/terms) zijn niet verwant aan Discord Inc. of enig Dochteronderneming hiervan. De Discord Wiki beweert geen intellectuele eigendommen van DISCORD te bezitten, klaag ons alsjeblieft niet aan :^)***
+
+## Wiki staf
 > ***Wiki Administrators***
 
 *Verantwoordelijk voor het onderhouden van de Discord Wiki en de bijbehorende ondersteunings server.*
@@ -63,8 +68,3 @@ Wij zijn de Discord Wiki. We zijn trots één van de leidende providers van info
 * Tarek1337#0379
 * GoldenPheonix#6248
 * Saphir#9268
-
-## Disclaimers en Juridische Informatie
-Hallo! Welkom bij de Discord Wiki! Wij vinden openheid belangrijk, dus voordat je aan de gang gaat, neem eerst alsjeblieft even de tijd om onze [Servicevoorwaarden](/terms) en [Privacybeleid](/privacy) door te nemen zodat je op de hoogte bent van de Juridische Informatie met betrekking tot onze diensten!
-
-### ***Discord, De Discord Ghost (Clyde™), en Discordapp (Herein DISCORD) zijn eigendom van Discord Inc. Deze Diensten, zoals vermeld in de [Servicevoorwaarden](/terms) zijn niet verwant aan Discord Inc. of enig Dochteronderneming hiervan. De Discord Wiki beweert geen intellectuele eigendommen van DISCORD te bezitten, klaag ons alsjeblieft niet aan.***
