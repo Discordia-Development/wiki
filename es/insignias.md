@@ -12,7 +12,7 @@ Si un usuario tiene muchas insignias, aparecerán todas.
 ![Generalbadges](/uploads/badges/generalbadges.png "Vista general de las insignias")
 
 # Empleado de Discord
-Esta insignia se le da a todo el personal de Discord. Si alguien afirma ser un miembro del personal de Discord y no tiene esta insignia, es muy probable que se esté haciendo pasar por ellos. Esta insignia es una de las únicas maneras de las que el personal oficial se distingue a sí mismo de los usuarios normales.
+Esta insignia se le da a todo el personal de Discord. Si alguien afirma ser un miembro del personal de Discord y no tiene esta insignia, es muy probable que se esté haciendo pasar por uno. Esta insignia es una de las únicas maneras de las que el personal oficial se distingue a sí mismo de los usuarios normales.
 
 ![Es Staffbadge](/uploads/es/es-staffbadge.png "Insignia del personal de Discord")
 
