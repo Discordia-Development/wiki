@@ -17,7 +17,7 @@ Esta insignia se le da a todo el personal de Discord. Si alguien afirma ser un m
 ![Es Staffbadge](/uploads/es/es-staffbadge.png "Insignia del personal de Discord")
 
 # Discord Partner
-Los [Partners](/partners) de tienen la insignia de socio en su perfil. La única forma de obtener esta insignia es convertiéndose en un Partner de Discord.
+Los [Partners](/partners) tienen la insignia de socio en su perfil. La única forma de obtener esta insignia es convertiéndose en un Partner de Discord.
 
 ![Es Partnerbadge](/uploads/es/es-partnerbadge.png "Insignia de Discord Partner")
 # Discord Hypesquad
