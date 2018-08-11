@@ -1,5 +1,5 @@
 <!-- TITLE: [FR] Publicités -->
-<!-- SUBTITLE: Pourquoi le Wiki de Discord a une publicité, et pourquoi nous apprécierions que vous ne le bloquiez pas : Un article de blog -->
+<!-- SUBTITLE: Pourquoi le Wiki de Discord a une publicité, et pourquoi nous apprécierions que vous ne la bloquiez pas : Un article de blog -->
 
 # Cette publicité latérale et vous
 
