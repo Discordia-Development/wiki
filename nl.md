@@ -15,56 +15,65 @@ De Discord Wiki is niet verant aan Discord. We zijn hier alleen om Discord gebru
 
 ### ***Discord, De Discord Ghost (Clyde™), en Discordapp (Herein DISCORD) zijn eigendom van Discord Inc. Deze Diensten, zoals vermeld in de [Servicevoorwaarden](/terms) zijn niet verwant aan Discord Inc. of enig Dochteronderneming hiervan. De Discord Wiki beweert geen intellectuele eigendommen van DISCORD te bezitten, klaag ons alsjeblieft niet aan :^)***
 
-## Wiki staf
-> ***Wiki Administrators***
+## Wiki Personeel
+> ***Wiki Administratoren***
 
 *Verantwoordelijk voor het onderhouden van de Discord Wiki en de bijbehorende ondersteunings server.*
-* @SleepaDru#7700 (Systeem Administrator, onderhoudt de backend van alle diensten die door de Wiki worden aangeboden)
-* @Mikesky#3456 (Systeem Administrator, onderhoudt de backend van alle diensten die door de Wiki worden aangeboden)
-* @Harrison#9100
-* @望月 紅葉 ★★★★#9667
-* @Tiemen#0001
+
+* Mikesky#0001 (Systeem Administrator, onderhoudt de backend van alle diensten die door de Wiki worden aangeboden)
+* Harrison#9100
+* kwando aka ハンイット ★★★★#1313
+* Tiemen#0001
+* cats#5485
 
 >***Afdelingsleiders***
 
-* @OminousCry#2331 - Vertaling
+* Azrael#6867 - Community Leiding
+* OminousCry#2331 - Vertaling Leiding
 
-> ***Vrijwilligers die de Discord Wiki vertalen***
+> ***Wiki Bijdragers***
 
-* @Calvijn#0001 - Nederlands
-* @Csega#1256 - Hungaars
-* @시온#2469 - Koreaans, Chinees
-* @D_EaN * STS#0105 - Hungaars
-* @Daan#1337 - Nederlands
-* @Disegual#4088 - Italiaans
-* @erykol#8141 - Pools
-* @jacob#0513 - Japans
-* @Joni#0001 - Fins
-* @JustAndras#0001 - Hungaars
-* @Lireoy#4444 - Hungaars
-* @Mib#0001 - Deens
-* @Nooby™#4562 - Frans
-* @RME#3050 - Nederlands
-* @Samtell#0001 - Koreaans
-* @Saphir#0001 - Frans
-* @Skidder#0001 - Duitsland
-* @Vividia#1224 - Hungaars
-* @xstarmax#0499 - Hungaars
-* @zabszk#5292 - Pools
+* alcyneous#2803 - Indonesisch
+* Anaís#4719 - Spaans
+* Comi#2319 - Frans
+* Cyon aka FOR3VER#2469 - Koreaans, Chinees
+* D_EaN * STS#0105 - Hongaars
+* Daan#1337 - Nederlands
+* deframet#0707 - Italiaans
+* Disegual#4088 - Italiaan
+* erykol#8141 - Pools
+* GreenTeen#6366 - Litouws
+* Harfeur#3633 - Frans
+* Immotay#0001 - Braziliaans-Portugees
+* Ishidres#0001 - Duits
+* Justman#0150 - Russisch
+* Lireoy#4444 - Hongaars
+* Manfre#9262 - Italiaans
+* marcyblaze - Italiaans
+* Mib#0001 - Deens
+* Neerwan#9498 - Frans
+* Nooby™#4562 - Frans
+* PapuleX#2589 - Tsjechisch
+* RME#3050 - Nederlands
+* Samtell#0001 - Koreaans
+* Saphir#0001 - Frans
+* 魏 Sync#9198 - Indonesisch
+* TheMelvinNL#0001 - Nederlands
+* Tim#6235 - Duits
+* Voknehzyr#1338 - Russisch
+* webhp#1337 - Piraat Engels
+* zabszk#5292 - Pools
 
 > ***Bot Ontwikkelaars***
 
-*Hebben bijdragen geleverd aan de ontwikkeling van de Discord WikiBot*
-* @HyperCoder#2975
-* @Tiemen#0001
+*Hebben bijdragen geleverd aan de Discord WikiBot*
+
+* HyperCoder#2975
+* Tiemen#0001
 
 > ***Patrons***
 
 *Een groot bedankje aan onze supporters op [Patreon](https://www.patreon.com/TheDiscordWiki)!*
 
-* Curse Broken#8659
-* D_EaN * STS#1723
-* DowDaw#1063
-* Tarek1337#0379
-* GoldenPheonix#6248
-* Saphir#9268
+* DowDaw#1339
+* Saphir#0001
