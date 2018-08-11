@@ -1,4 +1,4 @@
-<!-- TITLE: Abzeichen -->
+<!-- TITLE: [DE] Abzeichen -->
 <!-- SUBTITLE: Informationen über Discords verschiedene Profil-Abzeichen  -->
 
 Discord hat verschiedene Profil-Abzeichen, welche einen Benutzer als ein Mitglied einer speziellen Gruppe auszeichnen. Die Abzeichen werden auf dem Profil des Benutzers angezeigt. Um das Profil aufzufrufen, musst du auf den Benutzer klicken und  **Profil ansehen** auswählen, wenn du über den Avater mit deiner Maus bist.
