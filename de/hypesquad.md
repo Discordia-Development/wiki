@@ -3,7 +3,7 @@
 
 ![Hypesquadsmall](/uploads/hypesquad/hypesquadsmall.png "Hypesquadsmall")
 
-Der Discord HypeSquad besteht aus Mitgliedern aus der Discord Community die ausgewählt wurden, Discord auf verschiedenen Events auf der ganzen Welt, zu repräsentieren. Man kann sagen Discord HypeSquad Mitglieder sind Botschafter für Discord. 
+Der Discord HypeSquad besteht aus Mitgliedern aus der Discord Community die ausgewählt wurden, Discord auf verschiedenen Events auf der ganzen Welt, zu repräsentieren. Man kann sagen, dass Discord HypeSquad Mitglieder Botschafter für Discord sind. 
 
 Es gibt drei verschiedene Hype-Level im HypeSquad:
 
@@ -11,15 +11,24 @@ Es gibt drei verschiedene Hype-Level im HypeSquad:
 * Event-Besucher - Du besuchst sehr gerne verschiedene Events und zeigst dort deine Liebe für Discord
 * Event-Veranstalter - Du organisiert super coole Events und möchtest nebenbei Discord repräsentieren
 
-# HypeSquad Bonusse
+# HypeSquad Boni
+Jedes Level hat die gleichen Boni wie die vorherigen.
 
-* Zugriff auf einen exklusiven und geheimen Hypesquad Server.
-* HypeSquad [Abzeichen](/de/Abzeichen) für dein Discord Profil.
-* Als Event-Besucher bekommst du ein HypeSquad T-Shirt sobald du eins besuchst.
-* Triff und häng mit Discord Mitarbeitern ab auf Events.
+## HypeSquad Online
+* HypeSquad [Abzeichen](/de/abzeichen) für dein Discord Profil
+* HypeSquad E-Mail Newsletter
+
+## Event-Besucher
+* Zugriff auf einen exklusiven und geheimen HypeSquad Server.
+* HypeSquad T-Shirt, Sticker und Pins.
+* Triff und häng mit Discord Mitarbeitern auf Events ab.
+
+## Event-Veranstalter
+* Vierteljährig bekommst du eine Box mit tollen Sachen fürs Verteilen auf Events.
 
 # Trete dem HypeSquad bei!
 Falls du dem HypeSquad beitreten möchtest, musst du eine [Bewerbung](https://discordapp.com/hypesquad) abschicken. Wenn du dich als Event-Besucher oder Event-Veranstalter bewerben möchtest, musst du zusätzlich ein kurzes Video im Selfie-Style von dir anhängen, in dem du verschiedene Fragen beantwortest die auf dem Bewerbungsformular stehen.
 
 # Offizielles Video
+
 [video](https://www.youtube.com/watch?v=rXZkTT-5m9o){.youtube}
