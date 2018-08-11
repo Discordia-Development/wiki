@@ -1,33 +1,29 @@
-<!-- TITLE: [DE] Abzeichen -->
-<!-- SUBTITLE: Discord Abzeichen -->
+<!-- TITLE: Abzeichen -->
+<!-- SUBTITLE: Informationen über Discords verschiedene Profil-Abzeichen  -->
 
-Discord hat verschiedene Abzeichen, die einen Benutzer als Mitglied bestimmter Gruppen unterscheiden. Abzeichen werden auf dem Profil eines Benutzers angezeigt. Um auf das Profil von jemandem zuzugreifen, klicke auf den Namen des Benutzers und wähle **Profil anzeigen**, indem du mit deiner Maus über das Avatar des Nutzers schwebst.
+Discord hat verschiedene Profil-Abzeichen, welche einen Benutzer als ein Mitglied einer speziellen Gruppe auszeichnen. Die Abzeichen werden auf dem Profil des Benutzers angezeigt. Um das Profil aufzufrufen, musst du auf den Benutzer klicken und  **Profil ansehen** auswählen, wenn du über den Avater mit deiner Maus bist.
 
+Abzeichen werden in einer festen Reihnfolge angezeigt.
 
-Die folgenden Abzeichen sind in hierarchischer Reihenfolge aufgelistet.
+# Allgemeines über Abzeichen
+Wenn ein Benutzer mehrere Abzeichen hat, werden alle angezigt.
 
-# Discord Mitarbeiter
-Dieses Abzeichen bekommen alle Discord Mitarbeiter. Wenn jemand behauptet ein Mitarbeiter von Discord zu sein jedoch nicht dieses Abzeichen auf seinem Profil hat, ist es sehr wahrscheinlich, dass die jeweilige Person imitiert einer zu sein. Dieses Abzeichen ist die einzige offizielle Möglichkeit, Discord Mitarbeiter von den normalen Benutzern zu unterscheiden.
+![Generalbadges](/uploads/badges/generalbadges.png "Eine Übersicht der Abzeichen")
 
-![Staffbadge](/uploads/badges/staffbadge.png "Staffbadge")
+# Discord-Mitarbeiter
+Dieses Abzeichen haben alle Mitarbeiter von Discord. Wenn jemand sich als Mitarbeiter ausgibt und dieses Abzeichen nicht hat, ist es sehr warscheinlich, dass dieser sich nur als Mitarbeiter ausgibt, ohne einer zu sein. Dies ist somit der einzig offizielle Weg um Discord Mitabriter von regulären Benutzern zu unterscheiden.
 
+![Staffbadge](/uploads/badges/newstaffbadge.png "Das Mitarbeiter Abzeichen")
 
-# Discord Partner
-Discord [Partner](/partner) haben das Partner Abzeichen auf ihrem Profil. Der einzige Weg dieses Abzeichen zu bekommen, ist dich zu bewerben und als Partner angenommen zu werden.
+# Discord-Partner
+Die Partner von Disocrd haben das Partner Abzeichen auf ihrem Profil. Um dieses Abzeichen zu bekommen, musst du ein offizieller Discord Partner sein.
 
-![Partnerbadge](/uploads/badges/partnerbadge.png "Partnerbadge")
-
-
+![Newpartnerbadge](/uploads/badges/newpartnerbadge.png "Das Partner Abzeichen")
 # Discord HypeSquad
-Discord [HypeSquad](/de/hypesquad) Mitglieder bekommen das HypeSquad Logo auf ihrem Profil. Der einzige Weg dieses Abzeichen zu bekommen, ist dich als HypeSquad Mitglied zu bewerben. 
+Mitlieder des HypeSquads haben das HypeSquad Abzeichenauf ihrem Profil. Wenn du dieses Abzeichen haben möchtest, musst du Mitglied des HypeSquads sein.
 
-![Hypesquadbadge](/uploads/badges/hypesquadbadge.png "Hypesquadbadge")
-
-
+![Hypesquadbadge](/uploads/badges/newhypesquadbadge.png "Das HypeSquad Abzeichen")
 # Discord Nitro
-Nutzer die Discord [Nitro](/de/nitro) erworben haben bekommen das Discord Nitro Abzeichen auf ihrem Profil. Wenn du über das Abzeichen gehst, zeigt es dir an wann der Nutzer sich Nitro erworben hat. Wenn du das Abonomment abbestellst, verschwindet somit auch das Abzeichen. 
+Benutzer, die Discord Nitro abonniert haben, haben dieses Abzeichen auf ihrem Profil. Wenn du über das Abzeichen rüber gehst wird angezigt, seit wann der Benutzer Nitro abonniert hat. Sobald man Nitro nicht mehr abonniert hat, verschwindet das Abzeichen wieder.
 
-![Nitrobadge](/uploads/badges/nitrobadge.png "Nitrobadge")
-
-
-Derzeit kann nur ein Abzeichen angezeigt werden. Die Prioritätsliste zurzeit ist Nitro -> HypeSquad -> Partner -> Mitarbeiter
+![Nitrobadge](/uploads/badges/newnitrobadge.png "Das Nitro Abzeichen")
