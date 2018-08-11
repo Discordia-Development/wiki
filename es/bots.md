@@ -1,7 +1,7 @@
 <!-- TITLE:[ES] Bots -->
 <!-- SUBTITLE: Información sobre las diferentes bibliotecas de bots de Discord -->
 
-Discord permite a los usuarios crear Bots e invitarlos a los servidores. Discord ha creado una API única que permite a los usuarios crear aplicaciones que interactúen directamente con el servidor. Puedes ver la documentación de esta API [aquí](https://discordapp.com/developers/docs/intro).
+Discord permite a los usuarios crear bots e invitarlos a los servidores. Discord ha creado una API única que permite a los usuarios crear aplicaciones que interactúen directamente con el servidor. Puedes ver la documentación de esta API [aquí](https://discordapp.com/developers/docs/intro).
 
 Hay una comunidad dirigida al servidor de Discord API a la que se puede acceder [aquí](http://discord.gg/discord-api).
 
