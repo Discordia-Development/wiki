@@ -1,28 +1,33 @@
-<!-- TITLE: [ES] Nitro -->
+<!-- TITLE: Nitro -->
+<!-- SUBTITLE: Apoya el desarrollo de Discord -->
 
-![Insignia Nitro](/uploads/nitro/nitrobadge.png "Insignia Nitro")
+![Nitrobadge](/uploads/nitro/nitrobadge.png "Nitrobadge")
 
-Discord Nitro es una suscripción comprada a la Discord eso le da a un usuario Acceso a servicios primas.
+Discord Nitro es una suscripción que se compra a Discord y da acceso a servicios exclusivos.
 
-Nitro fue lanzado para fines de prueba en Australia el 22 de diciembre de 2016 y globalmente el 23 de enero de 2017.
+Nitro fue lanzado como prueba en Australia el 22 de diciembre de 2016 y a nivel mundial el 23 de junio de 2017.
 
-Nitro puede ser comprado mensual por USD$4.99 o anual por USD$49.99. El comprar anual da dos meses gratis.
+Nitro se puede comprar mensualmente por 4.99$ o anualmente por 49.99$. La compra del plan anual da dos meses gratis.
 
-# Caracteristicas
-Una suscripción Discord Nitro da acceso a los usuarios a las siguientes características:
+El 22 de diciembre de 2017, se incluyó la opción de pagar con Paypal.
 
-* Avatar de GIF.
-* Capacidad para usar emoji personalizado en cualquier lugar (si el usuario tiene el permiso Usar Emoji Externo en ese servidor).
-* Tamaño máximo de carga cambiado de 8mb a 50mb.
-* [Insignia](/insignias) de Discord Nitro en perfil.
+# Características
+Una suscripción de Discord Nitro da a los usuarios acceso a las siguientes características:
 
-# Comprando Nitro
-A compra Nitro, haga clic en el engranaje de ajustes de usuario en la parte inferior izquierda de la pantalla y haga clic en la pestaña Nitro. Una vez allí, seleccione mensual o anualmente, ingrese su información de tarjeta de crédito o débito, luego zipcode cuando se le pida. Desafortunadamente, Paypal no está soportado en el momento de la publicación.
+* Avatar animado.
+* Emojis animados.
+* Utilizar emojis personalizados en cualquier parte (si el usuario tiene el permiso de Uso Externo de Emojis en ese servidor).
+* El límite de subida cambia de 8MB a 50MB.
+* 720p 60fps o 1080p 30fps al compartir pantalla.
+* [Insignia](/badges) de Discord Nitro en el perfil.
+* Capacidad para cambiar tu [discriminador](/discriminator). (Ten en cuenta que, si tu Nitro expira tu discriminador será reiniciado con un número aleatorio)
 
-# Vídeo de Lanzamiento Oficial (en Ingles)
+# Comprar Nitro
+Para comprar Nitro, haz click en el engranaje de ajustes de usuario en la esquina inferior izquierda de tu pantalla y haz clic sobre la pestaña de Nitro. Una vez ahí, selecciona mensual o anualmente, introduce tu tarjeta de crédito o débito, y luego tu código postal. Para pagar con PayPal, necesitas tener un método de pago tolerante frente a fallos registrado en tu cuenta de PayPal, tal como una cuenta bancaria o tarjeta, independientemente de si fondos suficientes en tu cartera de PayPal.
+# Vídeo del lanzamiento oficial (en inglés)
 
-[vídeo](https://www.youtube.com/watch?v=psIIWROIvtM){.youtube}
+[video](https://www.youtube.com/watch?v=psIIWROIvtM){.youtube}
 
 
-# Más Información
-Puede encontrar más información sobre Nitro en http://discordapp.com/nitro o accediendo a la pestaña Nitro en Ajustes de usuario en el cliente.
+# Más información
+Puedes encontrar más información acerca de Nitro en http://discordapp.com/nitro o accediendo a la pestaña de Nitro en los ajustes de usuario en el cliente de Discord.
