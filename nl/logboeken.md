@@ -1,4 +1,4 @@
-<!-- TITLE: Logboeken -->
+<!-- TITLE: [NL] Logboeken -->
 <!-- SUBTITLE: Informatie over Discord's logboeken -->
 
 Heb je je ooit afgevraagd wie een nieuw kanaal aangemaakt heeft in je server? Of wie het persoon was die een probleemgevende gebruiker verbannen heeft? Heb geen angst, de logboeken zijn hier om je te vertellen wie wat heeft gedaan op je servers!
