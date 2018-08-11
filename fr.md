@@ -10,7 +10,7 @@ Nous sommes le wiki Discord. Nous sommes fiers d’être l’un des premiers fou
 
 <a href="https://discord.gg/jhKm4K2">![DISCORD EMBED PLUGIN](https://discordapp.com/api/guilds/367460196148183040/widget.png?style=banner2)</a>
 
-## Avertissement et mentions légales
+## Avertissements et mentions légales
 Le Wiki Discord n'est pas affilié avec Discord. Nous sommes juste ici pour aider les utilisateurs de Discord à découvrir des informations à propos de la plate-forme. Nous misons beaucoup sur la transparence, alors avant de commencer, nous vous invitons à jeter un oeil à nos [conditions d’utilisation](/fr/terms) et notre [politique d’utilisation des données](/fr/privacy) de façon à connaître toutes les informations légales concernant nos services !
 
 ### ***Discord, le fantôme Discord (Clyde™), et Discordapp (ci-après, DISCORD) sont la propriété intellectuelle et légale de Discord Inc. Ces services, comme listé dans les [conditions d’utilisation](/fr/terms) ne sont pas affiliés ou apparentés à Discord Inc. ou ses filiales. Le wiki Discord non officiel ne se considère en aucun cas détenteur de quelque propriété intellectuelle de DISCORD que ce soit, pas de mise en demeure s’il vous plaît ! :^)***
