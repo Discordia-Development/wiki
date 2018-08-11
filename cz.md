@@ -1,5 +1,5 @@
-<!-- TITLE: Czech - Home -->
-<!-- SUBTITLE: Welcome to The Discord Wiki! -->
+<!-- TITLE: Czech - Domovská stránka -->
+<!-- SUBTITLE: Vítejte na Discord Wiki! -->
 
 # Welcome
 ## About us
