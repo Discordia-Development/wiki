@@ -11,7 +11,7 @@ This is a list of features that will be occasionally updated with information ab
 | Feature |	Status |
 |---------|---------|
 | Block Quotes | Planned |
-| Game Store | Rolling Out |
+| Game Store | Gradually Rolling Out |
 | Keyboard Navigation | Planned |
 | Permissions Preview Tool | Planned |
 | Overlay Home Bar | In Development |
@@ -35,7 +35,7 @@ This is a list of features that will be occasionally updated with information ab
 | Audit Log | Planned |
 | Auto-Deplay to Alpha | In Development |
 | Compress Image Toggle | Planned |
-| Game Detection | Available on Android Alpha |
+| Game Detection | In Development |
 | Screensharing | Planned |
 | Security Tab/2FA Enable/Disable | Planned |
 | Video Embeds | Planned |
