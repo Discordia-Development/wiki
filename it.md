@@ -32,23 +32,36 @@ Hey! Benvenuto nella Discord Wiki! Crediamo molto nella trasparenza, quindi prim
 
 > ***Contributori della Wiki***
 
-* @Cyon aka UnityK#2469 - Coreano, Cinese
-* @D_EaN * STS#0105 - Ungherese
-* @Daan#1337 - Olandese
-* @deframet#0707 - Italiano
-* @Disegual#4088 - Italiano
-* @erykol#8141 - Polacco
-* @Immotay#0001 - Brasiliano-Portoghese
-* @Ishidres#0001 - Tedesco
-* @Lireoy#4444 - Ungherese
-* @Mib#0001 - Danese
-* @Neerwan#9498 - French
-* @Nooby™#4562 - Francese
-* @Pushbox#9898
-* @RME#3050 - Olandese
-* @Samtell#0001 - Coreano
-* @Saphir#0001 - Francese
-* @zabszk#5292 - Polacco
+* alcyneous#2803 - Indonesiano
+* Anaís#4719 - Spagnolo
+* Comi#2319 - Francese
+* Cyon aka UnityK#2469 - Coreano, Cinese
+* D_EaN * STS#0105 - Ungherese
+* Daan#1337 - Olandese
+* deframet#0707 - Italiano
+* Disegual#4088 - Italiano
+* erykol#8141 - Polacco
+* GreenTeen#6366 - Lituano
+* Harfeur#3633 - Francese
+* Immotay#0001 - Brasiliano-Portoghese
+* Ishidres#0001 - Tedesco
+* Justman#0150 - Russo
+* Lireoy#4444 - Ungherese
+* Manfre#9262 - Italiano
+* marcyblaze - Italiano
+* Mib#0001 - Danese
+* Neerwan#9498 - French
+* Nooby™#4562 - Francese
+* PapuleX#2589 - Ceco
+* RME#3050 - Olandese
+* Samtell#0001 - Coreano
+* Saphir#0001 - Francese
+* 魏 Sync#9198 - Indonesiano
+* TheMelvinNL#0001 - Olandese
+* Tim#6235 - Tedesco
+* Voknehzyr#1338 - Russo
+* webhp#1337 - Inglese Pirata
+* zabszk#5292 - Polacco
 
 > ***Sviluppatori***
 
