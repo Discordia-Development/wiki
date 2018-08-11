@@ -1,25 +1,25 @@
 <!-- TITLE: Pirate English - Home -->
-<!-- SUBTITLE: Welcome to The Discord Wiki! -->
+<!-- SUBTITLE: Welcome t' Th' Discord Wiki! -->
 
 # Welcome
-## About us
+## 'Bout us
 
-We're The Discord Wiki. We're proud to be one of the leading providers of information about Discord to date, and we welcome you to our site! We started a server about a year ago after realizing that our resources could be used to help others learn about Discord instead of taking all of the tasty information bits for ourselves! A year later, we succeed in providing at least some sort of info to over 3.5 million users a month! We're ever expanding our information, so if you feel like you have the passion, the will, and the resolve required to write articles for us, check out the FAQs channel in our server and sign up to help contribute!
+We be Th' Discord Wiki. We be proud t' be one o' th' leading providers o' information 'bout Discord t' date, n' we welcome ye t' our site! We started a ship 'bout a year ago after realizin' that our resources could be used t' help others learn 'bout Discord instead o' keepin' all o' th' tasty information bits fer ourselves! A year later, we succeed in providing at least some sort o' info t' over 3.5 million sailors a moon! We be ever expandin' our information, so if ye feel like ye have th' passion, th' will, n' th' resolve required t' write articles fer us, check out th' FAQs cabin in our ship n' sign up t' help contribute!
 
 [Join us on Discord!](https://discord.gg/ZRJ9Ghh)
 
 <a href="https://discord.gg/ZRJ9Ghh">![DISCORD EMBED PLUGIN](https://discordapp.com/api/guilds/367460196148183040/widget.png?style=banner2)</a>
 
-## Disclaimers and Legal Information
-The Discord Wiki is not affiliated with Discord. We're just here to help Discord users discover information about the platform. We're strong believers in transparency, so before you jump in, please take a look at our [Terms of Service](/terms) and our [Privacy Policy](/privacy) in order for you to know all the legal stuff you need to know regarding our services!
+## Disclaimers n' Legal Information
+Th' Discord Wiki be nah affiliated wit' Discord. We be just here t' help Discord sailors discover information 'bout th' platform. We be strong believers in transparency, so before ye jump in, please take a look at our [Terms of Service](/terms) n' our [Privacy Policy](/privacy) in order fer ye t' know all th' legal stuff ye need t' know regarding our services!
 
-### ***Discord, the Discord Ghost (Clyde™), and Discordapp (Herein DISCORD) are the intellectual and legal property of Discord Inc. These Services, as listed in the [Terms of Service](/terms) are not affiliated with Discord Inc or any subsidiaries herein. The Discord Wiki does not claim to own any of DISCORD's intellectual property, please no Cease and Desist :^)***
+### ***Discord, th' Discord Ghost (Clyde™), n' Discordapp (Herein DISCORD) be th' intellectual n' legal property o' Discord Inc. These Services, as listed in th' [Terms of Service](/terms) be nah affiliated wit' Discord Inc or any subsidiaries herein. The Discord Wiki does nah claim t' own any o' DISCORD's intellectual property, please no Cease and Desist :^)***
 
-## Wiki Staff
+## Wiki Crew
 > ***Wiki Administrators***
 
-*Responsible for maintaining The Discord Wiki and its support server.*
-* Mikesky#0001 (Systems Administrator, maintains the backend of all of the services provided by the Wiki)
+*Responsible fer maintaining Th' Discord Wiki n its support ship.*
+* Mikesky#0001 (Systems Administrator, maintains th' backend o' all o' th' services provided by th' Wiki)
 * Harrison#9100
 * kwando aka ハンイット ★★★★#1313
 * Tiemen#0001
@@ -58,7 +58,7 @@ The Discord Wiki is not affiliated with Discord. We're just here to help Discord
 
 > ***Patrons***
 
-*A huge thank you to all our supporters on [Patreon](https://www.patreon.com/TheDiscordWiki)!*
+*A huge thank ye t' all our supporters on [Patreon](https://www.patreon.com/TheDiscordWiki)!*
 
 * DowDaw#1339
 * Saphir#0001
