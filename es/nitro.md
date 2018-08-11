@@ -19,7 +19,7 @@ Una suscripción de Discord Nitro da a los usuarios acceso a las siguientes cara
 * Utilizar emojis personalizados en cualquier parte (si el usuario tiene el permiso de Uso Externo de Emojis en ese servidor).
 * El límite de subida cambia de 8MB a 50MB.
 * 720p 60fps o 1080p 30fps al compartir pantalla.
-* [Insignia](/badges) de Discord Nitro en el perfil.
+* [Insignia](/es/insignias) de Discord Nitro en el perfil.
 * Capacidad para cambiar tu [discriminador](/discriminator). (Ten en cuenta que, si tu Nitro expira tu discriminador será reiniciado con un número aleatorio)
 
 # Comprar Nitro
