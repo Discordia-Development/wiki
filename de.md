@@ -15,27 +15,53 @@ Hallo! Wilkommen beim Discord Wiki! Wir glauben stark an Transparenz, deshalb be
 
 ### ***Discord, the Discord Ghost (Clyde™), und Discordapp (In Folge DISCORD) sind geistiges und gesetzliches Eigentum von Discord Inc. Diese Seiten, wie in den [Nutzungsbedingungen](de/nutzungsbedingungen) festgelegt, sind nicht verbunden mit Discord Inc. oder jeglichen Tochtergesellschaften. The Discord Wiki gibt nicht an, DISCORD's geistiges Eigentum zu besitzen, bitte verklagt uns nicht.***
 
-## Redaktion
-> ***Hohes Konzil***
+## Wiki Team
+> ***Wiki Administratoren***
 
-*Verantwortlich für die Wartung dess  Unofficielen Discord Wiki's und den Support Server.*
+*Verantwortlich für die Wartung des Discord Wiki's und des Support Server.*
+* Mikesky#0001 (System Administrator, pflegt das Backend aller Systeme vom Wiki)
+* Harrison#9100
+* kwando aka ハンイット ★★★★#1313
+* Tiemen#0001
+* cats#5485
 
-* @SleepaDru#7700 (System Administrator,  pflegt das Backend aller Systeme vom Wiki)
-* @Mikesky#0001 (System Administrator, pflegt das Backend aller Systeme vom Wiki)
-* @Harrison#9100
-* @ベアトリーチェ★★★★#1313
-* @Tiemen#0001
+> ***Bereichsleitungen***
 
-> ***[Internationalisierung (i18n)](http://discordia.me/translations)***
+* Azrael#6867 - CommunityLeitung
+* OminousCry#2331 - Übersetzungsleitung
 
-* @asli#2772
-* @Daan#3356
-* @Gerd#0525
-* @Henrijoh#0216
-* @Gallium#1327
-* @DaFri_Nochiterov#4289
-* @Thereatra#3564
-* @LW001#8654
+> ***Beitragende zum Wiki***
+
+* alcyneous#2803 - Indonesisch
+* Anaís#4719 - Spanisch
+* Comi#2319 - Französisch
+* Cyon aka FOR3VER#2469 - Koreanisch, Chinesisch
+* D_EaN * STS#0105 - Ungarisch
+* Daan#1337 - Niederländisch
+* deframet#0707 - Italienisch
+* Disegual#4088 - Italienisch
+* erykol#8141 - Polnisch
+* GreenTeen#6366 - Litauisch
+* Harfeur#3633 - Französisch
+* Immotay#0001 - Brasilianisches Portugiesisch
+* Ishidres#0001 - Deutsch
+* Justman#0150 - Russisch
+* Lireoy#4444 - Ungarisch
+* Manfre#9262 - Italienisch
+* marcyblaze - Italienisch
+* Mib#0001 - Dänisch
+* Neerwan#9498 - Französisch
+* Nooby™#4562 - Französisch
+* PapuleX#2589 - Tschechisch
+* RME#3050 - Niederländisch
+* Samtell#0001 - Koreanisch
+* Saphir#0001 - Französisch
+* 魏 Sync#9198 - Indonesisch
+* TheMelvinNL#0001 - Niederländisch
+* Tim#6235 - Deutsch
+* Voknehzyr#1338 - Russisch
+* webhp#1337 - Piraten Englisch
+* zabszk#5292 - Polnisch
 
 > ***Bot-Entwickler***
 
@@ -43,4 +69,9 @@ Hallo! Wilkommen beim Discord Wiki! Wir glauben stark an Transparenz, deshalb be
 * @HyperCoder#2975
 * @Tiemen#0001
 
-*(Artikel zuletzt von Ishidres#0001 editiert und vervollständigt)*
+> ***Patrons***
+
+*Ein großes Dankeschön an all unsere Unterstützer auf [Patreon](https://www.patreon.com/TheDiscordWiki)!*
+
+* DowDaw#1339
+* Saphir#0001
