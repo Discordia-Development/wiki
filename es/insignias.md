@@ -7,7 +7,7 @@ Las siguientes insignias se enumeran en orden jerárquico.
 
 
 # Insignias generales
-Si un usuario tiene muchas insignias, todas aparecerán.
+Si un usuario tiene muchas insignias, aparecerán todas.
 
 ![Generalbadges](/uploads/badges/generalbadges.png "Vista general de las insignias")
 
