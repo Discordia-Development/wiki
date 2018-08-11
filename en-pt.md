@@ -18,7 +18,7 @@ Th' Discord Wiki be nah affiliated wit' Discord. We be just here t' help Discord
 ## Wiki Crew
 > ***Wiki Administrators***
 
-*Responsible fer maintaining Th' Discord Wiki n its support ship.*
+*Responsible fer maintaining Th' Discord Wiki n' its support ship.*
 * Mikesky#0001 (Systems Administrator, maintains th' backend o' all o' th' services provided by th' Wiki)
 * Harrison#9100
 * kwando aka ハンイット ★★★★#1313
