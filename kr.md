@@ -24,32 +24,46 @@
 * @Harrison#9100
 * @ベアトリーチェ★★★★#9667
 * @Tiemen#0001
+* cats#5485
 
 >***각 부서 리더***
 
+* Azrael#6867 - Community Lead
 * @OminousCry#2331 - 국제화 부서 리더
 
 > ***국제화 지원자***
 
-* @Calvijn#0001 - 네덜란드어
-* @Csega#1256 - 헝가리어
-* @Cyon aka UnityK#2469 - 한국어, 중국어
-* @Daan#1337 - 네덜란드어
-* @D_EaN * STS#0105 - 헝가리어
-* @erykol#8141 - 폴란드어
-* @jacob#0513 - 일본어
-* @Joni#0001 - 핀란드어
-* @JustAndras#0001 - 헝가리어
-* @Lireoy#4444 - 헝가리어
-* @Mibt#0001 - 덴마크어
-* @Nooby™#4562 - 불어
-* @RME#3050 - 네덜란드어
-* @Samtell#0001 - 한국어
-* @Saphir#0001 - 불어
-* @Skidder#6775 - 독일어
-* @Vividia#1224 - 헝가리어
-* @xstarmax#0499 - 헝가리어
-* @zabszk#5292 - 폴란드어
+* alcyneous#2803 - 인도네시아어
+* Anaís#4719 - 스페인어
+* Comi#2319 - 불어
+* D_EaN * STS#0105 - 헝가리어
+* Daan#1337 - 네덜란드어
+* deframet#0707 - 이탈리아어
+* Disegual#4088 - 이탈리아어
+* erykol#8141 - Polish
+* Forever#2469 - 한국어, 중국어
+* GreenTeen#6366 - 리투아니아어
+* Harfeur#3633 - 불어
+* Immotay#0001 - 브라질 포르투갈어
+* Ishidres#0001 - 독일어
+* Justman#0150 - 러시아어
+* Lireoy#4444 - 헝가리어
+* Manfre#9262 - 이탈리아어
+* marcyblaze - 이탈리아어
+* Mib#0001 - 덴마크어
+* Neerwan#9498 - 불어
+* Nooby™#4562 - 불어
+* PapuleX#2589 - 체코어
+* RME#3050 - 네덜란드어
+* Samtell#0001 - 한국어
+* Saphir#0001 - 불어
+* 魏 Sync#9198 - 인도네시아어
+* TheMelvinNL#0001 - 포르투갈어
+* Tim#6235 - 독일어
+* Voknehzyr#1338 - 러시아어
+* webhp#1337 - 해적 영어
+* zabszk#5292 - 폴란드어
+
 
 > ***봇 개발자***
 
@@ -62,11 +76,5 @@
 
 *[Patreon](https://www.patreon.com/TheDiscordWiki)을 통해 저희를 후원해주신 여러분께 큰 감사를 표합니다!*
 
-* christopher#0176
-* Curse#0001
-* D_EaN * STS#0001
-* DowDaw#1063
-* Tarek#1337
-* Pheonix#5555
+* DowDaw#1339
 * Saphir#0001
-* Skidder#6775
