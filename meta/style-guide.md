@@ -25,45 +25,46 @@ The Style Guide is for maintaining consistency across The Discord Wiki. More in-
 {.is-danger}
 
 * An, A, or The should not be used as the first word, unless it is stylized that way by Discord.
-> Channel Permissions
+> Correct | Channel Permissions
 {.is-success}
 
-> The Channel Permissions
+> Incorrect | The Channel Permissions
 {.is-danger}
 
 * Punctuation should not be used, unless stylized that way by Discord.
-> Discord Nitro
+> Correct | Discord Nitro
 {.is-success}
 
-> Discord Nitro.
+> Incorrect | Discord Nitro.
 {.is-danger}
 
-> Battle.​net 
+> Correct | Battle.​net 
 {.is-success}
 
-> Battlenet
+> Incorrect | Battlenet
 {.is-danger}
 
 ## Section Title Rules
 * Main title rules should always be considered in naming sections.
 * Section titles should not refer to the subject of the article.
-> Features
+> Correct | Features
 {.is-success}
 
-> Features of Discord Nitro
+> Incorrect | Features of Discord Nitro
 {.is-danger}
 
 # Translation Rules
 * Article titles must always start with the locale code.
-> [FR] Discord
+> Correct | [FR] Discord
 {.is-success}
 
-> Discord - French
+> Incorrect | Discord - French
 {.is-danger}
 
-> Discord [FR]
+> Incorrect | Discord [FR]
 {.is-danger}
 
+* This is temporary until wiki.js 2.0.
 * Translated articles must always be in the respective language folder.
 * Translators should not edit articles that are not in their respective language, unless they are the main English articles.
 * Translators must always wait until the English version of the article is live.
