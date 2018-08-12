@@ -1,64 +1,72 @@
 <!-- TITLE: Czech - Domovská stránka -->
 <!-- SUBTITLE: Vítejte na Discord Wiki! -->
 
-# Welcome
-## About us
+# Vítejte
+## O nás
 
-We're The Discord Wiki. We're proud to be one of the leading providers of information about Discord to date, and we welcome you to our site! We started a server about a year ago after realizing that our resources could be used to help others learn about Discord instead of taking all of the tasty information bits for ourselves! A year later, we succeed in providing at least some sort of info to over 3.5 million users a month! We're ever expanding our information, so if you feel like you have the passion, the will, and the resolve required to write articles for us, check out the FAQs channel in our server and sign up to help contribute!
+Vítejte na naší stránce! Jsme Discord Wiki! Jsme hrdí na to, že jsme jedním z hlavních poskytovatelů informací ohledně Discordu. Server jsme spustili asi před rokem, kdy jsme si řekli, že by naše zdroje mohli pomoci ostatním lidem dovědět se něco o Discordu, než abychom si všechny skvělé informace nechali pro sebe! Rok poté se nám podařilo poskytnout alespoň nějaké informace více než 3,5 miliónům uživatelům za měsíc! Naše informace stále rozšiřujeme, takže pokud máte zájem, vášeň a odhodlání psát pro nás články, podívejte se do "FAQs" kanálu na našem serveru a připojte se k nám!
 
-[Join us on Discord!](https://discord.gg/ZRJ9Ghh)
+[Připojte se k nám na Discord!](https://discord.gg/ZRJ9Ghh)
 
 <a href="https://discord.gg/ZRJ9Ghh">![DISCORD EMBED PLUGIN](https://discordapp.com/api/guilds/367460196148183040/widget.png?style=banner2)</a>
 
-## Disclaimers and Legal Information
-The Discord Wiki is not affiliated with Discord. We're just here to help Discord users discover information about the platform. We're strong believers in transparency, so before you jump in, please take a look at our [Terms of Service](/terms) and our [Privacy Policy](/privacy) in order for you to know all the legal stuff you need to know regarding our services!
+## Wiki personál
+> ***Wiki Administrátoři***
 
-### ***Discord, the Discord Ghost (Clyde™), and Discordapp (Herein DISCORD) are the intellectual and legal property of Discord Inc. These Services, as listed in the [Terms of Service](/terms) are not affiliated with Discord Inc or any subsidiaries herein. The Discord Wiki does not claim to own any of DISCORD's intellectual property, please no Cease and Desist :^)***
-
-## Wiki Staff
-> ***Wiki Administrators***
-
-*Responsible for maintaining The Discord Wiki and its support server.*
-* Mikesky#0001 (Systems Administrator, maintains the backend of all of the services provided by the Wiki)
+* Zodpovědní za správu Discord Wiki a jeho podpůrného serveru.*
+* Mikesky#0001 (Systémový administrátor, spravuje backend všech služeb od Wiki)
 * Harrison#9100
 * kwando aka ハンイット ★★★★#1313
 * Tiemen#0001
 * cats#5485
 
-> ***Department Leads***
+> ***Vedoucí oddělení***
 
-* Azrael#6867 - Community Lead
-* OminousCry#2331 - Translation Lead
+* Azrael#6867 - Vedoucí komunity
+* OminousCry#2331 - Vedoucí překladu
 
-> ***Wiki Contributors***
+> ***Přispěvatelé na Wiki***
 
-* Cyon aka FOR3VER#2469 - Korean, Chinese
-* D_EaN * STS#0105 - Hungarian
-* Daan#1337 - Dutch
-* deframet#0707 - Italian
-* Disegual#4088 - Italian
-* erykol#8141 - Polish
-* Immotay#0001 - Brazilian-Portuguese
-* Ishidres#0001 - German
-* Lireoy#4444 - Hungarian
-* Mib#0001 - Danish
-* Neerwan#9498 - French
-* Nooby™#4562 - French
-* Pushbox#9898
-* RME#3050 - Dutch
-* Samtell#0001 - Korean
-* Saphir#0001 - French
-* zabszk#5292 - Polish
+* alcyneous#2803 - Indonéština
+* Anaís#4719 - Španělština
+* Comi#2319 - Francouzština
+* Cyon aka FOR3VER#2469 - Korejština, čínština
+* D_EaN * STS#0105 - Maďarština
+* Daan#1337 - Holandština
+* deframet#0707 - Italština
+* Disegual#4088 - Italština
+* erykol#8141 - Polština
+* GreenTeen#6366 - Litevština
+* Harfeur#3633 - Francouzština
+* Immotay#0001 - Brazilská portugalština
+* Ishidres#0001 - Němčina
+* Justman#0150 - Ruština
+* Lireoy#4444 - Maďarština
+* Manfre#9262 - Italština
+* marcyblaze - Italština
+* Mib#0001 - Dánština
+* Neerwan#9498 - Francouzština
+* Nooby™#4562 - Francouzština
+* PapuleX#2589 - Čeština
+* RME#3050 - Holandština
+* Samtell#0001 - Korejština
+* Saphir#0001 - Francouzština
+* 魏 Sync#9198 - Indonéština
+* TheMelvinNL#0001 - Holandština
+* Tim#6235 - Němčina
+* Voknehzyr#1338 - Ruština
+* webhp#1337 - Pirátská angličtina
+* zabszk#5292 - Polština
 
-> ***Bot Developers***
+> ***Vývojáři bota***
 
-*Contributed to the Discord WikiBot.*
+*Podíleli se na vývoji Discord WikiBota.*
 * HyperCoder#2975
 * Tiemen#0001
 
-> ***Patrons***
+> ***Patroni***
 
-*A huge thank you to all our supporters on [Patreon](https://www.patreon.com/TheDiscordWiki)!*
+*Velké díky patří všem našim podporovatelům na [Patreon](https://www.patreon.com/TheDiscordWiki)!*
 
 * DowDaw#1339
 * Saphir#0001
