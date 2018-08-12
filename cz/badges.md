@@ -1,29 +1,29 @@
-<!-- TITLE: Badges -->
-<!-- SUBTITLE: Information about Discord's Various User Badges -->
+<!-- TITLE: Odznaky -->
+<!-- SUBTITLE: Informace o různých uživatelských odznacích na Discordu -->
 
-Discord has different badges that distinguish a user as a member of specific groups. Badges display on a user's profile card. To access someone's profile card, click them and select **view profile** by hovering over their avatar. 
+Discord má různé odznaky, které odlišují uživatele, zdali patří do specifických skupin. Odznaky se zobrazují na kartě profilu uživatele. Pro otevření karty daného uživatele si jej rozklikněte a vyberte **zobrazit profil** umístěním kurzoru na jeho avatar.
 
-Badges appear in a hierarchical order, and multiple badges will stack.
+Odznaky jsou řazeny hierarchicky a více odznaků se kupí.
 
-# General Badges
-If a user has multiple badges, all badges that the user has will appear.
+# Obecné odznaky
+Pokud má uživatel více odznaků, všechny jeho vlastněné odznaky se zobrazí.
 
-![Generalbadges](/uploads/badges/generalbadges.png "A General Overview of Badges")
+![Generalbadges](/uploads/badges/generalbadges.png "Obecný přehled odznaků")
 
-# Discord Staff
-This badge is issued to all Discord Staff. If someone claims to be Discord Staff and does not have this badge, it is very likely they're impersonating. This badge is one of the only official ways Discord Staff are distinguishable from regular users. 
+# Personál Discordu
+Tento odznak je vydáván zaměstnancům Discordu. Pokud někdo tvrdí, že je zaměstnaný v Discordu a nemá tento odznak, je velmi pravděpodobné, že zaměstnance pouze napodobuje. Tento odznak je jedinou cestou, jak odlišit zaměstnance Discordu od běžných uživatelů.
 
-![Staffbadge](/uploads/badges/newstaffbadge.png "A Staff Member's Badge")
+![Staffbadge](/uploads/badges/newstaffbadge.png "Odznak zaměstnance Discordu")
 
 # Discord Partner
-Discord [Partners](/partner) have the partner badge on their profile. The only way you may obtain this badge is by becoming a Discord Partner. 
+[Partneři](/partner) Discordu mají na svém profilu partnerský odznak. Jediná cesta, jak získat tento odznak je stát se partnerem Discordu.
 
-![Newpartnerbadge](/uploads/badges/newpartnerbadge.png "A Discord Partner Badge")
+![Newpartnerbadge](/uploads/badges/newpartnerbadge.png "Odznak Discord Partnera")
 # Discord Hypesquad
-Discord [Hypesquad](/hypesquad) members have the Hypesquad badge on their profile. The only way you may obtain this badge is by becoming a Discord Hypesquad member.
+Členové Discord [Hypesquad](/hypesquad) mají na svém profilu Hypesquad odznak. Jediná cesta, jak získat tento odznak je stát se členem Discord Hypesquad.
 
-![Hypesquadbadge](/uploads/badges/newhypesquadbadge.png "A Hypesquad Member's Badge")
+![Hypesquadbadge](/uploads/badges/newhypesquadbadge.png "Odznak člena Hypesquad")
 # Discord Nitro
-Users who have purchased [Discord Nitro](/nitro) have the Discord Nitro badge on their profile. If you hover over the badge, it displays when the user joined Nitro. If they unsubscribe from Nitro, the badge will disappear. 
+Uživatelé, kteří si zakoupili [Discord Nitro](/nitro) mají na svém profilu Discord Nitro odznak. Pokud umístíte kurzor na odznak, zobrazí se, kdy si uživatel zakoupil Nitro. Pokud se uživatel odhlásí z tohoto programu, odznak zmizí.
 
-![Nitrobadge](/uploads/badges/newnitrobadge.png "A Nitro Discord User's Badge")
+![Nitrobadge](/uploads/badges/newnitrobadge.png "Odznak Discord Nitro")
