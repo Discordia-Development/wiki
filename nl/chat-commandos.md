@@ -1,4 +1,4 @@
-<!-- TITLE: Chat commando's -->
+<!-- TITLE: [NL] Chat commando's -->
 <!-- SUBTITLE: Beschrijft alle chat commando's, zelfs de niet-opvallende/niet-gedocumenteerde -->
 
 # Discord chat commando's
