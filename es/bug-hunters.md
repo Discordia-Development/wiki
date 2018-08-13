@@ -15,20 +15,20 @@ Para ser un Bug Hunter, hay un par de pasos.
 * Envíalo
 * ¡Sé aprobado!
 
-### Unirse a Discord Testers
+### Únete a Discord Testers
 Lo primero es unirse al servidor de Discord Testers. Si ya estás en un servidor, ¡genial! Si no, ¡tienes un enlace de invitación [aquí](http://discord.gg/discord-testers)!
 
-### Comprobar las listas de Trello
+### Comprueba las listas de Trello
 Una vez te hayas unido al servidor, tienes que comprobar las listas de Trello para ver si tu bug ya ha sido reportado:
 * [Bugs en Windows/Mac/Navegador](https://trello.com/b/AExxR9lU/canary-bugs)
 * [Bugs en Android](https://trello.com/b/Vqrkz3KO/android-beta-bugs)
 * [Bugs en iOS](https://trello.com/b/vLPlnX60/ios-testflight-bugs)
 * [Bugs en Linux](https://trello.com/b/UyU76Esh/linux-bugs)
 
-### Dar formato a tu reporte
+### Da formato a tu reporte
 Después de comprobar las listas de Trello, si no ves tu bug ahí, puedes avanzar reportándolo. El formato para reportar bugs está en el canal #bot-help o en los pins de los canales correspondientes de reporte.
 
-### Enviar el reporte
+### Envía el reporte
 Bastante simple, solo apunta el reporte y presiona intro en el canal correcto de reporte.
 
 ### ¿Qué consigo?
