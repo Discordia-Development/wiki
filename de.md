@@ -69,7 +69,13 @@ Hallo! Wilkommen beim Discord Wiki! Wir glauben stark an Transparenz, deshalb be
 * @HyperCoder#2975
 * @Tiemen#0001
 
-> ***Patrons***
+## Besonderer Dank
+
+>***Spender***
+
+* Dropbox#0001 - thediscord.wiki Domain
+
+>***Patrons***
 
 *Ein großes Dankeschön an all unsere Unterstützer auf [Patreon](https://www.patreon.com/TheDiscordWiki)!*
 
