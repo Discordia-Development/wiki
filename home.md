@@ -69,7 +69,13 @@ The Discord Wiki is not affiliated with Discord. We're just here to help Discord
 * HyperCoder#2975
 * Tiemen#0001
 
-> ***Patrons***
+## Special thanks
+
+>***Donators***
+
+* Dropbox#0001 - thediscord.wiki Domain
+
+>***Patrons***
 
 *A huge thank you to all our supporters on [Patreon](https://www.patreon.com/TheDiscordWiki)!*
 
