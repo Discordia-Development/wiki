@@ -39,4 +39,4 @@ Bastante simple, solo apunta el reporte y presiona intro en el canal correcto de
 ## Consejos y trucos
 La mejor manera para encontrar bugs es usando Discord regularmente, y no salir de esta manera para encontrarlos, alguno vendrá a ti. 
 * Usa Discord Canary para conseguir nuevas herramientas o características más a menudo y probarlas. 
-* No te hundas cuando un bug que hayas reportado sea rechazado. Nos pasa a todos, solo sigue adelante. ¡Lee la razón del rechazo y todo irá mejor!
+* No te deprimas cuando un bug que hayas reportado sea rechazado. Nos pasa a todos, solo sigue adelante. ¡Lee la razón del rechazo y todo irá mejor!
