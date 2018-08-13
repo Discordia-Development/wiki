@@ -1,5 +1,5 @@
 <!-- TITLE: [ES] Bug Hunters (Cazadores de bugs) -->
-<!-- SUBTITLE: Ayudando a los desarrolladores de discord a gestionar los reportes de bugs y solucionarlos -->
+<!-- SUBTITLE: Ayudando a los desarrolladores de Discord a gestionar los reportes de bugs y solucionarlos -->
 # Bug Hunters
 Los Bug Hunters son un grupo de élite de usuarios de Discord que han encontrado con éxito bugs con Discord en cualquier cliente y lo han reproducido tres usuarios dirigidos por Dabbit Prime. Ayudan a los desarrolladores de Discord a aprender más acerca de los bugs y cómo solucionarlos.
 
