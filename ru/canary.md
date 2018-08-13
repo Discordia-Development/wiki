@@ -1,8 +1,8 @@
 <!-- TITLE: [RU] Discord Canary -->
 
-Canary - это программа Discord для альфа-тестирования. Она очень нестабильна и содержит в себе множество багов, но обычно на неё выходят новые функции раньше, чем на [PTB](/ptb) или [Stable](/stable) клиенты. Цель сборки Canary заключается в том, чтобы позволить пользователям помочь Discord протестировать новые функции. Если вы нашли баг в Canary, пожалуйста, сообщите о нём на сервере [Discord Testers](http://discord.gg/discord-testers).
+Canary — это программа Discord для альфа-тестирования. Она очень нестабильна и содержит в себе множество багов, но обычно на неё выходят новые функции раньше, чем на [PTB](/ru/ptb) или [Stable](/ru/stable) клиенты. Цель сборки Canary заключается в том, чтобы позволить пользователям помочь Discord протестировать новые функции. Если вы нашли баг в Canary, пожалуйста, сообщите о нём на сервере [Discord Testers](http://discord.gg/discord-testers).
 
-В отличии от [PTB](/ptb) или [Stable](/stable), значок Canary - оранжевый вместо blurple.
+В отличии от [PTB](/ru/ptb) или [Stable](/ru/stable), значок Canary — оранжевый вместо blurple.
 
 # Ссылки для скачивания
 * [macOS Canary](https://discordapp.com/api/download/canary?platform=osx)
