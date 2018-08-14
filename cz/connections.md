@@ -5,7 +5,7 @@ Menu propojení je dostupné v [uživatelském nastavení](/user-settings) Vaše
 
 ## Dostupné propojení
 
-![Propojení | Desktopová aplikace (Windows)](/uploads/e-96-faa.png "Connections | Desktop App (Windows)")
+![Connections | Desktop App (Windows)](/uploads/e-96-faa.png "Propojení | Desktopová aplikace (Windows)")
 
 Dostupné propojení:
 * Twitch
