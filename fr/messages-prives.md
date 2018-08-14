@@ -19,4 +19,4 @@ Les messages privés (MP en raccourci) sont une version minimaliste des serveurs
 * Les bots ne peuvent pas être ajoutés
 * Le propriétaire du groupe a une couronne proche de son nom
 
-Les [appels vidéos](/video-chat) et le [partage d’écran](/screensharing) est disponible dans les deux types de messages privés.
+Les [appels vidéos](/fr/tchat-video) et le [partage d’écran](/fr/partage-ecran) est disponible dans les deux types de messages privés.
