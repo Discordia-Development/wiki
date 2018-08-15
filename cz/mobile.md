@@ -1,4 +1,4 @@
-<!-- TITLE: Mobil -->
+<!-- TITLE: [CZ] Mobil -->
 <!-- SUBTITLE: Mobilní aplikace Discordu -->
 
 Discord má mobilní aplikace, které jsou dostupné pro iOS a Android zařízení. Tyto aplikace Vám dovolují použít tuto skvělou službu na mobilu.
