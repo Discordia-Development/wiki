@@ -1,4 +1,4 @@
-<!-- TITLE: Chasseurs de bug -->
+<!-- TITLE: [FR] Chasseurs de bug -->
 <!-- SUBTITLE: Aider les développeurs de Discord à gérer les rapports de bug et à corriger les bugs -->
 
 # Chasseurs de bug
