@@ -23,7 +23,7 @@ Discord be available on multiple platforms:
 
 **iOS:** Discord be available fer iOS devices runnin' iOS 8 n' above (fer example: iPhone 4S, iPod Touch 5, iPad 2, iPad Mini, iPad Air or better), but devices 3.5'' or smaller be nah supported.
 
-# Types of Clients
+# Types o' Clients
 Discord has different clients which can be ran across th' platforms offerin' different versions n' releases.
 
 ## Desktop
@@ -34,7 +34,7 @@ These be only accessible on Windows, MacOSX/macOS n' Linux:
 **Public Test Build (PTB)**: 'Tis be Discord's PTB build, wit' features not yet released th' public. It be nah as stable n' can have bugs n' issues.
 *It can be downloaded by selecting Public Test Build on th' Discord download page (https://discordapp.com/download).*
 
-**Canary:** 'Tis be Discord's Canary build, wit' th' earliest of features introduced t' sailors. It be th' bleeding edge o' th' client n' can have instability n' issues n' bugs wit' new features while also introduce bug fixes present on th' Stable n' PTB builds.
+**Canary:** 'Tis be Discord's Canary build, wit' th' earliest o' features introduced t' sailors. It be th' bleeding edge o' th' client n' can have instability n' issues n' bugs wit' new features while also introduce bug fixes present on th' Stable n' PTB builds.
 *It can be downloaded through th' Discord Testers ship (https://discord.gg/discord-testers).*
 
 **Web:** 'Tis be th' Web browser client, meanin' it can be accessible through a Web Browser. While it still be missin' some features which can only be used on Discord Clients, it allows compatibility fer devices such as Chromebooks which be runnin' ChromeOS.
