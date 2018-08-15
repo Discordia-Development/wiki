@@ -1,4 +1,4 @@
-<!-- TITLE: Podporovatelé Discord Wiki -->
+<!-- TITLE: [CZ] Podporovatelé Discord Wiki -->
 <!-- SUBTITLE: Tato stránka je zcela věnovaná skvělým lidem, kteří nám pomáhají s placením hostingu! Upřímně by bylo bez vaší pomoci hrozné provozovat tuto stránku, takže vám děkujeme! -->
 
 # Lidé z Patreonu
