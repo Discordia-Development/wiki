@@ -1,4 +1,4 @@
-<!--TITLE: Discord -->
+<!--TITLE: [IT] Discord -->
 
 ![Logo](/uploads/discord/logo.png "Logo")
 Discord è un software sociale gratuito basato su testo e voce diretto verso i gamer. Con oltre 130 milioni di utenti, Discord continua a crescere e ha molti aggiornamenti e funzionalità fantastiche.
