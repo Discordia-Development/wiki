@@ -1,4 +1,4 @@
-<!-- TITLE: Odznaky -->
+<!-- TITLE: [CZ] Odznaky -->
 <!-- SUBTITLE: Informace o různých uživatelských odznacích na Discordu -->
 
 Discord má různé odznaky, které odlišují uživatele, zdali patří do specifických skupin. Odznaky se zobrazují na kartě profilu uživatele. Pro otevření karty daného uživatele si jej rozklikněte a vyberte **zobrazit profil** umístěním kurzoru na jeho avatar.
