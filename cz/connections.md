@@ -1,4 +1,4 @@
-<!-- TITLE: Propojení -->
+<!-- TITLE: [CZ] Propojení -->
 <!-- SUBTITLE: Propojte si svůj Discord účet s ostatními účty! -->
 
 Menu propojení je dostupné v [uživatelském nastavení](/user-settings) Vašeho Discord účtu.
