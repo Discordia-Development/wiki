@@ -17,4 +17,4 @@ Puedes encontrar notas de actualización en Discord Canary específicas para cad
 Las aplicaciones de Android e iOS tienen programas beta de pruebas independientes. Si estás interesado en participar en los programas beta, únete al servidor [Discord Testers](http://discord.gg/discord-testers) y lee las preguntas frecuentes.
 
 # Canary para Web
-Hay una versión web de Discord Canary en la que puedes entrar por https://canary.discordapp.com.
+Hay una versión web de Discord Canary a la que puedes acceder a través de https://canary.discordapp.com.
