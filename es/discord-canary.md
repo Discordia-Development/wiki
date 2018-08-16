@@ -9,7 +9,7 @@ Al contrario que [PTB](/ptb) o [Estable](/stable), el icono de Canary es naranja
 * [Canary para Windows](https://discordapp.com/api/download/canary?platform=win)
 * [Canary para Linux](https://discordapp.com/api/download/canary?platform=linux)
 ### Notas de la API
-Puedes encontrar notas de actualización en Discord Canary específicas para cada versión en los enlaces siguientes.
+Puedes encontrar notas de actualización en Discord Canary para cada versión específica en los enlaces siguientes.
 * [macOS](https://discordapp.com/api/canary/updates?platform=osx)
 * [Windows](https://discordapp.com/api/canary/updates?platform=win)
 * [Linux](https://discordapp.com/api/canary/updates?platform=linux)
