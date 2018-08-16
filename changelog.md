@@ -1,7 +1,18 @@
 <!-- TITLE: Changelog -->
-<!-- SUBTITLE: Discord Changelog updated as of 06/21/2018 -->
+<!-- SUBTITLE: Discord Changelog updated as of 08/08/2018 -->
 
 This is the changelog/release date for major features or significant changes. PTB and Canary might have received some features sooner than the date listed below.
+
+# 8/8/2018
+* Overlay text chat
+* Text notifications while in game
+* Send and accept Rich Presence invites through overlay
+* Mute and deafen icons in overlay
+* Toggle overlay voice component
+* Stability increases
+* Priority Speaker mode
+* South African servers
+* Revamped dev portal
 
 # 6/21/2018
 * Games tab added
