@@ -5,6 +5,6 @@ Clyde es un "bot" integrado en Discord que te notifica si estás intentando real
 
 ![Clyde 1](/uploads/clyde/clyde-1.png "Clyde 1")
 
-Cada mensaje enviado por él está en el canal o grupo de MD en el que intentaste desempeñar esa acción y solo es visible para ti. Los mensajes también se pueden eliminar haciendo clic en el texto de abajo.
+Cada mensaje enviado por él está en el canal o grupo de MD en el que intentaste desempeñar esa acción y solo es visible para ti. Los mensajes también se pueden eliminar haciendo clic en el texto de debajo.
 
 ![Clyde 2](/uploads/clyde/newclyde.png "Clyde's User Profile")
