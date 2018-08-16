@@ -11,7 +11,7 @@ Las categorías de los canales pueden ser creadas haciendo clic derecho en el me
 
 Los nombres de los canales de voz y de las categorías soportan los espacios y los caracteres especiales, tales como los emojis. Las categorías también tienen sus propios permisos, pero solo se aplicarán a los canales si están sincronizados con la categoría.
 
-![Alerta de Sincronización]![Sincronizacion](/uploads/es/sincronizacion.png "Alerta de Sincronización")
+![Sincronizacion](/uploads/es/sincronizacion.png "Alerta de Sincronización")
 
 Los "Canales de Texto" y "Canales de Voz" más antiguos se han transformado ahora en las categorías de los servidores más recientes, dejando a los servidores más antiguos sin ninguna categoría. Sin embargo, los canales predeterminados (los dos canales de General) siguen existiendo en las mismas categorías.
 
