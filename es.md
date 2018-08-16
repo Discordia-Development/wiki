@@ -6,7 +6,7 @@
 
 Somos La Wiki de Discord. Estamos orgullosos de ser uno de los proveedores líderes en información sobre Discord hasta la fecha, ¡y te damos la bienvenida a nuestra página! ¡Empezamos un servidor hace alrededor de un año después de darnos cuenta de que nuestros recursos podían ser utilizados para ayudar a otros a aprender acerca de Discord en vez de quedarnos toda esa rica información para nosotros! Un año más tarde, ¡tuvimos éxito en proporcionar al menos algo de información a más de 3,5 millones de usuarios al mes! Siempre estamos expandiendo nuestra información, así que si crees que tienes la pasión, la voluntad, y la determinación necesaria para escribir artículos para nosotros, ¡échale un vistazo al canal de FAQs de nuestro servidor y regístrate para ayudar a contribuir!
 
-[¡Únete a nosotros en Discord!](https://discord.gg/ZRJ9Ghh)
+[¡Únete a nosotros en Discord!](https://discord.gg/zzAKwMQ)
 
 <a href="https://discord.gg/ZRJ9Ghh">![DISCORD EMBED PLUGIN](https://discordapp.com/api/guilds/367460196148183040/widget.png?style=banner2)</a>
 
