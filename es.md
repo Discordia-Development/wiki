@@ -65,7 +65,7 @@ La wiki de Discord no está afiliada a Discord. Solo estamos aquí para ayudar a
 
 > ***Desarrolladores de Bots***
 
-*Contribuidores del Discord WikiBot.*
+*Han contribuido al WikiBot de Discord.*
 * HyperCoder#2975
 * Tiemen#0001
 
