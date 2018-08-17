@@ -3,6 +3,13 @@
 
 This is the changelog/release date for major features or significant changes. PTB and Canary might have received some features sooner than the date listed below.
 
+# 8/16/2018
+## iOS
+- Paste images into chat
+- Post multiple images at once
+- Font now scales based on system settings
+- Loading place holder icons
+- Tapping friend request notification will open user profile
 # 8/8/2018
 * Overlay text chat
 * Text notifications while in game
