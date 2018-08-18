@@ -4,21 +4,21 @@ Discord [StreamKit](https://discordapp.com/streamkit) permette di migliorare l'e
 
 StreamKit mette a disposizione degli streamers integrazioni per i più famosi programmi di streaming, bot per server e [artwork](https://cdn.discordapp.com/streamkit.zip) di Discord da usare nei propri canali e siti web.
 # Integrazioni
-The following integrations allow you to link the apps listed below with your Discord server. Click on the app to add the integration to your Discord server.
+Le seguenti integrazioni ti permettono di collegare le rispettive applicazioni con il tuo server Discord. Clicca sull'applicazione per aggiungere l'integrazione nel tuo server Discord.
 
-* [Patreon](https://patreon.zendesk.com/hc/en-us/articles/213552323-How-do-I-set-up-Discord-rewards-?utm_medium=partnerships&utm_source=zendesk&utm_campaign=discord0913) - Allow Discord to automatically sync your patrons to a role. This integration also lets you give exclusive permissions to the integrated role.
-* [Nightbot](https://beta.nightbot.tv/integrations) - Nightbot provides many chat commands and auto-moderation tools for your Discord. This includes a blacklist for inappropriate words/phrases and the ability to suppress spamming of excessive symbols, emotes, capital letters, links, copypasta, etc. 
-* [Muxy](http://u.muxy.io/dashboard/connections) - Muxy allows customizable alerts for Twitch and your Discord server.
-* [Twitch](https://support.discordapp.com/hc/en-us/articles/212112068-Twitch-Integration-FAQ) - Allow Discord to automatically sync your partnered Twitch channel subs to a role. You can also let your Twitch subs use your Twitch emotes globally within Discord. 
-* [Youtube Gaming](https://support.discordapp.com/hc/en-us/articles/215162978-Youtube-Gaming-Integration-FAQ) - Allow Discord to automatically sync your partnered YouTube Gaming channel sponsors to a role. 
-* [Twinge](http://www.twinge.tv/sys/discord) - Allow Twinge to share analytics and Twitch community interaction within your Discord server. 
-* [Mixer](https://watchbeam.zendesk.com/hc/en-us/articles/211272063-Discord-Chat) - Allow Discord to automatically sync your Mixer subscribers to a role. 
-* [GameWisp](https://gamewisp.zendesk.com/hc/en-us/articles/222644768) - Allow Discord to automatically sync your GameWisp subscribers to a role.
-* [XSplit](https://streamkit.discordapp.com/overlay) - Customize, promote, and show off your Discord community directly on your stream. 
-* [OBS](https://streamkit.discordapp.com/overlay) - Customize, promote, and show off your Discord community directly on your stream.
+* [Patreon](https://patreon.zendesk.com/hc/en-us/articles/213552323-How-do-I-set-up-Discord-rewards-?utm_medium=partnerships&utm_source=zendesk&utm_campaign=discord0913) - Permette a Discord di sincronizzare automaticamente i patroni ad un ruolo. Questa integrazione ti permette inoltre di modificare i permessi del ruolo integrato.
+* [Nightbot](https://beta.nightbot.tv/integrations) - Nightbot offre molti comandi e strumenti per la moderazione del tuo server Discord. Questo include una blacklist oer frasi o parole inappropriate e una funzione per sopprimere lo spam di simboli, emoji, maiuscole, collegamenti, copypasta, ecc.
+* [Muxy](http://u.muxy.io/dashboard/connections) - Muxy aggiunge notifiche Twitch personalizzate a Discord.
+* [Twitch](https://support.discordapp.com/hc/en-us/articles/212112068-Twitch-Integration-FAQ) - Permette di sincronizzare automaticamente gli utenti Twitch abbonati ad un ruolo. Puoi anche permettere ai tuoi abbonati di usare le emote di Twitch globalmente su Discord. 
+* [Youtube Gaming](https://support.discordapp.com/hc/en-us/articles/215162978-Youtube-Gaming-Integration-FAQ) - Permette di sincronizzare automaticamente gli sponsor di Youtube Gaming ad un ruolo. 
+* [Twinge](http://www.twinge.tv/sys/discord) - Permette a Twinge di condividere la telemetria and e le interazioni della community Twitch nel tuo server Discord. 
+* [Mixer](https://watchbeam.zendesk.com/hc/en-us/articles/211272063-Discord-Chat) - Permette di sincronizzare automaticamente gli utenti Mixer abbonati ad un ruolo. 
+* [GameWisp](https://gamewisp.zendesk.com/hc/en-us/articles/222644768) - Permette di sincronizzare automaticamente gli utenti GameWisp abbonati ad un ruolo.
+* [XSplit](https://streamkit.discordapp.com/overlay) - Personalizza, promuovi e mostra la tua community Discord direttamente sulla tua stream. 
+* [OBS](https://streamkit.discordapp.com/overlay) - Personalizza, promuovi e mostra la tua community Discord direttamente sulla tua stream.
 
 # Bots
-The StreamKit suggests the following bots for your streaming-related Discord server:
-* [Septapus](http://septapus.com/) - Make a one to six panel comic with dialogue directly from your Discord chat.
-* [Airhorn Solutions](https://airhorn.solutions/) - Play a slew of sounds including Airhorns and other audio memes.
-* [Mee6](http://mee6.xyz/) - Include a variety of commands and features in your Discord server like XP/Levels for chat activity, Twitch/Reddit notifications and light moderation.
+StreamKit suggerisce i seguenti bot per il tuo server Discord:
+* [Septapus](http://septapus.com/) - Crea un fumetto da uno a sei pannelli direttamente dai messaggi in chat.
+* [Airhorn Solutions](https://airhorn.solutions/) - Riproduci alcuni meme sonori come le trombe d'aria.
+* [Mee6](http://mee6.xyz/) - Include una varietà di comandi nel tuo server Discord come XP e livelli per l'attività della chat, notifiche Twitch e Reddit e un po' di strumenti di moderazione.
