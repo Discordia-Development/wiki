@@ -2,13 +2,18 @@
 <!-- SUBTITLE: よこそ　Discord Wiki! -->
 
 # よこそ！
-## 私たちに関しては
+## このWikiについて
 
-私たちはDiscord Wikiです。 私たちはDiscordに関する情報の大手プロバイダーの1人になることを誇りに思っており、私たちのサイトへようこそ！ 私たちは、約1年前にサーバーを立ち上げました。それは、私たちのリソースが、おいしい情報ビットをすべて自分のために取る代わりに、Discordについて学ぶのを助けるために使用できることを実感した後です。 1年後には、月に200万人以上のユーザーに少なくとも何らかの情報を提供することに成功しました。 私たちは情報を拡大していますので、私たちのために記事を書くために必要な情熱、意志、そして決意を持っていると感じたら、私たちのサーバーのFAQsチャンネルをチェックしてください。
+私たちはDiscord Wikiです。私たちは、Discordに関する情報の大手プロバイダーの1人になることを誇りに思っており、訪れてくれたあなたを心から歓迎いたします！ 私たちは1年ほど前にこのサーバーを立ち上げました。私たちの持つオイシイ情報資源を、このまま自分たちだけで独り占めするんじゃなく、皆がDiscordについて学ぶために使ったほうがいいと思ったからです！ 1年経って、私たちは1か月に350万人以上のユーザーに何らかの種類の情報をお届けできるようになりました！ 私たちは常に情報を拡充し続けていますので、私たちのために記事を書くのに必要な情熱、意志、そして決意を持っていると感じたら、私たちのサーバーのFAQsチャンネルをチェックしてみてください！
 
 [Discordにご参加ください！](https://discord.gg/PUVBPzP)
 
 <a href="https://discord.gg/PUVBPzP">![DISCORD埋め込みプラグイン](https://discordapp.com/api/guilds/367460196148183040/widget.png?style=banner2)</a>
+
+## 免責事項と法的情報
+Discord WikiはDiscordの傘下団体ではありません。Discordに関する情報を得る手助けをするために作られたWikiです。私たちは透明性を非常に重視していますので、参加する際には必ず[利用規約](/terms)と[プライバシーポリシー](/privacy)に目を通し、必要な法的事項をご確認ください！
+
+### ***Discord, the Discord Ghost (Clyde™), and Discordapp (Herein DISCORD) are the intellectual and legal property of Discord Inc. These Services, as listed in the [Terms of Service](/terms) are not affiliated with Discord Inc or any subsidiaries herein. The Discord Wiki does not claim to own any of DISCORD's intellectual property, please don't sue us.　(Discord, Discord Ghost (Clyde™), Discordapp (ここでは DISCORD) はDiscord Inc.の知的・法的財産です。これら、[利用規約](/terms)に記載されているサービスはDiscord Inc.またはその傘下団体とは一切関係ありません。Discord wikiはDISCORDの知的財産の所有を宣言することはありません。法的措置はご勘弁ください。)***
 
 ## The Discord Wiki スタッフ
 > ***Wiki管理者***
@@ -27,19 +32,19 @@
 > ***国際化ボランティア***
 
 @D_EaN * STS#1723 - ハンガリー語
-@erykol#8141 - 研磨
+@erykol#8141 - ポルトガル語
 @FSΞ | S Λ M T Ξ L L#8213 - 韓国語
 @Greg#4239 - ドイツ人
 @Lireoy#4444 - ハンガリー語
 @MibMoot#3426 - デンマーク語
 @Saphir#9268 - フランス語
-@zabszk#5292 - 研磨
+@zabszk#5292 - ポルトガル語
 @시온#2469 - 韓国語
 @jacob#0513 - 日本語
 
 > ***ボットかいはつーしゃ。***
 
-*沽券した Discord WikiBot.*
+*貢献した Discord WikiBot.*
 * @HyperCoder#2975
 * @Tiemen#0001
 * @TreeFarmer#5406
@@ -55,7 +60,3 @@
 * GoldenPheonix#6248
 * Saphir#9268
 
-## 免責事項と法的情報
-ちょっと、そこ！ Discord Wikiへようこそ！ 私たちは透明性を強く信じていますので、あなたが入る前に、法的事項をすべて知るために、[利用規約](/jp/じょこ) と[個人情報保護方針](/jp/プライバシー)  私たちのサービスに関して知る必要があります！
-
-### ***Discord, the Discord Ghost (Clyde™), and Discordapp (Herein DISCORD) are the intellectual and legal property of Discord Inc. These Services, as listed in the [Terms of Service](/terms) are not affiliated with Discord Inc or any subsidiaries herein. The Discord Wiki does not claim to own any of DISCORD's intellectual property, please don't sue us.***
