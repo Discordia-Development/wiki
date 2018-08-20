@@ -17,6 +17,6 @@ Un número de páginas usan las cookies para recordar:
 * Quieras o no, has aceptado que usemos cookies en este sitio
 * Además, algunos vídeos fijados en nuestras páginas usan una cookie para anónimamente recoger estadísticas sobre como has llegado ahí y qué videos has visto. Aunque habilitar esas cookies no es estrictamente necesario para que la página funcione, te proporcionará una mejor experiencia al navegar. Las cookies pueden ser eliminadas o bloqueadas, pero algunas características de este sitio puede que no funcionen como es debido. La información relacionada con las cookies no es usada para identificarte personalmente y el patrón de datos está totalmente bajo nuestro control. Las cookies en esta página no son usadas para otro propósito que no sean los descritos aquí.
 
-## Como controlar las cookies
+## Cómo controlar las cookies
 
 Puedes bloquear y/o eliminar cookies como desées usando la configuración de tu navegador. Puedes eliminar todas las cookies que ya están en tu ordenador y puedes configurar tu navegador para prevenir que sean almacenadas. Haciendo esto puede que tengas que ajustar manualmente algunas preferencias cada vez que visites https://discordia.me. Algunos servicios y funcionalidades pueden no funcionar.
