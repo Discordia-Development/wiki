@@ -19,4 +19,4 @@ Un número de páginas usan las cookies para recordar:
 
 ## Cómo controlar las cookies
 
-Puedes bloquear y/o eliminar cookies como desées usando la configuración de tu navegador. Puedes eliminar todas las cookies que ya están en tu ordenador y puedes configurar tu navegador para prevenir que sean almacenadas. Haciendo esto puede que tengas que ajustar manualmente algunas preferencias cada vez que visites https://discordia.me. Algunos servicios y funcionalidades pueden no funcionar.
+Puedes bloquear y/o eliminar cookies como desees usando la configuración de tu navegador. Puedes eliminar todas las cookies que ya están en tu ordenador y puedes configurar tu navegador para prevenir que sean almacenadas. Haciendo esto puede que tengas que ajustar manualmente algunas preferencias cada vez que visites https://discordia.me. Algunos servicios y funcionalidades pueden no funcionar.
