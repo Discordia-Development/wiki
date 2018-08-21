@@ -38,7 +38,7 @@ The Discord Wiki is not affiliated with Discord. We're just here to help Discord
 * Cyon aka FOR3VER#2469 - Korean, Chinese
 * D_EaN * STS#0105 - Hungarian
 * Daan#1337 - Dutch
-* deframet#0707 - Italian
+* deframet#0001 - Italian
 * Disegual#4088 - Italian
 * erykol#8141 - Polish
 * GreenTeen#6366 - Lithuanian
@@ -48,7 +48,7 @@ The Discord Wiki is not affiliated with Discord. We're just here to help Discord
 * Justman#0150 - Russian
 * Lireoy#4444 - Hungarian
 * Manfre#9262 - Italian
-* marcyblaze - Italian
+* marcyblaze#6908 - Italian
 * Mib#0001 - Danish
 * Neerwan#9498 - French
 * Nooby™#4562 - French
