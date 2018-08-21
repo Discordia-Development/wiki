@@ -38,7 +38,7 @@ Hey! Benvenuto nella Discord Wiki! Crediamo molto nella trasparenza, quindi prim
 * Cyon aka UnityK#2469 - Coreano, Cinese
 * D_EaN * STS#0105 - Ungherese
 * Daan#1337 - Olandese
-* deframet#0707 - Italiano
+* deframet#0001 - Italiano
 * Disegual#4088 - Italiano
 * erykol#8141 - Polacco
 * GreenTeen#6366 - Lituano
@@ -48,7 +48,7 @@ Hey! Benvenuto nella Discord Wiki! Crediamo molto nella trasparenza, quindi prim
 * Justman#0150 - Russo
 * Lireoy#4444 - Ungherese
 * Manfre#9262 - Italiano
-* marcyblaze - Italiano
+* marcyblaze#6908 - Italiano
 * Mib#0001 - Danese
 * Neerwan#9498 - French
 * Nooby™#4562 - Francese
