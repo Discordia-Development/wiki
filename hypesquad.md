@@ -1,7 +1,7 @@
 <!-- TITLE: HypeSquad -->
 <!-- SUBTITLE: Are you Hyped? Because I'm feeling super duper hyped to tell you about this really cool thing! -->
 
-![Hypesquadsmall](/uploads/hypesquad/hypesquadsmall.png "Hypesquadsmall"){.align-right}
+![Hypesquadsmall](/uploads/hypesquad/hypesquadsmall.png "Full HypeSquad Badge")
 
 The Discord HypeSquad are members of the Discord community selected to represent the service at events around the world. Consider Discord HypeSquad members as ambassadors for Discord.
 
