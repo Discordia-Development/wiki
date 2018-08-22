@@ -48,7 +48,7 @@ Le Wiki Discord n'est pas affilié avec Discord. Nous sommes juste ici pour aide
 * Justman#0150 - Russe
 * Lireoy#4444 - Hongrois
 * Manfre#9262 - Italien
-* marcyblaze - Italien
+* marcyblaze#6908 - Italien
 * Mib#0001 - Danois
 * Neerwan#9498 - Français
 * Nooby™#4562 - Français
