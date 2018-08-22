@@ -1,64 +1,78 @@
-<!-- TITLE: Lithuanian - Home -->
-<!-- SUBTITLE: Welcome to The Discord Wiki! -->
+<!-- TITLE: Lietuviškai - Pagrindinis -->
+<!-- SUBTITLE: Sveiki atvykę į The Discord Wiki! -->
 
-# Welcome
-## About us
+# Sveiki
+## Apie mus
 
-We're The Discord Wiki. We're proud to be one of the leading providers of information about Discord to date, and we welcome you to our site! We started a server about a year ago after realizing that our resources could be used to help others learn about Discord instead of taking all of the tasty information bits for ourselves! A year later, we succeed in providing at least some sort of info to over 3.5 million users a month! We're ever expanding our information, so if you feel like you have the passion, the will, and the resolve required to write articles for us, check out the FAQs channel in our server and sign up to help contribute!
+Mes esame The Discord Wiki. Mes didžiuojames būdami vieni iš populiariausių naujausios informacijos apie Discord tiekėjų, ir mes sveikiname jus atvykusius į mūsų svetainę! Prieš metus mes sukūrėme serverį suprasdami, kad mūsų turima informacija gali padėti kitiems, o ne būtume egoistai ir naudotumėmes informacija tik mes! Po metų mes taip išaugome, kad kas mėnesį mes suteikiame šiokios tokios informacijos net 3,5 milijonams vartotojų! Mes visąlaik plečiame savo informaciją, tad jeigu turi noro, užsispyrimo ir resursų, kurie mums padėtų rašyti straipsnius, patikrink FAQs kanalą mūsų serveryje ir prisijunk prie pagalbininkų komandos!
 
-[Join us on Discord!](https://discord.gg/ZRJ9Ghh)
+[Prisijunk prie Discord serverio!](https://discord.gg/ZRJ9Ghh)
 
 <a href="https://discord.gg/ZRJ9Ghh">![DISCORD EMBED PLUGIN](https://discordapp.com/api/guilds/367460196148183040/widget.png?style=banner2)</a>
 
-## Disclaimers and Legal Information
-The Discord Wiki is not affiliated with Discord. We're just here to help Discord users discover information about the platform. We're strong believers in transparency, so before you jump in, please take a look at our [Terms of Service](/terms) and our [Privacy Policy](/privacy) in order for you to know all the legal stuff you need to know regarding our services!
+## Atsisakymas nuo atsakomybės ir Teisinė informacija
+The Discord Wiki nėra susijusi su Discord. Mes tik padedame Discord vartotojams atrasti informaciją apie platformą. Mes stipriai tikime skaidrumu, tad prieš pradėdamas naudotis, patikrink mūsų [naudojimosi sąlygas](/terms) ir mūsų [privatumo politiką](/privacy), jeigu nori žinoti viską ką tau reikia apie mūsų paslaugas!
 
-### ***Discord, the Discord Ghost (Clyde™), and Discordapp (Herein DISCORD) are the intellectual and legal property of Discord Inc. These Services, as listed in the [Terms of Service](/terms) are not affiliated with Discord Inc or any subsidiaries herein. The Discord Wiki does not claim to own any of DISCORD's intellectual property, please no Cease and Desist :^)***
+### ***Discord, the Discord Ghost (Clyde™), ir Discordapp (Herein DISCORD) yra intelektinė ir juridinė Discord Inc nuosavybė. Paslaugos, nurodytos [mūsų naudojimosi sąlygose](/terms) nėra susijusios Discord Inc ar kitomis kompanijomis. The Discord Wiki nevaldo jokios DISCORD'o intelektinės nuosavybės, prašau jokių Cease ir Desist :^)***
 
-## Wiki Staff
-> ***Wiki Administrators***
+## Wiki Kūrėjų Komanda
+> ***Wiki Administratoriai***
 
-*Responsible for maintaining The Discord Wiki and its support server.*
-* Mikesky#0001 (Systems Administrator, maintains the backend of all of the services provided by the Wiki)
+*Atsakingi už The Discord Wiki veiklą ir jo pagalbos serverį.*
+* Mikesky#0001 (Sistemų Administratorius, atsakingas už visas Wiki teikiamas paslaugas)
 * Harrison#9100
 * kwando aka ハンイット ★★★★#1313
 * Tiemen#0001
 * cats#5485
 
-> ***Department Leads***
+> ***Antrieji eilėje***
 
-* Azrael#6867 - Community Lead
-* OminousCry#2331 - Translation Lead
+* Azrael#6867 - Bendruomenės lyderis
+* OminousCry#2331 - Vertimų lyderis
 
-> ***Wiki Contributors***
+> ***Wiki Pagalbininkai***
 
-* Cyon aka FOR3VER#2469 - Korean, Chinese
-* D_EaN * STS#0105 - Hungarian
-* Daan#1337 - Dutch
-* deframet#0707 - Italian
-* Disegual#4088 - Italian
-* erykol#8141 - Polish
-* Immotay#0001 - Brazilian-Portuguese
-* Ishidres#0001 - German
-* Lireoy#4444 - Hungarian
-* Mib#0001 - Danish
-* Neerwan#9498 - French
-* Nooby™#4562 - French
-* Pushbox#9898
-* RME#3050 - Dutch
-* Samtell#0001 - Korean
-* Saphir#0001 - French
-* zabszk#5292 - Polish
+* alcyneous#2803 - Indoneziečių kalba
+* Anaís#4719 - Ispanų kalba
+* Comi#2319 - Prancūzų kalba
+* Cyon aka FOR3VER#2469 - Korėjiečių, Kinų kalbos
+* D_EaN * STS#0105 - Vengrų kalba
+* Daan#1337 - Vokiečių kalba
+* deframet#0001 - Italų kalba
+* Disegual#4088 - Italų kalba
+* erykol#8141 - Lenkų kalba
+* GreenTeen#6366 - Lietuvių kalba
+* Harfeur#3633 - Prancūzų kalba
+* Immotay#0001 - Brazilų-Portugalų kalba
+* Ishidres#0001 - Vokiečių kalba
+* Justman#0150 - Rusų kalba
+* Lireoy#4444 - Vengrų kalba
+* Manfre#9262 - Italų kalba
+* marcyblaze#6908 - Italų kalba
+* Mib#0001 - Danų kalba
+* Neerwan#9498 - Prancūzų kalba
+* Nooby™#4562 - Prancūzų kalba
+* PapuleX#2589 - Čekų kalba
+* RME#3050 - Vokiečių kalba
+* Samtell#0001 - Korėjiečių kalba
+* Saphir#0001 - Prancūzų kalba
+* 魏 Sync#9198 - Indoneziečių kalba
+* TheMelvinNL#0001 - Vokiečių kalba
+* Tim#6235 - Vokiečių kalba
+* Voknehzyr#1338 - Rusų kalba
+* webhp#1337 - Angliška piratų kalba
+* zabszk#5292 - Lenkų kalba
 
-> ***Bot Developers***
 
-*Contributed to the Discord WikiBot.*
+> ***Bot'ų Kūrėjai***
+
+*Prisidėjo kūriant Discord WikiBot.*
 * HyperCoder#2975
 * Tiemen#0001
 
-> ***Patrons***
+> ***Patron'ai***
 
-*A huge thank you to all our supporters on [Patreon](https://www.patreon.com/TheDiscordWiki)!*
+*Didelis Ačiū visiems [Patreon'ams](https://www.patreon.com/TheDiscordWiki)!*
 
 * DowDaw#1339
 * Saphir#0001
