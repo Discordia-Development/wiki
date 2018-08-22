@@ -1,4 +1,4 @@
-<!-- TITLE: Collegamenti -->
+<!-- TITLE: [IT] Collegamenti -->
 <!-- SUBTITLE: Collega il tuo account Discord ai tuoi altri account! -->
 
 Il menu Collegamenti è dentro alle [impostazioni Utente](/it/user-settings) del tuo account Discord. 
