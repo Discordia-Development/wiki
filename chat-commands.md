@@ -20,7 +20,6 @@ These slash commands are only available on the Desktop and iOS apps. Unfortunate
 * `/me <a message here>` : Outputs your message in italics, in the style of IRC. Identical to just surrounding your message with `*<a message here>*` (`*` for italics)
 * `/nick <new nickname>` : Changes your nickname on the server to what you place after the command. Requires "Change Nickname" permissions on the server.
 * `/tenor <search query>` and `/giphy <search query>` : Searches animated gifs on the web, using those 2 websites.
-* `/gamerescape <search query>` : Searches Gamer Escape's **Final Fantasy XIV** wiki and embeds a link to a page.
 * `/xivdb <search query>` : Searches **XIVDB's** database and embeds a link to any in-game content.
 
 > When `<something>` is used, it's indicative that you can put any string in there, excluding the `<>`. Aka it's a "placeholder".
