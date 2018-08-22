@@ -1,7 +1,9 @@
 <!-- TITLE: HypeSquad -->
 <!-- SUBTITLE: Are you Hyped? Because I'm feeling super duper hyped to tell you about this really cool thing! -->
 
-The Discord HypeSquad are members of the Discord community selected to represent the service at events around the world. Consider Discord HypeSquad members as ambassadors for Discord. ![Hypesquadsmall](/uploads/hypesquad/hypesquadsmall.png "Full HypeSquad Badge"){.align-right}
+![Hypesquadsmall](/uploads/hypesquad/hypesquadsmall.png "Full HypeSquad Badge"){.align-center}
+
+The Discord HypeSquad are members of the Discord community selected to represent the service at events around the world. Consider Discord HypeSquad members as ambassadors for Discord.
 
 # HypeSquad Perks
 Each tier includes the same benefits as the previous ones.
