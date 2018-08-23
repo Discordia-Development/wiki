@@ -21,7 +21,6 @@ Ces commandes de slash (barre oblique) ne sont disponibles que sur ordinateur et
 * `/me <un message>` : Sort votre message en italique, dans le style de l’IRC. Identique au simple envoi de votre message avec `*<un message>*` (`*` pour l’italique).
 * `/nick <nouveau pseudo>` : Modifie votre pseudonyme sur le serveur à ce que vous placez après la commande. Nécessite l’autorisation "Changer de pseudo" sur le serveur.
 * `/tenor <recherche>` et `/giphy <recherche>` : Cherche des gifs sur internet, en utilisant les deux sites.
-* `/gamerescape <recherche>` : Cherche dans le wiki Gamer Escape de **Final Fantasy XIV** et envoie un lien à la page.
 * `/xivdb <recherche>` : Cherche dans la base de données de **XIVDB** et envoie un lien à tous les contenus en jeu.
 
 > Lorsque `<quelque-chose>` est utilisé, cela indique que vous pouvez y insérer n’importe quels mots, à l’exception du `<>`. C’est un "espace réservé".
