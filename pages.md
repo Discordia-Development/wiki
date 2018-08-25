@@ -1,4 +1,4 @@
-* [Advertisements](/advers) <!--advertisements;adverts-->
+* [Advertisements](/adverts) <!--advertisements;adverts-->
 * [Audit Logs](/audit-logs) <!--audit log;auditlog;auditlogs;moderation logs;mod logs-->
 * [Badges](/badges) <!--badges;badge-->
 * [Bots](/bots) <!--bot;discord bot;discord bots-->
@@ -10,7 +10,7 @@
 * [Developer Mode](/developer-mode) <!--dev mode;dev-mode;developer-->
 * [Direct Messages](/direct-messages)<!--direct messages;direct message;dm;dms-->
 * [Discord](/discord)<!--discord-->
-* [Discord API Libraries](/libraries) <!--api;libraries;dapi-->
+* [Discord API Libraries](/bots#libraries) <!--api;libraries;dapi-->
 * [Discord Canary](/canary) <!--alpha;dcanary;canary-->
 * [Discord Change Logs](/changelog) <!--changelog;change log-->
 * [Discord Nitro](/nitro) <!--zoom;turbo;nitro;fast;premium;gold;payment-->
@@ -20,7 +20,6 @@
 * [Discord Stable](/stable) <!--stable;dstable;download-->
 * [Discord Support](/discord-support)<!--discord support;support;dsupport-->
 * [Discord Web](/web) <!--web;browser;web version-->
-* [Discord WikiBot](/wikibot)<!--wikibot;wiki bot-->
 * [Discriminator](/discriminator) <!--discrim;discriminator;discordtag-->
 * [Easter Eggs](/easter-eggs) <!--easter;eastereggs;konami;easteregg;easter egg-->
 * [Emojis](/emoji) <!--emote;emotes;emojis;emoticons;emoticon;smileys-->
@@ -57,5 +56,5 @@
 * [Verified Servers](/verified-servers)<!--verified servers;verified server;verified;server;servers-->
 * [Video Chat](/video-chat)<!--video chat-->
 * [Voice Regions](/voiceregions)<!--voice regions;regions;voice region;region-->
-* [WikiBot](/wikibot) <!--wiki bot-->
+* [WikiBot](/wikibot) <!--wikibot;wiki bot-->
 * [Wumpus](/wumpus)<!--wumpus;mascot-->
