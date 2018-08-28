@@ -43,7 +43,7 @@ Vítejte na naší stránce! Jsme Discord Wiki! Jsme hrdí na to, že jsme jedn�
 * Justman#0150 - Ruština
 * Lireoy#4444 - Maďarština
 * Manfre#9262 - Italština
-* marcyblaze - Italština
+* marcyblaze#6908 - Italština
 * Mib#0001 - Dánština
 * Neerwan#9498 - Francouzština
 * Nooby™#4562 - Francouzština
