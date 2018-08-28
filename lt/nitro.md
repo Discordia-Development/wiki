@@ -5,7 +5,7 @@
 
 Discord Nitro yra išperkama prenumerata, kuri suteikia vartotojui Premium funkcijas naudojantis Discord'u.
 
-Nitro buvo pradėtas testuoti Australijoje 2016 metais gruodžio 22 dieną ir globaliai 2017 matų sausio 23 dieną.
+Nitro buvo pradėtas testuoti Australijoje 2016 metais gruodžio 22 dieną ir globaliai 2017 metų sausio 23 dieną.
 
 Nitro gali būti prenumeruojamas už kasmėnesinį $4.99 dolerių arba kasmetinį $49.99 dolerių mokestį. Kasmetinis mokestis suteikia du menėsius nemokamos Nitro prenumeratos.
 
