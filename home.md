@@ -41,6 +41,7 @@ The Discord Wiki is not affiliated with Discord. We're just here to help Discord
 * deframet#0001 - Italian
 * Disegual#4088 - Italian
 * erykol#8141 - Polish
+* Ghostwolf#9509 - Lithuanian
 * GreenTeen#6366 - Lithuanian
 * Harfeur#3633 - French
 * Immotay#0001 - Brazilian-Portuguese
