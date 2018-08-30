@@ -5,7 +5,7 @@ Discord permette agli utenti di creare Bot e di invitarli ai loro server. Discor
 
 C'è un server di API Discord gestito dalla comunità dove puoi accedere [qui](http://discord.gg/discord-api).
 
-Discord Wiki ha il suo bot, Wikibot, del quale puoi leggere di più [qui](/wikibot).
+Discord Wiki ha il suo bot, Wikibot, del quale puoi leggere di più [qui](/it/wikibot).
 
 # Server Bot
 Il tipo più comune di bot sono i server bot. I server bot hanno account dei bot dedicati che sono diversi dagli account degli utenti e funzionano principalmente sui server. Ci sono centinaia di server bot su Discord che hanno diverse funzioni. Per invitare un server bot nel tuo server, devi avere il permesso **Gestire il server**, e devi autorizzarlo con un link specifico di autorizzazione per quel bot. Per invitare un bot, clicca il link di autorizzazione, seleziona un server, nega o permetti di avere i permessi elencati sulla pagina e clicca 'Autorizza'. Per rimuovere un bot dal tuo server, semplicemente lo espelli o lo banni come faresti con un altro utente. Gli account dei bot hanno un bot tag vicino al loro nome. Se vuoi creare il tuo server bot, devi registrarlo nella pagina applicazioni di Discord. Clicca [qui](https://discordapp.com/developers/applications/me) per accedere la pagina applicazioni.
