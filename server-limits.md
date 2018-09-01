@@ -19,6 +19,6 @@ This pages attempts to list the various "limitations" imposed upon servers in Di
 - Maximum attachment size with Nitro: **50 MB (or 52428800 bytes to be exact)**
 - Minimum time for idling: **10 minutes**.
 - Username/nickname: **32 characters**.
-- Channel topic size: **1024 characters**.
+- Channel topic size: **1,024 characters**.
 
 
