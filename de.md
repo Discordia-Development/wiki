@@ -41,6 +41,7 @@ Hallo! Wilkommen beim Discord Wiki! Wir glauben stark an Transparenz, deshalb be
 * deframet#0707 - Italienisch
 * Disegual#4088 - Italienisch
 * erykol#8141 - Polnisch
+* Ghostwolf#9509 - Litauisch
 * GreenTeen#6366 - Litauisch
 * Harfeur#3633 - Französisch
 * Immotay#0001 - Brasilianisches Portugiesisch
