@@ -7,12 +7,12 @@ This pages attempts to list the various "limitations" imposed upon servers in Di
 - A user cannot be on more than **100 servers**. Once this limit is hit, any server invite will display as "Invite Expired".
 - Servers have no theoretical member limit - there are servers with tens of thousands of users (75k+ in once instance). 
 - Servers reaching **5,000** *simultaneous online* members will need to contact Support to be moved to hardware supporting larger servers - this is when members start getting "Server Unavailable" errors.
-- A server can have *at most* **500 channels** - both text and voice combined. Once 500 channels are reached, no more channels can be created.
+- A server can have *at most* **500 channels** - text, voice, and categories combined. Once 500 channels are reached, no more channels can be created.
 - A server can have *at most* **250 roles**. 
 - A server can have *at most* **50 regular and 50 animated emojis**. 
 
 # Other Limits
-- Message limit: **2,000 characters**. (note: user/channel/role mentions and emojis contain a lot more characters than what they actually are!)
+- Message limit: **2,000 characters**. (note: user/channel/role mentions and emojis contain more characters than are shown)
 - TTS message limit: **200 characters**.
 - Pinned messages limit: **50** messages
 - Maximum attachment size: **8 MB (or 8388608 bytes to be exact)**
