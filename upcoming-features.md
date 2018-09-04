@@ -27,7 +27,6 @@ This is a list of features that will be occasionally updated with information ab
 | Rich Push Notifications | Planned |
 | Security Compatibility | Planned |
 | Server Sorting | Planned |
-| UI Redesign | Planned |
 | User Settings | Planned |
 
 ## Android
@@ -39,7 +38,6 @@ This is a list of features that will be occasionally updated with information ab
 | Game Detection | In Development |
 | Screensharing | Planned |
 | Security Tab/2FA Enable/Disable | Planned |
-| UI Redesign | Gradually Rolling Out |
 | Video Embeds | Planned |
 
 > Disclaimer: These are unreleased features and they might change before they are released to Canary/Android Alpha/TestFlight users. They might not be released at all, and ETAs are not available.
