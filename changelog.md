@@ -32,6 +32,10 @@ This is the changelog/release date for major features or significant changes. PT
 * Font now scales based on system settings
 * Loading place holder icons
 * Tapping friend request notification will open user profile
+
+# 8/9/2018
+* Billing tab in Settings
+* Library and Game Store rolling out in Canada
 # 8/8/2018
 * Overlay text chat
 * Text notifications while in game
