@@ -3,6 +3,12 @@
 
 This is the changelog/release date for major features or significant changes. PTB and Canary might have received some features sooner than the date listed below.
 
+# 8/29/2018
+## iOS
+- Nearby Friends feature
+- Improved autocomplete
+- Major improvements to reactions
+- Quick switcher now shows results properly
 # 8/16/2018
 ## iOS
 - Paste images into chat
