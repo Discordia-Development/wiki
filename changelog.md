@@ -1,21 +1,37 @@
 <!-- TITLE: Changelog -->
-<!-- SUBTITLE: Discord Changelog updated as of 08/08/2018 -->
+<!-- SUBTITLE: Discord Changelog updated as of 09/04/2018 -->
 
 This is the changelog/release date for major features or significant changes. PTB and Canary might have received some features sooner than the date listed below.
 
 # 8/29/2018
 ## iOS
-- Nearby Friends feature
-- Improved autocomplete
-- Major improvements to reactions
-- Quick switcher now shows results properly
+* Nearby Friends feature
+* Improved autocomplete
+* Major improvements to reactions
+* Quick switcher now shows results properly
+* Support for HypeSquad house badges
+
+## Android
+* Unread and Mention button in Channels list to help you quickly shame that person for @everyone
+* Add Friends or Join a Guild shortcuts if you find no results in Quickswitcher
+* Improved Login and Registration error handling
+* Nearby Friends bug fixes
+* Behind the Scenes improvements and fixes
+# 8/24/2018
+## Android
+* Added a voice connection quality indicator to the UI
+* User settings given a UI refresh
+* Added some additional helpful UI to captcha screens
+* Enable automatic voice detection sensitivity meter in the settings
+* Added main UI navigational accessibility hints
+* Added support for HypeSquad house badges
 # 8/16/2018
 ## iOS
-- Paste images into chat
-- Post multiple images at once
-- Font now scales based on system settings
-- Loading place holder icons
-- Tapping friend request notification will open user profile
+* Paste images into chat
+* Post multiple images at once
+* Font now scales based on system settings
+* Loading place holder icons
+* Tapping friend request notification will open user profile
 # 8/8/2018
 * Overlay text chat
 * Text notifications while in game
@@ -27,6 +43,27 @@ This is the changelog/release date for major features or significant changes. PT
 * South African servers
 * Revamped dev portal
 
+# 7/15/2018
+## Android
+* Invites in chat now get a dedicated embed
+* You can now add a reason when you kick or ban someone
+* Too many bugfixes and UI buffs to list, including:
+	* User online statuses no longer get stale
+	* Drag and drop to reorder servers/channels is not janky anymore
+	* Fixed rare lockup when using the notification inline
+	* If an unread message is in a muted channel or category, the server won't get marked as unread
+	* A lot more
+
+# 7/6/2018
+## iOS
+* Group DM invites will embed in chat with a new look
+* The sign in screen will now show if you were invited through a Group DM
+* Message bar has a new look 
+* The typing indicator will no longerpush the chat bar up
+* Autocomplete went through some changes:
+	* Autocomplete will leave instead of sticking around on screen sometimes
+	* Autocomplete is now bigger so it’s easier to tap on
+	* Autocomplete animation is polished so that it can slide both up AND down
 # 6/21/2018
 * Games tab added
 * Group DM invites
@@ -35,6 +72,13 @@ This is the changelog/release date for major features or significant changes. PT
 * Colourblind mode (initial release)
 * Improvements to Japanese, Korean and Chinese fonts
 * Sound when changing input or output device
+
+# 6/19/2018
+## Android
+* Unread and mention button in channels list. Does not show if you have unreads visible.
+* Add friends or join a guild shortcuts if you find no results in Quickswitcher
+* Improved login and registration screen error handling and messaging
+* Behind the Scenes improvements and fixes
 # 5/25/2018
 * GDPR data features
 * @everyone and @here mention warnings
@@ -50,6 +94,12 @@ This is the changelog/release date for major features or significant changes. PT
 * Invite links to voice channels now take you to the appropriate voice channel
 * Offline members are no longer hidden after you cross 100 members
 * Discord uses a lot less data and battery now
+
+## Android
+* Quick reply
+* Messages in notifications now appear in chronological order
+* Buffs to several login/register screens
+* GDPR data features
 # 5/18/2018
 * Xbox integration released to all
 
