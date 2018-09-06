@@ -22,8 +22,8 @@ This is a list of features that will be occasionally updated with information ab
 |---------|---------|
 | 3D Touch Support | Planned |
 | Audit Log | Planned |
+| Emoji Picker | Available on TestFlight |
 | Jump to Message | Planned |
-| Custom Keyboard | Planned |
 | Rich Push Notifications | Planned |
 | Security Compatibility | Planned |
 | Server Sorting | Planned |
