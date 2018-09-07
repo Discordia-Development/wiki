@@ -34,7 +34,7 @@ Ini hanya dapat diakses di Windows, MacOSX / macOS dan Linux:
 **Public Test Build (PTB)**: Ini adalah build PTB Discord, dengan fitur yang belum dirilis ke publik. Build ini tidak stabil dan dapat memiliki banyak bug dan masalah.
 *Ini dapat diunduh dengan memilih Public Test Build di halaman unduh Discord (https://discordapp.com/download).*
 
-**Canary: ** Ini adalah build Canary milik Discord, dengan fitur paling awal yang diperkenalkan kepada pengguna. Build ini adalah ujung permasalahan dari klien maksudnya dapat memiliki ketidakstabilan, masalah maupun bug dalam fitur baru sementara yang ditambahkan, untuk  perbaikan masalah dan bug nya akan hadir pada build Stable dan PTB.
+**Canary:** Ini adalah build Canary milik Discord, dengan fitur paling awal yang diperkenalkan kepada pengguna. Build ini adalah ujung permasalahan dari klien maksudnya dapat memiliki ketidakstabilan, masalah maupun bug dalam fitur baru sementara yang ditambahkan, untuk  perbaikan masalah dan bug nya akan hadir pada build Stable dan PTB.
 *Ini dapat diunduh melalui grup Discord Testers (https://discord.gg/discord-testers).*
 
 **Web:** Ini adalah klien browser Web, yang berarti dapat diakses melalui Browser Web. Meskipun kehilangan beberapa fitur yang hanya dapat digunakan pada Klien Discord, ini memungkinkan kompatibilitas untuk perangkat seperti Chromebook yang menjalankan ChromeOS.
