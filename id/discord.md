@@ -9,7 +9,7 @@ Discord dikembangkan oleh Discord Inc. (sebelumnya dikenal sebagai Hammer and Ch
 Situs web untuk Discord adalah https://discordapp.com. 
 
 # Platforms
-Discord tersedia di berbagai platform:
+Discord tersedia dalam berbagai platform:
 
 ## Desktop
 **Windows:** Discord tersedia untuk pengguna Windows dengan komputer yang menjalankan Windows 7 ke atas.
@@ -29,19 +29,19 @@ Discord memiliki klien yang berbeda yang dapat dijalankan di berbagai platform s
 ## Desktop
 Ini hanya dapat diakses di Windows, MacOSX / macOS dan Linux:
 
-** Stabil (Stable): ** Ini adalah build publik yang stabil dan paling halus dari Discord, dengan fitur-fitur yang paten dan dipoles.
+**Stabil (Stable):** Ini adalah build publik yang stabil dan paling halus dari Discord, dengan fitur-fitur yang paten dan dipoles.
 
-** Public Test Build (PTB) **: Ini adalah build PTB Discord, dengan fitur yang belum dirilis ke publik. Build ini tidak stabil dan dapat memiliki banyak bug dan masalah.
-* Ini dapat diunduh dengan memilih Public Test Build di halaman unduh Discord (https://discordapp.com/download).*
+**Public Test Build (PTB)**: Ini adalah build PTB Discord, dengan fitur yang belum dirilis ke publik. Build ini tidak stabil dan dapat memiliki banyak bug dan masalah.
+*Ini dapat diunduh dengan memilih Public Test Build di halaman unduh Discord (https://discordapp.com/download).*
 
-** Canary: ** Ini adalah build Canary milik Discord, dengan fitur paling awal yang diperkenalkan kepada pengguna. Build ini adalah ujung permasalahan dari klien maksudnya dapat memiliki ketidakstabilan, masalah maupun bug dalam fitur baru sementara yang ditambahkan, untuk  perbaikan masalah dan bug nya akan hadir pada build Stable dan PTB.
-* Ini dapat diunduh melalui grup Discord Testers (https://discord.gg/discord-testers).*
+**Canary: ** Ini adalah build Canary milik Discord, dengan fitur paling awal yang diperkenalkan kepada pengguna. Build ini adalah ujung permasalahan dari klien maksudnya dapat memiliki ketidakstabilan, masalah maupun bug dalam fitur baru sementara yang ditambahkan, untuk  perbaikan masalah dan bug nya akan hadir pada build Stable dan PTB.
+*Ini dapat diunduh melalui grup Discord Testers (https://discord.gg/discord-testers).*
 
-** Web: ** Ini adalah klien browser Web, yang berarti dapat diakses melalui Browser Web. Meskipun kehilangan beberapa fitur yang hanya dapat digunakan pada Klien Discord, ini memungkinkan kompatibilitas untuk perangkat seperti Chromebook yang menjalankan ChromeOS.
+**Web:** Ini adalah klien browser Web, yang berarti dapat diakses melalui Browser Web. Meskipun kehilangan beberapa fitur yang hanya dapat digunakan pada Klien Discord, ini memungkinkan kompatibilitas untuk perangkat seperti Chromebook yang menjalankan ChromeOS.
 
 ## Mobile
 Ini dapat diakses melalui TestFlight atau Platform Pengembang Google:
 
-** iOS Testflight **: Ini berisi fitur-fitur awal untuk aplikasi Discord di iOS.
+**iOS Testflight**: Ini berisi fitur-fitur awal untuk aplikasi Discord di iOS.
 
-** Android Alpha **: Ini berisi fitur-fitur awal untuk aplikasi Discord di Android.
+**Android Alpha**: Ini berisi fitur-fitur awal untuk aplikasi Discord di Android.
