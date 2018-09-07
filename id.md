@@ -1,64 +1,84 @@
-<!-- TITLE: Indonesian - Home -->
-<!-- SUBTITLE: Welcome to The Discord Wiki! -->
+<!-- TITLE: Bahasa Indonesia - Halaman Awal -->
+<!-- SUBTITLE: Selamat Datang di Discord Wiki! -->
 
-# Welcome
-## About us
+# Selamat Datang
+## Tentang kami
 
-We're The Discord Wiki. We're proud to be one of the leading providers of information about Discord to date, and we welcome you to our site! We started a server about a year ago after realizing that our resources could be used to help others learn about Discord instead of taking all of the tasty information bits for ourselves! A year later, we succeed in providing at least some sort of info to over 3.5 million users a month! We're ever expanding our information, so if you feel like you have the passion, the will, and the resolve required to write articles for us, check out the FAQs channel in our server and sign up to help contribute!
+Kami adalah Discord Wiki. Kami bangga menjadi salah satu penyedia informasi terkemuka tentang Discord sampai sekarang, dan kami menyambut kedatanganmu di situs kami! Kami memulai server sekitar satu tahun yang lalu setelah menyadari bahwa pengetahuan kami dapat digunakan untuk membantu orang lain belajar tentang Discord daripada mengambil semua informasi yang berguna untuk diri kami sendiri! Setahun kemudian, kami berhasil menyediakan setidaknya beberapa jenis info untuk 3,5 juta pengguna per bulan! Kami selalu memperluas informasi kami, jadi jika kamu merasa memiliki semangat, keinginan, dan ketetapan yang diperlukan untuk menulis artikel untuk kami, periksa saluran FAQ di server kami dan daftar untuk membantu berkontribusi!
 
-[Join us on Discord!](https://discord.gg/ZRJ9Ghh)
+[Bergabung dengan kami di Discord!](https://discord.gg/ZRJ9Ghh)
 
 <a href="https://discord.gg/ZRJ9Ghh">![DISCORD EMBED PLUGIN](https://discordapp.com/api/guilds/367460196148183040/widget.png?style=banner2)</a>
 
-## Disclaimers and Legal Information
-The Discord Wiki is not affiliated with Discord. We're just here to help Discord users discover information about the platform. We're strong believers in transparency, so before you jump in, please take a look at our [Terms of Service](/terms) and our [Privacy Policy](/privacy) in order for you to know all the legal stuff you need to know regarding our services!
+## Disclaimer dan Informasi Legal
+Discord Wiki tidak tergabung dengan Discord. Kami disini hanya membantu pengguna Discord untuk menemukan informasi tentang program Discord. Kami sangat percaya pada transparansi, jadi sebelum kamu masuk, silahkan lihat dahulu [Ketentuan Layanan](/terms) dan [Kebijakan Privasi](/privacy) kami agar kamu mengetahui semua hal legal yang perlu kamu ketahui tentang layanan kami!
 
-### ***Discord, the Discord Ghost (Clyde™), and Discordapp (Herein DISCORD) are the intellectual and legal property of Discord Inc. These Services, as listed in the [Terms of Service](/terms) are not affiliated with Discord Inc or any subsidiaries herein. The Discord Wiki does not claim to own any of DISCORD's intellectual property, please no Cease and Desist :^)***
+### ***Discord, Hantu Discord (Clyde™), dan Discordapp (Disini DISCORD) merupakan barang dan kekayaan intelektual milik Discord Inc. Layanan ini, sebagaimana tercantum di dalam [Ketentuan Layanan](/terms) tidak tergabung dengan Discord Inc atau anak perusahaan disini. Discord Wiki tidak mengklaim memiliki kekayaan intelektual DISCORD, jadi tolong jangan memberi surat pemberitahuan resmi :^)***
 
-## Wiki Staff
-> ***Wiki Administrators***
+## Staff Wiki
+> ***Wiki Administrator***
 
-*Responsible for maintaining The Discord Wiki and its support server.*
-* Mikesky#0001 (Systems Administrator, maintains the backend of all of the services provided by the Wiki)
+*Bertanggung jawab untuk memelihara Discord Wiki dan server pendukungnya.*
+* Mikesky#0001 (Administrator Sistem, memelihara backend dari semua layanan yang disediakan oleh Wiki)
 * Harrison#9100
 * kwando aka ハンイット ★★★★#1313
 * Tiemen#0001
 * cats#5485
 
-> ***Department Leads***
+> ***Pemimpin Departemen***
 
-* Azrael#6867 - Community Lead
-* OminousCry#2331 - Translation Lead
+* Azrael#6867 - Pimpinan Komunitas
+* OminousCry#2331 - Pimpinan Penerjemah
 
-> ***Wiki Contributors***
+> ***Kontributor Wiki***
 
-* Cyon aka FOR3VER#2469 - Korean, Chinese
-* D_EaN * STS#0105 - Hungarian
-* Daan#1337 - Dutch
-* deframet#0707 - Italian
-* Disegual#4088 - Italian
-* erykol#8141 - Polish
-* Immotay#0001 - Brazilian-Portuguese
-* Ishidres#0001 - German
-* Lireoy#4444 - Hungarian
+* alcyneous#2803 - Bahasa Indonesia
+* Anaís#4719 - Spanyol
+* Comi#2319 - Perancis
+* Cyon aka FOR3VER#2469 - Korea, China
+* D_EaN * STS#0105 - Hongaria
+* Daan#1337 - Belanda
+* deframet#0001 - Itali
+* Disegual#4088 - Itali
+* erykol#8141 - Polandia
+* Ghostwolf#9509 - Lithuania
+* GreenTeen#6366 - Lithuania
+* Harfeur#3633 - Perancis
+* Immotay#0001 - Portugis-Brazil
+* Ishidres#0001 - Jerman
+* Justman#0150 - Rusia
+* Lireoy#4444 - Hongaria
+* Manfre#9262 - Italia
+* marcyblaze#6908 - Italia
 * Mib#0001 - Danish
-* Neerwan#9498 - French
-* Nooby™#4562 - French
-* Pushbox#9898
-* RME#3050 - Dutch
-* Samtell#0001 - Korean
-* Saphir#0001 - French
-* zabszk#5292 - Polish
+* Neerwan#9498 - Perancis
+* Nooby™#4562 - Perancis
+* PapuleX#2589 - Ceko
+* RME#3050 - Belanda
+* Samtell#0001 - Korea
+* Saphir#0001 - Perancis
+* 魏 Sync#9198 - Bahasa Indonesia
+* TheMelvinNL#0001 - Belanda
+* Tim#6235 - Jerman
+* Voknehzyr#1338 - Rusia
+* webhp#1337 - Inggris Pirate
+* zabszk#5292 - Polandia
 
-> ***Bot Developers***
+> ***Pengembang Bot***
 
-*Contributed to the Discord WikiBot.*
+*Berkontribusi ke Discord WikiBot.*
 * HyperCoder#2975
 * Tiemen#0001
 
-> ***Patrons***
+## Terima Kasih khusus
 
-*A huge thank you to all our supporters on [Patreon](https://www.patreon.com/TheDiscordWiki)!*
+>***Donatur***
+
+* Dropbox#0001 - thediscord.wiki Domain
+
+>***Patrons***
+
+*Terima Kasih banyak kepada semua pendukung kami di [Patreon](https://www.patreon.com/TheDiscordWiki)!*
 
 * DowDaw#1339
 * Saphir#0001
