@@ -15,8 +15,9 @@ This pages attempts to list the various "limitations" imposed upon servers in Di
 - Message limit: **2,000 characters**. (note: user/channel/role mentions and emojis contain more characters than are shown)
 - TTS message limit: **200 characters**.
 - Pinned messages limit: **50** messages
-- Maximum attachment size: **8 MB (or 8388608 bytes to be exact)**
-- Maximum attachment size with Nitro: **50 MB (or 52428800 bytes to be exact)**
+- Reactions per message: **20** reactions.
+- Maximum attachment size: **8 MB (or 8388608 bytes to be exact)**.
+- Maximum attachment size with Nitro: **50 MB (or 52428800 bytes to be exact)**.
 - Minimum time for idling: **10 minutes**.
 - Username/nickname: **32 characters**.
 - Channel topic size: **1,024 characters**.
