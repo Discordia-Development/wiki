@@ -11,19 +11,19 @@ Dies ist eine Liste von Funktionen, welche gelegentlich mit Informationen über 
 | Funktion |	Status |
 |---------|---------|
 | Block Quotes | geplant |
-| Game Store | schrittweises Veröffentlichen |
+| Game Store | schrittweise in Veröffentlichung |
 | Keyboard Navigation | geplant |
 | Permissions Preview Tool | geplant |
 | Overlay Home Bar | in Entwicklung |
-| Server Video Chat/Screen Sharing | schrittweises Veröffentlichen |
+| Server Video Chat/Screen Sharing | schrittweise in Veröffentlichung |
 
 ## iOS
 | Funktion | Status	|
 |---------|---------|
 | 3D Touch Support | geplant |
 | Audit Log | geplant |
+| Emoji Picker | Verfügbar mit TestFlight |
 | Jump to Message | geplant |
-| Custom Keyboard | geplant |
 | Rich Push Notifications | geplant |
 | Security Compatibility | geplant |
 | Server Sorting | geplant |
@@ -40,4 +40,4 @@ Dies ist eine Liste von Funktionen, welche gelegentlich mit Informationen über 
 | Security Tab/2FA Enable/Disable | geplant |
 | Video Embeds | geplant |
 
-> Hinweis: Dies sind unveröffentlichte Funktionen und es kann sein, dass sich diese noch ändern, bevor sie für Canary/Android Alpha/TestFlight Benutzer veröffentlicht werden. Es kann auch sein, dass sie garnicht veröffentlicht werden und es sind auch keine ungefähren Zeitpunkte für die Veröffentlichung vorhanden.
+> Hinweis: Dies isnd unveröffentlichte Funktionen und es kann sein, dass sich diese noch ändern, bevor sie für Canary/Android Alpha/TestFlight Benutzer veröffentlicht werden. Es kann auch sein, dass sie garnicht veröffentlicht werden und es sind auch keine ungefähren Zeitpunkte für die Veröffentlichung vorhanden.
