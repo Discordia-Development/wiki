@@ -41,7 +41,7 @@ Le Wiki Discord n'est pas affilié avec Discord. Nous sommes juste ici pour aide
 * deframet#0707 - Italien
 * Disegual#4088 - Italien
 * erykol#8141 - Polonais
-* Ghostwolf#9509 - Lituanien
+* Ghostwolf#0001 - Lituanien
 * GreenTeen#6366 - Lituanien
 * Harfeur#3633 - Français
 * Immotay#0001 - Portugais-Brésilien
