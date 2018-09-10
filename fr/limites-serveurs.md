@@ -16,6 +16,7 @@ Cette page tente de lister les différentes « limites » imposées aux serveu
 - Limite des messages : **2 000 caractères**. 
 - Limite des messages en synthèse vocale : **200 caractères**.
 - Limite des messages épinglés : **50** messages.
+- Réactions par message : **20** réactions.
 - Taille maximum des pièces jointes envoyées : **8 Mo (ou 8 388 608 octets pour être exact)**.
 - Taille maximum des pièces jointes envoyées avec Nitro : **50 Mo (ou 52 428 800 octets pour être exact)**.
 - Temps mimimum pour être considéré comme inactif : **10 minutes**.
