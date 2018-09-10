@@ -70,6 +70,12 @@ Le Wiki Discord n'est pas affilié avec Discord. Nous sommes juste ici pour aide
 * HyperCoder#2975
 * Tiemen#0001
 
+## Remerciements spéciaux
+
+>***Donateurs***
+
+* Dropbox#0001 - Nom de domaine thediscord.wiki
+
 > ***Mécènes***
 
 *Un grand merci à tous ceux qui nous supportent sur [Patreon](https://www.patreon.com/TheDiscordWiki)!*
