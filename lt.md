@@ -41,7 +41,7 @@ The Discord Wiki nėra susijusi su Discord. Mes tik padedame Discord vartotojams
 * deframet#0001 - Italų kalba
 * Disegual#4088 - Italų kalba
 * erykol#8141 - Lenkų kalba
-* Ghostwolf#9509 - Lietuvių kalba
+* Ghostwolf#0001 - Lietuvių kalba
 * GreenTeen#6366 - Lietuvių kalba
 * Harfeur#3633 - Prancūzų kalba
 * Immotay#0001 - Brazilų-Portugalų kalba
