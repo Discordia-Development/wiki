@@ -41,6 +41,7 @@ Hey! Benvenuto nella Discord Wiki! Crediamo molto nella trasparenza, quindi prim
 * deframet#0001 - Italiano
 * Disegual#4088 - Italiano
 * erykol#8141 - Polacco
+* Ghostwolf#0001 - Lithuanian
 * GreenTeen#6366 - Lituano
 * Harfeur#3633 - Francese
 * Immotay#0001 - Brasiliano-Portoghese
@@ -68,6 +69,12 @@ Hey! Benvenuto nella Discord Wiki! Crediamo molto nella trasparenza, quindi prim
 *Hanno contribuito allo svuluppo di WikiBot.*
 * HyperCoder#2975
 * Tiemen#0001
+
+## Ringraziamenti speciali
+
+>***Donatori***
+
+* Dropbox#0001 - dominio thediscord.wiki
 
 > ***Sostenitori***
 
