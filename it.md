@@ -74,7 +74,7 @@ Hey! Benvenuto nella Discord Wiki! Crediamo molto nella trasparenza, quindi prim
 
 >***Donatori***
 
-* Dropbox#0001 - dominio thediscord.wiki
+* Dropbox#0001 - Dominio web thediscord.wiki
 
 > ***Sostenitori***
 
