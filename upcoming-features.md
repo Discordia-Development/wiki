@@ -26,19 +26,15 @@ This is a list of features that will be occasionally updated with information ab
 | Emoji Picker | Available on TestFlight |
 | Jump to Message | Planned |
 | Rich Push Notifications | Planned |
-| Security Compatibility | Planned |
 | Server Sorting | Planned |
-| User Settings | Planned |
 
 ## Android
 | Feature | Status |
 |---------|--------|
-| Audit Log | Planned |
-| Auto-Deplay to Alpha | In Development |
+| Audit Log | Available on Android Alpha |
 | Compress Image Toggle | Planned |
 | Game Detection | In Development |
 | Screensharing | Planned |
-| Security Tab/2FA Enable/Disable | Planned |
 | Video Embeds | Planned |
 
 > Disclaimer: These are unreleased features and they might change before they are released to Canary/Android Alpha/TestFlight users. They might not be released at all, and ETAs are not available.
