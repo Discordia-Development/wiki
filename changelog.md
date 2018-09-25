@@ -3,6 +3,13 @@
 
 This is the changelog/release date for major features or significant changes. PTB and Canary might have received some features sooner than the date listed below.
 
+# 9/25/2018
+## iOS
+* Support for slow mode (no interface to customize yet)
+* Message grouping is now in 7 minute intervals instead of every hour
+* You can paste GIFs
+* Retina images render at a higher image pixel density
+* Bug fixes
 # 8/29/2018
 ## iOS
 * Nearby Friends feature
