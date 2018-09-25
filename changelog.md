@@ -1,5 +1,5 @@
 <!-- TITLE: Changelog -->
-<!-- SUBTITLE: Discord Changelog updated as of 09/04/2018 -->
+<!-- SUBTITLE: Discord Changelog updated as of 09/25/2018 -->
 
 This is the changelog/release date for major features or significant changes. PTB and Canary might have received some features sooner than the date listed below.
 
@@ -10,6 +10,10 @@ This is the changelog/release date for major features or significant changes. PT
 * You can paste GIFs
 * Retina images render at a higher image pixel density
 * Bug fixes
+
+# 8/17/2018
+## Android
+* Many design updates, UI improvements and bug fixes.
 # 8/29/2018
 ## iOS
 * Nearby Friends feature
