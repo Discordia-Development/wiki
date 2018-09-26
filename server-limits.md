@@ -10,6 +10,7 @@ This pages attempts to list the various "limitations" imposed upon servers in Di
 - A server can have *at most* **500 channels** - text, voice, and categories combined. Once 500 channels are reached, no more channels can be created.
 - A server can have *at most* **250 roles**. 
 - A server can have *at most* **50 regular and 50 animated emojis**. 
+- Servers reaching **1,000** members have the offline members list removed.
 
 # Other Limits
 - Message limit: **2,000 characters**. (note: user/channel/role mentions and emojis contain more characters than are shown)
