@@ -11,6 +11,7 @@ Cette page tente de lister les différentes « limites » imposées aux serveu
 - Un serveur peut avoir *un maximum* de **500 salons**, textuels et vocaux combinés. Une fois que les 500 salons sont atteints, il sera impossible d’en créer de nouveaux. 
 - Un serveur peut avoir *un maximum* de **250 rôles**.
 - Un serveur peut avoir *un maximum* de **50 émoticônes statiques et 50 émoticônes animées**.
+- La liste des membres hors ligne est supprimée pour les serveurs atteignant **1 000** membres.
 
 # Autres limites
 - Limite des messages : **2 000 caractères**. 
