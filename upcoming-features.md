@@ -16,7 +16,6 @@ This is a list of features that will be occasionally updated with information ab
 | Permissions Preview Tool | Planned |
 | Overlay Home Bar | In Development |
 | Server Video Chat/Screen Sharing | Gradually Rolling Out |
-| Slowmode | Settings Available on Discord Canary, Discord PTB; Functional on Android, iOS, Stable |
 
 ## iOS
 | Feature | Status	|
