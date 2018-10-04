@@ -2,7 +2,7 @@
 <!-- SUBTITLE: Various limitations of servers in Discord -->
 
 # Discord Server Limits
-This pages attempts to list the various "limitations" imposed upon servers in Discord, mostly to answer "how many X can I make?" questions. It's important to note that other than the 5,000 online user limit, **none of these can be modified**. There is currently no feature/method by which a server or user can bypass the limitations noted below.
+This page lists the various "limitations" imposed upon servers in Discord, mostly to answer "how many X can I make?" questions. It's important to note that other than the 5,000 online user limit, **none of these can be modified**. There is currently no feature/method by which a server or user can bypass the limitations noted below.
 
 - A user cannot be on more than **100 servers**. Once this limit is hit, any server invite will display as "Invite Expired".
 - Servers have no theoretical member limit - there are servers with tens of thousands of users (75k+ in once instance). 
