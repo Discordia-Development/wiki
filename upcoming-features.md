@@ -22,7 +22,7 @@ This is a list of features that will be occasionally updated with information ab
 |---------|---------|
 | 3D Touch Support | Planned |
 | Audit Log | Planned |
-| Developer Mode | Available on TestFlight
+| Developer Mode | Available on TestFlight |
 | Emoji Picker | In Development |
 | Jump to Message | Planned |
 | Rich Push Notifications | Planned |
