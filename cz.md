@@ -36,6 +36,7 @@ Vítejte na naší stránce! Jsme Discord Wiki! Jsme hrdí na to, že jsme jedn�
 * deframet#0707 - Italština
 * Disegual#4088 - Italština
 * erykol#8141 - Polština
+* Ghostwolf#0001 - Litevština
 * GreenTeen#6366 - Litevština
 * Harfeur#3633 - Francouzština
 * Immotay#0001 - Brazilská portugalština
@@ -63,6 +64,12 @@ Vítejte na naší stránce! Jsme Discord Wiki! Jsme hrdí na to, že jsme jedn�
 *Podíleli se na vývoji Discord WikiBota.*
 * HyperCoder#2975
 * Tiemen#0001
+
+## Speciální poděkování
+
+>***Přispěvatelé***
+
+* Dropbox#0001 - Doména thediscord.wiki
 
 > ***Patroni***
 
