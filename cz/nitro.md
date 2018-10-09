@@ -7,7 +7,7 @@ Discord Nitro je předplatné, které umožňuje uživatelům využívat prémio
 
 Nitro bylo spuštěno pro testování v Austrálii 22. prosince 2016 a celosvětově 23. ledna 2017.
 
-Nitro si lze přeplatit měsíčně za 4,99 dolarů nebo ročně za 49,99 dolarů. Roční předplacení nabízí 2 měsíce zdarma.
+Nitro si lze přeplatit měsíčně za 4,99 dolarů nebo ročně za 49,99 dolarů. Roční předplatné nabízí 2 měsíce zdarma.
 
 22. prosince 2017 byla přidána možnost platby pomocí PayPal.
 
