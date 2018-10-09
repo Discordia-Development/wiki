@@ -1,7 +1,7 @@
 <!-- TITLE: Nitro -->
 <!-- SUBTITLE: Podpořte vývoj Discordu -->
 
-![Nitrobadge](/uploads/nitro/nitrobadge.png "Nitrobadge")
+![Odznak Nitro](/uploads/nitro/nitrobadge.png "Nitrobadge")
 
 Discord Nitro je předplatné, které umožňuje uživatelům využívat prémiové služby.
 
