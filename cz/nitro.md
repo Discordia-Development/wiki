@@ -19,7 +19,7 @@ Předplatné Discord Nitro nabízí uživateli následující výhody:
 * Možnost používat vlastní emodži všude (pokud má uživatel právo používat externí emodži na serveru).
 * Maximální velikost nahrávání změněna z 8 MB na 50 MB.
 * Sdílení obrazovky v 720p 60fps nebo 1080p 30fps.
-* [odznak](/badges) Discord Nitro na profilu.
+* [Odznak](/badges) Discord Nitro na profilu.
 * Možnost změny vlastního [diskriminátoru](/discriminator). (pozn.:  pokud Vaše předplatné Nitro vyprší, diskriminátor bude nastaven na náhodné číslo)
 
 # Zakoupení předplatného Nitro
