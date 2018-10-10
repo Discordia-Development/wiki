@@ -1,4 +1,4 @@
-<!-- TITLE: Nitro -->
+<!-- TITLE: [CZ] Nitro -->
 <!-- SUBTITLE: Podpořte vývoj Discordu -->
 
 ![Odznak Nitro](/uploads/nitro/nitrobadge.png "Odznak Nitro")
