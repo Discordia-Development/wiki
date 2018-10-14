@@ -1,9 +1,9 @@
 <!-- TITLE: [FR] Liste d’amis -->
-<!-- SUBTITLE: Un petit rappel sur la liste d’amis -->
+<!-- SUBTITLE: Un petit rappel sur la liste d’amis. -->
 
 # Liste d’amis
 
-La liste d’amis est une fonctionnalité qui vous autorise à voir vos amis et ce qu’ils font. La liste d’amis a été complètement publiée le 18 mars 2016. Il y’a une limite de 1000 amis et joueurs bloqués.
+La liste d’amis est une fonctionnalité qui vous permet de voir vos amis et ce qu’ils font. La version complète de la liste d’amis est sortie le 18 mars 2016. Il y a une limite de 1 000 amis et utilisateurs bloqués.
 
 ## Ajouter des amis
 
@@ -21,7 +21,7 @@ La liste d’amis affiche le nom d’utilisateur, l’avatar, le statut de jeu e
 
 ![Ami](/uploads/fr/ami.png "Ami")
 
-En cliquant sur un nom d’utilisateur ou un avatar, vous serez dirigé vers vos messages directs avec votre ami. En cliquant sur l’une des icônes du serveur, vous serez redirigé vers ce serveur.
+En cliquant sur un nom d’utilisateur ou un avatar, vous serez dirigé vers vos messages directs avec votre ami. En cliquant sur l’un des icônes du serveur, vous serez redirigé vers ce serveur.
 
 ## Catégories de la liste d’amis
 
