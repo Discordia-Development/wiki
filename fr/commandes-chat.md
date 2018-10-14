@@ -1,5 +1,5 @@
 <!-- TITLE: [FR] Commandes du chat -->
-<!-- SUBTITLE: Décrit toutes les commandes de discussion disponibles, même les commandes non évidentes ou non documentées -->
+<!-- SUBTITLE: Décrit toutes les commandes de discussion disponibles, même les commandes non évidentes ou non documentées. -->
 
 # Commandes du chat Discord
 
