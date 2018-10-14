@@ -44,7 +44,7 @@ Le Wiki Discord n'est pas affilié avec Discord. Nous sommes juste ici pour aide
 * Ghostwolf#0001 - Lituanien
 * GreenTeen#6366 - Lituanien
 * Harfeur#3633 - Français
-* Immotay#0001 - Portugais-Brésilien
+* Immotay#0001 - Portugais brésilien
 * Ishidres#0001 - Allemand
 * Justman#0150 - Russe
 * Lireoy#4444 - Hongrois
@@ -61,7 +61,7 @@ Le Wiki Discord n'est pas affilié avec Discord. Nous sommes juste ici pour aide
 * TheMelvinNL#0001 - Néerlandais
 * Tim#6235 - Allemand
 * Voknehzyr#1338 - Russe
-* webhp#1337 - Anglais, Pirate
+* webhp#1337 - Anglais pirate
 * zabszk#5292 - Polonais
 
 > ***Développeurs du bot***
@@ -74,7 +74,7 @@ Le Wiki Discord n'est pas affilié avec Discord. Nous sommes juste ici pour aide
 
 >***Donateurs***
 
-* Dropbox#0001 - Nom de domaine thediscord.wiki
+* Dropbox#0001 - Domaine thediscord.wiki
 
 > ***Mécènes***
 
