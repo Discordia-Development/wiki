@@ -1,4 +1,4 @@
-<!-- TITLE: HypeSquad -->
+<!-- TITLE: [HU] HypeSquad -->
 <!-- SUBTITLE: Izgatott vagy? Mert én nagyon izgulok, annyira szeretném neked megmutatni ezt a baró cuccot! -->
 
 ![Hypesquadsmall](/uploads/hypesquad/hypesquadsmall.png "Egész alakos HypeSquad jevény")
