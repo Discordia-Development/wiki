@@ -31,4 +31,4 @@ Azok a felhasználók akik [Discord Nitrót](/hu/nitro) vettek, azoknak egy Disc
 ## Discord Nitro Early Supporter
 Ez egy limitál kiadású jelvény, azok számára, akik *valaha is* rendelkeztek Discord Nitró előfizetéssel 2018. október 10-e előtt. Ez a jelvény állandó.
 
-![Nitroearlysupporterbadge](/uploads/badges/nitroearlysupporterbadge.png "Nitro Early Supporter jelvény")
+![Nitroearlysupporterbadge](/uploads/badges/nitroearlysupporterbadge.png "Nitró Early Supporter jelvény")
