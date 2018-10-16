@@ -9,7 +9,7 @@ A Discord HypeSqud tagok a Discord közöségből kiválasztott emberek, hogy k�
 Each tier includes the same benefits as the previous ones.
 
 ## Online tag
-* HypeSquad [jelvény](/badges) a Discord profilodra.
+* HypeSquad [jelvény](/hu/jelvenyek) a Discord profilodra.
 * HypeSquad e-mail hírlevelek.
 
 ## Esemény látogató
