@@ -41,7 +41,7 @@ Each tier includes the same benefits as the previous ones.
 
 ## Event Attendee Tier
 * Access to an exclusive HypeSquad Events server.
-* Hypesquad Events badge.
+* HypeSquad Events badge.
 * HypeSquad T-shirt, stickers and pins (link recieved in acceptance email).
 * Meet and hang out with Discord staff at events.
 
