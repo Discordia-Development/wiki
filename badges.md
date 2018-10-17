@@ -19,22 +19,22 @@ This badge is issued to all Discord Staff. If someone claims to be Discord Staff
 Discord [Partners](/partner) have the partner badge on their profile. The only way you may obtain this badge is by becoming a Discord Partner. 
 
 ![Newpartnerbadge](/uploads/badges/newpartnerbadge.png "A Discord Partner Badge")
-# Discord Hypesquad
-Discord [Hypesquad](/hypesquad) Events attendees have the Hypesquad Events badge on their profile. The only way you may obtain this badge is by becoming a Discord Hypesquad Events attendee.
+# Discord HypeSquad
+Discord [HypeSquad](/hypesquad) Events attendees have the HypeSquad Events badge on their profile. The only way you may obtain this badge is by becoming a Discord HypeSquad Events attendee.
 
-![Hypesquadbadge](/uploads/badges/newhypesquadbadge.png "A Hypesquad Member's Badge")
+![HypeSquadbadge](/uploads/badges/newhypesquadbadge.png "A HypeSquad Member's Badge")
 
-## Hypesquad Bravery
+## HypeSquad Bravery
 
-![Hypesquadbravery](/uploads/badges/hypesquadbravery.png "Hypesquad Bravery Badge")
+![HypeSquadbravery](/uploads/badges/hypesquadbravery.png "HypeSquad Bravery Badge")
 
-## Hypesquad Brilliance
+## HypeSquad Brilliance
 
-![Hypesquadbrilliance](/uploads/badges/hypesquadbrilliance.png "Hypesquad Brilliance Badge")
+![HypeSquadbrilliance](/uploads/badges/hypesquadbrilliance.png "HypeSquad Brilliance Badge")
 
 ## Hypesquad Balance
 
-![Hypesquadbalance](/uploads/badges/hypesquadbalance.png "Hypesquad Balance Badge")
+![HypeSquadbalance](/uploads/badges/hypesquadbalance.png "HypeSquad Balance Badge")
 # Discord Bug Hunter
 This badge is obtained by earning it as a [Bug Hunter](/bug-hunters) or by [reporting security bugs to Discord](https://discordapp.com/security).
 
