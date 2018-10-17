@@ -19,8 +19,8 @@ This badge is issued to all Discord Staff. If someone claims to be Discord Staff
 Discord [Partners](/partner) have the partner badge on their profile. The only way you may obtain this badge is by becoming a Discord Partner. 
 
 ![Newpartnerbadge](/uploads/badges/newpartnerbadge.png "A Discord Partner Badge")
-# Discord HypeSquad
-Discord [HypeSquad](/hypesquad) members have the HypeSquad badge on their profile. The only way you may obtain this badge is by becoming a Discord HypeSquad member.
+# Discord Hypesquad
+Discord [Hypesquad](/hypesquad) Events attendees have the Hypesquad Events badge on their profile. The only way you may obtain this badge is by becoming a Discord Hypesquad Events attendee.
 
 ![Hypesquadbadge](/uploads/badges/newhypesquadbadge.png "A Hypesquad Member's Badge")
 
