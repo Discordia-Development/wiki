@@ -23,6 +23,10 @@ Discord [Partners](/partner) have the partner badge on their profile. The only w
 Discord [Hypesquad](/hypesquad) members have the Hypesquad badge on their profile. The only way you may obtain this badge is by becoming a Discord Hypesquad member.
 
 ![Hypesquadbadge](/uploads/badges/newhypesquadbadge.png "A Hypesquad Member's Badge")
+# Discord Bug Hunter
+This badge is obtained by earning it as a [Bug Hunter](/bug-hunters) or by [reporting security bugs to Discord](https://discordapp.com/security).
+
+![Bughunterbadge](/uploads/badges/bughunterbadge.png "A Discord Bug Hunter Badge")
 # Discord Nitro
 Users who have purchased [Discord Nitro](/nitro) have the Discord Nitro badge on their profile. If you hover over the badge, it displays when the user joined Nitro. If they unsubscribe from Nitro, the badge will disappear. 
 
