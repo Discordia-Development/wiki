@@ -26,7 +26,7 @@ The Discord Wiki is not affiliated with Discord. We're just here to help Discord
 * Tiemen#0001
 * cats#5485
 
-> ***Project Heads***
+> ***Wiki Heads***
 
 * Azrael#6867 - Community Lead
 * OminousCry#2331 - Translation Lead
