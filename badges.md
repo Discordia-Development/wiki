@@ -20,7 +20,7 @@ Discord [Partners](/partner) have the partner badge on their profile. The only w
 
 ![Newpartnerbadge](/uploads/badges/newpartnerbadge.png "A Discord Partner Badge")
 # Discord HypeSquad
-Discord [HypeSquad](/hypesquad) Events attendees have the HypeSquad Events badge on their profile. The only way you may obtain this badge is by becoming a Discord HypeSquad Events attendee.
+Discord [HypeSquad](/hypesquad) Event Attendees have the HypeSquad Events badge on their profile. The only way you may obtain this badge is by becoming a Discord HypeSquad Events attendee.
 
 ![HypeSquadbadge](/uploads/badges/newhypesquadbadge.png "A HypeSquad Member's Badge")
 
