@@ -32,7 +32,7 @@ Discord [HypeSquad](/hypesquad) Events attendees have the HypeSquad Events badge
 
 ![HypeSquadbrilliance](/uploads/badges/hypesquadbrilliance.png "HypeSquad Brilliance Badge")
 
-## Hypesquad Balance
+## HypeSquad Balance
 
 ![HypeSquadbalance](/uploads/badges/hypesquadbalance.png "HypeSquad Balance Badge")
 # Discord Bug Hunter
