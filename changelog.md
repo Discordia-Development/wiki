@@ -3,9 +3,26 @@
 
 This is the changelog/release date for major features or significant changes. PTB and Canary might have received some features sooner than the date listed below.
 
+# 10/16/2018
+* Game Store Beta available for everyone!
+* Discord Nitro split up into Nitro Classic ($4.99/month) and Nitro ($9.99/month), which gives you access to a catalogue of games
+* Game Library
+* Slow mode
+* Added ability to close DMs from the Overlay
+* Fixed the lag when entering and exiting the Overlay
+* Added a little notification when the Overlay crashes
+* Tons of other bug fixes and improvements under the hood for the Overlay
+# 10/15/2018
+## Android
+* Support for the Early Supporter Nitro badge
+# 10/3/2018
+## Android
+* Support for slow mode
+* You can now remove users from a group DM
+* Minor UI refreshes and theme consistencies
 # 9/25/2018
 ## iOS
-* Support for slow mode (no interface to customize yet)
+* Support for slow mode
 * Message grouping is now in 7 minute intervals instead of every hour
 * You can paste GIFs
 * Retina images render at a higher image pixel density
