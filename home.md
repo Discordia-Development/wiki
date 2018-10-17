@@ -22,7 +22,7 @@ The Discord Wiki is not affiliated with Discord. We're just here to help Discord
 * Mikesky#0001 (Systems Administrator, maintains the backend of all of the services provided by the Wiki)
 * SleepaDru#7700 (Systems Administrator, maintains the backend of all of the services provided by the Wiki)
 * Harrison#9100
-* kwando aka ハンイット ★★★★#1313
+* kwando aka 西木野真姫 ★★★★#1313
 * Tiemen#0001
 * cats#5485
 
