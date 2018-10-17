@@ -10,7 +10,7 @@ The Connections menu is within the [User Settings](/user-settings) of your Disco
 The available connections include:
 * Twitch
 * YouTube
-* Battle.​net
+* Battle.net
 * League of Legends
 * Skype
 * Steam
@@ -23,6 +23,6 @@ The available connections include:
 
 ## Connections Menu
 
-Pressing any of the icons on the page will direct you to a login page to connect your account. The only exceptions to this are Skype, Battle.​net, and League of Legends, as these connections require the corresponding desktop application to be open. These connections are also unavailable on the mobile and browser clients.
+Pressing any of the icons on the page will direct you to a login page to connect your account. The only exceptions to this are Skype, Battle.net, and League of Legends, as these connections require the corresponding desktop application to be open. These connections are also unavailable on the mobile and browser clients.
 
 In this menu, you can also see connected accounts, manage settings (such as Display on profile, or more specific settings as Display Spotify as your status) for them, and disconnect them from your Discord account. You can also set whether Discord will automatically connect accounts that are open on other applications (such as Skype, Battle.​net, Steam, or League of Legends).
