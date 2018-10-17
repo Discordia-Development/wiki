@@ -13,7 +13,7 @@ We're The Discord Wiki. We're proud to be one of the leading providers of inform
 ## Disclaimers and Legal Information
 The Discord Wiki is not affiliated with Discord. We're just here to help Discord users discover information about the platform. We're strong believers in transparency, so before you jump in, please take a look at our [Terms of Service](/meta/terms) and our [Privacy Policy](/meta/privacy) in order for you to know all the legal stuff you need to know regarding our services!
 
-### ***Discord, the Discord Ghost (Clyde™), and Discordapp (Herein DISCORD) are the intellectual and legal property of Discord Inc. These Services, as listed in the [Terms of Service](/terms) are not affiliated with Discord Inc or any subsidiaries herein. The Discord Wiki does not claim to own any of DISCORD's intellectual property, please no Cease and Desist :^)***
+### ***Discord, the Discord Ghost (Clyde™), and Discordapp (Herein DISCORD) are the intellectual and legal property of Discord Inc. These Services, as listed in the [Terms of Service](/meta/terms) are not affiliated with Discord Inc or any subsidiaries herein. The Discord Wiki does not claim to own any of DISCORD's intellectual property, please no Cease and Desist :^)***
 
 ## Wiki Staff
 > ***Wiki Administrators***
