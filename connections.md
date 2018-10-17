@@ -10,7 +10,7 @@ The Connections menu is within the [User Settings](/user-settings) of your Disco
 The available connections include:
 * Twitch
 * YouTube
-* Battle.net
+* Battle.​net
 * League of Legends
 * Skype
 * Steam
