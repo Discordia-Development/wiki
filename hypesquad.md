@@ -8,9 +8,26 @@ Discord has 3 HypeSquad houses that you can be a part of, named Bravery, Brillia
 # Hypesquad Houses
 ## Bravery
 
+* House Character: Renwil (Frog)
+* House Colour: Purple (#9C84EF)
+
+> The universe needs people to lead the charge with confident optimism and tenacity. Without the brave, the HypeSquad would descend into chaos.
+
 ## Brilliance
 
+* House Character: Urdim (Bear)
+* House Color: Orange (#F47B67)
+
+> It takes patience and discipline to become a vital member of the universe. Without brilliance, the HypeSquad would descend into chaos.
+
 ## Balance
+
+* House Character: Arame (Squirrel)
+* House Color: Teal (#45DDC0)
+
+> Harmony and poise are necessary to create equilibrium in the universe. Without balance, the HypeSquad would descend into chaos.
+
+
 
 # HypeSquad Perks
 Each tier includes the same benefits as the previous ones.
@@ -35,9 +52,8 @@ Each tier includes the same benefits as the previous ones.
 Joining HypeSquad Online is done through the Discord [client](https://discordapp.com/settings/hypesquad-online). To join as an Attendee, or as a Coordinator, you must submit an [application](https://discordapp.com/hypesquad) on Discord's website. For Attendee, you must submit a video showing your hype for Discord, it's encouraged to be shot in a selfie style, answering a few questions as detailed on the submission form. For Coordinator, you'll need to provide a link to your event's Discord Server.
 
 # Official Videos
-
-## Original video
+## Original Video
 [video](https://www.youtube.com/watch?v=rXZkTT-5m9o){.youtube}
 
-## Houses announcement video
+## Houses Announcement Video
 [video](https://www.youtube.com/watch?v=SWzB1mx2o5k){.youtube}
