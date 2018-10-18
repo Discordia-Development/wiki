@@ -1,5 +1,5 @@
-<!-- TITLE: Nitro -->
-<!-- SUBTITLE: Palaikyk Discord's kūrimą -->
+<!-- TITLE: [LT] Nitro -->
+<!-- SUBTITLE: Palaikyk Discord'o kūrimą -->
 
 ![Nitrobadge](/uploads/nitro/nitrobadge.png "Nitrobadge")
 
