@@ -1,4 +1,4 @@
-<!-- TITLE: Lietuviškai - Pagrindinis -->
+<!-- TITLE: Lithuanian - Pagrindinis -->
 <!-- SUBTITLE: Sveiki atvykę į The Discord Wiki! -->
 
 # Sveiki
