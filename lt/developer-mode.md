@@ -1,4 +1,4 @@
-<!-- TITLE: Programuotojo režimas -->
+<!-- TITLE: [LT] Programuotojo režimas -->
 <!-- SUBTITLE: Discord'o Programuotojo režimo dokumentacija -->
 
 Jeigu jūs planuojate naudotis Discord API, pavyzdžiui, kurti [bot'a](/bots), tada Discord'o *Programuotojo režimas* gali būti tau naudingas.
