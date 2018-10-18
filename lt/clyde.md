@@ -1,4 +1,4 @@
-<!-- TITLE:Clyde -->
+<!-- TITLE:[LT] Clyde -->
 <!-- SUBTITLE:Discord "bot'as" -->
 
 Clyde yra "bot'as", integruotas į Discord kad praneštų, kada tu bandai atlikti neleistinas operacijas. Jis tau praneša apie įvairius scenarijus, pvz. keičiant slapyvardį, bandant naudoti tik serverio emocijas kituose serveriuose arba privačiose žinutėse neturint Nitro, siunčiant žinutę nariui, kuris(-i) tave užblokavo ir kt. Bot'o ID yra 1, ir jo paminėjimas (<@1>) pasikeis į @Clyde tik tada, jeigu jis buvo bent kartą atsiradęs dabartinėje sesijoje.
