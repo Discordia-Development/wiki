@@ -1,4 +1,4 @@
-<!-- TITLE: Kanalų kategorijos -->
+<!-- TITLE: [LT] Kanalų kategorijos -->
 <!-- SUBTITLE: Stripsnis apie kanalų kategorijas -->
 
 # Kanalų Kategorijos
