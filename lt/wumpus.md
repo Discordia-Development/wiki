@@ -1,4 +1,4 @@
-<!-- TITLE: Wumpus -->
+<!-- TITLE: [LT] Wumpus -->
 
 Wumpus yra vienas iš Discord'o talismanų.
 
