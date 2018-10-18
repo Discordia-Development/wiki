@@ -1,4 +1,4 @@
-<!-- TITLE: Žaidimų naktis -->
+<!-- TITLE: [LT] Žaidimų naktis -->
 <!-- SUBTITLE: Discord'o Žaidimų naktis -->
 
 Discord'o Žaidimų naktis (Game Night) yra renginys, kurį Discord kūrėjų komanda kas mėnesį transliuoja jų [Twitch'o kanale](https://twitch.tv/discordapp). Paprastai transliacijoje Discord kūrėjų komanda atsakinėja į klausimus, žaidžia žaidimus, linksminasi ir atidavinėja Discord produktus. Žaidimų naktis (GameNight) yra transliuojama naudojantis Discord renginiai (Discord Events) serveriu, į kurį jūs galite prisijungti [čia](https://discord.gg/events).
