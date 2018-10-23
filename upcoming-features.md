@@ -30,7 +30,7 @@ This is a list of features that will be occasionally updated with information ab
 |---------|--------|
 | Audit Log | Available on Android Alpha |
 | Compress Image Toggle | Planned |
-| Game Detection | In Development |
+| Game Detection | Planned |
 | Screensharing | Planned |
 | Video Embeds | Planned |
 
