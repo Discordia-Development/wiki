@@ -3,6 +3,13 @@
 
 This is the changelog/release date for major features or significant changes. PTB and Canary might have received some features sooner than the date listed below.
 
+# 10/20/2018
+## iOS
+* Emoji Picker
+* Developer Mode
+* Support for iPhone XS Max and XR
+* Fixed a voice crash bug
+* Fixed a rare bug where broken voice servers were potentially selected when you create a server
 # 10/16/2018
 * Game Store Beta available for everyone!
 * Discord Nitro split up into Nitro Classic ($4.99/month) and Nitro ($9.99/month), which gives you access to a catalogue of games
