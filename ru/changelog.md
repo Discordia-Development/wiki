@@ -3,19 +3,27 @@
 
 Это список c датами появления важных функций или существенных изменений. Возможно, в PTB и Canary версияъ данные функции появились ранее. Данный список будет постепенно обновляться и переводиться.
 
+# 20.10.2018
+## iOS
+* Быстрый выбор эмодзи
+* Режим разработчика
+* Поддержка iPhone XS Max и XR
+* Исправлен баг с голосовой связи
+* Fixed a rare bug where broken voice servers were potentially selected when you create a server
+
 # 16.10.2018
-* Game Store Beta available for everyone!
-* Discord Nitro split up into Nitro Classic ($4.99/month) and Nitro ($9.99/month), which gives you access to a catalogue of games
-* Game Library
+* Доступна бета-версия Game Store!
+* Discord Nitro теперь разделён на Nitro Classic ($4.99/месяц) и Nitro ($9.99/месяц), дающий доступ к каталогу игр
+* Библиотека игр
 * Slow mode
-* Added ability to close DMs from the Overlay
-* Fixed the lag when entering and exiting the Overlay
-* Added a little notification when the Overlay crashes
-* Tons of other bug fixes and improvements under the hood for the Overlay
+* Добавлена возможность закрыть окно личных сообщений из оверлея
+* Исправлен баг, возникавший при открытие и закрытие оверлея
+* Добавлено небольшое уведомление при сбое
+* И ещё множество исправлений и улучшений оверлея
 
 # 15.10.2018
 ## Android
-* Support for the Early Supporter Nitro badge
+* Поддержка значка Nitro Early Supporter
 
 # 03.10.2018
 ## Android
