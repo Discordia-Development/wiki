@@ -23,7 +23,7 @@ This is a list of features that will be occasionally updated with information ab
 | Audit Log | In Development |
 | Jump to Message | Planned |
 | Rich Push Notifications | Planned |
-| Server Sorting | Planned |
+| Server Sorting | In Development |
 
 ## Android
 | Feature | Status |
