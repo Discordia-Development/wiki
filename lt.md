@@ -25,9 +25,10 @@ The Discord Wiki nėra susijusi su Discord. Mes tik padedame Discord vartotojams
 * Tiemen#0001
 * cats#5485
 
-> ***Antrieji eilėje***
+> ***Wiki Lyderiai***
 
 * Azrael#6867 - Bendruomenės lyderis
+* Ghostwolf#0001 - Vertimų lyderis
 * OminousCry#2331 - Vertimų lyderis
 
 > ***Wiki Pagalbininkai***
@@ -41,7 +42,6 @@ The Discord Wiki nėra susijusi su Discord. Mes tik padedame Discord vartotojams
 * deframet#0001 - Italų kalba
 * Disegual#4088 - Italų kalba
 * erykol#8141 - Lenkų kalba
-* Ghostwolf#0001 - Lietuvių kalba
 * GreenTeen#6366 - Lietuvių kalba
 * Harfeur#3633 - Prancūzų kalba
 * Immotay#0001 - Brazilų-Portugalų kalba
