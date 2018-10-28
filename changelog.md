@@ -1,11 +1,11 @@
 <!-- TITLE: Changelog -->
-<!-- SUBTITLE: Discord Changelog updated as of 09/25/2018 -->
+<!-- SUBTITLE: Discord Changelog updated as of 10/28/2018 -->
 
 This is the changelog/release date for major features or significant changes. PTB and Canary might have received some features sooner than the date listed below.
 
 # 10/24/2018
 ## Android
-- Audit logs
+- Audit Logs
 # 10/20/2018
 ## iOS
 * Emoji Picker
