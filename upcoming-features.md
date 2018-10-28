@@ -14,7 +14,7 @@ This is a list of features that will be occasionally updated with information ab
 | Keyboard Navigation | Planned |
 | Permissions Preview Tool | Planned |
 | Overlay Home Bar | In Development |
-| Server Video Chat/Screen Sharing | Gradually Rolling Out |
+| Server Video Chat | Gradually Rolling Out |
 
 ## iOS
 | Feature | Status	|
