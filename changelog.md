@@ -3,6 +3,9 @@
 
 This is the changelog/release date for major features or significant changes. PTB and Canary might have received some features sooner than the date listed below.
 
+# 10/24/2018
+## Android
+- Audit logs
 # 10/20/2018
 ## iOS
 * Emoji Picker
