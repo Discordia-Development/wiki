@@ -55,7 +55,7 @@
 | Cercetarea codurilor de cheat | Glumă generală. |
 | Expertul are nevoie de hrană prost | Referință la Gauntlet (1985). |
 | Fonturi de decriptare | Referire la sistemul de destinatar 2 al Destiny 2. |
-| Și acum pentru ceva complet diferit Referință la filmul "Și acum pentru ceva complet diferit". | 
+| Și acum pentru ceva complet diferit | Referință la filmul "Și acum pentru ceva complet diferit". | 
 | Oprirea pentru a mirosi florile | Glumă generală. |
 | Realizarea lui Nirvana | Glumă generală. |
 | Gestionarea inventarului | Referință generală la jocuri. |
