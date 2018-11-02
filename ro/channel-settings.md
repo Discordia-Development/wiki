@@ -1,4 +1,4 @@
-<!-- TITLE: Setările canalului -->
+<!-- TITLE: [RO] Setările canalului -->
 <!-- SUBTITLE: Descrierea setărilor canalului -->
 
 # Setările canalului
