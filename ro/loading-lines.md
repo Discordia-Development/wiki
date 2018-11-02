@@ -3,7 +3,7 @@
 
 Încărcarea liniilor este o caracteristică pentru versiunile Desktop și iOS ale discordanței. Acestea vor afișa o vorbă, de obicei o referință pentru joc video, împreună cu cuvintele "Încărcare", până când discordanța se termină încărcarea și apoi se va spune "Gata". Acestea sunt, de asemenea, afișate atunci când discordanța se actualizează.
 
-# List of Loading Lines
+# Lista liniilor de încărcare
 | Line |	Explanation |
 |---------|---------|
 | Wobbling to 299% | Reference to "wobbling" in Super Smash Bros. Melee. |
