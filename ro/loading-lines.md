@@ -51,7 +51,7 @@
 | Am ajuns? | Glumă generală. |
 | O bătaie este cu siguranță berii! | Trimiteți la Cuphead. |
 | LOADING 001: Ferăstraie ARP 303 | Consultați setarea implicită a programului de sintetizare Sylenth1. |
-| *Lansări muzicale de la lift* Glumă generală asupra liniilor de încărcare. |
+| *Lansări muzicale de la lift* | Glumă generală asupra liniilor de încărcare. |
 | Cercetarea codurilor de cheat | Glumă generală. |
 | Expertul are nevoie de hrană prost | Referință la Gauntlet (1985). |
 | Fonturi de decriptare | Referire la sistemul de destinatar 2 al Destiny 2. |
