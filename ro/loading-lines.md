@@ -17,7 +17,7 @@
 | Omiterea cutscenelor | Referință generală la jocuri. | 
 | Amestecarea punții | Referință generală la jocul de cărți. | 
 | Refacerea meme-urilor moarte | Referință generală la meme-uri. |
-| Întoarcerea plăcii | Meme general, în care meme-ul în sine este o referință la un episod de la Courage the Cowardly Dog. |
+| Întoarcerea plăcii | Meme general, în care meme-ul in sine este o referință la un episod de la Courage the Cowardly Dog. |
 | Recombobulante discomobulatoare | Glumă generală. |
 | Acum, cu zgârieturi și zgomote | Glumă generală. |
 | Acum, cu 100% mai mult screenshare! | Glumă generală. |
