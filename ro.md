@@ -28,7 +28,7 @@ kwando aka 西木野真姫 ★★★★#1313
 Tiemen#0001
 cats#5485
 
-> ***Liderii wiki-ului***
+> ***Liderii Wiki***
 
 Azrael#6867 - Liderul Comunității
 Ghostwolf#0001 - Liderul Translatorilor
@@ -76,7 +76,7 @@ OminousCry#2331 - Liderul Translatorilor
 
 ## Mulţumiri speciale
 
-> ***Donatori**
+> ***Donatori***
 
 * Dropbox#0001 - domeniul thediscord.wiki
 
