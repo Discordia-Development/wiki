@@ -1,5 +1,5 @@
 <!-- TITLE: Acasă -->
-<!-- SUBTITLE: Bine ați venit la Wiki Discord! -->
+<!-- SUBTITLE: Bine ați venit pe Wiki Discord! -->
 
 # Welcome
 ## Despre noi
