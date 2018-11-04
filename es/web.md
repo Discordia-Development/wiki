@@ -1,4 +1,4 @@
-<!-- TITLE: Discord Web -->
+<!-- TITLE:[ES] Discord Web -->
 <!-- SUBTITLE: Cliente de Navegador de Discord -->
 
 Discord tiene una aplicación en una página web que te permite acceder al servicio sin tener que descargar la aplicación. Para acceder a la aplicación web, ve a discordapp.com/channels/@me.
