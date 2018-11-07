@@ -1,4 +1,4 @@
-<!-- TITLE: Discord -->
+<!-- TITLE: [ES] Discord -->
 
 ![Logo](/uploads/discord/logo.png "Logo")
 
