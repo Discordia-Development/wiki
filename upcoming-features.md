@@ -23,6 +23,7 @@ This is a list of features that will be occasionally updated with information ab
 | 3D Touch Support | Planned |
 | Audit Log | Available on TestFlight |
 | Jump to Message | Planned |
+| Quick Invites | In Development |
 | Rich Push Notifications | Planned |
 | Server Sorting | Available on TestFlight |
 
