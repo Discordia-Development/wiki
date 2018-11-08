@@ -2,7 +2,7 @@
 <!-- SUBTITLE: Welcome to The Discord Wiki! -->
 
 # Welcome
-## About us
+## About Us
 
 We're The Discord Wiki. We're proud to be one of the leading providers of information about Discord to date, and we welcome you to our site! We started a server about a year ago after realizing that our resources could be used to help others learn about Discord. A year later, we are getting 6.8 million hits a month! We're ever expanding our information, so if you feel like you have the passion, the will, and the resolve required to write articles for us, check out the FAQs channel in our server and sign up to help contribute!
 
@@ -16,6 +16,7 @@ The Discord Wiki is not affiliated with Discord. We're just here to help Discord
 ### ***Discord, the Discord Ghost (Clyde™), and Discordapp (Herein DISCORD) are the intellectual and legal property of Discord Inc. These Services, as listed in the [Terms of Service](/meta/terms) are not affiliated with Discord Inc or any subsidiaries herein. The Discord Wiki does not claim to own any of DISCORD's intellectual property, please no Cease and Desist :^)***
 
 ## Wiki Staff
+
 > ***Wiki Administrators***
 
 *Responsible for maintaining The Discord Wiki and its support server.*
@@ -72,7 +73,7 @@ The Discord Wiki is not affiliated with Discord. We're just here to help Discord
 * HyperCoder#2975
 * Tiemen#0001
 
-## Special thanks
+## Special Thanks
 
 >***Donators***
 
