@@ -1,4 +1,4 @@
-<!-- TITLE: Badges -->
+<!-- TITLE: [EN-PT] Badges -->
 <!-- SUBTITLE: Information 'bout Discord's Various Sailor Badges -->
 
 Discord has different badges that distinguish a sailor as a member o' specific groups. Badges display on a sailor's profile card. T' access a salior's profile card, click them and select **view profile** by hovering over thar avatar. 
