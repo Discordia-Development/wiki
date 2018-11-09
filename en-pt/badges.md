@@ -16,11 +16,11 @@ If a user has multiple badges, all badges that th' sailor has will appear.
 ![Staffbadge](/uploads/badges/newstaffbadge.png "A Discord Crew Member's Badge")
 
 # Discord Partner
-Discord [Partners](/partner) have th' partner badge on thar profile. The only way you may obtain 'tis badge be by becoming a Discord Partner. 
+Discord [Partners](/en-pt/partner) have th' partner badge on thar profile. The only way you may obtain 'tis badge be by becoming a Discord Partner. 
 
 ![Newpartnerbadge](/uploads/badges/newpartnerbadge.png "A Discord Partner Badge")
 # Discord Squad o' Hype
-Discord [Squad o' Hype](/squadohype) Event Attendees have th' Squad o' Hype Events badge on thar profile. Th' only way you may obtain 'tis badge be by becomin' a Discord Squad o' Hype Events attendee.
+Discord [Squad o' Hype](/en-pt/squadohype) Event Attendees have th' Squad o' Hype Events badge on thar profile. Th' only way you may obtain 'tis badge be by becomin' a Discord Squad o' Hype Events attendee.
 
 ![HypeSquadbadge](/uploads/badges/newhypesquadbadge.png "A Squad o' Hype Member's Badge")
 
@@ -36,11 +36,11 @@ Discord [Squad o' Hype](/squadohype) Event Attendees have th' Squad o' Hype Even
 
 ![HypeSquadbalance](/uploads/badges/hypesquadbalance.png "Squad o' Hype Balance Badge")
 # Discord Bug Hunter
-'Tis badge be obtained by earning it as a [Bug Hunter](/bug-hunters) or by [reporting security bugs t' Discord](https://discordapp.com/security).
+'Tis badge be obtained by earning it as a [Bug Hunter](/en-pt/bug-hunters) or by [reporting security bugs t' Discord](https://discordapp.com/security).
 
 ![Bughunterbadge](/uploads/badges/bughunterbadge.png "A Discord Bug Hunter Badge")
 # Discord Nitro
-Sailors who have purchased [Discord Nitro](/nitro) have th' Discord Nitro badge on thar profile. If ye hover over th' badge, it displays when th' sailor joined Nitro. If they unsubscribe from Nitro, th' badge will disappear. 
+Sailors who have purchased [Discord Nitro](/en-pt/nitro) have th' Discord Nitro badge on thar profile. If ye hover over th' badge, it displays when th' sailor joined Nitro. If they unsubscribe from Nitro, th' badge will disappear. 
 
 ![Nitrobadge](/uploads/badges/newnitrobadge.png "A Nitro Discord User's Badge")
 
