@@ -1,4 +1,4 @@
-<!-- TITLE: Partner -->
+<!-- TITLE: [EN-PT] Partner -->
 
 A Discord Partner be someone wit' a large followin' or ship who applies n' be accepted by Discord t' receive VIP features fer themselves n' thar ship.
 
