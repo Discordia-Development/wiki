@@ -55,7 +55,6 @@ The Discord Wiki is not affiliated with Discord. We're just here to help Discord
 * marcyblaze#6908 - Italian
 * Mib#0001 - Danish
 * Mr. Black#5859 - Spanish
-* Neerwan#9498 - French
 * Nooby™#4562 - French
 * PapuleX#2589 - Czech
 * RME#3050 - Dutch
