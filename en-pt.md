@@ -20,14 +20,16 @@ Th' Discord Wiki be nah affiliated wit' Discord. We be just here t' help Discord
 
 *Responsible fer maintaining Th' Discord Wiki n' its support ship.*
 * Mikesky#0001 (Systems Administrator, maintains th' backend o' all o' th' services provided by th' Wiki)
+* SleepaDru#7700 (Systems Administrator, maintains th' backend o' all o' th' services provided by th' Wiki)
 * Harrison#9100
-* kwando aka ハンイット ★★★★#1313
+* kwando aka 西木野真姫 ★★★★#1313
 * Tiemen#0001
 * cats#5485
 
 > ***Department Leads***
 
 * Azrael#6867 - Community Lead
+* Ghostwolf#0001 - Translation Lead
 * OminousCry#2331 - Translation Lead
 
 > ***Wiki Contributors***
@@ -38,7 +40,8 @@ Th' Discord Wiki be nah affiliated wit' Discord. We be just here t' help Discord
 * Cyon aka FOR3VER#2469 - Korean, Chinese
 * D_EaN * STS#0105 - Hungarian
 * Daan#1337 - Dutch
-* deframet#0707 - Italian
+* Dann#4900 - Romanian
+* deframet#0001 - Italian
 * Disegual#4088 - Italian
 * erykol#8141 - Polish
 * GreenTeen#6366 - Lithuanian
@@ -48,9 +51,9 @@ Th' Discord Wiki be nah affiliated wit' Discord. We be just here t' help Discord
 * Justman#0150 - Russian
 * Lireoy#4444 - Hungarian
 * Manfre#9262 - Italian
-* marcyblaze - Italian
+* marcyblaze#6908 - Italian
 * Mib#0001 - Danish
-* Neerwan#9498 - French
+* Mr. Black#5859 - Spanish
 * Nooby™#4562 - French
 * PapuleX#2589 - Czech
 * RME#3050 - Dutch
@@ -65,9 +68,15 @@ Th' Discord Wiki be nah affiliated wit' Discord. We be just here t' help Discord
 
 > ***Bot Developers***
 
-*Contributed to the Discord WikiBot.*
+*Contributed t' th' Discord WikiBot.*
 * HyperCoder#2975
 * Tiemen#0001
+
+## Special Thanks
+
+>***Donators***
+
+* Dropbox#0001 - thediscord.wiki Domain
 
 > ***Patrons***
 
