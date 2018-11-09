@@ -1,4 +1,4 @@
-<!-- TITLE: Squad o' Hype -->
+<!-- TITLE: [EN-PT] Squad o' Hype -->
 <!-- SUBTITLE: Be ye Hyped? Because I be feelin' super duper hyped t' tell ye 'bout 'tis really cool thing! -->
 
 ![Hypesquadsmall](/uploads/hypesquad/hypesquadsmall.png "Full Squad o' Hype Badge")
