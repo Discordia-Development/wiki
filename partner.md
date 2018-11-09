@@ -21,7 +21,7 @@ A Discord Partner is someone with a large following or server who applies and is
 # Becoming a Discord Partner
 To get a chance for Discord partnership, go to the [Discord Partnership page](http://discordapp.com/partners) and fill out the application.
 
-According to their website, Discord looks for 'growing communities and content creators that show an authentic enthusiasm for Discord (which means you’re already using Discord for your community). We want to support communities that support us. Acceptance into the program is extremely qualitative and will vary from one candidate to the next.'
+According to their website, Discord looks for growing communities and content creators that show an authentic enthusiasm for Discord (which means you’re already using Discord for your community). We want to support communities that support us. Acceptance into the program is extremely qualitative and will vary from one candidate to the next.'
 
 **Specific communities that are usually accepted include:**
 * Reddits (8000+ subs)
