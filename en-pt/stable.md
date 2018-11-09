@@ -1,0 +1,16 @@
+<!-- TITLE: [EN-PT] Discord Stable -->
+
+Discord Stable be th' main Discord client. 
+Th' main client be called Stable because it has very little bugs.
+All features released on stable have been tested fer bugs by users on [Canary](/canary) n'/or th' [Public Test Build](/ptb).
+# Download
+* [macOS Stable](https://discordapp.com/api/download?platform=osx)
+* [Windows Stable](https://discordapp.com/api/download?platform=win)
+* [iOS Stable](https://itunes.apple.com/us/app/discord-chat-for-games/id985746746)
+* [Android Stable](https://play.google.com/store/apps/details?id=com.discord)
+* [Linux deb Stable](https://discordapp.com/api/download?platform=linux&format=deb)
+* [Linux tar.gz Stable](https://discordapp.com/api/download?platform=linux&format=tar.gz)
+### API Notes
+* [macOS](https://discordapp.com/api/stable/updates?platform=osx)
+* [Windows](https://discordapp.com/api/stable/updates?platform=win)
+* [Linux](https://discordapp.com/api/stable/updates?platform=linux)
