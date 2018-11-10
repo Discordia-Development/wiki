@@ -3,7 +3,7 @@
 A server (occasionally referred to as a *guild* in Discord documentation) is the main feature on Discord.
 
 
-![alt text](http://i.imgur.com/ChQcUuc.png?2 "server")
+![Discordserver](/uploads/servers/discordserver.png "A Discord Server")
 
 *A server with one text channel and two voice channels.*
 
