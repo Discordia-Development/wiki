@@ -1,7 +1,7 @@
 <!-- TITLE:[ES] Mensajes Directos -->
 <!-- SUBTITLE: Información acerca de los Mensajes Directos (MDs) de Discord -->
 
-Los Mensajes Directos (acortando, MDs) son una versión animalista de las guilds de Discord que hay entre usuarios. No tienen un sistema de permisos pero sí un único canal de texto. Solo se puede invitar a los usuarios mediante amigos a diferencia de las guilds, donde tiene que ser mediante un enlace de invitación instantánea.
+Los Mensajes Directos (acortando, MDs) son una versión minimalista de las guilds de Discord que hay entre usuarios. No tienen un sistema de permisos pero sí un único canal de texto. Solo se puede invitar a los usuarios mediante amigos a diferencia de las guilds, donde tiene que ser mediante un enlace de invitación instantánea.
 
 # Mensajes Directos normales
 * Exactamente entre 2 personas
