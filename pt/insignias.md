@@ -37,6 +37,7 @@ Membros do Discord [HypeSquad](/hypesquad) que participam de eventos têm a ins�
 # Discord Bug Hunter
 Esta insígnia pode ser obtida sendo um [Bug Hunter](/pt/bug-hunters) ou [reportando bugs de segurança para o Discord](https://discordapp.com/security)
 
+![Bughunterbadge](/uploads/badges/bughunterbadge.png "A Discord Bug Hunter Badge")
 # Discord Nitro
 Usuários que compraram o [Discord Nitro](/nitro) têm a insígnia do Discord Nitro em seu perfil. Se você passar o mouse em cima da insígnia, ela mostrará quando o usuário assinou o Nitro. Ao cancelar a assinatura do Nitro, a insígnia desaparece.
 
