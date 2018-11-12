@@ -65,7 +65,7 @@ The Discord Wiki não está afiliado ao Discord. Nós estamos aqui somente para 
 * Voknehzyr#1338 - Russo
 * webhp#1337 - Inglês Pirata
 * zabszk - Polonês
-* 
+
 > ***Desenvolvedores do Bot***
 
 *Contribuíram para o Discord WikiBot.*
