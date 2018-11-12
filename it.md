@@ -11,9 +11,9 @@ Siamo The Discord Wiki. Siamo fieri di essere fra i più importanti divulgatori 
 <a href="https://discord.gg/ZRJ9Ghh">![DISCORD EMBED PLUGIN](https://discordapp.com/api/guilds/367460196148183040/widget.png?style=banner2)</a>
 
 ## Clausola di esonero da responsabilità e informazioni legali
-The Discord Wiki non è in alcun modo affiliata con Discord. Aiutiamo gli utenti su Discord a scoprire nuove informazioni riguardanti la piattaforma. Crediamo molto nella trasparenza, quindi prima di unirti o usare un nostro servizio, per favore leggi i [Termini di servizio](/terms) e la nostra [Politica sulla privacy](/privacy) per conoscere tutte le formalità legali riguardanti il nostro servizio!
+The Discord Wiki non è in alcun modo affiliata con Discord. Aiutiamo gli utenti su Discord a scoprire nuove informazioni riguardanti la piattaforma. Crediamo molto nella trasparenza, quindi prima di unirti o usare un nostro servizio, per favore leggi i [Termini di servizio](/meta/terms) e la nostra [Politica sulla privacy](/meta/privacy) per conoscere tutte le formalità legali riguardanti il nostro servizio!
 
-### ***Discord, Discord Ghost (Clyde™) e Discordapp (anche nominato DISCORD) sono proprietà intellettuali e legali di Discord Inc. Questi servizi, come elencato nei [Termini di servizio](/terms), non sono affiliati con Discord Inc. o alcuna delle sue sussidiarie. La Discord Wiki dichiara di non possedere alcuna delle proprietà intellettuali di DISCORD, per favore nessuna lettera di diffida :^)***
+### ***Discord, Discord Ghost (Clyde™) e Discordapp (anche nominato DISCORD) sono proprietà intellettuali e legali di Discord Inc. Questi servizi, come elencato nei [Termini di servizio](/meta/terms), non sono affiliati con Discord Inc. o alcuna delle sue sussidiarie. La Discord Wiki dichiara di non possedere alcuna delle proprietà intellettuali di DISCORD, per favore nessuna lettera di diffida :^)***
 
 ## Staff della wiki
 
