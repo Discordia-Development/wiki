@@ -11,7 +11,7 @@ Nitro se puede comprar mensualmente por 4.99$ o anualmente por 49.99$. La compra
 
 El 22 de diciembre de 2017, se incluyó la opción de pagar con Paypal.
 
-# Tipos
+# Niveles
 
 ## Discord Nitro Classic
 Una suscripción de Discord Nitro Classic ($4.99/Mes, $49.99/Año) da a los usuarios acceso a las siguientes características:
