@@ -13,7 +13,7 @@ Una suscripción de Discord Nitro Classic ($4.99/Mes, $49.99/Año) da a los usua
 
 * Avatar animado.
 * Emojis animados.
-* Utilizar emojis personalizados en cualquier parte (si el usuario tiene el permiso de Uso Externo de Emojis en ese servidor).
+* Utilizar emojis personalizados en cualquier parte (si el usuario tiene el permiso de Uso de Emojis Externos en ese servidor).
 * El límite de subida cambia de 8MB a 50MB.
 * 720p 60fps o 1080p 30fps al compartir pantalla.
 * [Insignia](/es/insignias) de Discord Nitro en el perfil.
