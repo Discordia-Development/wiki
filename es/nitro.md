@@ -3,15 +3,10 @@
 
 ![Nitrobadge](/uploads/nitro/nitrobadge.png "Nitrobadge")
 
-Discord Nitro es una suscripción que se compra a Discord y da acceso a servicios exclusivos.
+Discord Nitro es un servicio de suscripción premium de Discord con dos tipos, dando características especiales y acceso a servicios exclusivos. Nitro fue lanzado como prueba en Australia el 22 de diciembre de 2016 y a nivel mundial el 23 de junio de 2017. El 22 de diciembre de 2017, se añadió la posibilidad de pagar con PayPal. El 10 de octubre de 2018, Discord Nitro se dividió en dos tipos, Discord Nitro y Discord Nitro Classic.
 
-Nitro fue lanzado como prueba en Australia el 22 de diciembre de 2016 y a nivel mundial el 23 de junio de 2017.
 
-Nitro se puede comprar mensualmente por 4.99$ o anualmente por 49.99$. La compra del plan anual da dos meses gratis.
-
-El 22 de diciembre de 2017, se incluyó la opción de pagar con Paypal.
-
-# Niveles
+# Tipos
 
 ## Discord Nitro Classic
 Una suscripción de Discord Nitro Classic ($4.99/Mes, $49.99/Año) da a los usuarios acceso a las siguientes características:
