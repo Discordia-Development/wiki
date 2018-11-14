@@ -26,7 +26,7 @@ Una suscripción de Discord Nitro Classic ($4.99/Mes, $49.99/Año) da a los usua
 
 ### Insignia de Suscriptor Antiguo (Early Supporter Badge)
 
-Los usuarios que compraron Nitro en cualqueir momento antes del 10 de octubre de 2018, recibieron en su perfil la insignia de Suscriptor Antiguo. Esta insignia es permanente y no desaparece si termina tu suscripción a Nitro.
+Los usuarios que compraron Nitro en cualquier momento pero antes del 10 de octubre de 2018, recibieron en su perfil la insignia de Suscriptor Antiguo. Esta insignia es permanente y no desaparece si termina tu suscripción a Nitro.
 
 ## Discord Nitro 
 La suscripción normal de Discord Nitro ($9.99/Mes, $99.99/Año) da acceso a los usuarios a las características de siempre de Discord, pero también incluye el acceso a los juegos Nitro de la tienda. Si tu suscripción a Nitro termina, el acceso a los juegos también lo hará.
