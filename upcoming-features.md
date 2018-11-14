@@ -32,6 +32,7 @@ This is a list of features that will be occasionally updated with information ab
 |---------|--------|
 | Compress Image Toggle | Planned |
 | Game Detection | Planned |
+| Manage Emojis | Planned |
 | Screensharing | Planned |
 | Video Embeds | Planned |
 
