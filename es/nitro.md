@@ -17,7 +17,7 @@ Una suscripción de Discord Nitro Classic ($4.99/Mes, $49.99/Año) da a los usua
 * El límite de subida cambia de 8MB a 50MB.
 * 720p 60fps o 1080p 30fps al compartir pantalla.
 * [Insignia](/es/insignias) de Discord Nitro en el perfil.
-* Posibilidad de cambiar tu [discriminador](/discriminator). (Ten en cuenta que si tu Nitro expira tu discriminador será reiniciado con un número aleatorio)
+* Posibilidad de cambiar tu [discriminador](/discriminator). (Ten en cuenta que si tu Nitro expira, tu discriminador será reiniciado con un número aleatorio)
 
 ### Insignia de Suscriptor Antiguo (Early Supporter Badge)
 
