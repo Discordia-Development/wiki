@@ -27,7 +27,7 @@ Los usuarios que compraron Nitro en cualquier momento pero antes del 10 de octub
 La suscripción normal de Discord Nitro ($9.99/Mes, $99.99/Año) da acceso a los usuarios a las características de siempre de Discord, pero también incluye el acceso a los juegos Nitro de la tienda. Si tu suscripción a Nitro termina, el acceso a los juegos también lo hará.
 
 # Comprar Nitro
-Para comprar Nitro, haz click en el engranaje de ajustes de usuario en la esquina inferior izquierda de tu pantalla y haz clic sobre la pestaña de Nitro. Una vez ahí, selecciona mensual o anualmente, introduce tu tarjeta de crédito o débito, y luego tu código postal. Para pagar con PayPal, necesitas tener un método de pago tolerante frente a fallos registrado en tu cuenta de PayPal, tal como una cuenta bancaria o tarjeta, independientemente de si fondos suficientes en tu cartera de PayPal.
+Para comprar Nitro, haz click en el engranaje de ajustes de usuario en la esquina inferior izquierda de tu pantalla y haz clic sobre la pestaña de Nitro. Una vez ahí, selecciona mensual o anualmente, introduce tu tarjeta de crédito o débito, y luego tu código postal. Para pagar con PayPal, necesitas tener un método de pago tolerante frente a fallos registrado en tu cuenta de PayPal, tal como una cuenta bancaria o tarjeta, independientemente de si hay fondos suficientes en tu cartera de PayPal.
 
 ![Nitro](/uploads/es/nitro.png "Ajustes de usuario/Nitro")
 # Vídeo del lanzamiento oficial (en inglés)
