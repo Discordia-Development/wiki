@@ -30,4 +30,4 @@ Para comprar Nitro, haz click en el engranaje de ajustes de usuario en la esquin
 
 
 # Más información
-Puedes encontrar más información acerca de Nitro en http://discordapp.com/nitro o accediendo a la pestaña de Nitro en los ajustes de usuario en el cliente de Discord.
+Puedes encontrar más información acerca de Nitro en http://discordapp.com/nitro o accediendo a la pestaña de Nitro en los ajustes de usuario en el cliente de Discord.  Los nuevos juegos de Nitro también se anuncian en [el blog de Discord](https://blog.discordapp.com/).
