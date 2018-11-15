@@ -29,7 +29,7 @@ Discord tiene diferentes clientes que pueden ser usados a través de todas las p
 ## Escritorio
 Solo puedes acceder a estos a través de Windows, MacOSX/macOS y Linux:
 
-**Stable:** Esta es la build Stable de Discord. Es la build con las características más completas y pulidas. 
+**Stable:** Esta es la build [Stable](/es/discord-stable) de Discord. Es la build con las características más completas y pulidas. 
 
 **Public Test Build (PTB):** Esta es la build [PTB](/es/ptb) de Discord, con características aún lanzadas al público. No es tan estable y puede tener bugs y algunos problemas.
 *Puede ser descargado seleccionando Public Test Build en la página de descarga de Discord (https://discordapp.com/download).*
