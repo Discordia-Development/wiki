@@ -33,5 +33,11 @@ To purchase Nitro, click the user settings cog on the bottom left of your screen
 
 [video](https://www.youtube.com/watch?v=psIIWROIvtM){.youtube}
 
+# Discord Nitro Brew
+Discord Nitro Brew was Discord's 2017 April Fool's Joke.
+
+[video](https://www.youtube.com/watch?v=9Z4GW6Vd6NI){.youtube}
+
+
 # More Information
 More information can be found on Nitro at http://discordapp.com/nitro, or by accessing the Nitro tab in User Settings. New Nitro games are also announced on the [Discord Blog](https://blog.discordapp.com/).
