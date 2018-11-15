@@ -19,7 +19,7 @@ Vitajte na našej stránke! Sme Discord Wiki! Sme hrdí na to, že sme jediným 
 * Tiemen#0001
 * cats#5485
 
-* > ***Vedúci oddelenie***
+> ***Vedúci oddelenie***
 
 * Azrael#6867 - Vedúci komunity
 * OminousCry#2331 - Vedúci prekladu
@@ -60,7 +60,7 @@ Vitajte na našej stránke! Sme Discord Wiki! Sme hrdí na to, že sme jediným 
 
 > ***Vývojáři bota***
 
-*Podíleli se na vývoji Discord WikiBota.*
+*Podielili sa na vývoji Discord WikiBota.*
 * HyperCoder#2975
 * Tiemen#0001
 
