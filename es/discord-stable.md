@@ -1,4 +1,4 @@
-<!-- TITLE: Discord Stable -->
+<!-- TITLE: [ES] Discord Stable -->
 
 Discord Stable es el Cliente principal de Discord.
 El cliente principal es llamado Stable (estable) porque tiene pocos bugs.
