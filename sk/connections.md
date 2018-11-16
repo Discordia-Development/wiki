@@ -4,6 +4,7 @@
 Menu prepojenie je dostupné v [užvateľskom nastavení](/user-settings) Vašého Discord účtu.
 
 ## Dostupné prepojenie
+
 ![Connections | Desktop App (Windows)](/uploads/e-96-faa.png "Prepojenie" | Desktopová aplikacia (Windows)")
 
 Dostupné prepojenia:
