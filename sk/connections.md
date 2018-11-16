@@ -5,7 +5,7 @@ Menu prepojenie je dostupné v [užvateľskom nastavení](/user-settings) Vašé
 
 ## Dostupné prepojenie
 
-![Connections | Desktop App (Windows)](/uploads/e-96-faa.png "Prepojenie" | Desktopová aplikacia (Windows)")
+![Connections | Desktop App (Windows)](/uploads/e-96-faa.png "Propojení | Desktopová aplikace (Windows)")
 
 Dostupné prepojenia:
 * Twitch
