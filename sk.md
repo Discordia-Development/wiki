@@ -58,7 +58,7 @@ Vitajte na našej stránke! Sme Discord Wiki! Sme hrdí na to, že sme jediným 
 * webhp#1337 - Piratská angličtina
 * zabszk#5292 - Polština
 
-> ***Vývojáři bota***
+> ***Vývojári bota***
 
 *Podielili sa na vývoji Discord WikiBota.*
 * HyperCoder#2975
