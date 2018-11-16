@@ -4,16 +4,16 @@
 # Bienvenido
 ## Sobre nosotros
 
-Somos La Wiki de Discord. Estamos orgullosos de ser uno de los proveedores líderes en información sobre Discord hasta la fecha, ¡y te damos la bienvenida a nuestra página! ¡Empezamos un servidor hace alrededor de un año después de darnos cuenta de que nuestros recursos podían ser utilizados para ayudar a otros a aprender acerca de Discord en vez de quedarnos toda esa rica información para nosotros! Un año más tarde, ¡tuvimos éxito en proporcionar al menos algo de información a más de 3,5 millones de usuarios al mes! Siempre estamos expandiendo nuestra información, así que si crees que tienes la pasión, la voluntad, y la determinación necesaria para escribir artículos para nosotros, ¡échale un vistazo al canal de FAQs de nuestro servidor y regístrate para ayudar a contribuir!
+Somos La Wiki de Discord. Estamos orgullosos de ser uno de los proveedores líderes en información sobre Discord hasta la fecha, ¡y te damos la bienvenida a nuestra página! ¡Empezamos un servidor hace alrededor de un año al darnos cuenta de que nuestros recursos podían ser utilizados para ayudar a otros a aprender acerca de Discord en vez de quedarnos toda esa rica información para nosotros! Un año más tarde, ¡Hemos tenido éxito al proporcionar al menos algo de información a más de 3,5 millones de usuarios al mes! Siempre estamos ampliando nuestra información, así que si crees que tienes la pasión, la voluntad, y la determinación necesaria de escribir artículos para nosotros, ¡échale un vistazo al canal de FAQs de nuestro servidor y regístrate para ayudar a contribuir!
 
 [¡Únete a nosotros en Discord!](https://discord.gg/zzAKwMQ)
 
 <a href="https://discord.gg/ZRJ9Ghh">![DISCORD EMBED PLUGIN](https://discordapp.com/api/guilds/367460196148183040/widget.png?style=banner2)</a>
 
 ## Advertencias e Información Legal
-La Wiki de Discord no está afiliada a Discord. Solo estamos aquí para ayudar a los usuarios de Discord a encontrar información sobre la plataforma. Somos muy fieles a la transparencia, así que antes de que te unas, ¡por favor échale un ojo a los [Términos de Servicio](/terms) y a nuestra [Política de Privacidad](/privacy) con el fin de que sepas todas las cosas legales que necesitas para que puedas considerar nuestros servicios!
+La Wiki de Discord no está afiliada a Discord. Solo estamos aquí para ayudar a los usuarios de Discord a encontrar información sobre la plataforma. Somos muy fieles en cuanto a la transparencia, así que antes de que te unas, ¡por favor échale un vistazo a los [Términos de Servicio](/terms) y a nuestra [Política de Privacidad](/privacy) con el objetivo de que sepas todas esas cosas legales que necesitas para considerar nuestros servicios!
 
-### ***Discord, el fantasma de Discord (Clyde™), y Discordapp (aquí DISCORD) son de propiedad intelectual y legal de Discord Inc. Estos servicios, listados en los [Términos de servicio](/terms) no están afiliados con Discord Inc. o cualquiera de sus filiales aquí. La Wiki de Discord declara no ser dueña de ninguna propiedad intelectual de DISCORD, por favor ningún Cese y Desista :^)***
+### ***Discord, el fantasma de Discord (Clyde™), y Discordapp (aquí DISCORD) son de propiedad intelectual y legal de Discord Inc. Estos servicios, listados en los [Términos de servicio](/terms) no están afiliados con Discord Inc. o cualquiera de sus filiales aquí. La Wiki de Discord declara no ser dueña de ninguna propiedad intelectual de DISCORD, por favor, ningún Cese y Desista :^)***
 
 ## Administración de La Wiki
 > ***Administradores de La Wiki***
