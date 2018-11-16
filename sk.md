@@ -5,7 +5,7 @@
 ## O nás
 Vitajte na našej stránke! Sme Discord Wiki! Sme hrdí na to, že sme jediným z hlavných poskytovateľov informacii o Discorde. Server sme spustili asi pred rokom, keby sme povedali, že by naše zdroje mohli pomôcť ostatným ludí dozvedieť sa niečo o Discordu, skôr aby sme si nechali všetké skvelé informácie pre seba! Rok potom sa nám podarilo poskytnúť aspoň nijaké informácie viacej než 3,5 milion uživatelom za mesiac! Naše informácie stále rozširujeme, takže pokiaľ máte záujem, vášeň a odhodlanie písať pre nás články, pozrite sa do "FAQs" kanálu na našom servere a pripojte sa k nám!
 
-[Pripojte sa k nám na Discord!] (https://discord.gg/ZRJ9Ghh)
+[Pripojte sa k nám na Discord!](https://discord.gg/ZRJ9Ghh)
 
 <a href="https://discord.gg/ZRJ9Ghh">![DISCORD EMBED PLUGIN](https://discordapp.com/api/guilds/367460196148183040/widget.png?style=banner2)</a>
 
