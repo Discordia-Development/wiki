@@ -11,7 +11,7 @@ No tenemos planeado poner ningún anuncio más, solo ese pequeñín de la barra 
 ## ¿Por qué hay anuncios cuando Discord no los tiene?
 La Wiki de Discord no está afiliada con Discord en absoluto, solo somos una base de datos sobre el servicio. Hacer funcionar todo lo del servidor cuesta como un riñón tal y como he manifestado antes :3
 
-## ¿Qué harás con el dinero extra?
+## ¿Qué pasa con el dinero extra?
 Cualquier sobrante tras los costes pagados será donado a [Special Effect](https://www.specialeffect.org.uk). He aquí un poco de información sobre ellos:
 
 > Ponemos diversión y reintegración en las vidas de la gente con discapacidades físicas ayudándolas a jugar videojuegos.
