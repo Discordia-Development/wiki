@@ -4,7 +4,7 @@
 # Vítejte
 ## O nás
 
-Vítejte na naší stránce! Jsme Discord Wiki! Jsme hrdí na to, že jsme jedním z hlavních poskytovatelů informací ohledně Discordu. Server jsme spustili asi před rokem, kdy jsme si řekli, že by naše zdroje mohli pomoci ostatním lidem dovědět se něco o Discordu. Po roce nás navštěvuje 6.8 miliónů uživatelů za měsíc! Naše informace stále rozšiřujeme, takže pokud máte zájem, vášeň a odhodlání psát pro nás články, podívejte se do kanálu "FAQs" na našem serveru a připojte se k nám!
+Vítejte na naší stránce! Jsme Discord Wiki! Jsme hrdí na to, že jsme jedním z hlavních poskytovatelů informací ohledně Discordu. Server jsme spustili asi před rokem, kdy jsme si řekli, že by naše zdroje mohli pomoci ostatním lidem dovědět se něco o Discordu. Po roce nás navštěvuje 6,8 miliónů uživatelů za měsíc! Naše informace stále rozšiřujeme, takže pokud máte zájem, vášeň a odhodlání psát články pro nás, podívejte se do kanálu "FAQs" na našem serveru a připojte se k nám!
 
 [Připojte se k nám na Discord!](https://discord.gg/ZRJ9Ghh)
 
