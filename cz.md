@@ -13,7 +13,7 @@ Vítejte na naší stránce! Jsme Discord Wiki! Jsme hrdí na to, že jsme jedn�
 ## Wiki personál
 > ***Administrátoři na Wiki***
 
-* Zodpovědní za správu Discord Wiki a jeho podpůrného serveru.*
+*Zodpovědní za správu Discord Wiki a jeho podpůrného serveru.*
 * Mikesky#0001 (systémový administrátor, spravuje backend všech služeb od Wiki)
 * SleepaDru#7700 (systémový administrátor, spravuje backend všech služeb od Wiki)
 * Harrison#9100
