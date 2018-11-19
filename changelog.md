@@ -1,11 +1,21 @@
 <!-- TITLE: Changelog -->
-<!-- SUBTITLE: Discord Changelog updated as of 10/28/2018 -->
+<!-- SUBTITLE: Discord Changelog updated as of 11/19/2018 -->
 
 This is the changelog/release date for major features or significant changes. PTB and Canary might have received some features sooner than the date listed below.
 
+# 11/16/2018
+## Android
+* The Leave button in Group DMs is now more explicit
+* Audio option exposed for OpenSL ES
+* Guild DM owner is now indicated
+* Updated image library which may cause crashes in (unsupported) multi-profile utilities
 # 10/24/2018
 ## Android
-- Audit Logs
+* Audit Logs
+
+# 11/1/2018
+## iOS
+* Hot fix for unexpected crashes on iOS 9
 # 10/20/2018
 ## iOS
 * Emoji Picker
