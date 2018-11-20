@@ -8,7 +8,7 @@ Discord Nitro yra išperkama prenumerata su dviejomis pakopomis, priskiriant nem
 # Pakopos
 
 ## Discord Nitro Classic (Klasika)
-A Discord Nitro Classic subscription ($4.99/Month, $49.99/Year) gives users access to the following features:
+Discord Nitro Classic prenumerata ($4.99/Month, $49.99/Year) gives users access to the following features:
 
 * GIF avataras.
 * Galimybė naudotis animuotais jaustukais.
