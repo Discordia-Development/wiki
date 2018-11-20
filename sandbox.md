@@ -13,7 +13,7 @@
 </tr>
 <tr>
 <td>Requirement:</td>
-<td>Discord Nitro subscription.</td>
+<td bgcolor="4F5D7F">Discord Nitro subscription.</td>
 </tr>
 </table> 
 
