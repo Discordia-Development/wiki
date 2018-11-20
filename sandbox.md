@@ -34,3 +34,27 @@
 <td>Membership in the Discord  <a href="https://discordia.me/partner">Partner</a> program</td>
 </tr>
 </table> 
+
+<html>
+<head>
+<style>
+table, th, td {
+    border: 1px solid black;
+}
+</style>
+</head>
+<body>
+
+<table>
+  <tr>
+    <th>Tests</th>
+    <th>Tests!</th>
+  </tr>
+  <tr>
+    <td style="background-color:#FF0000">Test!</td>
+    <td style="background-color:#00FF00">test</td>
+  </tr>
+</table>
+
+</body>
+</html>
