@@ -36,4 +36,4 @@
 </table> 
 
 # bugtests
-$/
+s$/s
