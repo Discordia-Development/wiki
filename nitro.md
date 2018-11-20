@@ -5,9 +5,9 @@
 
 Discord Nitro yra išperkama prenumerata su dviejomis pakopomis, priskiriant nemokamus žaidimus, kuri suteikia vartotojui Premium funkcijas naudojantis Discord'u. Nitro buvo pradėtas testuoti Australijoje 2016 metais gruodžio 22 dieną ir globaliai 2017 metų sausio 23 dieną. 2017 metais gruodžio 22 dieną, buvo pridėta galimybė susimokėti naudojantis PayPal. 2018 metų spalio 10 dieną, Discord Nitro buvo padalintas į dvi pakopas - Discord Nitro ir Discord Nitro Classic (Klasika).
 
-# Tiers
+# Pakopos
 
-## Discord Nitro Classic
+## Discord Nitro Classic (Klasika)
 A Discord Nitro Classic subscription ($4.99/Month, $49.99/Year) gives users access to the following features:
 
 * Animated, GIF avatar.
