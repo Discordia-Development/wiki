@@ -14,7 +14,7 @@
 </tr>
 <tr>
 <td>Requirement:</td>
-<td bgcolor="4F5D7F">Discord <a href="https://discordia.me/Nitro">Nitro</a> subscription.</td>
+<td bgcolor="4F5D7F">Discord <a href="https://discordapp.com/nitro">Nitro</a> subscription.</td>
 </tr>
 </table> 
 
