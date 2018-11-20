@@ -1,9 +1,9 @@
 <!-- TITLE: Nitro -->
 <!-- SUBTITLE: Support Discord's Development -->
 
-<table style="width:200px; border:1px solid black; float:center">
+<table style="width:250px; border:1px solid black; float:center">
 <tr>
-<td colspan="2" style="text-align:center">Discord Nitro</td>
+<td colspan="2" style="background-color:#4F5D7F; text-align:center">Discord Nitro</td>
 </tr>
 <tr>
 <td colspan="2" style="text-align:center"><img src="https://cdn.discordapp.com/emojis/340386793075769345.png?v=1" alt="nitro"></td>
@@ -14,7 +14,7 @@
 </tr>
 <tr>
 <td>Requirement:</td>
-<td bgcolor="4F5D7F">Discord <a href="https://discordapp.com/nitro">Nitro</a> subscription.</td>
+<td>Discord <a href="https://discordia.me/Nitro">Nitro</a> subscription.</td>
 </tr>
 </table> 
 
