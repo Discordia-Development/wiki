@@ -18,7 +18,7 @@
 </table> 
 
 
-<table style="width:400px; border:1px solid black; float:left">
+<table style="width:250px; border:1px solid black; float:left">
 <tr>
 <td colspan="2" style="text-align:center">Discord Partner</td>
 </tr>
