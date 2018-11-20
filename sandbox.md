@@ -18,7 +18,7 @@
 </table> 
 
 
-<table style="width:250px; border:2px solid black; float:left">
+<table style="width:250px; border:1px solid black; float:left">
 <tr>
 <td colspan="2" style="text-align:center">Discord Partner</td>
 </tr>
@@ -31,6 +31,6 @@
 </tr>
 <tr>
 <td>Requirement:</td>
-<td>Membership in the Discord Partner program.</td>
+<td>Membership in the Discord [Partner](https://discordapp.com/partner) program.</td>
 </tr>
 </table> 
