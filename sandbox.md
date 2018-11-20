@@ -36,4 +36,4 @@
 </table> 
 
 # bugtests
-s$/s
+9$/m
