@@ -13,7 +13,7 @@
 </tr>
 <tr>
 <td>Requirement:</td>
-<td style="background-color:#4F5D7F text-align:center">Discord <a href="https://discordia.me/Nitro">Nitro</a> subscription.</td>
+<td style="background-color:#4F5D7F">Discord <a href="https://discordia.me/Nitro">Nitro</a> subscription.</td>
 </tr>
 </table> 
 
