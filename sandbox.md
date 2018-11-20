@@ -20,7 +20,7 @@
 
 <table style="width:250px; border:1px solid black; float:left">
 <tr>
-<td colspan="2" style="background-color:#FF0000">Discord Partner</td>
+<td colspan="2" style="background-color:#FF0000" style="text-align:center">Discord Partner</td>
 </tr>
 <tr>
 <td colspan="2" style="text-align:center"><img src="https://cdn.discordapp.com/emojis/340386793041952770.png?v=1" alt="partner"></td>
