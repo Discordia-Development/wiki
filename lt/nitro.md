@@ -10,17 +10,17 @@ Discord Nitro yra išperkama prenumerata su dviejomis pakopomis, priskiriant nem
 ## Discord Nitro Classic
 A Discord Nitro Classic subscription ($4.99/Month, $49.99/Year) gives users access to the following features:
 
-* Animated, GIF avatar.
-* Ability to use animated emoji.
-* Ability to use custom emoji anywhere (if the User has the Use External Emojis permission in that server).
-* Max upload size changed from 8MB to 50MB.
-* 720p 60fps or 1080p 30fps screenshare.
-* Discord Nitro [badge](/badges) on profile.
-* Ability to change your [discriminator](/discriminator). (If your Nitro subscription ends, your discriminator will be reset to a random number.
+* GIF avataras.
+* Galimybė naudotis animuotais jaustukais.
+* Galimybė naudoti bet kokį jaustuką visur (jeigu Narys turi "Naudoti išorinius jaustukus" leidimą tame serveryje).	
+* Didžiausias failo įkėlimo dydis pasikeičia nuo 8MB iki 50MB.	
+* 720p 60fps arba 1080p 30fps ekrano dalyjimasis.
+* Discord Nitro [ženkliukas](/badges) profilyje.
+* Galimybė pakeisti savo [diskriminatorių](/discriminator). (Priminimas, jeigu tavo Nitro prenumerata pasibaigia, tavo diskriminatorius bus pakeistas į bet kokius skaičius.)
 
-### Early Supporter Badge
+### Ankstyvojo rėmėjo ženkliukas
 
-Users who bought Nitro anytime before October 10th, 2018, recieved the Early Supporter badge on their profile. This badge is permanent and does not go away even if your Nitro subscription ends.
+Visi nariai, kurie kada nors buvo užsiprenumeravę Discord Nitro prieš spalio 10 d., gavo Ankstyvojo rėmėjo ženkliuką ant savo profilio. Šis ženkliukas niekad nepradings, net jeigu tu atšauksi savo prenumeratą.
 
 ## Discord Nitro
 Įprasta Discord Nitro prenumerata ($9.99/mėnesiui, $99.99/metams) ne tik suteikia galimybę naudotis visomis Discord Nitro Classic funkcijomis, bet ir prieigą Discord parduotuvės Nitro žaidimų. Jeigu tavo prenumerata pasibaigia - prieiga prie Nitro žaidimų taip pat pasibaigs.
