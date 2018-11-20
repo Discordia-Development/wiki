@@ -5,7 +5,7 @@
 <td colspan="2" style="text-align:center">Discord Nitro</td>
 </tr>
 <tr>
-<td colspan="2" style="text-align:center"><img src="https://raw.githubusercontent.com/DiscordiaWiki/wiki/master/uploads/nitro/nitrobadge.png" alt="nitro"></td>
+<td colspan="2" style="text-align:center"><img src="https://cdn.discordapp.com/emojis/340386793075769345.png?v=1" alt="nitro"></td>
 </tr>
 <tr>
 <td>Permanent:</td>
