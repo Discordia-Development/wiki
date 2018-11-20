@@ -1,7 +1,7 @@
 <!-- TITLE: Nitro -->
 <!-- SUBTITLE: Support Discord's Development -->
 
-<table style="width:200px; border:1px solid black; float:left">
+<table style="width:200px; border:1px solid black; float:center">
 <tr>
 <td colspan="2" style="text-align:center">Discord Nitro</td>
 </tr>
