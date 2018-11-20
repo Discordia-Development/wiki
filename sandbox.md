@@ -37,4 +37,4 @@
 
 # bugtests
 ## Discord Nitro Classic (Klasika)
-Discord Nitro Classic prenumerata (4.99$/mėnesiui, 49.99$/metams) suteikia naudotojui naudotis šiomis funkcijomis:
+(4.99$/mėnesiui, 49.99$/metams)
