@@ -9,6 +9,7 @@ Discord Nitro yra išperkama prenumerata su dviejomis pakopomis, priskiriant nem
 
 ## Discord Nitro Classic (Klasika)
 Discord Nitro Classic prenumerata (4.99$/mėnesiui, 49.99$/metams) suteikia naudotojui naudotis šiomis funkcijomis:
+
 * GIF avataras.
 * Galimybė naudotis animuotais jaustukais.
 * Galimybė naudoti bet kokį jaustuką visur (jeigu Narys turi "Naudoti išorinius jaustukus" leidimą tame serveryje).	
@@ -18,18 +19,21 @@ Discord Nitro Classic prenumerata (4.99$/mėnesiui, 49.99$/metams) suteikia naud
 * Galimybė pakeisti savo [diskriminatorių](/discriminator). (Priminimas, jeigu tavo Nitro prenumerata pasibaigia, tavo diskriminatorius bus pakeistas į bet kokius skaičius)
 
 ### Ankstyvojo rėmėjo ženkliukas
+
 Visi nariai, kurie kada nors buvo užsiprenumeravę Discord Nitro prieš spalio 10 d., gavo Ankstyvojo rėmėjo ženkliuką ant savo profilio. Šis ženkliukas niekad nepradings, net jeigu tu atšauksi savo prenumeratą.
 
 ## Discord Nitro
 Įprasta Discord Nitro prenumerata ($9.99/mėnesiui, $99.99/metams) ne tik suteikia galimybę naudotis visomis Discord Nitro Classic funkcijomis, bet ir prieigą Discord parduotuvės Nitro žaidimų. Jeigu tavo prenumerata pasibaigia - prieiga prie Nitro žaidimų taip pat pasibaigs.
- ![User Settings/Nitro](/uploads/7138-b-7-1.png "User Settings/Nitro")
  
 # Discord Nitro prenumeravimas
 Kad prenumeruotum Nitro, nuspausk Vartotojo nustatymų ženkliuką apatiniame kairiąjame kampe savo ekrane ir pasirink Nitro skiltį. Tenais, pasirink kasmėnesinę ar kasmetinę prenumeratą, įvesk savo kreditinės arba debetinės kortelės informaciją, tada pašto kodą, jeigu reikės. Kad mokėtum su PayPal, turi turėti prijungtą banko paskyrą arba kortelę prie PayPal paskyros, arba bus naudojamas pinigų likutis PayPal piniginėje.
 
+ ![User Settings/Nitro](/uploads/7138-b-7-1.png "User Settings/Nitro")
+
 # Discord Nitro Brew
 Discord Nitro Brew buvo Discord'o 2017 metų balandžio pokštas. Tai neturėjo būti rimtas dalykas, bet tai vienas mano mėgstamiausių Discord'o išleistų pokštų. Pažiūrėk video žemiau!
- [video](https://www.youtube.com/watch?v=9Z4GW6Vd6NI){.youtube}
+
+[video](https://www.youtube.com/watch?v=9Z4GW6Vd6NI){.youtube}
  
 # Oficialus Pristatymo Video
  [video](https://www.youtube.com/watch?v=psIIWROIvtM){.youtube}
