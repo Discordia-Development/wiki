@@ -34,3 +34,8 @@
 <td>Membership in the Discord  <a href="https://discordia.me/partner">Partner</a> program</td>
 </tr>
 </table> 
+
+```js
+const hello = "world"
+console.log(hello);
+```
