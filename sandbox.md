@@ -5,7 +5,7 @@
 <td colspan="2" style="text-align:center">title</td>
 </tr>
 <tr>
-<td colspan="2" style="text-align:center">image</td>
+<td colspan="2" style="text-align:center"><img src="https://raw.githubusercontent.com/DiscordiaWiki/wiki/master/uploads/nitro/nitrobadge.png" alt="nitro"></td>
 </tr>
 <tr>
 <td>Test:</td>
