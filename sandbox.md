@@ -35,5 +35,4 @@
 </tr>
 </table> 
 
-# bugtests
-(4.99$/mėnesiui, 4.99$/mėnesiui)
+(4.99$/mėnesiui, 49.99$/metams)
