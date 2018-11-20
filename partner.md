@@ -19,6 +19,7 @@ A Discord Partner is someone with a large following or server who applies and is
 </tr>
 </table> 
 
+
 # Features
 **Discord Partners receive the following VIP features:**
 * Vanity URL for their guild; (Custom Invite link)
