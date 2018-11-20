@@ -34,5 +34,3 @@
 <td>Membership in the Discord  <a href="https://discordia.me/partner">Partner</a> program</td>
 </tr>
 </table> 
-
-(4.99$/mėnesiui, 49.99$/metams)
