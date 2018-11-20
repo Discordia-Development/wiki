@@ -36,4 +36,4 @@
 </table> 
 
 # bugtests
-(4.99$/mėnesiui, d)
+(4.99$/mėnesiui, 4.99$/mėnesiui)
