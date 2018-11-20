@@ -31,6 +31,6 @@
 </tr>
 <tr>
 <td>Requirement:</td>
-<td>Membership in the Discord  <a href="https://discordapp.com/partner">Partner</a> program</td>
+<td>Membership in the Discord  <a href="https://discordia.me/partner">Partner</a> program</td>
 </tr>
 </table> 
