@@ -34,3 +34,6 @@
 <td>Membership in the Discord  <a href="https://discordia.me/partner">Partner</a> program</td>
 </tr>
 </table> 
+
+# bugtests
+$/
