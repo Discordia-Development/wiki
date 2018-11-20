@@ -8,15 +8,15 @@ Discord Nitro yra išperkama prenumerata su dviejomis pakopomis, priskiriant nem
 # Pakopos
 
 ## Discord Nitro Classic (Klasika)
-A Discord Nitro Classic subscription ($4.99/Month, $49.99/Year) gives users access to the following features:
+Discord Nitro Classic prenumerata (4.99$/mėnesiui, 49.99$/metams) suteikia naudotojui naudotis šiomis funkcijomis:
 
-* Animated, GIF avatar.
-* Ability to use animated emoji.
-* Ability to use custom emoji anywhere (if the User has the Use External Emojis permission in that server).
-* Max upload size changed from 8MB to 50MB.
-* 720p 60fps or 1080p 30fps screenshare.
-* Discord Nitro [badge](/badges) on profile.
-* Ability to change your [discriminator](/discriminator). (If your Nitro subscription ends, your discriminator will be reset to a random number.
+* GIF avataras.
+* Galimybė naudotis animuotais jaustukais.
+* Galimybė naudoti bet kokį jaustuką visur (jeigu Narys turi "Naudoti išorinius jaustukus" leidimą tame serveryje).	
+* Didžiausias failo įkėlimo dydis pasikeičia nuo 8MB iki 50MB.	
+* 720p 60fps arba 1080p 30fps ekrano dalyjimasis.
+* Discord Nitro [ženkliukas](/badges) profilyje.
+* Galimybė pakeisti savo [diskriminatorių](/discriminator). (Priminimas, jeigu tavo Nitro prenumerata pasibaigia, tavo diskriminatorius bus pakeistas į bet kokius skaičius)
 
 ### Early Supporter Badge
 
