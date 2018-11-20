@@ -1,6 +1,6 @@
 # Sandbox
 
-<table style="width:250px; border:1px solid black; float:left">
+<table style="width:250px; border:1px solid black; float:left; height:100px">
 <tr>
 <td colspan="2" style="background-color:#4F5D7F; text-align:center">Discord Nitro</td>
 </tr>
