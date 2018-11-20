@@ -2,7 +2,7 @@
 
 A Discord Partner is someone with a large following or server who applies and is accepted by Discord to receive VIP features for themselves and their guild.
 
-<table style="width:250px; border:1px solid black; float:left">
+<table style="width:250px; border:1px solid black; float:center">
 <tr>
 <td colspan="2" style="background-color:#4087ED; text-align:center">Discord Partner</td>
 </tr>
