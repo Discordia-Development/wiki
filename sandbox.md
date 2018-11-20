@@ -36,5 +36,4 @@
 </table> 
 
 # bugtests
-## Discord Nitro Classic (Klasika)
 (4.99$/mėnesiui, 49.99$/metams)
