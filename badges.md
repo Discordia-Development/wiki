@@ -36,7 +36,7 @@ Discord [HypeSquad](/hypesquad) Event Attendees have the HypeSquad Events badge 
 
 ![HypeSquadbalance](/uploads/badges/hypesquadbalance.png "HypeSquad Balance Badge")
 # Discord Bug Hunter
-This badge is obtained by earning it as a [Bug Hunter](/bug-hunters) or by [reporting security bugs to Discord](https://discordapp.com/security).
+This badge is obtained by earning it as a [Bug Hunter](/bug-hunters).
 
 ![Bughunterbadge](/uploads/badges/bughunterbadge.png "A Discord Bug Hunter Badge")
 # Discord Nitro
