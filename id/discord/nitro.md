@@ -1,6 +1,6 @@
 <!-- TITLE: Nitro -->
 <!-- SUBTITLE: Support Discord's Development -->
-​
+
 <table style="width:250px; border:1px solid black; float:center">
 <tr>
 <td colspan="2" style="background-color:#4F5D7F; text-align:center">Discord Nitro</td>
@@ -9,16 +9,16 @@
 <td colspan="2" style="text-align:center"><img src="https://cdn.discordapp.com/emojis/340386793075769345.png?v=1" alt="nitro"></td>
 </tr>
 <tr>
-<td>Permanent:</td>
-<td>No</td>
+<td>Layanan permanen:</td>
+<td>Tidak</td>
 </tr>
 <tr>
-<td>Requirement:</td>
-<td>Discord <a href="https://discordia.me/Nitro">Nitro</a> subscription.</td>
+<td>Kebutuhan:</td>
+<td>Berlangganan Discord <a href="https://discordia.me/Nitro">Nitro</a>.</td>
 </tr>
 </table> 
 ​
-Discord Nitro is a premium subscription service for Discord with two tiers, adding features and free access to games. Nitro was launched for testing in Australia on December 22nd, 2016 and globally released on January 23rd, 2017. On December 22nd, 2017, the ability to pay with PayPal was added. On October 10th, 2018, Discord Nitro was split up into two different tiers, Discord Nitro and Discord Nitro Classic.
+Discord Nitro adalah a premium subscription service for Discord with two tiers, adding features and free access to games. Nitro was launched for testing in Australia on December 22nd, 2016 and globally released on January 23rd, 2017. On December 22nd, 2017, the ability to pay with PayPal was added. On October 10th, 2018, Discord Nitro was split up into two different tiers, Discord Nitro and Discord Nitro Classic.
 ​
 # Tiers
 ​
