@@ -76,13 +76,9 @@ The Discord Wiki is not affiliated with Discord. We're just here to help Discord
 
 ## Special Thanks
 
->***Donators***
-
-* Dropbox#0001 - thediscord.wiki Domain
-
 >***Patrons***
 
 *A huge thank you to all our supporters on [Patreon](https://www.patreon.com/TheDiscordWiki)!*
 
-* DowDaw#1339
+* Wynran#1337
 * Saphir#0001
