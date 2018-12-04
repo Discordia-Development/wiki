@@ -3,6 +3,10 @@
 
 This is the changelog/release date for major features or significant changes. PTB and Canary might have received some features sooner than the date listed below.
 
+# 12/4/2018
+## Android
+* In-app notifications
+* Bug fixes
 # 11/16/2018
 ## Android
 * The Leave button in Group DMs is now more explicit
