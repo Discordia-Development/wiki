@@ -23,7 +23,29 @@ Tento odznak je vydáván zaměstnancům Discordu. Pokud někdo tvrdí, že je z
 Členové Discord [Hypesquad](/hypesquad) mají na svém profilu Hypesquad odznak. Jediná cesta, jak získat tento odznak je stát se členem Discord Hypesquad.
 
 ![Hypesquadbadge](/uploads/badges/newhypesquadbadge.png "Odznak člena Hypesquad")
+
+## HypeSquad Bravery
+
+![HypeSquadbravery](/uploads/badges/hypesquadbravery.png "Odznak HypeSquad Bravery")
+
+## HypeSquad Brilliance
+
+![HypeSquadbrilliance](/uploads/badges/hypesquadbrilliance.png "Odznak HypeSquad Brilliance")
+
+## HypeSquad Balance
+
+![HypeSquadbalance](/uploads/badges/hypesquadbalance.png "Odznak HypeSquad Balance")
+
+# Discord Bug Hunter
+Tento odznak se vydává všem [lovcům chyb](/bug-hunters).
+
+![Bughunterbadge](/uploads/badges/bughunterbadge.png "Odznak Discord Bug Hunter")
 # Discord Nitro
 Uživatelé, kteří si zakoupili [Discord Nitro](/nitro) mají na svém profilu Discord Nitro odznak. Pokud umístíte kurzor na odznak, zobrazí se, kdy si uživatel zakoupil Nitro. Pokud se uživatel odhlásí z tohoto programu, odznak zmizí.
 
 ![Nitrobadge](/uploads/badges/newnitrobadge.png "Odznak Discord Nitro")
+
+## Discord Nitro Early Supporter
+Tento limitovaný odznak obdrželi všichni uživatelé, kteří si do 10. října 2018 alespoň jednou zakoupili předplatné Discord Nitro. Tento odznak je stálý.
+
+![Nitroearlysupporterbadge](/uploads/badges/nitroearlysupporterbadge.png "Odznak Nitro Early Supporter")
