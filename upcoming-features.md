@@ -12,6 +12,7 @@ This is a list of features that will be occasionally updated with information ab
 |---------|---------|
 | Block Quotes | Planned |
 | Dyslexia Font | Planned |
+| GIF Picker | In Development |
 | Keyboard Navigation | In Development |
 | Permissions Preview Tool | Planned |
 | Overlay Home Bar | In Development |
