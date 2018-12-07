@@ -17,6 +17,7 @@ This is a list of features that will be occasionally updated with information ab
 | Permissions Preview Tool | Planned |
 | Overlay Home Bar | In Development |
 | Server Video Chat | Gradually Rolling Out |
+| Spoiler Tags | In Internal Testing |
 
 ## iOS
 | Feature | Status	|
