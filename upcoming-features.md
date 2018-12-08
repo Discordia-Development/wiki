@@ -25,6 +25,7 @@ This is a list of features that will be occasionally updated with information ab
 | 3D Touch Support | Planned |
 | Audit Log | Available on TestFlight |
 | In-App Notifications | Available on TestFlight |
+| Invite Phone Contacts | Available on TestFlight |
 | Invite Suggestions | Available on TestFlight |
 | Jump to Message | Planned |
 | Rich Push Notifications | Planned |
