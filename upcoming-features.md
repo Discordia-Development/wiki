@@ -23,17 +23,14 @@ This is a list of features that will be occasionally updated with information ab
 | Feature | Status	|
 |---------|---------|
 | 3D Touch Support | Planned |
-| Audit Log | Available on TestFlight |
-| In-App Notifications | Available on TestFlight |
-| Invite Phone Contacts | Available on TestFlight |
-| Invite Suggestions | Available on TestFlight |
+| Accept Game Gifts | In Development |
 | Jump to Message | Planned |
 | Rich Push Notifications | Planned |
-| Server Sorting | Available on TestFlight |
 
 ## Android
 | Feature | Status |
 |---------|--------|
+| Accept Game Gifts | Available on Android Alpha |
 | Compress Image Toggle | Planned |
 | Game Detection | Available on Android Alpha |
 | Manage Emojis | Planned |
