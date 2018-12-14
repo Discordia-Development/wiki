@@ -23,7 +23,7 @@ The Discord Wiki is not affiliated with Discord. We're just here to help Discord
 * Mikesky#0001 (Systems Administrator, maintains the backend of all of the services provided by the Wiki)
 * SleepaDru#7700 (Systems Administrator, maintains the backend of all of the services provided by the Wiki)
 * Harrison#9100
-* kwando aka 西木野真姫 ★★★★#1313
+* kwando aka 黒澤ルビィ ★★★★#1313
 * Tiemen#0001
 * cats#5485
 
@@ -37,18 +37,22 @@ The Discord Wiki is not affiliated with Discord. We're just here to help Discord
 
 * alcyneous#2803 - Indonesian
 * Anaís#4719 - Spanish
+* Cherno#9465 - Japanese
 * Comi#2319 - French
-* Cyon aka FOR3VER#2469 - Korean, Chinese
+* Cyon aka Fᴏʀᴇᴠᴇʀ#2469 - Korean, Chinese
 * D_EaN * STS#0105 - Hungarian
 * Daan#1337 - Dutch
 * Dann#4900 - Romanian
 * deframet#0001 - Italian
 * Disegual#4088 - Italian
+* Elebier#8347 - Spanish
 * erykol#8141 - Polish
 * GreenTeen#6366 - Lithuanian
 * Harfeur#3633 - French
 * Immotay#0001 - Brazilian-Portuguese
 * Ishidres#0001 - German
+* janik#1337 - Slovakian
+* jcuenin#7650 - French
 * Justman#0150 - Russian
 * Lireoy#4444 - Hungarian
 * Manfre#9262 - Italian
@@ -60,13 +64,16 @@ The Discord Wiki is not affiliated with Discord. We're just here to help Discord
 * RME#3050 - Dutch
 * Samtell#0001 - Korean
 * Saphir#0001 - French
+* SweetSofiMC#8821 - Spanish
 * 魏 Sync#9198 - Indonesian
+* Tarek#1337 - Swedish
 * TheMelvinNL#0001 - Dutch
 * Tim#6235 - German
+* Vanished#8776 - Bosnian
 * Voknehzyr#1338 - Russian
 * webhp#1337 - Pirate English
+* YuukiYuuks#5122 - Spanish
 * zabszk#5292 - Polish
-* Vanished#8776 - Bosnian
 
 > ***Bot Developers***
 
