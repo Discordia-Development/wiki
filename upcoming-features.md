@@ -14,9 +14,10 @@ This is a list of features that will be occasionally updated with information ab
 | Dyslexia Font | Planned |
 | GIF Picker | In Internal Testing |
 | Keyboard Navigation | In Development |
+| Mobile Presence Indicator | Available on Canary |
 | Permissions Preview Tool | Planned |
 | Overlay Home Bar | In Development |
-| Server Video Chat | Gradually Rolling Out |
+| Server Video Chat | Rolled out to 5% |
 | Spoiler Tags | In Internal Testing |
 | Test Microphone | In Internal Testing |
 
@@ -27,6 +28,7 @@ This is a list of features that will be occasionally updated with information ab
 | Accept Game Gifts | In Development |
 | Jump to Message | Planned |
 | Rich Push Notifications | Planned |
+| Spoiler Tags | In Development |
 
 ## Android
 | Feature | Status |
@@ -36,6 +38,7 @@ This is a list of features that will be occasionally updated with information ab
 | Game Detection | Available on Android Alpha |
 | Manage Emojis | Planned |
 | Screensharing | Planned |
+| Spoiler Tags | In Development |
 | Video Embeds | Planned |
 
 > Disclaimer: These are unreleased features and they might change before they are released to Canary/Android Alpha/TestFlight users. They might not be released at all, and ETAs are not available.
