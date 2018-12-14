@@ -66,7 +66,7 @@ The Discord Wiki is not affiliated with Discord. We're just here to help Discord
 * Voknehzyr#1338 - Russian
 * webhp#1337 - Pirate English
 * zabszk#5292 - Polish
-* Vanished#1111 - Bosnian
+* Vanished#8776 - Bosnian
 
 > ***Bot Developers***
 
