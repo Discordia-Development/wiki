@@ -22,6 +22,7 @@ If you want to close the Quick Switcher, click the escape key or click anywhere 
 > * for guilds/servers
 > # for text channels
 > @ for users
+> $ for games
 > ```
 
 Finally, any unread mentions, any unread channels in the current server and your last visited channel will display on the Quick Switcher!
