@@ -17,7 +17,7 @@ This is a list of features that will be occasionally updated with information ab
 | Mobile Presence Indicator | Available on Canary |
 | Permissions Preview Tool | Planned |
 | Overlay Home Bar | In Development |
-| Server Video Chat | Rolled out to 5% |
+| Server Video Chat | Rolled out to 5%; Planned |
 | Spoiler Tags | In Internal Testing |
 | Test Microphone | In Internal Testing |
 
