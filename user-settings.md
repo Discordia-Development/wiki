@@ -80,8 +80,11 @@ On the Keybinds tab, you may add keybinds for the following actions:
 
 To add a keybind, click the Add Keybind button. To edit a keybind, either click on the function drop down menu or click on the key selector to change the actual keybind. To delete a keybind, click on the trash icon next to the specific keybind. 
 
-## Games
-On the Games tab, you may choose if you want Discord to display the current game you are playing as your status. If this is toggled on and you are playing a game, it will say "Playing ... [game name]" under your name on the userlist. If no game is detected you can manually select it by clicking on 'Add It'. Find the game on the scroll menu and click it. Once it appears in the blurple box you may click on it to rename it to anything of your choice. Your manually added games will automatically display on this tab too. You may rename previously manually added games by clicking on their names. This feature is unavailable on the Browser and Mobile clients, but you can see other users playing statuses.
+## Game Activity
+On the Game Activity tab, you may choose if you want Discord to display the current game you are playing as your status. If this is toggled on and you are playing a game, it will say "Playing ... [game name]" under your name on the userlist. If no game is detected you can manually select it by clicking on 'Add It'. Find the game on the scroll menu and click it. Once it appears in the blurple box you may click on it to rename it to anything of your choice. Your manually added games will automatically display on this tab too. You may rename previously manually added games by clicking on their names. This feature is unavailable on the Browser and Mobile clients, but you can see other users playing statuses.
+
+## Game Library
+On the Game Library tab, you may enable or disable whether you want Discord to import your games into the Library tab on the Home screen. If you enable this function, you may start your detected games straight from Discord. You can enable or disable whether you want to Discord to make desktop and/or start menu shortcuts when you install games from the Discord Store. You can also change and add install locations for Discord Store games. After you add an install location, you may edit it by clicking on the Edit button, where you can to give it a custom name, and if you have multiple install locations, you may also choose the default one.
 
 ## Text & Images
 On the Text & Images tab, you may toggle the following options on or off:
