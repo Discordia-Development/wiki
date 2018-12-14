@@ -15,7 +15,7 @@ To access the main settings, click the cog icon on the bottom left of the applic
 Each option is divided into a section below.
 # Tabs
 ## Account
-On the Account tab, you may edit your avatar, username, email and/or password. If you have 2-factor-authentication enabled, you will need to enter a code before you may change your email or password. To claim a new account, you need to enter an email and password in this this tab. You may only change your username twice every hour. if you have Nitro, you can change your [discriminator](/discriminator).
+On the Account tab, you may edit your avatar, username, email and/or password. If you have 2-factor-authentication enabled, you will need to enter a code before you may change your email or password. To claim a new account, you need to enter an email and password in this this tab. You may only change your username twice every hour. if you have Nitro, you can change your [discriminator](/discord-tag).
 
 You can also Delete or Disable your account from this tab, which you can find more information about [here](https://support.discordapp.com/hc/en-us/articles/360004066391-How-Do-I-Disable-My-Account-).
 
@@ -65,7 +65,7 @@ Under the Advanced list, you may toggle the following options on or off:
 You also have the option to reset voice settings to default from this menu. 
 
 ## Overlay
-The overlay tab contains control features for the in-game overlay. Here you may set the keybind for activating the overlay menu, and choose between large or small display avatars, if you want to display usernames, and wether to permanently display user icons.
+The overlay tab contains control features for the in-game overlay. Here you may set the keybind for activating the overlay menu, and choose between large or small display avatars, if you want to display usernames, and whether to permanently display user icons.
 
 ## Notifications
 On the Notifications tab, you have the option to enable desktop notifications, the unread message badge and taskbar flashing, how long to wait before forwarding notifications to your mobile device, and enable text-to-speech and toggle sounds on and off for many different features (such as Push to Talk activation, incoming voice call, etc).
@@ -96,7 +96,7 @@ On the Text & Images tab, you may toggle the following options on or off:
 * Hear and use the text-to-speech command.
 
 ## Appearance
-On the Appearance tab, you may change between Dark Mode (default) and Light Mode for Discord by clicking on the respective icon. You may also switch between cozy (default) and compact mode. Scaling options are available for chat font, and the overall zoom level. You can turn on [Developer Mode](/developermode) and toggle Hardware Acceleration on & off. On Mobile, the "Sync across clients" option is available. When enabled, this will set the Theme setting on mobile across your other clients. The Hardware Acceleration option is not available on Browser or Mobile editions. 
+On the Appearance tab, you may change between Dark Mode (default) and Light Mode for Discord by clicking on the respective icon. You may also switch between cozy (default) and compact mode. Scaling options are available for chat font, and the overall zoom level. You can turn on [Developer Mode](/developer-mode) and toggle Hardware Acceleration on & off. On Mobile, the "Sync across clients" option is available. When enabled, this will set the Theme setting on mobile across your other clients. The Hardware Acceleration option is not available on Browser or Mobile editions. 
 
 ## Streamer Mode
 On the Streamer Mode tab, you may enable or disable Streamer Mode and toggle whether Discord may automatically turn on streamer mode when it detects OBS or XSplit running on your computer. 
@@ -113,7 +113,7 @@ On the Language tab, you may change the language of your Discord client by click
 ## Windows Settings
 Windows only, for obvious reasons.
 
-Here you can choose to open Discord on startup, wether it should be minimised on startup, and the behaviour of the Close button when it is clicked.
+Here you can choose to open Discord on startup, whether it should be minimised on startup, and the behaviour of the Close button when it is clicked.
 
 -----
 ## Changelog
