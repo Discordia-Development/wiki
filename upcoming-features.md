@@ -12,14 +12,14 @@ This is a list of features that will be occasionally updated with information ab
 |---------|---------|
 | Block Quotes | Planned |
 | Dyslexia Font | Planned |
-| GIF Picker | In Internal Testing |
+| GIF Picker | Available on Canary |
 | Keyboard Navigation | In Development |
 | Mobile Presence Indicator | Available on Canary |
 | Permissions Preview Tool | Planned |
 | Overlay Home Bar | In Development |
 | Server Video Chat | Rolled out to 5%; Planned |
 | Spoiler Tags | In Testing |
-| Test Microphone | In Internal Testing |
+| Test Microphone | Available on Canary |
 
 ## iOS
 | Feature | Status	|
