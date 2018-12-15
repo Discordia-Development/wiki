@@ -11,32 +11,33 @@ Voici la liste des fonctionnalités qui seront régulièrement mises à jour ave
 | Fonctionnalité |	Etat |
 |---------|---------|
 | Bloc de citation | Prévu |
-| Onglet jeux | En développement |
-| Invitations à des groupe privés | Disponible sur Canary |
+| Police pour dyslexiques | Prévu |
+| Sélecteur de GIF | Disponible sur Canary |
+| Navigation par clavier | En développement |
+| Indicateur de présence mobile | Disponible sur Canary |
 | Outil de prévisualisation des permissions | Prévu |
-| Orateur prioritaire | En développement |
+| Barre d'accueil | En développement |
+| Chat vidéo sur serveurs | Déployé à 5 % ; Prévu |
+| Étiquettes de spoiler | En test |
+| Test microphone | Disponible sur Canary |
 
 ## iOS
 | Fonctionnalité | Etat	|
 |---------|---------|
 | Support du 3D Touch | Prévu |
-| Journal d’audit | Prévu |
+| Accepter les cadeaux de jeux | En développement |
 | Sauter à un message | Prévu |
-| Clavier personnalisé | Prévu |
 | Notifications sur mobile enrichies | Prévu |
-| Compatibilité de sécurité | Prévu |
-| Tri des serveurs | Prévu |
-| Paramètres utilisateur | Prévu |
+| Étiquettes de spoiler | En test |
 
 ## Android
 | Fonctionnalité | Etat |
 |---------|--------|
-| Journal d’audit | Prévu |
-| Déploiement automatique de l’Alpha | En développement |
+| Accepter les cadeaux de jeux | Disponible sur Android Alpha |
 | Activer/désactiver la compression des images | Prévu |
-| Réponse rapide | Disponible sur la bêta Android |
-| Partage d’écran | En développement |
-| Onglet Sécurité / Activer/désactiver la double authentification | Prévu |
+| Détection des jeux | Disponible sur Android Alpha |
+| Gérer les émoticônes | Prévu |
+| Partage d’écran | Prévu |
 | Vidéos intégrées | Prévu |
 
 > Avertissement : ces fonctionnalités ne sont pas encore déployées et risquent de subir des changements à leur sortie pour les utilisateurs de Canary, Android Alpha et TestFlight. Il se peut qu'elles ne soient jamais déployées, et aucun délai avant déploiement n’est disponible.
