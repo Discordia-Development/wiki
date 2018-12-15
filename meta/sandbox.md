@@ -41,15 +41,3 @@ console.log(hello);
 ```
 
 [HypeSquad Page User Settings](discord://https://discordapp.com/settings/hypesquad-online)
-
-<div class="text">
-test
-</div>
-
-<style> .text {
-  padding: 50px 150px;
-  background-position: 5px 50%;
-  background-size: 100px 100px;
-  background-repeat: no-repeat;
-  background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/F_icon.svg/267px-F_icon.svg.png");
-} </style>
