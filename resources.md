@@ -11,6 +11,7 @@
 * [Discord Support Page](https://support.discordapp.com/hc/en-us)
 * [Discord Privacy Policy](https://discordapp.com/privacy)
 * [Discord Feedback](https://support.discordapp.com/hc/en-us/community/topics)
+* [Discord Blog](https://blog.discordapp.com)
 
 ## Emails
 * [Discord Support](mailto:support@discordapp.com) - General Discord questions (such as technical issues)
