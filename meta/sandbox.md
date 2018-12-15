@@ -39,3 +39,5 @@
 const hello = "world"
 console.log(hello);
 ```
+
+[HypeSquad Page User Settings](discord://https://discordapp.com/settings/hypesquad-online)
