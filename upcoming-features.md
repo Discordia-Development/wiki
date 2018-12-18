@@ -15,6 +15,7 @@ This is a list of features that will be occasionally updated with information ab
 | GIF Picker | Available on Canary |
 | Keyboard Navigation | In Development |
 | Mobile Presence Indicator | Available on Canary |
+| Nitro Gifting | In Development |
 | Permissions Preview Tool | Planned |
 | Overlay Home Bar | In Development |
 | Server Video Chat | Rolled out to 5%; Planned |
@@ -26,6 +27,7 @@ This is a list of features that will be occasionally updated with information ab
 |---------|---------|
 | 3D Touch Support | Planned |
 | Accept Game Gifts | In Development |
+| Accept Nitro Gifts | Available on TestFlight |
 | Jump to Message | Planned |
 | Rich Push Notifications | Planned |
 | Spoiler Tags | In Development |
@@ -33,7 +35,8 @@ This is a list of features that will be occasionally updated with information ab
 ## Android
 | Feature | Status |
 |---------|--------|
-| Accept Game Gifts | Available on Android Alpha |
+| Accept Game Gifts | Available on Android Beta |
+| Accept Nitro Gifts | Available on Android Beta |
 | Compress Image Toggle | Planned |
 | Game Detection | Available on Android Alpha |
 | Manage Emojis | Planned |
