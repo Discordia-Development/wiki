@@ -5,7 +5,7 @@ This is the changelog/release date for major features or significant changes. PT
 
 # 12/19/2018
 ## Android
-* Support for accepting gifts
+* Added support for accepting gifts
 # 12/10/2018
 ## iOS
 * Audit Logs
