@@ -34,8 +34,6 @@ This is a list of features that will be occasionally updated with information ab
 ## Android
 | Feature | Status |
 |---------|--------|
-| Accept Game Gifts | Available on Android Beta |
-| Accept Nitro Gifts | Available on Android Beta |
 | Compress Image Toggle | Planned |
 | Game Detection | Available on Android Alpha |
 | Manage Emojis | Planned |
