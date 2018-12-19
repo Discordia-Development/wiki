@@ -32,6 +32,7 @@ The Discord Wiki is not affiliated with Discord. We're just here to help Discord
 * Azrael#6867 - Community Lead
 * Ghostwolf#0001 - Translation Lead
 * OminousCry#2331 - Translation Lead
+* OGNovuh#0003 - WikiBot Development Lead
 
 > ***Wiki Contributors***
 
