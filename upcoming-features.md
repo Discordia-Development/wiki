@@ -15,7 +15,6 @@ This is a list of features that will be occasionally updated with information ab
 | GIF Picker | Available on Canary |
 | Keyboard Navigation | In Development |
 | Mobile Presence Indicator | Available on Canary |
-| Nitro Gifting | In Development |
 | Permissions Preview Tool | Planned |
 | Overlay Home Bar | In Development |
 | Server Video Chat | Rolled out to 5%; Planned |
@@ -26,7 +25,7 @@ This is a list of features that will be occasionally updated with information ab
 | Feature | Status	|
 |---------|---------|
 | 3D Touch Support | Planned |
-| Accept Game Gifts | In Development |
+| Accept Game Gifts | Available on TestFlight |
 | Accept Nitro Gifts | Available on TestFlight |
 | Jump to Message | Planned |
 | Rich Push Notifications | Planned |
