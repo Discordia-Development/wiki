@@ -1,5 +1,5 @@
 <!-- TITLE: Changelog -->
-<!-- SUBTITLE: Discord Changelog updated as of 12/19/2018 -->
+<!-- SUBTITLE: Discord Changelog updated as of 12/20/2018 -->
 
 This is the changelog/release date for major features or significant changes. PTB and Canary might have received some features sooner than the date listed below.
 
