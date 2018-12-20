@@ -3,6 +3,23 @@
 
 This is the changelog/release date for major features or significant changes. PTB and Canary might have received some features sooner than the date listed below.
 
+# 12/20/2018
+* Mic testing mode
+* Ability to gift [Nitro](/nitro) and games from the store
+* Improvements to image resizing and loading
+* Interact with notifications and join friends' parties direct from the [Overlay](/overlay) 
+* Return of region selection for group DMs
+* New user onboarding process
+* Store performance overhaul
+* Early access games available on the store
+
+## Mobile
+* Audit logs
+* In-app message notifications
+* Welcome messages in servers
+
+### iOS
+* Emoji picker
 # 12/19/2018
 ## Android
 * Added support for accepting gifts
