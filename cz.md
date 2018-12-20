@@ -26,11 +26,13 @@ Vítejte na naší stránce! Jsme Discord Wiki! Jsme hrdí na to, že jsme jedn�
 * Azrael#6867 - Vedoucí komunity
 * Ghostwolf#0001 - Vedoucí překladu
 * OminousCry#2331 - Vedoucí překladu
+* OGNovuh#0003 - Vedoucí vývoje WikiBota
 
 > ***Přispěvatelé na Wiki***
 
 * alcyneous#2803 - Indonéština
 * Anaís#4719 - Španělština
+* Cherno#9465 - Japonština
 * Comi#2319 - Francouzština
 * Cyon aka FOR3VER#2469 - Korejština, čínština
 * D_EaN * STS#0105 - Maďarština
@@ -38,11 +40,14 @@ Vítejte na naší stránce! Jsme Discord Wiki! Jsme hrdí na to, že jsme jedn�
 * Dann#4900 - Rumunština
 * deframet#0707 - Italština
 * Disegual#4088 - Italština
+* Elebier#8347 - Španělština
 * erykol#8141 - Polština
 * GreenTeen#6366 - Litevština
 * Harfeur#3633 - Francouzština
 * Immotay#0001 - Brazilská portugalština
 * Ishidres#0001 - Němčina
+* janik#1337 - Slovenština
+* jcuenin#7650 - Francouzština
 * Justman#0150 - Ruština
 * Lireoy#4444 - Maďarština
 * Manfre#9262 - Italština
@@ -54,11 +59,15 @@ Vítejte na naší stránce! Jsme Discord Wiki! Jsme hrdí na to, že jsme jedn�
 * RME#3050 - Holandština
 * Samtell#0001 - Korejština
 * Saphir#0001 - Francouzština
+* SweetSofiMC#8821 - Španělština
 * 魏 Sync#9198 - Indonéština
+* Tarek#1337 - Švédština
 * TheMelvinNL#0001 - Holandština
 * Tim#6235 - Němčina
+* Vanished#8776 - Bosenština
 * Voknehzyr#1338 - Ruština
 * webhp#1337 - Pirátská angličtina
+* YuukiYuuks#5122 - Španělština
 * zabszk#5292 - Polština
 
 > ***Vývojáři bota***
@@ -69,13 +78,9 @@ Vítejte na naší stránce! Jsme Discord Wiki! Jsme hrdí na to, že jsme jedn�
 
 ## Speciální poděkování
 
->***Přispěvatelé***
-
-* Dropbox#0001 - Doména thediscord.wiki
-
 > ***Patroni***
 
 *Velké díky patří všem našim podporovatelům na [Patreon](https://www.patreon.com/TheDiscordWiki)!*
 
-* DowDaw#1339
+* Wynran#1337
 * Saphir#0001
