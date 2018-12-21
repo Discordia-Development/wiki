@@ -8,7 +8,7 @@ The Style Guide is for maintaining consistency across The Discord Wiki. More in-
 * Do not edit articles only to fix the style.
 * The main style should be relatively relaxed, but any inside or unnecessary jokes should not be added.
 * Images should be directly uploaded instead of using imgur or other file upload services.
-* Titles and subtitles must always be provided.
+* Titles must be provided. Subtitles are optional but helpful.
 * Articles should not be made on general, information lacking subjects such as specific permissions, or unreleased features.
 * Sources should always come from Discord, and not third-party leaks.
 * The Discord Wiki should always be formatted as `The Discord Wiki`, with The capitalized.
