@@ -34,14 +34,14 @@ Each tier includes the same benefits as the previous ones.
 
 ## Online Tier
 * Be a part of either Bravery, Brilliance, or Balance houses.
-* Respective HypeSquad house [badge](/badges) for your Discord profile.
+* Respective HypeSquad house [badge](/badges#hype-squad-bravery) for your Discord profile.
 * HypeSquad email updates.
 * Competitions and merch giveaways.
 * House challenges.
 
 ## Event Attendee Tier
 * Access to an exclusive HypeSquad Events server.
-* HypeSquad Events badge.
+* HypeSquad Events [badge](/badges#discord-hype-squad).
 * HypeSquad T-shirt, stickers and pins (link recieved in acceptance email).
 * Meet and hang out with Discord staff at events.
 
