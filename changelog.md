@@ -14,14 +14,6 @@ This is the changelog/release date for major features or significant changes. PT
 * Early access games available on the store
 * Audio device detection
 * Game store embeds
-
-## Mobile
-* Audit logs
-* In-app message notifications
-* Welcome messages in servers
-
-### iOS
-* Emoji picker
 # 12/19/2018
 ## Android
 * Added support for accepting gifts
