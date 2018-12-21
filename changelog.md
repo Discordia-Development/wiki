@@ -12,6 +12,8 @@ This is the changelog/release date for major features or significant changes. PT
 * New user onboarding process
 * Store performance overhaul
 * Early access games available on the store
+* Audio device detection
+* Game store embeds
 
 ## Mobile
 * Audit logs
