@@ -28,6 +28,7 @@ This is a list of features that will be occasionally updated with information ab
 | Accept Game Gifts | Available on TestFlight |
 | Accept Nitro Gifts | Available on TestFlight |
 | Jump to Message | Planned |
+| Manage Emojis | Planned |
 | Rich Push Notifications | Planned |
 | Spoiler Tags | In Development |
 
@@ -35,7 +36,7 @@ This is a list of features that will be occasionally updated with information ab
 | Feature | Status |
 |---------|--------|
 | Compress Image Toggle | Planned |
-| Game Detection | Available on Android Alpha |
+| Game Detection | In Development |
 | Manage Emojis | Planned |
 | Screensharing | Planned |
 | Spoiler Tags | In Development |
