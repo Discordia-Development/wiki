@@ -16,6 +16,7 @@ Th' Discord Wiki be nah affiliated wit' Discord. We be just here t' help Discord
 ### ***Discord, th' Discord Ghost (Clyde™), n' Discordapp (Herein DISCORD) be th' intellectual n' legal property o' Discord Inc. These Services, as listed in th' [Terms of Service](/terms) be nah affiliated wit' Discord Inc or any subsidiaries herein. The Discord Wiki does nah claim t' own any o' DISCORD's intellectual property, please no Cease and Desist :^)***
 
 ## Wiki Crew
+
 > ***Wiki Administrators***
 
 *Responsible fer maintaining Th' Discord Wiki n' its support ship.*
@@ -31,23 +32,28 @@ Th' Discord Wiki be nah affiliated wit' Discord. We be just here t' help Discord
 * Azrael#6867 - Community Lead
 * Ghostwolf#0001 - Translation Lead
 * OminousCry#2331 - Translation Lead
+* OGNovuh#0003 - WikiBot Development Lead
 
 > ***Wiki Contributors***
 
 * alcyneous#2803 - Indonesian
 * Anaís#4719 - Spanish
+* Cherno#9465 - Japanese
 * Comi#2319 - French
-* Cyon aka FOR3VER#2469 - Korean, Chinese
+* Cyon aka Fᴏʀᴇᴠᴇʀ#2469 - Korean, Chinese
 * D_EaN * STS#0105 - Hungarian
 * Daan#1337 - Dutch
 * Dann#4900 - Romanian
 * deframet#0001 - Italian
 * Disegual#4088 - Italian
+* Elebier#8347 - Spanish
 * erykol#8141 - Polish
 * GreenTeen#6366 - Lithuanian
 * Harfeur#3633 - French
 * Immotay#0001 - Brazilian-Portuguese
 * Ishidres#0001 - German
+* janik#1337 - Slovakian
+* jcuenin#7650 - French
 * Justman#0150 - Russian
 * Lireoy#4444 - Hungarian
 * Manfre#9262 - Italian
@@ -59,11 +65,15 @@ Th' Discord Wiki be nah affiliated wit' Discord. We be just here t' help Discord
 * RME#3050 - Dutch
 * Samtell#0001 - Korean
 * Saphir#0001 - French
+* SweetSofiMC#8821 - Spanish
 * 魏 Sync#9198 - Indonesian
+* Tarek#1337 - Swedish
 * TheMelvinNL#0001 - Dutch
 * Tim#6235 - German
+* Vanished#8776 - Bosnian
 * Voknehzyr#1338 - Russian
 * webhp#1337 - Pirate English
+* YuukiYuuks#5122 - Spanish
 * zabszk#5292 - Polish
 
 > ***Bot Developers***
@@ -73,10 +83,6 @@ Th' Discord Wiki be nah affiliated wit' Discord. We be just here t' help Discord
 * Tiemen#0001
 
 ## Special Thanks
-
->***Donators***
-
-* Dropbox#0001 - thediscord.wiki Domain
 
 > ***Patrons***
 
