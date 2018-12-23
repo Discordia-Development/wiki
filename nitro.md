@@ -35,7 +35,7 @@ A Discord Nitro Classic subscription ($4.99/Month, $49.99/Year) gives users acce
 
 ### Early Supporter Badge
 
-Users who bought Nitro anytime before October 10th, 2018, recieved the Early Supporter badge on their profile. This badge is permanent and does not go away even if your Nitro subscription ends.
+Users who bought Nitro anytime before October 10th, 2018, received the Early Supporter badge on their profile. This badge is permanent and does not go away even if your Nitro subscription ends.
 
 ## Discord Nitro 
 The regular Discord Nitro subscription ($9.99/Month, $99.99/Year) gives users access to the normal Discord Nitro Classic features, but also includes access to Nitro games on the store. If your Nitro subscription ends, your access to the games will also end.
