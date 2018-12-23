@@ -1,5 +1,5 @@
 <!-- TITLE: Channel Settings -->
-<!-- SUBTITLE: Description of channel settings. -->
+<!-- SUBTITLE: Description of channel settings -->
 
 # Channel Settings
 Channel settings are configurations specific to channels.
