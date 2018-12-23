@@ -24,8 +24,6 @@ This is a list of features that will be occasionally updated with information ab
 | Feature | Status	|
 |---------|---------|
 | 3D Touch Support | Planned |
-| Accept Game Gifts | Available on TestFlight |
-| Accept Nitro Gifts | Available on TestFlight |
 | Jump to Message | Planned |
 | Manage Emojis | Planned |
 | Rich Push Notifications | Planned |
