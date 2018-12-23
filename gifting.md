@@ -19,4 +19,4 @@ Nitro gifting is done through the Nitro section of User Settings. Unlike the gam
  
 ### Snowgivings Nitro Gift
 
-Gifting was introduced with a Nitro gift given to all HypeSquad members that joined before December 18th, 2018;  these gifts are unable to be self-redeemed and have to be shared to other users. These were given as an end to the HypeSquad Snowgivings event.
+Gifting was introduced with a Nitro gift given to all HypeSquad members that joined before December 18th, 2018; these gifts are unable to be self-redeemed and have to be shared to other users. These were given as an end to the HypeSquad Snowgivings event.
