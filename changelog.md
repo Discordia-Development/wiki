@@ -32,7 +32,7 @@ This is the changelog/release date for major features or significant changes. PT
 * In-app connection status notifications
 * Option to disable animated emojis
 * Added welcome messages when you're setting up your server
-* Fixed crash that occured while editing permissions
+* Fixed crash that occurred while editing permissions
 * Fixed voice over accessibility
 # 12/4/2018
 ## Android
@@ -146,7 +146,7 @@ This is the changelog/release date for major features or significant changes. PT
 * Group DM invites will embed in chat with a new look
 * The sign in screen will now show if you were invited through a Group DM
 * Message bar has a new look 
-* The typing indicator will no longerpush the chat bar up
+* The typing indicator will no longer push the chat bar up
 * Autocomplete went through some changes:
 	* Autocomplete will leave instead of sticking around on screen sometimes
 	* Autocomplete is now bigger so it’s easier to tap on
@@ -192,8 +192,8 @@ This is the changelog/release date for major features or significant changes. PT
 
 # 5/14/2018
 * Offline members no longer hidden in smaller guilds
-* Data bandwith reduction
-* Battery consumption rediction
+* Data bandwidth reduction
+* Battery consumption reduction
 * Increased max server capacity
 * Xbox connection added (Xbox insiders only)
 * Native audio file player
@@ -222,7 +222,7 @@ This is the changelog/release date for major features or significant changes. PT
 * @someone ping, randomly selects someone in the server
 * Discord crashes at random
 * Typing 'owo' while in a voice channel causes Discord to let out a cry of distress
-* @supereveryone ping for when there's something urgent to say, bypassess all permission settings
+* @supereveryone ping for when there's something urgent to say, bypasses all permission settings
 * Removed memes
 * Removed the Wumpus
 * Discord [Nitro](/nitro) is now 'Discord Stop': drops calls, messages, and reduces file upload by half
