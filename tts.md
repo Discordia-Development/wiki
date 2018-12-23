@@ -1,6 +1,6 @@
 <!-- TITLE: Text to Speech -->
 
-Text to Speech (Short TTS) lets you broadcast a message to people in a channel. To do this, run the command `/tts <MESSAGE>` in the channel you want it to broadcast the message to. This always uses the system TTS engine, therefor sounds different across devices.
+Text to Speech (Short TTS) lets you broadcast a message to people in a channel. To do this, run the command `/tts <MESSAGE>` in the channel you want it to broadcast the message to. This always uses the system TTS engine, therefore sounds different across devices.
 
 # Settings
 You can select to receive TTS notifications and which ones to receive in your User Settings under Notifications > Text-To-Speech Notifications. There's the possibility to:
