@@ -1,8 +1,14 @@
 <!-- TITLE: Changelog -->
-<!-- SUBTITLE: Discord Changelog updated as of 12/20/2018 -->
+<!-- SUBTITLE: Discord Changelog updated as of 12/23/2018 -->
 
 This is the changelog/release date for major features or significant changes. PTB and Canary might have received some features sooner than the date listed below.
 
+# 12/23/2018
+## iOS
+* Added better channel welcome messages for new servers
+* Refined contact invites UI to make it sparkle and shine
+* Added an indicator to let you know if Discord is having connectivity problems
+* Added support for accepting gifts
 # 12/20/2018
 * Mic testing mode
 * Ability to gift [Nitro](/nitro) and games from the store
