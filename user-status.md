@@ -1,5 +1,5 @@
 <!-- TITLE: User Status -->
-<!-- SUBTITLE: Quickly switch notifications on or off at the press of a button. -->
+<!-- SUBTITLE: Quickly switch notifications on or off at the press of a button -->
 
 The user status in Discord consists of four settings to serve as quickly changeable notification settings. It was inspired by the status option in many other chat and VoIP programs. The status can be changed by clicking on your profile picture in the left drawer in the desktop or mobile app.
 
