@@ -1,7 +1,7 @@
 <!-- TITLE: Changelog -->
 <!-- SUBTITLE: Discord Changelog updated as of 12/23/2018 -->
 
-This is the changelog/release date for major features or significant changes. PTB and Canary might have received some features sooner than the date listed below.
+This is the changelog/release date for major features or significant changes. PTB and Canary might have received some features sooner than the date listed below
 
 # 12/23/2018
 ## iOS
@@ -85,7 +85,7 @@ This is the changelog/release date for major features or significant changes. PT
 
 # 8/17/2018
 ## Android
-* Many design updates, UI improvements and bug fixes.
+* Many design updates, UI improvements and bug fixes
 # 8/29/2018
 ## iOS
 * Nearby Friends feature
@@ -162,7 +162,7 @@ This is the changelog/release date for major features or significant changes. PT
 
 # 6/19/2018
 ## Android
-* Unread and mention button in channels list. Does not show if you have unreads visible.
+* Unread and mention button in channels list. Does not show if you have unreads visible
 * Add friends or join a guild shortcuts if you find no results in Quickswitcher
 * Improved login and registration screen error handling and messaging
 * Behind the Scenes improvements and fixes
