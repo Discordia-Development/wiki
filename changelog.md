@@ -1,8 +1,11 @@
 <!-- TITLE: Changelog -->
-<!-- SUBTITLE: Discord Changelog updated as of 12/23/2018 -->
+<!-- SUBTITLE: Discord Changelog updated as of 1/3/2019 -->
 
 This is the changelog/release date for major features or significant changes. PTB and Canary might have received some features sooner than the date listed below
 
+# 1/3/2019
+* Added Gift button to the chat bar
+* GIF Picker
 # 12/23/2018
 ## iOS
 * Added better channel welcome messages for new servers
