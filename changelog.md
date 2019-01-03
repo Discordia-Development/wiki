@@ -6,6 +6,9 @@ This is the changelog/release date for major features or significant changes. PT
 # 1/3/2019
 * Added Gift button to the chat bar
 * GIF Picker
+
+## Android
+* Fixed a bug where the gift embed told you that you could not accept your own Nitro gift, even if you purchased it
 # 12/23/2018
 ## iOS
 * Added better channel welcome messages for new servers
