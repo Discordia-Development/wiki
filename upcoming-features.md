@@ -25,7 +25,7 @@ This is a list of features that will be occasionally updated with information ab
 |---------|---------|
 | 3D Touch Support | Planned |
 | Jump to Message | Planned |
-| Manage Emojis | Planned |
+| Manage Emojis | Available on TestFlight |
 | Rich Push Notifications | Planned |
 | Spoiler Tags | In Development |
 
@@ -34,9 +34,10 @@ This is a list of features that will be occasionally updated with information ab
 |---------|--------|
 | Compress Image Toggle | Planned |
 | Game Detection | In Development |
-| Manage Emojis | Planned |
+| Manage Emojis | In Development |
 | Screensharing | Planned |
 | Spoiler Tags | In Development |
+| Spotify Integration | Available on Android Alpha |
 | Video Embeds | Planned |
 
 > Disclaimer: These are unreleased features and they might change before they are released to Canary/Android Alpha/TestFlight users. They might not be released at all, and ETAs are not available.
