@@ -8,7 +8,7 @@ Unlike [PTB](/ptb) or [Stable](/stable), Canary's icon is orange instead of blur
 * [macOS Canary](https://discordapp.com/api/download/canary?platform=osx)
 * [Windows Canary](https://discordapp.com/api/download/canary?platform=win)
 * [Linux deb Canary](https://discordapp.com/api/download/canary?platform=linux&format=deb)
-* [Linux tar Canary](https://discordapp.com/api/download/canary?platform=linux&format=tar.gz)
+* [Linux tar.gz Canary](https://discordapp.com/api/download/canary?platform=linux&format=tar.gz)
 ### API Notes
 You can find update notes on Discord Canary specific to each version at the links below.
 * [macOS](https://discordapp.com/api/canary/updates?platform=osx)
