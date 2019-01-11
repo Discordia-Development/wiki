@@ -1,11 +1,12 @@
 <!-- TITLE: Changelog -->
-<!-- SUBTITLE: Discord Changelog updated as of 1/3/2019 -->
+<!-- SUBTITLE: Discord Changelog updated as of 1/11/2019 -->
 
 This is the changelog/release date for major features or significant changes. PTB and Canary might have received some features sooner than the date listed below
 
+# 1/10/2019
+* GIF Picker
 # 1/3/2019
 * Added Gift button to the chat bar
-* GIF Picker
 
 ## Android
 * Fixed a bug where the gift embed told you that you could not accept your own Nitro gift, even if you purchased it
