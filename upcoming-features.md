@@ -35,7 +35,7 @@ This is a list of features that will be occasionally updated with information ab
 | Game Detection | In Development |
 | Manage Emojis | In Development |
 | Screensharing | Planned |
-| Spoiler Tags | In Development |
+| Spoiler Tags | Available on Android Alpha |
 | Spotify Integration | Available on Android Alpha |
 | Video Embeds | Planned |
 
