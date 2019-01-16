@@ -1,8 +1,10 @@
 <!-- TITLE: Changelog -->
-<!-- SUBTITLE: Discord Changelog updated as of 1/11/2019 -->
+<!-- SUBTITLE: Discord Changelog updated as of 1/16/2019 -->
 
 This is the changelog/release date for major features or significant changes. PTB and Canary might have received some features sooner than the date listed below
 
+# 1/16/2019
+* Mobile presence indicators
 # 1/10/2019
 * GIF Picker
 # 1/3/2019
