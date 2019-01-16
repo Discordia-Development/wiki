@@ -13,7 +13,6 @@ This is a list of features that will be occasionally updated with information ab
 | Block Quotes | Planned |
 | Dyslexia Font | Planned |
 | Keyboard Navigation | In Development |
-| Mobile Presence Indicator | Gradually Rolling Out |
 | Permissions Preview Tool | Planned |
 | Overlay Home Bar | In Development |
 | Server Video Chat | Rolled out to 5%; Planned |
