@@ -13,8 +13,8 @@ This is a list of features that will be occasionally updated with information ab
 | Block Quotes | Planned |
 | Dyslexia Font | Planned |
 | Keyboard Navigation | In Development |
-| Permissions Preview Tool | Planned |
 | Overlay Home Bar | In Development |
+| Permissions Preview Tool | Planned |
 | Server Video Chat | Rolled out to 5%; Planned |
 | Spoiler Tags | In Testing |
 
@@ -24,8 +24,9 @@ This is a list of features that will be occasionally updated with information ab
 | 3D Touch Support | Planned |
 | Jump to Message | Planned |
 | Manage Emojis | Available on TestFlight |
+| Nitro Purchasing | Planned |
 | Rich Push Notifications | Planned |
-| Spoiler Tags | In Development |
+| Spoiler Tags | Available on TestFlight |
 
 ## Android
 | Feature | Status |
@@ -33,6 +34,7 @@ This is a list of features that will be occasionally updated with information ab
 | Compress Image Toggle | Planned |
 | Game Detection | In Development |
 | Manage Emojis | In Development |
+| Nitro Purchasing | Planned |
 | Screensharing | Planned |
 | Spoiler Tags | Available on Android Alpha |
 | Spotify Integration | Available on Android Alpha |
