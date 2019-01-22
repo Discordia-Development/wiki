@@ -23,7 +23,6 @@ This is a list of features that will be occasionally updated with information ab
 |---------|---------|
 | 3D Touch Support | Planned |
 | Jump to Message | Planned |
-| Manage Emojis | Available on TestFlight |
 | Nitro Purchasing | Planned |
 | Rich Push Notifications | Planned |
 | Spoiler Tags | Available on TestFlight |
