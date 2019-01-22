@@ -1,8 +1,16 @@
 <!-- TITLE: Changelog -->
-<!-- SUBTITLE: Discord Changelog updated as of 1/16/2019 -->
+<!-- SUBTITLE: Discord Changelog updated as of 1/22/2019 -->
 
 This is the changelog/release date for major features or significant changes. PTB and Canary might have received some features sooner than the date listed below
 
+# 1/22/2019
+## iOS
+* You can now add, delete and rename emojis
+* Added ability to upload a GIF profile picture if you have Nitro
+* You can now crop server icons and profile pictures directly through the app
+* Cleaned up server invite embeds
+* Fixed infinite captcha bug upon registration
+* Fixed unexpected auto correction when autocomplete was used
 # 1/16/2019
 * Mobile presence indicators
 # 1/10/2019
