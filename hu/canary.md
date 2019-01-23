@@ -18,4 +18,4 @@ Megtalálhatod a Discord Canaryval kapcsolatos frissítési naplókat minden ver
 Androidnak és iOS-nek egyedülálló béta tesztelő programjuk van. Ha csatlakoznál a béta programokba, akkor csatlakozz a [Discord Testers](http://discord.gg/discord-testers) és olvasd el a gyakran ismételt kérdéseket.
 
 # Web Canary
-Létezik webes verziója is a Canarynek, amit elérhetsz, ha felmész a https://canary.discordapp.com oldalra.
+Létezik webes verziója is a Canarynek, amit a https://canary.discordapp.com oldal meglátogatásával elérhetsz.
