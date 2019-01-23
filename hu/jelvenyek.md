@@ -20,7 +20,7 @@ A Discord [Partnereknek](/hu/partner) egy partner jelvény van a profiljukon. Cs
 
 ![Partner jelvény](/uploads/badges/newpartnerbadge.png "Egy Discord Partner jelvény")
 # Discord HypeSquad
-Discord [HypeSquad](hu/hypesquad) Esemény látogatóknak van Esemény látogató jelvény a profiljukon. Ezt a jelvényt csak akkor tudod megszerzeni, ha Discord HypeSquad Esemény látogató leszel.
+Discord [HypeSquad](/hypesquad) Esemény látogatóknak van Esemény látogató jelvény a profiljukon. Ezt a jelvényt csak akkor tudod megszerzeni, ha Discord HypeSquad Esemény látogató leszel.
 
 ![HypeSquad jelvény](/uploads/badges/newhypesquadbadge.png "Egy HypeSquad tag jelvénye")
 
