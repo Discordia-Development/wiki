@@ -31,7 +31,7 @@ This is a list of features that will be occasionally updated with information ab
 | Feature | Status |
 |---------|--------|
 | Compress Image Toggle | Planned |
-| Game Detection | In Development |
+| Game Detection | Available on Android Alpha |
 | Manage Emojis | In Development |
 | Nitro Purchasing | Planned |
 | Screensharing | Planned |
