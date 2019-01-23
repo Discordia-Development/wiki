@@ -7,9 +7,10 @@ A [PTB-vel](/ptb) és [Stabillal](/stable) ellentétben, a Canary ikonja kékesl
 # Letöltés
 * [macOS Canary](https://discordapp.com/api/download/canary?platform=osx)
 * [Windows Canary](https://discordapp.com/api/download/canary?platform=win)
-* [Linux Canary](https://discordapp.com/api/download/canary?platform=linux)
+* [Linux deb Canary](https://discordapp.com/api/download/canary?platform=linux&format=deb)
+* [Linux tar.gz Canary](https://discordapp.com/api/download/canary?platform=linux&format=tar.gz)
 ### API megjegyzések
-Megtalálhatod a Discord Canaryval kapcsolatos frissítési megjegyzéseket minden verzióhoz az alábbi linkeken.
+Megtalálhatod a Discord Canaryval kapcsolatos frissítési naplókat minden verzióhoz az alábbi linkeken.
 * [macOS](https://discordapp.com/api/canary/updates?platform=osx)
 * [Windows](https://discordapp.com/api/canary/updates?platform=win)
 * [Linux](https://discordapp.com/api/canary/updates?platform=linux)
@@ -17,4 +18,4 @@ Megtalálhatod a Discord Canaryval kapcsolatos frissítési megjegyzéseket mind
 Androidnak és iOS-nek egyedülálló béta tesztelő programjuk van. Ha csatlakoznál a béta programokba, akkor csatlakozz a [Discord Testers](http://discord.gg/discord-testers) és olvasd el a gyakran ismételt kérdéseket.
 
 # Web Canary
-A Discord Canarynek, amit elérhetsz, ha felmész a https://canary.discordapp.com oldalra. Azon ez egy **nem támogatott Discord verzió**.
+Létezik webes verziója is a Canarynek, amit elérhetsz, ha felmész a https://canary.discordapp.com oldalra.
