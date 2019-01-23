@@ -48,8 +48,8 @@ A Nitró megvásárlásához kattints a fogaskerékre a képernyő bal alsó sar
 
 [video](https://www.youtube.com/watch?v=psIIWROIvtM){.youtube}
 
-## Discord Nitro Brew
-Discord Nitro Brew was Discord's 2017 April Fool's Joke.
+## Discord Nitró Főzőcske
+A Discord Nitró Főzőcske a Discord 2017-es áprilisi bolondok napjának vicce volt.
 
 [video](https://www.youtube.com/watch?v=9Z4GW6Vd6NI){.youtube}
 
