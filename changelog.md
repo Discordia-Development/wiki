@@ -1,8 +1,15 @@
 <!-- TITLE: Changelog -->
-<!-- SUBTITLE: Discord Changelog updated as of 1/22/2019 -->
+<!-- SUBTITLE: Discord Changelog updated as of 1/26/2019 -->
 
 This is the changelog/release date for major features or significant changes. PTB and Canary might have received some features sooner than the date listed below
 
+# 1/25/2019
+## Android
+* Spoiler tags
+* Native Spotify detection
+* Sending messages is now more consistent and retries during bad connections
+* Messages are now sent in the order you sent them
+* Upload progress bars
 # 1/22/2019
 ## iOS
 * You can now add, delete and rename emojis
