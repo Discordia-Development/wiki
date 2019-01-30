@@ -4,7 +4,7 @@
 ![Hypesquadsmall](/uploads/hypesquad/hypesquadsmall.png "Egész alakos HypeSquad jevény")
 
 A Discord HypeSqud tagok a Discord közöségből kiválasztott emberek, hogy képviseljék a céget különböző események a világon mindenhol. Tekintsd a HypeSquad tagokat a Discord nagyköveteinek.
-A Diszkord 3 HypeSquad házzal rendelkezik amelynek tagja lehetsz; ezek neve: Bátorság, Ragyogás, Egyensúly. Egy személyiség teszttel kerül kiválasztásra, hogy melyik házba kerülsz, ezt megtalálhatod a [kliensben](https://discordapp.com/settings/hypesquad-online).
+A Discord 3 HypeSquad házzal rendelkezik amelyeknek tagja lehetsz, név szerint: Bátorság, Ragyogás, Egyensúly. Egy személyiség teszttel kerül kiválasztásra, hogy melyik házba kerülsz, amit megtalálhatsz a [kliensben](https://discordapp.com/settings/hypesquad-online).
 # HypeSquad házak
 ## Bátorság
 
@@ -13,14 +13,14 @@ A Diszkord 3 HypeSquad házzal rendelkezik amelynek tagja lehetsz; ezek neve: B�
 
 > Az univerzumnak olyan emberekre van szüksége, akik magabiztos optimizmussal és kitartással vezetik az embereket. A bátrak nélkül a HypeSquad összeomolna és eltűnne a káoszban.
 
-# Ragyogás
+## Ragyogás
 
 * A ház állatkája: Urdim (Medve)
 * A ház színe: Narancs (#F47B67)
 
 > Türelem és fegyelem szükségeltetik, hogy létfontosságú tagja lehess az univerzumnak. Ragyogás nélkül a HypeSquad összeomolna és eltűnne a káoszban.
 
-# Egyensúly
+## Egyensúly
 
 * A ház állatkája: Arame (Mókus)
 * A ház színe: Zöldeskék (#45DDC0)
@@ -37,10 +37,10 @@ Minden szint tartalmazza ugyanazon előnyöket, mint az előző.
 * Háznak megfelelő [jelvényt](/badges#hype-squad-bravery) kapsz a Discord profilodra.
 * HypeSquad e-mail hírlevél.
 * Versenyek és merch giveawayek.
-* Házon belűli kihívások.
+* Házon belüli kihívások.
 
 ## Esemény látogató
-* Hozzáférés az exklúzív HypeSquad Events szerverhez.
+* Hozzáférés az exkluzív HypeSquad Events szerverhez.
 * HypeSquad Esemény látogató [jelvény](/badges#discord-hype-squad).
 * HypeSquad póló, matricák és kitűzők (link az elfogadó e-mailben).
 * Találkozz a Discord Személyzetével az eseményeken.
