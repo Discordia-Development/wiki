@@ -24,7 +24,7 @@ Discord [HypeSquad](/hypesquad) Event Attendees and Event Organizers have the Hy
 
 ![HypeSquadbadge](/uploads/badges/newhypesquadbadge.png "A HypeSquad Event Member's Badge")
 
-You may obtain any of the HypeSquad House badges by taking the HypeSquad quiz in the [Discord settings](https://discordapp.com/settings/hypesquad-online). If you want to join Bravery, answer using the first option for all questions. If you want to join Brilliance use the second option for all questions, and for Balance use the third option. If you want to be randomly assigned to a house use the last option for all questions.
+You may obtain any of the HypeSquad House badges by taking the HypeSquad quiz in the [Discord settings](https://discordapp.com/settings/hypesquad-online). If you want to join Bravery, answer using the first option for all questions. If you want to join Brilliance use the second option for all questions, and for Balance use the third option. If you want to be randomly assigned to a house use the last option for all questions. You can also be a HypeSquad Attendee or Organizer and choose not to join HypeSquad Online.
 
 ## HypeSquad Bravery
 
