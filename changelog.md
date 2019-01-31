@@ -5,7 +5,7 @@ This is the changelog/release date for major features or significant changes. PT
 
 # 1/31/2019
 ## Desktop
-* Spoiler tags released on desktop
+* Spoiler tags
 * Mobile indictor
 * GIF picker (with keyboard navigation)
 # 1/30/2019
