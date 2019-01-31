@@ -22,9 +22,9 @@ Discord [Partners](/partner) have the partner badge on their profile. The only w
 # Discord HypeSquad
 Discord [HypeSquad](/hypesquad) Event Attendees and Event Organizers have the HypeSquad Events badge on their profile. The only way you may obtain this badge is by becoming a Discord HypeSquad Events attendee/organizer.
 
-You may obtain any of the HypeSquad House badges by taking the HypeSquad quiz in the [Discord settings](https://discordapp.com/settings/hypesquad-online). If you want to join Bravery, answer using the first option for all questions. If you want to join Brilliance use the second option for all questions, and for Balance use the third option. If you want to be randomly assigned to a house use the last option for all questions.
-
 ![HypeSquadbadge](/uploads/badges/newhypesquadbadge.png "A HypeSquad Event Member's Badge")
+
+You may obtain any of the HypeSquad House badges by taking the HypeSquad quiz in the [Discord settings](https://discordapp.com/settings/hypesquad-online). If you want to join Bravery, answer using the first option for all questions. If you want to join Brilliance use the second option for all questions, and for Balance use the third option. If you want to be randomly assigned to a house use the last option for all questions.
 
 ## HypeSquad Bravery
 
