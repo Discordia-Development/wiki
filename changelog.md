@@ -3,6 +3,11 @@
 
 This is the changelog/release date for major features or significant changes. PTB and Canary might have received some features sooner than the date listed below
 
+# 1/31/2019
+## Desktop
+* Spoiler tags released on desktop
+* Mobile indictor
+* GIF picker (with keyboard navigation)
 # 1/30/2019
 ## iOS
 * Spoiler tags
