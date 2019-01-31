@@ -17,7 +17,6 @@ This is a list of features that will be occasionally updated with information ab
 | Permissions Preview Tool | Planned |
 | Redesigned Activity Feed | In Development |
 | Server Video Chat | Rolled out to 5%; Planned |
-| Spoiler Tags | In Testing |
 
 ## iOS
 | Feature | Status	|
