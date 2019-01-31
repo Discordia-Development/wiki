@@ -6,8 +6,9 @@ This is the changelog/release date for major features or significant changes. PT
 # 1/31/2019
 ## Desktop
 * Spoiler tags
-* Mobile indictor
-* GIF picker (with keyboard navigation)
+
+## iOS
+* Fixes the crash when a malformed GIF was sent
 # 1/30/2019
 ## iOS
 * Spoiler tags
