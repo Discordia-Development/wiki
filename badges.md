@@ -22,6 +22,8 @@ Discord [Partners](/partner) have the partner badge on their profile. The only w
 # Discord HypeSquad
 Discord [HypeSquad](/hypesquad) Event Attendees have the HypeSquad Events badge on their profile. The only way you may obtain this badge is by becoming a Discord HypeSquad Events attendee.
 
+You may obtain any of the HypeSquad House badges by applyng for the HypeSquad Online role in the [Discord settings](https://discordapp.com/settings/hypesquad-online). However, using this means you will not recieve the HypeSquad Events badge.
+
 ![HypeSquadbadge](/uploads/badges/newhypesquadbadge.png "A HypeSquad Member's Badge")
 
 ## HypeSquad Bravery
