@@ -59,3 +59,13 @@ A full list of code block format IDs can be found in [this server](https://disco
 ## Spoilers
 You can create a spoiler by surrounding your message with two vertical bars (\|\|) if you want to hide sensitive information. People can reveal spoilers by tapping or clicking on it. In addition to hiding text, the spoiler tag will also cover up any media sent until the recipient chooses to reveal it.
 You can also combine spoilers with other markdown formatting.
+
+![Typingspoiler](/uploads/markdown/typingspoiler.png "Typingspoiler")
+
+This is what an unrevealed spoiler looks like in chat:
+
+![Unrevealedspoiler](/uploads/markdown/unrevealedspoiler.png "Unrevealedspoiler")
+
+It can be revealed by clicking or tapping on the spoiler. This is what a revealed spoiler looks like in chat:
+
+![Revealedspoiler](/uploads/markdown/revealedspoiler.png "Revealedspoiler")
