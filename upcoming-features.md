@@ -16,7 +16,7 @@ This is a list of features that will be occasionally updated with information ab
 | Overlay Home Bar | In Development |
 | Permissions Preview Tool | Planned |
 | Redesigned Activity Feed | In Development |
-| Server Discovery | In Internal Testing |
+| Server Discovery | Gradually Rolling Out |
 | Server Video Chat | Rolled out to 5%; Planned |
 
 ## iOS
