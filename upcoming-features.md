@@ -28,6 +28,7 @@ This is a list of features that will be occasionally updated with information ab
 | Manage 2FA | Available on iOS TestFlight |
 | Nitro Purchasing | Planned |
 | Rich Push Notifications | Planned |
+| Local upload message and progress bar | Available on iOS TestFlight |
 
 ## Android
 | Feature | Status |
