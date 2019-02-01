@@ -57,15 +57,19 @@ You can use multiple markdown usages together in a piece of text anywhere, and c
 A full list of code block format IDs can be found in [this server](https://discord.gg/VfVvwcX).
 
 ## Spoilers
-You can create a spoiler by surrounding your message with two vertical bars (\|\|) if you want to hide sensitive information. People can reveal spoilers by tapping or clicking on it. In addition to hiding text, the spoiler tag will also cover up any media sent until the recipient chooses to reveal it.
+You can create a spoiler by surrounding your message with two vertical bars (\|\|) if you want to hide sensitive information. People can reveal spoilers by tapping or clicking on it. You can rehide spoilers in a channel by re-entering the channel. In addition to hiding text, the spoiler tag will also cover up any media sent until the recipient chooses to reveal it.
 You can also combine spoilers with other markdown formatting.
 
-![Typingspoiler](/uploads/markdown/typingspoiler.png "Typingspoiler")
+![Typing spoiler](/uploads/markdown/typingspoiler.png "Typingspoiler")
 
 This is what an unrevealed spoiler looks like in chat:
 
-![Unrevealedspoiler](/uploads/markdown/unrevealedspoiler.png "Unrevealedspoiler")
+![Unrevealed spoiler](/uploads/markdown/unrevealedspoiler.png "Unrevealedspoiler")
 
 It can be revealed by clicking or tapping on the spoiler. This is what a revealed spoiler looks like in chat:
 
-![Revealedspoiler](/uploads/markdown/revealedspoiler.png "Revealedspoiler")
+![Revealed spoiler](/uploads/markdown/revealedspoiler.png "Revealedspoiler")
+
+You can adjust the settings for showing spoilers in User Settings -> Text & Images. The *On servers I moderate* option will display spoiler content only on servers in which you have the **Manage Messages** permission.
+
+![Spoiler settings](/uploads/markdown/spoiler-settings.png "Spoiler settings")
