@@ -1,7 +1,7 @@
 <!-- TITLE: Markdown -->
 <!-- SUBTITLE: Want to inject some flavor into your everyday text chat? -->
 
-Markdown is a Discord feature that enables the stylizing of text. There are a total of five different markdown operators.
+Markdown is a Discord feature that enables the stylizing of text. There are a total of six different markdown operators in Discord.
 
 # Operators
 ## Bold Text
@@ -55,3 +55,7 @@ This would make the text appear as:
 You can use multiple markdown usages together in a piece of text anywhere, and can even combine them to make ones which stand out.
 
 A full list of code block format IDs can be found in [this server](https://discord.gg/VfVvwcX).
+
+## Spoilers
+You can create a spoiler by surrounding your message with two vertical bars (\|\|) if you want to hide sensitive information. People can reveal spoilers by tapping or clicking on it. In addition to hiding text, the spoiler tag will also cover up any media sent until the recipient chooses to reveal it.
+You can also combine spoilers with other markdown formatting.
