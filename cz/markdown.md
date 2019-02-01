@@ -1,4 +1,4 @@
-<!-- TITLE: Markdown -->
+<!-- TITLE: [CZ] Markdown -->
 <!-- SUBTITLE: Chcete dodat každodennímu chatování trochu šťávy? -->
 
 Markdown je funkce na Discordu, která povoluje stylizování textu. Na Discordu lze použít celkově 6 různých operátorů pro Markdown.
