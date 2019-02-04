@@ -12,7 +12,7 @@ This is a list of features that will be occasionally updated with information ab
 |---------|---------|
 | Block Quotes | Planned |
 | Dyslexia Font | Planned |
-| Keyboard Navigation | Available on Canary |
+| Keyboard Navigation | Reverted due to bugs; was available on Canary |
 | Overlay Home Bar | In Development |
 | Permissions Preview Tool | Planned |
 | Redesigned Activity Feed | In Development |
