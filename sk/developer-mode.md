@@ -1,7 +1,7 @@
 <!-- TITLE: [SK] Vývojarký Režim  -->
 <!-- SUBTITLE: V hĺbkovej dokumentácii o Discordovom Vývojarskom Režime -->
 
-Ak idete robiť použite Discord API, pre rýchle vytvorenie [bota](/bots), potom Discordov *Vývojarský Režim* bude dobrý k pomoci.
+Ak idete robiť použite Discord API, pre rýchle vytvorenie [bota](sk/bots), potom Discordov *Vývojarský Režim* bude dobrý k pomoci.
 
 # Povolovanie Vývojarského Režimu na Desktope
 Povolovanie Vývojarský Režim je jednoduché. Otvorte vaše Discord nastavenia (<i class="icon-cog"></i> vedľa vášho mena v ľavom rohu) a kliknite na *Appearance*. Tam najdete *Developer Mode*. Kliknite na zapínač na povolenie vývojarského režimu.
