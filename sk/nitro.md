@@ -9,10 +9,10 @@ Nitro bolo spustené pre testovanie v Austrálii 22. decembra 2016 a celosvetovo
 
 Nitro je len možné predplatiť mesačne za 4,99 dolárov alebo ročne za 49,99 dolárov. Ročné predplatné ponúka 2 mesiace zadarmo.
 
-22. december 2017 bola pridaná možnosť platby pomocou Paypal.
+22. decembera 2017 bola pridaná možnosť platby pomocou Paypal.
 
 # Výhody
-Predplatné Discord Nitro ponúka uživatelu následujucé výhody:
+Predplatné Discord Nitro ponúka uživatelom následujucé výhody:
 
 * GIF avatar.
 * Možnosť používať animované emotikony.
@@ -23,7 +23,7 @@ Predplatné Discord Nitro ponúka uživatelu následujucé výhody:
 * Možnosť zmeny vlastného [diskriminátoru](/discriminator). (pozn.: pokiaľ Vaše predplatné Nitro vyprší, diskriminátor bude nastavený na náhodné číslo)
 
 # Zakúpenie predplatného Nitro
-Pre zakúpenie predplatného Nitro kliknete vlavo dole na ozubené kolečko označujucé nastavenia a zvolte záložku Nitro. Vyberte si mesačné alebo ročne predplatné, zadajte informacie o svojej kreditnej alebo debitnej karte a pokiaľ k tomu budete vyzvaný, poštovné smerovacie číslo. Pre platbu pomocou PayPal musíte mať na svojom PayPal účtu zaregistrovanú záložnú platobnú metodu (nepozerajte na dostupné prostriedky v PayPal peňaženke), ako je bankovný účet či kreditná karta.
+Pre zakúpenie predplatného Nitro kliknete vlavo dole na ozubené koliesko označujucé nastavenia a zvolte záložku Nitro. Vyberte si mesačné alebo ročne predplatné, zadajte informacie o svojej kreditnej alebo debitnej karte a pokiaľ k tomu budete vyzvaný, poštovné smerovacie číslo. Pre platbu pomocou PayPal musíte mať na svojom PayPal účte zaregistrovanú záložnú platobnú metodu (nepozerajte sa na dostupné prostriedky v PayPal peňaženke), ako je bankovný účet či kreditná karta.
 
 # Oficialné video pre zahájenie služby
 [video](https://www.youtube.com/watch?v=psIIWROIvtM){.youtube}
