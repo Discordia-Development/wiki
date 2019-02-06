@@ -2,7 +2,7 @@
 <!-- SUBTITLE: Informácie o Discordových záznamoch -->
 
 # Najísť záznami
-No, kde môžeš najísť záznami? V [nastaveniach serveru](/server-settings), lišta ktorá je pomenovaná Audit Logs.
+No, kde môžeš najísť záznami? V [nastaveniach serveru](sk/server-settings), lišta ktorá je pomenovaná Audit Logs.
 
 ![Audit Logs 2](/uploads/audit-logs/audit-logs-2.png "Audit Logs 2")
 
@@ -24,7 +24,7 @@ Akonáhle ste klikli na Audit Logs lištu, budete privítaný s týmto čo vyzer
 * Vytvorenie, Vymazanie a Upravenie role
 * Serverové Upravenia
 * Vytvorenie, Vymazanie a Upravenie Webhooku
-* Správa Vymazaná Uživateľmi a [Botmi](/bots)
+* Správa Vymazaná Uživateľmi a [Botmi](sk/bots)
 
 # Detaily
 Pre viaceré akcie, viacej detailov sú poskytnuté v lište.
