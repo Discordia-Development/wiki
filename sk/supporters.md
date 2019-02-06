@@ -1,5 +1,5 @@
 <!-- TITLE: [SK] Podporovatelia Discord Wiki -->
-<!-- SUBTITLE: Táto stránka je zcela venovaná skvelým ludí, ktorý nám pomáhajú s platením hostingu! Úprimne by bolo bez vašej pomoci hrozné prevozovať túto stránku, takže Vám ďakujeme! -->
+<!-- SUBTITLE: Táto stránka je zcela venovaná skvelým ľuďom, ktorím pomáhajú s platením hostingu! Úprimne by bolo bez vašej pomoci hrozné prevozovať túto stránku, takže Vám ďakujeme! -->
 
 # Ľudia z Patreonu
 * christopher#0176
