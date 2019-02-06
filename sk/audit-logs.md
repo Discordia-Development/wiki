@@ -6,7 +6,7 @@ No, kde môžeš najísť záznami? V [nastaveniach serveru](/server-settings), 
 
 ![Audit Logs 2](/uploads/audit-logs/audit-logs-2.png "Audit Logs 2")
 
-> **POZNÁMKA**: Môžeš si pozrieť záznami len keď máš povolené **View Audit Logs** alebo **Administrátor**.
+> **POZNÁMKA**: Môžete si pozrieť záznami len keď máš povolené **View Audit Logs** alebo **Administrátor**.
 
 Akonáhle ste klikli na Audit Logs lištu, budete privítaný s týmto čo vyzerá niečo takto:
 
