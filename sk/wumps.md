@@ -1,6 +1,6 @@
 <!-- TITLE: [SK] Wumps -->
 
-Wumps je jeden z Discord maskotov.
+Wumps je jeden z Discordových maskotov.
 
 Myšlienka bola že nápad Wumps prišiel zo skorej počitačovej hry [Hunt the Wumpus](https://en.wikipedia.org/wiki/Hunt_the_Wumpus).
 
@@ -15,7 +15,7 @@ Wumps je tiež často uverejnený na [Discordovom Twittre](https://twitter.com/d
 ![Discord Tweet "Wumpus si váži každý z Vás."](https://i.imgur.com/9rsvKZ8.png)
 
 # PAX
-Na PAX udalostiach, uživatelia môžu stretnút Wumps v realite. Wumps bol na prvom vystúpení v PAX juh 2017.
+Na PAX udalostiach, uživatelia môžu stretnúť Wumps v realite. Wumps bol na prvom vystúpení v PAX juh 2017.
 
 ![Wumpus v realite](http://i.imgur.com/afGy7sg.jpg?1)
 
