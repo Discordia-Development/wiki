@@ -12,7 +12,7 @@ This is a list of features that will be occasionally updated with information ab
 |---------|---------|
 | Block Quotes | Planned |
 | Dyslexia Font | Planned |
-| Keyboard Navigation | Reverted due to bugs; was available on Canary |
+| Keyboard Navigation | In Development |
 | Overlay Home Bar | In Development |
 | Permissions Preview Tool | Planned |
 | Redesigned Activity Feed | In Development |
@@ -36,7 +36,7 @@ This is a list of features that will be occasionally updated with information ab
 | Change Discord Tag (Nitro) | In Development |
 | Compress Image Toggle | Planned |
 | Game Detection | Available on Android Alpha |
-| Manage 2FA | In Development |
+| Manage 2FA | Available on Android Alpha |
 | Manage Emojis | In Development |
 | Nitro Purchasing | Planned |
 | Screensharing | Planned |
