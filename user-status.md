@@ -19,7 +19,7 @@ The Away status is also set automatically if there was no mouse movement or typi
 ## Do Not Disturb <img src="https://cdn.discordapp.com/emojis/459151262924144660.png?v=1" width="12" height="12">
 Do Not Disturb (also known as DND) disables all desktop and push notifications, even from mentions. Do Not Disturb displays as a red status indicator on your profile. 
 
-### Streaming <img src="https://cdn.discordapp.com/emojis/459201345455652895.png?v=1" width="12" height="12">
+### Streaming <img src="https://cdn.discordapp.com/emojis/459201345455652895.png?v=1">
 
 The Streaming status can only be set when streaming on an account integrated with your Discord account. It performs the same way as Do Not Disturb and displays as a purple status indicator on your profile. 
 
