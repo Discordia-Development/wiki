@@ -1,6 +1,6 @@
 # Sandbox
 
-Away <img src="https://cdn.discordapp.com/emojis/459151263137923072.png?v=1" width="20" height="20">
+Away <img src="https://cdn.discordapp.com/emojis/459151263137923072.png?v=1" width="12" height="12">
 
 <table style="width:250px; border:1px solid black; float:left">
 <tr>
