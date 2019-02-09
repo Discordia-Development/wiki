@@ -10,7 +10,7 @@ The user status in Discord consists of four settings to serve as quickly changea
 ## Online
 Online mode is the default status. You receive notifications, can use Discord and show up in the member list normally. You also will have a green circle on your profile picture.
 
-## Away
+## Away <img src="https://cdn.discordapp.com/emojis/459151263137923072.png?v=1" width="12" height="12">
 The Away status performs the same way as the Online status. Notifications come up normally, and you can use Discord normally. 
 The Away status is also set automatically if there was no mouse movement or typing for a set amount of time while set as online. When there's mouse movement within the window again, you get put back into online status unless Away status was set manually. Away displays as a yellow status indicator <img src="https://cdn.discordapp.com/emojis/459151263137923072.png?v=1" width="12" height="12"> on your profile. 
 
