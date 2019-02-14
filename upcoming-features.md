@@ -23,9 +23,9 @@ This is a list of features that will be occasionally updated with information ab
 | Feature | Status	|
 |---------|---------|
 | 3D Touch Support | Planned |
-| Change Discord Tag (Nitro) | Available on iOS TestFlight |
+| Change Discord Tag (Nitro) | In Development |
 | Jump to Message | Planned |
-| Manage 2FA | Available on iOS TestFlight |
+| Manage 2FA | In Development |
 | Nitro Purchasing | Planned |
 | Rich Push Notifications | Planned |
 | Local upload message and progress bar | Available on iOS TestFlight |
@@ -33,11 +33,11 @@ This is a list of features that will be occasionally updated with information ab
 ## Android
 | Feature | Status |
 |---------|--------|
-| Change Discord Tag (Nitro) | In Development |
+| Change Discord Tag (Nitro) | Available on Android Alpha |
 | Compress Image Toggle | Planned |
 | Game Detection | Available on Android Alpha |
 | Manage 2FA | Available on Android Alpha |
-| Manage Emojis | In Development |
+| Manage Emojis | Available on Android Alpha |
 | Nitro Purchasing | Planned |
 | Screensharing | Planned |
 | Video Embeds | Planned |
