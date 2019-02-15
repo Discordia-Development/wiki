@@ -2,7 +2,7 @@
 <!-- SUBTITLE: Informácie o Discordových záznamoch -->
 
 # Najísť záznami
-No, kde môžeš najísť záznami? V [nastaveniach serveru](sk/server-settings), lišta ktorá je pomenovaná Audit Logs.
+No, kde môžeš najísť záznami? V lište [nastaveniach serveru](sk/server-settings), ktorá je pomenovaná Audit Logs.
 
 ![Audit Logs 2](/uploads/audit-logs/audit-logs-2.png "Audit Logs 2")
 
