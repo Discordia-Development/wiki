@@ -1,4 +1,4 @@
-<!-- TITLE: Acasă -->
+<!-- TITLE: Romanian - Acasă -->
 <!-- SUBTITLE: Bine ați venit pe Wiki Discord! -->
 
 # Welcome
