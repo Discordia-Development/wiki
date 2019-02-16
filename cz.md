@@ -46,7 +46,7 @@ Vítejte na naší stránce! Jsme Discord Wiki! Jsme hrdí na to, že jsme jedn�
 * Harfeur#3633 - Francouzština
 * Immotay#0001 - Brazilská portugalština
 * Ishidres#0001 - Němčina
-* janik#1337 - Slovenština
+* Janik#0001 - Slovenština
 * jcuenin#7650 - Francouzština
 * Justman#0150 - Ruština
 * Lireoy#4444 - Maďarština
