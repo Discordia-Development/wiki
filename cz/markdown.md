@@ -37,11 +37,11 @@ Text bude poté vypadat takto:
 ## Řádkové bloky kódu
 Pomocí zpětného lomítka (\`) můžete vytvořit řádkový blok kódu. V porovnání s obyčejnými bloky kódu, řádkové bloky nezaplňují celý řádek. Na rozdíl od obyčejných bloků kódu je nemůžete stylizovat.
 
-![C 8 Ca 1 F](/uploads/markdown/c-8-ca-1-f.png "Řádkový blok kódu v okně pro psaní zpráv")
+![C 8 Ca 1 F](/uploads/markdown/c-8-ca-1-f.png "Řádkový blok kódu v okně pro psaní zpráv.")
 
 Text bude poté vypadat takto:
 
-![C 144 Da](/uploads/markdown/c-144-da.png "Řádkový blok kódu v chatovacím okně")
+![C 144 Da](/uploads/markdown/c-144-da.png "Řádkový blok kódu v chatovacím okně.")
 
 ## Formátování bloku kódu
 Pro vytvoření bloku kódu přidejte tři zpětná lomítka (\`\`\`) na obě strany vybraného textu. Pokud chcete text zvýraznit, přidejte ID jazyka z Highlight.js.
@@ -57,5 +57,19 @@ Markdown můžete kombinovat a vytvořit tak text, který bude vypadat skvěle.
 Celý seznam ID pro formátování bloku kódu lze najít na [tomto serveru](https://discord.gg/VfVvwcX).
 
 ## Spoilery
-Spoilery se používají ke skrytí závažných informací. Můžete je vytvořit přidáním dvou svislých čar (\|\|) na obě strany vybraného textu. Lidé mohou spoilery odhalit poklepáním na ně. K lepšímu skrytí textu budou značky spoileru maskovat jakékoliv média do té doby, než se je příjemce rozhodne odhalit.
+Spoilery se používají ke skrytí závažných informací. Můžete je vytvořit přidáním dvou svislých čar (\|\|) na obě strany vybraného textu. Lidé mohou spoilery odhalit poklepáním na ně. Spoilery lze znovu skrýt opětovným vstupem do kanálu. K lepšímu skrytí textu budou značky spoileru maskovat jakékoliv média do té doby, než se je příjemce rozhodne odhalit.
 Spoilery můžete taktéž kombinovat s ostatními texty používající Markdown.
+
+![Typing spoiler](/uploads/markdown/typingspoiler.png "Spoiler v okně pro psaní zpráv.")
+
+Takto vypadá neodhalený spoiler v chatovacím okně:
+
+![Unrevealed spoiler](/uploads/markdown/unrevealedspoiler.png "Neodhalený spoiler.")
+
+Odhalit jej lze poklapáním na něj. Takto vypadá odhalený spoiler v chatovacím okně:
+
+![Revealed spoiler](/uploads/markdown/revealedspoiler.png "Odhalený spoiler.")
+
+Nastavení pro zobrazování spoileru lze upravit v uživatelském nastavení -> text a obrázky. Možnost *Na serverech, které spravuji* zobrazí obsah spoileru na serverech, na kterých máte oprávnění **spravovat zprávy**.
+
+![Spoiler settings](/uploads/markdown/spoiler-settings.png "Nastavení spoilerů.")
