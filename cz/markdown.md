@@ -66,7 +66,7 @@ Takto vypadá neodhalený spoiler v chatovacím okně:
 
 ![Unrevealed spoiler](/uploads/markdown/unrevealedspoiler.png "Neodhalený spoiler.")
 
-Odhalit jej lze poklapáním na něj. Takto vypadá odhalený spoiler v chatovacím okně:
+Odhalit jej lze poklepáním na něj. Takto vypadá odhalený spoiler v chatovacím okně:
 
 ![Revealed spoiler](/uploads/markdown/revealedspoiler.png "Odhalený spoiler.")
 
