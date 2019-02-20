@@ -23,9 +23,9 @@ This is a list of features that will be occasionally updated with information ab
 | Feature | Status	|
 |---------|---------|
 | 3D Touch Support | Planned |
-| Change Discord Tag (Nitro) | In Development |
+| Change Discord Tag (Nitro) | Available on iOS TestFlight |
 | Jump to Message | Planned |
-| Manage 2FA | In Development |
+| Manage 2FA | Available on iOS TestFlight |
 | Nitro Purchasing | Planned |
 | Rich Push Notifications | Planned |
 | Local upload message and progress bar | Available on iOS TestFlight |
