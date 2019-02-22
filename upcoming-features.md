@@ -15,7 +15,7 @@ This is a list of features that will be occasionally updated with information ab
 | Keyboard Navigation | In Development |
 | Overlay Home Bar | In Development |
 | Permissions Preview Tool | Planned |
-| Redesigned Activity Feed | In Development |
+| Redesigned Activity Feed | Available on Canary |
 | Server Discovery | Gradually Rolling Out |
 | Server Video Chat | Rolled out to 5%; Planned |
 
