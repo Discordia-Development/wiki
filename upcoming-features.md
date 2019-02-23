@@ -17,7 +17,7 @@ This is a list of features that will be occasionally updated with information ab
 | Permissions Preview Tool | Planned |
 | Redesigned Activity Feed | Available on Canary |
 | Server Discovery | Gradually Rolling Out |
-| Server Video Chat | Rolled out to 5%; Planned |
+| Server Video Chat | Planned |
 
 ## iOS
 | Feature | Status	|
