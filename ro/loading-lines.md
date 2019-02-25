@@ -9,7 +9,7 @@
 | Wobbling to 299% | Reference to "wobbling" in Super Smash Bros. Melee. |
 | DISCORD NECESITĂ MAI MULTE MINEREURI | Se referă la un memento în Starcraft care anunță jucătorilor resursele insuficiente. |
 | Desfaceți, întrețineți, desenați | Referință la faza de început a Magic: Adunarea. |
-| Călătorește la Hanamura | Se referă la o locație din Overwatch. |
+| Călătorește la Hanamura | Se referă la o locație din OverWatch. |
 | TIMPUL SUS - FACEȚI! | Referință la Leeroy Jenkins, care este un meme general și o referință la World of Warcraft. |
 | Această încărcare este o linie | Glumă generală despre liniile de încărcare. |
 | Mă văd că mă încarc, mă așteaptă | O modificare a unei linii în piesa Chamillionaire - Ridin' ft. Krayzie Bone |
