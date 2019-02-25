@@ -31,7 +31,7 @@ A Discord Nitro Classic subscription ($4.99/Month, $49.99/Year) gives users acce
 * Max upload size changed from 8MB to 50MB.
 * 720p 60fps or 1080p 30fps screenshare.
 * Discord Nitro [badge](/badges) on profile.
-* Ability to change your [discriminator](/discriminator). (If your Nitro subscription ends, your discriminator will be reset to a random number.)
+* Ability to change your [discriminator](/discord-tag). (If your Nitro subscription ends, your discriminator will be reset to a random number.)
 
 ### Early Supporter Badge
 
