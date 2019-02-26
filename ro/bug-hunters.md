@@ -2,7 +2,7 @@
 <!-- SUBTITLE: Ajutând dezvoltatorii Discord să gestioneze rapoartele și să remedieze bug-urile -->
 
 # Bug Hunters
-Vânătorii de bug-uri sunt un grup de elită, utilizatori Discord, care au găsit cu succes bug-uri pe Discord în orice client și au fost reproduse de către trei utilizatori, condus de Dabbit Prime. Ei ajută dezvoltatorii Discord să învețe despre bug-uri și să le repare.
+Bug Hunters sunt un grup de elită de utilizatori Discord, care au găsit cu succes bug-uri pe Discord pe orice client și au fost reproduse de trei utilizatori. Ei ajută dezvoltatorii să le repare.
 
 În fiecare zi, discută și continuă să caute și să verifice alte erori pe care le-au raportat alți utilizatori. Ei utilizează [Discord Canary](/canary) și lucrează din greu în fiecare zi pentru a ajuta utilizatorii noi să găsească bug-uri, pentru a verifica dacă acestea sunt un duplicat de bug-uri deja raportate și, uneori, ajută ceilalți să-și formuleze raportul.
 
