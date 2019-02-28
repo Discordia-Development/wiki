@@ -25,7 +25,7 @@ This is a list of features that will be occasionally updated with information ab
 | Change Discord Tag (Nitro) | Available on iOS TestFlight |
 | Jump to Message | Planned |
 | Manage 2FA | Available on iOS TestFlight |
-| Nitro Purchasing | Planned |
+| Nitro In-App Purchase | In Development |
 | Rich Push Notifications | Planned |
 | Local upload message and progress bar | Available on iOS TestFlight |
 
@@ -37,7 +37,7 @@ This is a list of features that will be occasionally updated with information ab
 | Game Detection | In Development |
 | Manage 2FA | Available on Android Alpha |
 | Manage Emojis | Available on Android Alpha |
-| Nitro Purchasing | Planned |
+| Nitro In-App Purchase | In Development |
 | Screensharing | Planned |
 | Video Embeds | Planned |
 
