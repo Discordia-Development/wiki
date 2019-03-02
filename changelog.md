@@ -1,8 +1,14 @@
 <!-- TITLE: Changelog -->
-<!-- SUBTITLE: Discord Changelog updated as of 2/20/2019 -->
+<!-- SUBTITLE: Discord Changelog updated as of 3/2/2019 -->
 
 This is the changelog/release date for major features or significant changes. PTB and Canary might have received some features sooner than the date listed below
 
+# 3/1/2019
+## iOS
+* Revamped Account Settings with the ability to view back-up codes, toggle 2FA and change your discriminator (if you have Discord Nitro)
+* Added a fancy, in-line upload progress indicator for attachments. No more wondering if your images got lost in the void. We brought the void to you.
+* Added language support for Vietnamese and Thai
+* Fixed a bug where fresh app installs messed with invite codes
 # 2/19/2019
 ## Android
 * Added language support for Vietnamese and Thai
