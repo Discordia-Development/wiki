@@ -14,7 +14,7 @@ This is a list of features that will be occasionally updated with information ab
 | Dyslexia Font | Planned |
 | Keyboard Navigation | In Development |
 | Permissions Preview Tool | Planned |
-| Redesigned Activity Feed | Available on Canary |
+| Redesigned Activity Feed | Gradually Rolling Out |
 | Server Discovery | Gradually Rolling Out |
 | Server Video Chat | Planned |
 
