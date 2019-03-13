@@ -20,24 +20,29 @@ Discord Wiki tidak tergabung dengan Discord. Kami disini hanya membantu pengguna
 
 *Bertanggung jawab untuk memelihara Discord Wiki dan server pendukungnya.*
 * Mikesky#0001 (Administrator Sistem, memelihara backend dari semua layanan yang disediakan oleh Wiki)
+*  SleepaDru#7700 (Administrator Sistem, memelihara backend dari semua layanan yang disediakan oleh Wiki)
 * Harrison#9100
 * kwando aka ハンイット ★★★★#1313
 * Tiemen#0001
 * cats#5485
 
-> ***Pemimpin Departemen***
+> ***Pemimpin Wiki***
 
 * Azrael#6867 - Pimpinan Komunitas
+* Ghostwolf#0001 - Pimpinan Penerjemah
 * OminousCry#2331 - Pimpinan Penerjemah
+* OGNovuh#0003 - Pimpinan Pengembangan WikiBot
 
 > ***Kontributor Wiki***
 
 * alcyneous#2803 - Bahasa Indonesia
 * Anaís#4719 - Spanyol
+* Cherno#9465 - Jepang
 * Comi#2319 - Perancis
 * Cyon aka FOR3VER#2469 - Korea, China
 * D_EaN * STS#0105 - Hongaria
 * Daan#1337 - Belanda
+* Daan#4900 - Rumania
 * deframet#0001 - Itali
 * Disegual#4088 - Itali
 * erykol#8141 - Polandia
@@ -46,22 +51,28 @@ Discord Wiki tidak tergabung dengan Discord. Kami disini hanya membantu pengguna
 * Harfeur#3633 - Perancis
 * Immotay#0001 - Portugis-Brazil
 * Ishidres#0001 - Jerman
+* janiksvoboda#0001 - Slovakia
+* jcuenin#7650 - Perancis
 * Justman#0150 - Rusia
 * Lireoy#4444 - Hongaria
 * Manfre#9262 - Italia
 * marcyblaze#6908 - Italia
 * Mib#0001 - Danish
-* Neerwan#9498 - Perancis
+* Mr. Black#5859 - Spanyol
 * Nooby™#4562 - Perancis
 * PapuleX#2589 - Ceko
 * RME#3050 - Belanda
 * Samtell#0001 - Korea
 * Saphir#0001 - Perancis
+* SweetSofiMC#8821 - Spanyol
 * 魏 Sync#9198 - Bahasa Indonesia
+* Tarek#1337 - Swedia
 * TheMelvinNL#0001 - Belanda
 * Tim#6235 - Jerman
+* Vanished#8776 - Bosnian
 * Voknehzyr#1338 - Rusia
 * webhp#1337 - Inggris Pirate
+* YuukiYuuks#5122 - Spanyol
 * zabszk#5292 - Polandia
 
 > ***Pengembang Bot***
@@ -72,13 +83,9 @@ Discord Wiki tidak tergabung dengan Discord. Kami disini hanya membantu pengguna
 
 ## Terima Kasih khusus
 
->***Donatur***
-
-* Dropbox#0001 - thediscord.wiki Domain
-
 >***Patrons***
 
 *Terima Kasih banyak kepada semua pendukung kami di [Patreon](https://www.patreon.com/TheDiscordWiki)!*
 
-* DowDaw#1339
+* Wynran#1337
 * Saphir#0001
