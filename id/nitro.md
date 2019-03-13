@@ -1,5 +1,5 @@
-<!-- TITLE: Nitro -->
-<!-- SUBTITLE: Support Discord's Development -->
+<!-- TITLE: [ID] Nitro -->
+<!-- SUBTITLE: Dukung Pengembangan Discord -->
 
 <table style="width:250px; border:1px solid black; float:center">
 <tr>
@@ -9,7 +9,7 @@
 <td colspan="2" style="text-align:center"><img src="https://cdn.discordapp.com/emojis/340386793075769345.png?v=1" alt="nitro"></td>
 </tr>
 <tr>
-<td>Layanan permanen:</td>
+<td>Permanen:</td>
 <td>Tidak</td>
 </tr>
 <tr>
@@ -17,46 +17,42 @@
 <td>Berlangganan Discord <a href="https://discordia.me/Nitro">Nitro</a>.</td>
 </tr>
 </table> 
-​
-Discord Nitro adalah a premium subscription service for Discord with two tiers, adding features and free access to games. Nitro was launched for testing in Australia on December 22nd, 2016 and globally released on January 23rd, 2017. On December 22nd, 2017, the ability to pay with PayPal was added. On October 10th, 2018, Discord Nitro was split up into two different tiers, Discord Nitro and Discord Nitro Classic.
-​
-# Tiers
-​
+
+Discord Nitro adalah layanan berlangganan premium dari discord dengan dua tingkatan, menambahkan fitur dan akses gratis ke permainan. Nitro diluncurkan untuk pengujian di Australia pada 22 Desember 2016 dan diluncurkan secara global pada 23 Januari 2017. Pada 22 Desember 2017, Penggunaan untuk membayar dengan PayPal ditambahkan. Pada 10 Oktober 2018, Discord Nitro dibagi menjadi dua tingkatan berbeda, Discord Nitro dan Discord Nitro Classic.
+
+# Tingkatan
+
 ## Discord Nitro Classic
-A Discord Nitro Classic subscription ($4.99/Month, $49.99/Year) gives users access to the following features:
-​
-* Animated, GIF avatar.
-* Ability to use animated emoji.
-* Ability to use custom emoji anywhere (if the User has the Use External Emojis permission in that server).
-* Max upload size changed from 8MB to 50MB.
-* 720p 60fps or 1080p 30fps screenshare.
-* Discord Nitro [badge](/badges) on profile.
-* Ability to change your [discriminator](/discriminator). (If your Nitro subscription ends, your discriminator will be reset to a random number.)
-​
-### Early Supporter Badge
-​
-Users who bought Nitro anytime before October 10th, 2018, recieved the Early Supporter badge on their profile. This badge is permanent and does not go away even if your Nitro subscription ends.
-​
+Langganan Discord Nitro Classic  ($4.99/Bulan, $49.99/Tahun) memberi akses pengguna dengan fitur sebagai berikut:
+
+* Animasi, GIF avatar.
+* Kemampuan untuk menggunakan emoji animasi.
+* Kemampuan untuk menggunakan kostum emoji dimanapun (jika pengguna memiliki izin External Emojis dalam server).
+* Maks ukuran unggah diubah dari 8MB menjadi 50MB.
+* 720p 60fps atau 1080p 30fps berbagi layar.
+* [Lambang](/badges) Discord Nitro pada profil.
+* kemampuan untuk mengubah [discriminator](/discord-tag). (Jika langganan Nitro kamu habis, maka discriminatormu akan direset menjadi angka acak.)
+
+### Lambang Pendukung Awal
+
+Pengguna yang membeli Nitro kapanpun sebelum 10 Oktober 2018, mendapatkan Lambang Pendukung Awal pada profilnya. Lambang ini permanen dan tidak hilang ketika langganan Nitro kamu habis.
+
 ## Discord Nitro 
-The regular Discord Nitro subscription ($9.99/Month, $99.99/Year) gives users access to the normal Discord Nitro Classic features, but also includes access to Nitro games on the store. If your Nitro subscription ends, your access to the games will also end.
-​
-# Purchasing Nitro
-To purchase Nitro, click the user settings cog on the bottom left of your screen and click the Nitro tab. Once there, select monthly or yearly, enter your credit or debit card information, then zipcode when prompted. To pay with PayPal, you need to have a failover method of payment registered on your PayPal account, such as a bank account or card, regardless of whether there is sufficient funds in your PayPal wallet.
-​
-![User Settings/Nitro](/uploads/7138-b-7-1.png "User Settings/Nitro")
-# Official Launch Video
-​
+Langganan reguler Discord Nitro ($9.99/Bulan, $99.99/Tahun) memberi akses pengguna untuk fitur Discord Nitro Classic, tapi termasuk juga akses ke permainan Nitro di toko. Jika Langganan Nitro kamu habis, akses ke permainan kamu pun akan berakhir.
+
+# Pembelian Nitro
+Untuk membeli Nitro, klik cog pengaturan pengguna pada layar bawah kiri kamu dan klik tab Nitro. Setelah itu, pilih Bulanan atau Tahunan, masukan informasi kartu kredit atau debet, lalu kode pos saat diminta. untuk membayar lewat PayPal, kamu perlu mempunyai metode pembayaran failover terdaftar pada akun PayPal kamu, seperti akun bank atau kartu, terlepas dari apakah ada dana yang cukup di dompet PayPal kamu.
+
+![Pengaturan Pengguna/Nitro](/uploads/7138-b-7-1.png "User Settings/Nitro")
+# Video Peluncuran Resmi
+
 [video](https://www.youtube.com/watch?v=psIIWROIvtM){.youtube}
-​
-## Discord Nitro Brew
-Discord Nitro Brew was Discord's 2017 April Fool's Joke.
-​
+
+## Discord Nitro Buatan
+Discord Nitro Buatan merupakan candaan April Fool Discord 2017.
+
 [video](https://www.youtube.com/watch?v=9Z4GW6Vd6NI){.youtube}
-​
-​
-# More Information
-More information can be found on Nitro at http://discordapp.com/nitro, or by accessing the Nitro tab in User Settings. New Nitro games are also announced on the [Discord Blog](https://blog.discordapp.com/).
-Powered by Wiki.js.
-Home
-Return to top
-Hey there, just an FYI: We use cookies on our site for some small stuff, check out discordia.me/meta/cookies for more info!Sounds good!
+
+
+# Informasi Lebih
+Informasi lebih lanjut mengenai Nitro dapat ditemukan di http://discordapp.com/nitro, atau dengan mengakses tab Nitro pada Pengaturan pengguna. Permainan Nitro baru pun diumumkan di [Blog Discord](https://blog.discordapp.com/).
