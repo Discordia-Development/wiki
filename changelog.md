@@ -8,6 +8,7 @@ This is the changelog/release date for major features or significant changes. PT
 * You can now self-publish your games on Discord
 * The Store tab is now the Nitro tab and only features Nitro games and game perks
 * Game servers can now create Store and News channels
+* Added an Activity Feed tab in User Settings which allows you to follow/unfollow games and users
 ## iOS
 * Discord now caches your last session. View your last visited channel and navigate in the app before fully connected
 * GIF autoplay now supported
