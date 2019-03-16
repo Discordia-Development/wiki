@@ -1,8 +1,17 @@
 <!-- TITLE: Changelog -->
-<!-- SUBTITLE: Discord Changelog updated as of 3/2/2019 -->
+<!-- SUBTITLE: Discord Changelog updated as of 3/16/2019 -->
 
 This is the changelog/release date for major features or significant changes. PTB and Canary might have received some features sooner than the date listed below
 
+# 3/15/2019
+## Desktop
+* You can now self-publish your games on Discord
+* The Store tab is now the Nitro tab and only features Nitro games and game perks
+* Game servers can now create Store and News channels
+## iOS
+* Discord now caches your last session. View your last visited channel and navigate in the app before fully connected
+* GIF autoplay now supported
+* Activity Feed news cards now mirror the desktop look
 # 3/1/2019
 ## iOS
 * Revamped Account Settings with the ability to view back-up codes, toggle 2FA and change your discriminator (if you have Discord Nitro)
