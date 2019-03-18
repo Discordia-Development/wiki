@@ -37,6 +37,12 @@ You may obtain any of the HypeSquad House badges by taking the HypeSquad quiz in
 ## HypeSquad Balance
 
 ![HypeSquadbalance](/uploads/badges/hypesquadbalance.png "HypeSquad Balance Badge")
+
+### Gold HypeSquad Balance
+
+The Gold HypeSquad Balance badge was awarded to all HypeSquad Balance members as part of Discord's charity program Snowsgiving. Balance was awarded the golden badge due to them achieving the highest amount of donation money raised. The Balance badge stayed golden until February 3rd, 2019. The badge has also been the only animated badge, with it having a shine every few seconds.
+
+![Gold Balance](/uploads/badges/gold-balance.png "Gold Balance")
 # Discord Bug Hunter
 This badge is obtained by earning it as a [Bug Hunter](/bug-hunters).
 
