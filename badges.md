@@ -11,20 +11,20 @@ If a user has multiple badges, all badges that the user has will appear.
 ![Generalbadges](/uploads/badges/generalbadges.png "A General Overview of Badges")
 
 # Discord Staff
-This badge is issued to all Discord Staff. If someone claims to be Discord Staff and does not have this badge, it is very likely they're impersonating. This badge is one of the only official ways Discord Staff are distinguishable from regular users. 
+This badge is issued to all Discord Staff. The badge distinguishes users from staff members, and prevents impersonation by non-Discord employees.
 
 ![Staffbadge](/uploads/badges/newstaffbadge.png "A Staff Member's Badge")
 
 # Discord Partner
-Discord [Partners](/partner) have the partner badge on their profile. The only way you may obtain this badge is by becoming a Discord Partner. 
+Discord [Partners](/partner) have the Partner badge on their profile. As the Partner perks only go to the server owner, only users that own a Partnered server can receive this badge.
 
 ![Newpartnerbadge](/uploads/badges/newpartnerbadge.png "A Discord Partner Badge")
 # Discord HypeSquad
-Discord [HypeSquad](/hypesquad) Event Attendees and Event Coordinators have the HypeSquad Events badge on their profile. The only way you may obtain this badge is by becoming a Discord HypeSquad Events attendee/coordinator.
+Discord [HypeSquad](/hypesquad) Event Attendees and Event Coordinators have the HypeSquad Events badge on their profile. Only users that are Discord HypeSquad Events attendee/coordinator can receive this badge. 
 
 ![HypeSquadbadge](/uploads/badges/newhypesquadbadge.png "A HypeSquad Event Member's Badge")
 
-You may obtain any of the HypeSquad House badges by taking the HypeSquad quiz in the [Discord settings](https://discordapp.com/settings/hypesquad-online). If you want to join Bravery, answer using the first option for all questions. If you want to join Brilliance use the second option for all questions, and for Balance use the third option. If you want to be randomly assigned to a house use the last option for all questions.
+You can receive any of the HypeSquad House badges by taking the HypeSquad quiz in the [Discord settings](https://discordapp.com/settings/hypesquad-online). If you want to join Bravery, answer using the first option for all questions. If you want to join Brilliance, use the second option for all questions, and for Balance, use the third option. If you want to be randomly assigned to a house, use the last option for all questions.
 
 ## HypeSquad Bravery
 
@@ -44,7 +44,7 @@ The Gold HypeSquad Balance badge was awarded to all HypeSquad Balance members as
 
 ![Gold Balance](/uploads/badges/gold-balance.png "Gold Balance")
 # Discord Bug Hunter
-This badge is obtained by earning it as a [Bug Hunter](/bug-hunters).
+This badge is received by earning it as a [Bug Hunter](/bug-hunters).
 
 ![Bughunterbadge](/uploads/badges/bughunterbadge.png "A Discord Bug Hunter Badge")
 # Discord Nitro
