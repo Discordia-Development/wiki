@@ -25,7 +25,7 @@ Users have created many different libraries that make using the Discord API easi
 * [Discord-rs](https://github.com/SpaceManiac/discord-rs)
 * [Discord4J](https://github.com/austinv11/Discord4J)
 * [Discordcr](https://github.com/meew0/discordcr)
-* [Discordia](https://github.com/SinisterRectus/Discordia) (Not affiliated)
+* [Discordia](https://github.com/SinisterRectus/Discordia) *Not to be confused with https://discordia.me*
 * [Discordie](https://github.com/qeled/discordie)
 * [DiscordGo](https://github.com/bwmarrin/discordgo)
 * [Discordrb](https://github.com/meew0/discordrb)
@@ -38,3 +38,7 @@ Users have created many different libraries that make using the Discord API easi
 * [Serenity](https://github.com/zeyla/serenity)
 * [SwiftDiscord](https://github.com/nuclearace/SwiftDiscord)
 * [Sword](https://github.com/Azoy/Sword)
+
+### Discord-Curated Libraries
+
+Discord has [a list of curated libraries](https://discordapp.com/developers/docs/topics/community-resources#libraries) "that conform to [Discord's] APIs standards around authentication and rate limiting."
