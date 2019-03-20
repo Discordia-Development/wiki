@@ -43,6 +43,12 @@ You can receive any of the HypeSquad House badges by taking the HypeSquad quiz i
 The Gold HypeSquad Balance badge was awarded to all HypeSquad Balance members as part of Discord's charity program Snowsgiving. Balance was awarded the golden badge due to them achieving the highest amount of donation money raised. The Balance badge stayed golden until February 3rd, 2019. The badge has also been the only animated badge, with it having a shine every few seconds.
 
 ![Gold Balance](/uploads/badges/gold-balance.png "Gold Balance")
+
+### King of the Hat HypeSquad Balance
+
+The King of the Hat HypeSquad Balance badge was awarded to all HypeSquad Balance members as part of Discord's King of the Hat HypeSquad Tournament that was [announced](https://medium.com/king-of-the-hat/hat-is-free-this-week-and-this-week-only-v-f9fa0987688b) on February 18th, 2019. This announcement also included news that King of the Hat, which is also a First on Discord game, was free on Discord for that week. On March 19th, 2019, all HypeSquad Balance members were awarded the King of the Hat HypeSquad Badge. The other prize, a desktop computer with a sticker that showed the winner's HypeSquad House, was also awarded to the person who won the tournament between the top 16 players in the HypeSquad tournament. The winner of that prize was the user DPS Abook, who was representing HypeSquad Brilliance.
+
+![Crown Balance](/uploads/badges/crown-balance.png "Crown Balance")
 # Discord Bug Hunter
 This badge is received by earning it as a [Bug Hunter](/bug-hunters).
 
