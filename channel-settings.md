@@ -8,7 +8,17 @@ Channel settings are configurations specific to channels.
 
 ![Channel settings](/uploads/channel-settings/75-da-26-1.gif "Channel settings")
 
-Channel settings can be accessed by hovering over the channel and pressing the gear, or by right-clicking the channel and pressing **Edit Channel**. You must have the **Manage Channel**, **Manage Permissions**, or **Manage Webhooks** permission to be able to access the channel settings menu itself. Members with the **Manage Channel** permission can also delete the channel.
+Channel settings can be accessed by hovering over the channel and pressing the gear <img src="/uploads/icons/settings.png" alt="settings" width="25" height="25"/> , or by right-clicking the channel and pressing **Edit Channel**. You must have the **Manage Channel**, **Manage Permissions**, or **Manage Webhooks** permission to be able to access the channel settings menu itself. Members with the **Manage Channel** permission can also delete the channel.
+
+## Channel Types
+
+* **Text Channels** <img src="/uploads/icons/channel.png" alt="channel" width="25" height="25"/> allow users to send messages and images (if permissions allow them to).
+	* Locked Text Channels <img src="/uploads/icons/locked-channel.png" alt="locked-channel" width="25" height="25"/>
+	* NSFW Text Channels <img src="/uploads/icons/nsfw-channel.png" alt="nsfw-channel" width="25" height="25"/> allow users to send NSFW content. NSFW content being sent in channels that are not marked NSFW violate Discord's [Community Guidelines](https://discordapp.com/guidelines).
+* **Voice Channels** <img src="/uploads/icons/voice-channel.png" alt="voice-channel" width="25" height="25"/> allow users to talk with their microphone (if permissions allow them to)
+	* Locked Voice Channel <img src="/uploads/icons/locked-voice-channel.png" alt="locked-voice-channel" width="36" height="36"/>
+* A **Store Channel** <img src="/uploads/icons/store-channel.png" alt="store-channel" width="36" height="36"/> is a channel type only available on Verified Servers. You can only have one Store Channel ina server
+* A **News Channel** <img src="/uploads/icons/news-channel.png" alt="news-channel" width="36" height="36"/> is a channel type only available on Verified Servers. These channels allow users to view news about your game, and news posted here will be put in the Activity Feeds of players.
 
 # Tabs
 
