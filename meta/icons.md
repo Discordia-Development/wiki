@@ -16,6 +16,8 @@
 * NSFW Channel - <img src="/uploads/icons/nsfw-channel.png" alt="nsfw-channel" width="36" height="36"/> `<img src="/uploads/icons/nsfw-channel.png" alt="nsfw-channel" width="36" height="36"/>`
 * Voice Channel - <img src="/uploads/icons/voice-channel.png" alt="voice-channel" width="36" height="36"/> `<img src="/uploads/icons/voice-channel.png" alt="voice-channel" width="36" height="36"/>`
 * Locked Voice Channel - <img src="/uploads/icons/locked-voice-channel.png" alt="locked-voice-channel" width="36" height="36"/> `<img src="/uploads/icons/locked-voice-channel.png" alt="locked-voice-channel" width="36" height="36"/>`
+* Store Channel - <img src="/uploads/icons/store-channel.png" alt="store-channel" width="36" height="36"/> `<img src="/uploads/icons/store-channel.png" alt="store-channel" width="36" height="36"/>`
+* News Channel - <img src="/uploads/icons/news-channel.png" alt="news-channel" width="36" height="36"/> `<img src="/uploads/icons/news-channel.png" alt="news-channel" width="36" height="36"/>`
 * Pins - <img src="/uploads/icons/pins.png" alt="pins" width="36" height="36"/> `<img src="/uploads/icons/pins" alt="pins" width="36" height="36"/>`
 
 ## Badges
