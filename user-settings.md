@@ -5,10 +5,10 @@ The following settings are available to Discord users. *Note: Some of these sett
 # Online Status
 You may change your online status by clicking on your profile picture on the user settings bar located on the bottom left of the Discord application. A user's online status displayed by the dot that is on their profile picture on the userlist. If the user is offline (or invisible) they are not displayed with a dot or on the online userlist. You have the ability to change your online status to the following options:
 
-* Online - Default <img src="/uploads/icons/online.png" alt="online" width="20" height="20"/>
-* Idle - Indicates that you are not actively on Discord or replying/reading messages. You will still receive notifications. <img src="/uploads/icons/idle.png" alt="idle" width="20" height="20"/>
-* Do Not Disturb - Indicates you are busy. You will not receive desktop notifications. <img src="/uploads/icons/dnd.png" alt="dnd" width="20" height="20"/>
-* Invisible - Displays you as offline to everyone else but you still receive desktop notifications and have full access to Discord. <img src="/uploads/icons/offline.png" alt="offline" width="20" height="20"/> on your own screen, no dot on other users' screens (since you’re displayed as offline).
+* Online - Default <img src="/uploads/icons/online.png" alt="online" width="18" height="18"/>
+* Idle - Indicates that you are not actively on Discord or replying/reading messages. You will still receive notifications. <img src="/uploads/icons/idle.png" alt="idle" width="18" height="18"/>
+* Do Not Disturb - Indicates you are busy. You will not receive desktop notifications. <img src="/uploads/icons/dnd.png" alt="dnd" width="18" height="18"/>
+* Invisible - Displays you as offline to everyone else but you still receive desktop notifications and have full access to Discord. <img src="/uploads/icons/offline.png" alt="offline" width="18" height="18"/> on your own screen, no dot on other users' screens (since you’re displayed as offline).
 
 To access the main settings, click the cog icon <img src="/uploads/icons/settings.png" alt="settings" width="25" height="25"/> on the bottom left of the application.
 
