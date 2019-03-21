@@ -31,9 +31,9 @@ The next section allows you to choose who can add you as a friend, which can be 
 
 The lower section of this tab allows you to control how Discord uses your data, such as in analytics, and to customise certain parts of the application for you. You can [Request a copy of your data](/data-request) every 30 days.
 
-## Authorised Apps
+## Authorized Apps
 
-In this tab you can see any [bot applications](/bots) that you've authorised to use your data on Discord. You can deauthorise any of these applications at any time.
+In this tab, you can see any [bot applications](/bots) that you've authorised to use your data on Discord. You can deauthorize any of these applications at any time.
 
 ## Connections
 This tab allows you to review the various account connections you have enabled on your account. More information can be found on the [Connections](/connections) page.
