@@ -25,7 +25,7 @@ Permissions are divided between General Permissions, Text Permissions, and Voice
 
 * The **View Audit Log** permission allows a user to view the server's audit logs.
 
-* **Manage Server** allows a user to edit the server name, server icon, voice region, and the verification level. 
+* **Manage Server** allows a user to edit the server name, server icon, voice region, and the verification level. This permission also allows users to invite bots.
 
 * **Manage Roles** allows a user to access the roles menu, and edit roles below their highest role. Users cannot take or give permissions they do not have.
 
