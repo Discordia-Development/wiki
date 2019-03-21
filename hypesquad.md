@@ -23,7 +23,7 @@ Discord has 3 HypeSquad houses that you can be a part of, named Bravery, Brillia
 
 * House Character: Renwil (Frog)
 * House Color (HEX): #9C84EF
-* House Badge: <img src="/uploads/icons/hs-bravery.png" alt="hs-bravery" width="12" height="12"/>
+* House Badge: <img src="/uploads/icons/hs-bravery.png" alt="hs-bravery" width="25" height="25"/>
 
 > The universe needs people to lead the charge with confident optimism and tenacity. Without the brave, the HypeSquad would descend into chaos.
 
@@ -31,7 +31,7 @@ Discord has 3 HypeSquad houses that you can be a part of, named Bravery, Brillia
 
 * House Character: Urdim (Bear)
 * House Color(HEX): #F47B67
-* House Badge: <img src="/uploads/icons/hs-brilliance.png" alt="hs-brilliance" width="12" height="12"/>
+* House Badge: <img src="/uploads/icons/hs-brilliance.png" alt="hs-brilliance" width="25" height="25"/>
 
 > It takes patience and discipline to become a vital member of the universe. Without brilliance, the HypeSquad would descend into chaos.
 
@@ -39,7 +39,7 @@ Discord has 3 HypeSquad houses that you can be a part of, named Bravery, Brillia
 
 * House Character: Arame (Squirrel)
 * House Color (HEX): #45DDC0
-* House Badge: <img src="/uploads/icons/hypesquad.png" alt="hypesquad" width="12" height="12"/>
+* House Badge: <img src="/uploads/icons/hypesquad.png" alt="hypesquad" width="25" height="25"/>
 
 > Harmony and poise are necessary to create equilibrium in the universe. Without balance, the HypeSquad would descend into chaos.
 
