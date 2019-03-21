@@ -3,4 +3,5 @@
 
 # List of Icons
 
-* 
+* Discordia | Blue - <img src="discordia-blue.png" alt="discordia-blue" width="12" height="12"/> `<img src="discordia-blue.png" alt="discordia-blue" width="12" height="12"/>`
+* Discordia | White
