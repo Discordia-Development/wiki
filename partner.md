@@ -7,7 +7,7 @@
 <td colspan="2" style="background-color:#4087ED; text-align:center">Discord Partner</td>
 </tr>
 <tr>
-<td colspan="2" style="text-align:center"><img src="https://cdn.discordapp.com/emojis/340386793041952770.png?v=1" alt="partner"></td>
+<td colspan="2" style="text-align:center"><img src="/uploads/icons/partner.png" alt="partner" width="256" height="256"/>
 </tr>
 <tr>
 <td>Permanent:</td>
