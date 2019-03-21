@@ -23,7 +23,7 @@
 * Discord Staff - <img src="/uploads/icons/discord-staff.png" alt="discord-staff" width="36" height="36"/> `<img src="/uploads/icons/discord-staff.png" alt="discord-staff" width="36" height="36"/>`
 * Partner - <img src="/uploads/icons/partner.png" alt="partner" width="36" height="36"/> `<img src="/uploads/icons/partner.png" alt="partner" width="36" height="36"/>`
 * HypeSquad - <img src="/uploads/icons/hypesquad.png" alt="hypesquad" width="36" height="36"/> `<img src="/uploads/icons/hypesquad.png" alt="hypesquad" width="36" height="36"/>`
-* HypeSquad Balance - <img src="/uploads/icons/hs-balance.png" alt="hs-balance" width="36" height="36"/> `<img src="/uploads/icons/hypesquad.png" alt="hypesquad" width="36" height="36"/>`
+* HypeSquad Balance - <img src="/uploads/icons/hs-balance.png" alt="hs-balance" width="36" height="36"/> `<img src="/uploads/icons/hs-balance.png" alt="hs-balance" width="36" height="36"/>`
 * HypeSquad Bravery - <img src="/uploads/icons/hs-bravery.png" alt="hs-bravery" width="36" height="36"/> `<img src="/uploads/icons/hs-bravery.png" alt="hs-bravery" width="36" height="36"/>`
 * HypeSquad Brilliance - <img src="/uploads/icons/hs-brilliance.png" alt="hs-brilliance" width="36" height="36"/> `<img src="/uploads/icons/hs-brilliance.png" alt="hs-brilliance" width="36" height="36"/>`
 * HypeSquad Balance | King of the Hat - <img src="/uploads/icons/koth-balance.png" alt="koth-balance" width="36" height="36"/> `<img src="/uploads/icons/koth-balance.png" alt="koth-balance" width="36" height="36"/>`
