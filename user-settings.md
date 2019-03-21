@@ -114,7 +114,7 @@ You may also toggle the following preferences for when Streamer Mode is activate
 On the Language tab, you may change the language of your Discord client by clicking on the language menu. Only fully translated languages are available. Some languages are still be worked on, which may be viewed [here](https://i18n.discordapp.com).
 
 ## Windows Settings
-Windows only, for obvious reasons.
+Settings specific to the Windows desktop app.
 
 Here you can choose to open Discord on startup, whether it should be minimised on startup, and the behaviour of the Close button when it is clicked.
 
