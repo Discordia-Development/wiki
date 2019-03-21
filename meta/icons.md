@@ -30,6 +30,7 @@
 * HypeSquad Balance | Snowsgiving - <img src="/uploads/icons/snowsgiving-balance.png" alt="snowsgiving-balance" width="36" height="36"/> `<img src="/uploads/icons/snowsgiving-balance.png" alt="snowsgiving-balance" width="36" height="36"/>`
 * Bug Hunter - <img src="/uploads/icons/bug-hunter.png" alt="bug-hunter" width="36" height="36"/> `<img src="/uploads/icons/bug-hunter.png" alt="bug-hunter" width="36" height="36"/>`
 * Nitro - <img src="/uploads/icons/nitro.png" alt="nitro" width="36" height="36"/> `<img src="/uploads/icons/nitro.png" alt="nitro" width="36" height="36"/> `
+* Early Supporter - <img src="/uploads/icons/early-supporter.png" alt="early-supporter" width="36" height="36"/> `<img src="/uploads/icons/early-supporter.png" alt="early-supporter" width="36" height="36"/>`
 
 ## UI
 
