@@ -7,7 +7,7 @@
 <td colspan="2" style="background-color:#4087ED; text-align:center">Discord Partner</td>
 </tr>
 <tr>
-<td colspan="2" style="text-align:center"><img src="/uploads/icons/partner.png" alt="partner" width="100" height="100"/>
+<td colspan="2" style="text-align:center"><img src="/uploads/icons/partner.png" alt="partner" width="146" height="146"/>
 </tr>
 <tr>
 <td>Permanent:</td>
