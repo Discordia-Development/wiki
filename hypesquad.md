@@ -22,25 +22,26 @@ Discord has 3 HypeSquad houses that you can be a part of, named Bravery, Brillia
 ## Bravery
 
 * House Character: Renwil (Frog)
-* House Colour: Purple (#9C84EF)
+* House Color (HEX): #9C84EF
+* House Badge: <img src="/uploads/icons/hs-bravery.png" alt="hs-bravery" width="36" height="36"/>
 
 > The universe needs people to lead the charge with confident optimism and tenacity. Without the brave, the HypeSquad would descend into chaos.
 
 ## Brilliance
 
 * House Character: Urdim (Bear)
-* House Color: Orange (#F47B67)
+* House Color(HEX): #F47B67
+* House Badge: <img src="/uploads/icons/hs-brilliance.png" alt="hs-brilliance" width="36" height="36"/>
 
 > It takes patience and discipline to become a vital member of the universe. Without brilliance, the HypeSquad would descend into chaos.
 
 ## Balance
 
 * House Character: Arame (Squirrel)
-* House Color: Teal (#45DDC0)
+* House Color (HEX): #45DDC0
+* House Badge: <img src="/uploads/icons/hypesquad.png" alt="hypesquad" width="36" height="36"/>
 
 > Harmony and poise are necessary to create equilibrium in the universe. Without balance, the HypeSquad would descend into chaos.
-
-
 
 # HypeSquad Perks
 Each tier includes the same benefits as the previous ones.
