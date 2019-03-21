@@ -1,7 +1,20 @@
 <!-- TITLE: HypeSquad -->
 <!-- SUBTITLE: Are you Hyped? Because I'm feeling super duper hyped to tell you about this really cool thing! -->
 
-![Hypesquadsmall](/uploads/hypesquad/hypesquadsmall.png "Full HypeSquad Badge")
+<table style="width:250px; border:1px solid black; float:center">
+<tr>
+<td colspan="2" style="background-color:#F9A532; text-align:center">Discord HypeSquad</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><img src="/uploads/icons/hypesquad.png" alt="hypesquad" width="146" height="146"/>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>Requirement:</td>
+<td>Answering the "personality test" found in User Settings <img src="/uploads/icons/settings.png" alt="settings" width="25" height="25"/></td>
+</tr>
+</table> 
 
 The Discord HypeSquad are members of the Discord community selected to rep the service online, and at events around the world. Consider Discord HypeSquad members as ambassadors for Discord. 
 Discord has 3 HypeSquad houses that you can be a part of, named Bravery, Brilliance, and Balance. Your house is chosen through a personality test you can find in the [client](https://discordapp.com/settings/hypesquad-online).
