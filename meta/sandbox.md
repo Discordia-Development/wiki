@@ -1,5 +1,8 @@
 # Sandbox
 
+
+![Discordia Blue](/uploads/icons/discordia-blue.png "Discordia Blue")
+
 Away <img src="https://cdn.discordapp.com/emojis/464520569862357002.png?v=1" width="20" height="20">
 
 <table style="width:250px; border:1px solid black; float:left">
