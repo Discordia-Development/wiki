@@ -39,7 +39,7 @@ Discord has 3 HypeSquad houses that you can be a part of, named Bravery, Brillia
 
 * House Character: Arame (Squirrel)
 * House Color (HEX): #45DDC0
-* House Badge: <img src="/uploads/icons/hs-balance.png" alt="hs-balance" width="36" height="36"/>
+* House Badge: <img src="/uploads/icons/hs-balance.png" alt="hs-balance" width="25" height="25"/>
 
 > Harmony and poise are necessary to create equilibrium in the universe. Without balance, the HypeSquad would descend into chaos.
 
