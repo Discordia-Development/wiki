@@ -10,7 +10,7 @@ You may change your online status by clicking on your profile picture on the use
 * Do Not Disturb - Indicates you are busy. You will not receive desktop notifications. <img src="/uploads/icons/dnd.png" alt="dnd" width="20" height="20"/>
 * Invisible - Displays you as offline to everyone else but you still receive desktop notifications and have full access to Discord. <img src="/uploads/icons/offline.png" alt="offline" width="20" height="20"/> on your own screen, no dot on other users' screens (since you’re displayed as offline).
 
-To access the main settings, click the cog icon on the bottom left of the application.
+To access the main settings, click the cog icon <img src="/uploads/icons/settings.png" alt="settings" width="25" height="25"/>on the bottom left of the application.
 
 Each option is divided into a section below.
 # Tabs
