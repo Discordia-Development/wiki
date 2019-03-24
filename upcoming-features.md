@@ -28,11 +28,8 @@ This is a list of features that will be occasionally updated with information ab
 ## Android
 | Feature | Status |
 |---------|--------|
-| Change Discord Tag (Nitro) | Available on Android Alpha |
 | Compress Image Toggle | Planned |
 | Game Detection | In Development |
-| Manage 2FA | Available on Android Alpha |
-| Manage Emojis | Available on Android Alpha |
 | Nitro In-App Purchase | Available on Android Alpha |
 | Screensharing | Planned |
 | Video Embeds | Planned |
