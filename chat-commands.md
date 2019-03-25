@@ -20,5 +20,6 @@ These slash commands are only available on the Desktop and iOS apps. Unfortunate
 * `/me <a message here>` : Outputs your message in italics, in the style of IRC. Identical to just surrounding your message with `*<a message here>*` (`*` for italics)
 * `/nick <new nickname>` : Changes your nickname on the server to what you place after the command. Requires "Change Nickname" permissions on the server.
 * `/tenor <search query>` and `/giphy <search query>` : Searches animated gifs on the web, using those 2 websites.
+* `/spoiler <message to be spoiled>`: Puts anything after the slash command in a spoiler. If nothing is put after the command it will send `||||`.
 
 > When `<something>` is used, it's indicative that you can put any string in there, excluding the `<>`. Aka it's a "placeholder".
