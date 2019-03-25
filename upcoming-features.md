@@ -30,7 +30,6 @@ This is a list of features that will be occasionally updated with information ab
 |---------|--------|
 | Compress Image Toggle | Planned |
 | Game Detection | In Development |
-| Nitro In-App Purchase | Available on Android Alpha |
 | Screensharing | Planned |
 | Video Embeds | Planned |
 
