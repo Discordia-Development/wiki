@@ -3,11 +3,12 @@
 
 This is the changelog/release date for major features or significant changes. PTB and Canary might have received some features sooner than the date listed below
 
-# 3/23/2019
+# 3/24/2019
 ## Android
 * Revamped Account Settings with the ability to view back-up codes, toggle 2FA and change your discriminator (if you have Discord Nitro)
 * You can now add, delete and rename emojis
 * You can now delete reactions from messages, if you have the permissions to do so
+* You can now purchase Nitro and manage billing on mobile
 # 3/15/2019
 ## Desktop
 * You can now self-publish your games on Discord
