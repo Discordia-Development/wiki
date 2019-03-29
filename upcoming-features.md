@@ -22,7 +22,7 @@ This is a list of features that will be occasionally updated with information ab
 |---------|---------|
 | 3D Touch Support | Planned |
 | Jump to Message | Planned |
-| Nitro In-App Purchase | Available on iOS TestFlight |
+| Nitro In-App Purchase | In Development |
 | Rich Push Notifications | Planned |
 
 ## Android
