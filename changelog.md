@@ -1,8 +1,13 @@
 <!-- TITLE: Changelog -->
-<!-- SUBTITLE: Discord Changelog updated as of 3/24/2019 -->
+<!-- SUBTITLE: Discord Changelog updated as of 4/9/2019 -->
 
 This is the changelog/release date for major features or significant changes. PTB and Canary might have received some features sooner than the date listed below
 
+# 4/9/2019
+## iOS
+* GIF autoplay now no longer plays audio.
+* GIF autoplay now no longer tries to interrupt or mix audio with other apps.
+* GIF autoplay now no longer slows down the chat experience by lowering CPU and battery usages.
 # 3/24/2019
 ## Android
 * Revamped Account Settings with the ability to view back-up codes, toggle 2FA and change your discriminator (if you have Discord Nitro)
