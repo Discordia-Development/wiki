@@ -15,7 +15,7 @@ This is a list of features that will be occasionally updated with information ab
 | Keyboard Navigation | In Development |
 | Permissions Preview Tool | Planned |
 | Redesigned Activity Feed | Gradually Rolling Out |
-| Server Screen Sharing | In Development |
+| Server Screen Sharing/Streaming | In Development |
 
 ## iOS
 | Feature | Status	|
