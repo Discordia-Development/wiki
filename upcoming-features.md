@@ -14,7 +14,6 @@ This is a list of features that will be occasionally updated with information ab
 | Dyslexia Font | Planned |
 | Keyboard Navigation | In Development |
 | Permissions Preview Tool | Planned |
-| Redesigned Activity Feed | Gradually Rolling Out |
 | Server Screen Sharing/Streaming | In Development |
 
 ## iOS
@@ -22,7 +21,7 @@ This is a list of features that will be occasionally updated with information ab
 |---------|---------|
 | 3D Touch Support | Planned |
 | Jump to Message | Planned |
-| Nitro In-App Purchase | In Development |
+| Nitro In-App Purchase | Gradually Rolling Out |
 | Rich Push Notifications | Planned |
 
 ## Android
