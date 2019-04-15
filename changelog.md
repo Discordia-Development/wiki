@@ -1,8 +1,11 @@
 <!-- TITLE: Changelog -->
-<!-- SUBTITLE: Discord Changelog updated as of 4/9/2019 -->
+<!-- SUBTITLE: Discord Changelog updated as of 4/15/2019 -->
 
 This is the changelog/release date for major features or significant changes. PTB and Canary might have received some features sooner than the date listed below
 
+# 4/14/2019
+## iOS
+* You can now purchase Nitro on mobile
 # 4/9/2019
 ## iOS
 * GIF autoplay now no longer plays audio.
