@@ -21,7 +21,6 @@ This is a list of features that will be occasionally updated with information ab
 |---------|---------|
 | 3D Touch Support | Planned |
 | Jump to Message | Planned |
-| Nitro In-App Purchase | Gradually Rolling Out |
 | Rich Push Notifications | Planned |
 
 ## Android
