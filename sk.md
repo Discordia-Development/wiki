@@ -18,8 +18,8 @@ Discord Wiki nie je nijako spojený s Discordom. My len pomáhame uživateľom D
 
 ## Wiki personál
 > ***Wiki Administrátori***
+*Zodpovedný za správu Discord Wiki a ich podporný server.*
 
-* Zodpovedný za správu Discord Wiki a ich podporný server.*
 * Mikesky#0001 (Systémový administrátor, spravuje backend všetkých služieb od Wiki)
 * SleepaDru#7700 (Systémový administrátor, spravuje backend všetkých služieb od Wiki)
 * Harrison#9100
