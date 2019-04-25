@@ -17,7 +17,7 @@ Vítejte na naší stránce! Jsme Discord Wiki! Jsme hrdí na to, že jsme jedn�
 * Mikesky#0001 (systémový administrátor, spravuje backend všech služeb od Wiki)
 * SleepaDru#7700 (systémový administrátor, spravuje backend všech služeb od Wiki)
 * Harrison#9100
-* kwando aka ハンイット ★★★★#1313
+* kwando aka 黒澤ルビィ ★★★★#1313
 * Tiemen#0001
 * cats#5485
 
@@ -34,11 +34,11 @@ Vítejte na naší stránce! Jsme Discord Wiki! Jsme hrdí na to, že jsme jedn�
 * Anaís#4719 - Španělština
 * Cherno#9465 - Japonština
 * Comi#2319 - Francouzština
-* Cyon aka FOR3VER#2469 - Korejština, čínština
+* Cyon aka Fᴏʀᴇᴠᴇʀ#2469 - Korejština, čínština
 * D_EaN * STS#0105 - Maďarština
 * Daan#1337 - Holandština
-* Dann#4900 - Rumunština
-* deframet#0707 - Italština
+* Dann#3477 - Rumunština
+* deframet#0001 - Italština
 * Disegual#4088 - Italština
 * Elebier#8347 - Španělština
 * erykol#8141 - Polština
@@ -46,7 +46,7 @@ Vítejte na naší stránce! Jsme Discord Wiki! Jsme hrdí na to, že jsme jedn�
 * Harfeur#3633 - Francouzština
 * Immotay#0001 - Brazilská portugalština
 * Ishidres#0001 - Němčina
-* Janik#0001 - Slovenština
+* janik ツ#6081 - Slovenština
 * jcuenin#7650 - Francouzština
 * Justman#0150 - Ruština
 * Lireoy#4444 - Maďarština
