@@ -1,8 +1,14 @@
 <!-- TITLE: Changelog -->
-<!-- SUBTITLE: Discord Changelog updated as of 4/15/2019 -->
+<!-- SUBTITLE: Discord Changelog updated as of 4/26/2019 -->
 
 This is the changelog/release date for major features or significant changes. PTB and Canary might have received some features sooner than the date listed below
 
+# 4/25/2019
+* Font scaling
+* If you turn off animated emoji, the emoji picker won't animate them anymore
+* Updating language now is buttery smooth
+* You can delete and disable your account from within the app now
+* Bug fixes on Account screens and some performance improvements
 # 4/14/2019
 ## iOS
 * You can now purchase Nitro on mobile
