@@ -23,7 +23,7 @@ Nariai sukūrė daug skirtingų bibliotekų, kurie paverčia naudojimąsi Discor
 * [Discord-rs](https://github.com/SpaceManiac/discord-rs)
 * [Discord4J](https://github.com/austinv11/Discord4J)
 * [Discordcr](https://github.com/meew0/discordcr)
-* [Discordia](https://github.com/SinisterRectus/Discordia) *Not to be confused with https://discordia.me*
+* [Discordia](https://github.com/SinisterRectus/Discordia) *Nesusimaišykite su https://discordia.me*
 * [Discordie](https://github.com/qeled/discordie)
 * [DiscordGo](https://github.com/bwmarrin/discordgo)
 * [Discordrb](https://github.com/meew0/discordrb)
