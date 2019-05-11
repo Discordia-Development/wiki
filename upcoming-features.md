@@ -12,7 +12,7 @@ This is a list of features that will be occasionally updated with information ab
 |---------|---------|
 | Block Quotes | Planned |
 | Dyslexia Font | Planned |
-| Go Live | In Development |
+| Go Live | In Internal Testing |
 | Keyboard Navigation | In Development |
 | Nitro Server Boosts | In Internal Testing |
 | Permissions Preview Tool | Planned |
