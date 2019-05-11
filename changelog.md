@@ -1,9 +1,15 @@
 <!-- TITLE: Changelog -->
-<!-- SUBTITLE: Discord Changelog updated as of 4/26/2019 -->
+<!-- SUBTITLE: Discord Changelog updated as of 5/11/2019 -->
 
 This is the changelog/release date for major features or significant changes. PTB and Canary might have received some features sooner than the date listed below
 
+# 5/10/2019
+## iOS
+* Updated the interfaces of in-app notifications, native notifications and the pin and delete message modals
+* CallKit integration for Direct Messages
+* The Call and Search buttons have switched places in DMs
 # 4/25/2019
+## Android
 * Font scaling
 * If you turn off animated emoji, the emoji picker won't animate them anymore
 * Updating language now is buttery smooth
