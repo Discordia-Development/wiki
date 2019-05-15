@@ -52,7 +52,7 @@ The Discord Wiki is not affiliated with Discord. We're just here to help Discord
 * Harfeur#3633 - French
 * Immotay#0001 - Brazilian-Portuguese
 * Ishidres#0001 - German
-* 𝓳𝓪𝓷𝓲𝓴 🌻#0048 - Slovakian
+* janik ✨#0009 - Slovakian
 * jcuenin#7650 - French
 * Justman#0150 - Russian
 * Lireoy#4444 - Hungarian
