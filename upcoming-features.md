@@ -14,7 +14,7 @@ This is a list of features that will be occasionally updated with information ab
 | Dyslexia Font | Planned |
 | Go Live | In Internal Testing |
 | Keyboard Navigation | In Development |
-| Nitro Server Boosts | In Internal Testing |
+| Nitro Server Boosts | Gradually Rolling Out |
 | Permissions Preview Tool | Planned |
 
 ## iOS
