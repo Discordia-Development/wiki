@@ -30,6 +30,5 @@ This is a list of features that will be occasionally updated with information ab
 | Compress Image Toggle | Planned |
 | Game Detection | In Development |
 | Screensharing | Planned |
-| Video Embeds | Planned |
 
 > Disclaimer: These are unreleased features and they might change before they are released to Canary/Android Alpha/TestFlight users. They might not be released at all, and ETAs are not available.
