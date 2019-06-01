@@ -1,8 +1,17 @@
 <!-- TITLE: Changelog -->
-<!-- SUBTITLE: Discord Changelog updated as of 5/11/2019 -->
+<!-- SUBTITLE: Discord Changelog updated as of 6/1/2019 -->
 
 This is the changelog/release date for major features or significant changes. PTB and Canary might have received some features sooner than the date listed below
 
+# 5/30/2019
+## iOS
+* Lots of performance improvements
+# 5/14/2019
+## Android
+* You can now long press on urls in chat to copy, share, or open in a browser
+* Performance improvements to make things run smoother
+* Embeds in chat refreshed
+* Status icons are more than just circles, they have their own quirks and shapes now
 # 5/10/2019
 ## iOS
 * Updated the interfaces of in-app notifications, native notifications and the pin and delete message modals
