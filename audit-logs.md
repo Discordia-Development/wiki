@@ -2,7 +2,7 @@
 title: Audit Logs
 description: Information about Discord's Audit Logs
 published: true
-date: 2019-06-03T20:48:03.327Z
+date: 2019-06-03T20:49:28.351Z
 tags: 
 ---
 
@@ -44,4 +44,4 @@ And, in case you're trying to find a specific action, or an action done by a spe
 
 ![Audit Logs 4](/audit-logs/audit-logs-4.png "Audit Logs 4")
 
-Once you're finished viewing all the Audit Logs you want to see, you can either click the circle with the X in it, or hit the Escape (Esc) key.
+Once you're finished viewing all the Audit Logs you want to see, you can either click the circle with the X in it, or hit the Escape <kbd>Esc</kbd> key.
