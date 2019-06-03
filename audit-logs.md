@@ -2,7 +2,7 @@
 title: Audit Logs
 description: Information about Discord's Audit Logs
 published: true
-date: 2019-06-03T20:49:28.351Z
+date: 2019-06-03T20:49:46.977Z
 tags: 
 ---
 
