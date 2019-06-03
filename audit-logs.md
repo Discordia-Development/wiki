@@ -1,5 +1,10 @@
-<!-- TITLE: Audit Logs -->
-<!-- SUBTITLE: Information about Discord's Audit Logs -->
+---
+title: Audit Logs
+description: Information about Discord's Audit Logs
+published: true
+date: 2019-06-03T20:45:43.824Z
+tags: 
+---
 
 Ever wonder who created a new channel on your server? Or who the person who banned a troublesome user was? Have no fear, Audit Logs are here to tell you who did what on your servers!
 
