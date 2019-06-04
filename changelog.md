@@ -1,8 +1,10 @@
 <!-- TITLE: Changelog -->
-<!-- SUBTITLE: Discord Changelog updated as of 6/1/2019 -->
+<!-- SUBTITLE: Discord Changelog updated as of 6/4/2019 -->
 
 This is the changelog/release date for major features or significant changes. PTB and Canary might have received some features sooner than the date listed below
 
+# 6/4/2019
+* Nitro Server Boosting
 # 5/30/2019
 ## iOS
 * Lots of performance improvements
