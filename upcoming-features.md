@@ -15,6 +15,7 @@ This is a list of features that will be occasionally updated with information ab
 | Go Live | In Internal Testing |
 | Keyboard Navigation | In Development |
 | Permissions Preview Tool | Planned |
+| Separate Server Boost Subscriptions | Planned |
 
 ## iOS
 | Feature | Status	|
