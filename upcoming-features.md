@@ -11,6 +11,7 @@ This is a list of features that will be occasionally updated with information ab
 | Feature |	Status |
 |---------|---------|
 | Block Quotes | Planned |
+| Custom Statuses | In Internal Testing |
 | Dyslexia Font | Planned |
 | Go Live | In Internal Testing |
 | Keyboard Navigation | In Development |
