@@ -46,7 +46,7 @@ Vítejte na naší stránce! Jsme Discord Wiki! Jsme hrdí na to, že jsme jedn�
 * Harfeur#3633 - Francouzština
 * Immotay#0001 - Brazilská portugalština
 * Ishidres#0001 - Němčina
-* janik ツ#6081 - Slovenština
+* janik#0002 - Slovenština
 * jcuenin#7650 - Francouzština
 * Justman#0150 - Ruština
 * Lireoy#4444 - Maďarština
@@ -80,7 +80,7 @@ Vítejte na naší stránce! Jsme Discord Wiki! Jsme hrdí na to, že jsme jedn�
 
 > ***Patroni***
 
-*Velké díky patří všem našim podporovatelům na [Patreon](https://www.patreon.com/TheDiscordWiki)!*
+*Velké díky patří všem našim podporovatelům na službě [Patreon](https://www.patreon.com/TheDiscordWiki)!*
 
 * Wynran#1337
 * Saphir#0001
