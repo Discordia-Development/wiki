@@ -4,7 +4,7 @@
 Încărcarea liniilor este o caracteristică pentru versiunile Desktop și iOS ale discordanței. Acestea vor afișa o vorbă, de obicei o referință pentru joc video, împreună cu cuvintele "Încărcare", până când discordanța se termină încărcarea și apoi se va spune "Gata". Acestea sunt, de asemenea, afișate atunci când discordanța se actualizează.
 
 # Lista liniilor de încărcare
-| Linie |	Explicare |
+| Linie |	Explicație |
 |---------|---------|
 | Wobbling to 299% | Reference to "wobbling" in Super Smash Bros. Melee. |
 | DISCORD NECESITĂ MAI MULTE MINEREURI | Se referă la un memento în Starcraft care anunță jucătorilor resursele insuficiente. |
