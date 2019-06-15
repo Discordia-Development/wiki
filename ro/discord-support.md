@@ -1,4 +1,4 @@
-<!-- TITLE: Discord Support -->
+<!-- TITLE: [RO] Discord Support -->
 <!-- SUBTITLE: Servere comunitare de asistență Discord -->
 # Rute oficiale de sprijin și informații
 ## Servere oficiale
