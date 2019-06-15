@@ -1,4 +1,4 @@
-<!-- TITLE: Tag-urile Discord -->
+<!-- TITLE: [RO] Tag-urile Discord -->
 <!-- SUBTITLE: Informații despre tag-urile Discord -->
 
 # Tag-urile Discord
