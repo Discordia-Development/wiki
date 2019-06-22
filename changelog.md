@@ -1,8 +1,27 @@
 <!-- TITLE: Changelog -->
-<!-- SUBTITLE: Discord Changelog updated as of 6/4/2019 -->
+<!-- SUBTITLE: Discord Changelog updated as of 6/22/2019 -->
 
 This is the changelog/release date for major features or significant changes. PTB and Canary might have received some features sooner than the date listed below
 
+# 6/21/2019
+## iOS
+* You can now toggle between speaker and non-speaker mode in DM/Group calls
+* Initial app start loads faster now
+* Fixed GIF autoplay bug that was causing the app to crash
+* iOS 10 users can now accept incoming calls via PushKit
+# 6/17/2019
+## iOS
+* Viewing embedded images and GIFs is now more pleasant; a cleaner look with added performance buffs
+* New updated UI for channel list colors for easy-on-the-eyes accessibility
+* More haptic feedback was added on things like message long press
+* All sounds from desktop now play on your phone such as joining voice channels or Push to Talk
+* Messages now load faster as you scroll through history
+* CallKit properly tracks time on call for outgoing calls
+* Fixed Font scaling for channel list. Discord now matches font settings on your phone.
+* "Unread messages since" should no longer get stuck when coming back from background
+* Voice channels should now properly update their height when people join/leave
+* Picking up call in background now always has audio
+* Video flickering when toggle mute is fixed
 # 6/4/2019
 * Nitro Server Boosting
 # 5/30/2019
