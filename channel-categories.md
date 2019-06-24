@@ -12,11 +12,11 @@ Channel categories are a feature of servers, allowing advanced channel organizat
 ## Channel Categories Usage
 Channel categories can be made either with the right-click context menu, or the server settings drop down.  
 
-![Server dropdown | Create Category](/channel-categories/domxe-7-g-1.png "Server dropdown | Create Category") ![Server right click | Create Category](/channel-categories/giafdxw-1.png "Server right click | Create Category")
+![Server dropdown | Create Category](uploads/channel-categories/domxe-7-g-1.png "Server dropdown | Create Category") ![Server right click | Create Category](uploads/channel-categories/giafdxw-1.png "Server right click | Create Category")
 
 Just as voice channel names, channel category names support spaces and custom characters, such as default emotes. Channel categories also support their own permissions, but will only apply to inside channels if they are synced with the category. 
 
-![Unsynced](/uchannel-categories/b-6-dd-3-jj-1.png "Unsynced")
+![Unsynced](uploads/uchannel-categories/b-6-dd-3-jj-1.png "Unsynced")
 
 The older "Text Channels" and "Voice Channels" are now made into categories on newer created servers, with older servers having no categories at all. The normal default channels (the two General channels that are created) still exist in the same categories, however.
 
