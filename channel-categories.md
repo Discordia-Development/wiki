@@ -16,7 +16,7 @@ Channel categories can be made either with the right-click context menu, or the 
 
 Just as voice channel names, channel category names support spaces and custom characters, such as default emotes. Channel categories also support their own permissions, but will only apply to inside channels if they are synced with the category. 
 
-![Unsynced](uploads/uchannel-categories/b-6-dd-3-jj-1.png "Unsynced")
+![Unsynced](uploads/channel-categories/b-6-dd-3-jj-1.png "Unsynced")
 
 The older "Text Channels" and "Voice Channels" are now made into categories on newer created servers, with older servers having no categories at all. The normal default channels (the two General channels that are created) still exist in the same categories, however.
 
