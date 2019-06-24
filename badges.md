@@ -23,7 +23,7 @@ This badge is issued to all Discord Staff. The badge distinguishes users from st
 # Discord Partner <img src="uploads/icons/partner.png" alt="partner" width="25" height="25"/>
 Discord [Partners](/partner) have the Partner badge on their profile. As the Partner perks only go to the server owner, only users that own a Partnered server can receive this badge.
 
-![Newpartnerbadge](/badges/newpartnerbadge.png "A Discord Partner Badge")
+![Newpartnerbadge](/uploads/badges/newpartnerbadge.png "A Discord Partner Badge")
 
 # Discord HypeSquad <img src="uploads/icons/hypesquad.png" alt="hypesquad" width="25" height="25"/>
 Discord [HypeSquad](/hypesquad) Event Attendees and Event Coordinators have the HypeSquad Events badge on their profile. Only users that are Discord HypeSquad Events attendee/coordinator can receive this badge. 
