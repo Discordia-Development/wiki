@@ -13,7 +13,7 @@ This is a list of features that will be occasionally updated with information ab
 | Block Quotes | Planned |
 | Custom Statuses | Gradually Rolling Out |
 | Dyslexia Font | Planned |
-| Go Live | In Internal Testing |
+| Go Live | Gradually Rolling Out |
 | Keyboard Navigation | In Development |
 | Permissions Preview Tool | Planned |
 | Separate Server Boost Subscriptions | Planned |
