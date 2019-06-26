@@ -11,9 +11,9 @@ Noi suntem The Wiki Discord. Suntem mândri că suntem unul dintre principalii f
 <a href="https://discord.gg/ZRJ9Ghh">![DISCORD EMBED PLUGIN](https://discordapp.com/api/guilds/367460196148183040/widget.png?style=banner2)</a>
 
 ## Declinări și informații legale
-Discord Wiki nu este afiliat cu Discord. Suntem aici pentru a ajuta utilizatorii Discord să descopere informații despre platformă. Suntem credincioși în transparență, așa că înainte de a intra, vă rugăm să aruncați o privire la Termenii și condițiile noastre și Politica noastră de confidențialitate chestiile legale pe care trebuie să le cunoașteți în ceea ce privește serviciile noastre!
+Discord Wiki nu este afiliat cu Discord. Suntem aici pentru a ajuta utilizatorii Discord să descopere informații despre platformă. Suntem credincioși în transparență, așa că înainte de a intra, vă rugăm să aruncați o privire la [Termenii și condițiile](/meta/terms) noastre și [Politica noastră de confidențialitate](/meta/privacy) chestiile legale pe care trebuie să le cunoașteți în ceea ce privește serviciile noastre!
 
-### ***Discord, Discord Ghost (Clyde ™) și Discordapp (Herein DISCORD) sunt proprietatea intelectuală și legală a Discord Inc. Aceste Servicii, așa cum sunt enumerate în Termenii și condițiile nu sunt afiliați cu Discord Inc sau cu oricare dintre filialele sale. Discord Wiki nu pretinde că deține proprietatea intelectuală a DISCORD, vă rog să nu încetați și să renunțați: :^)***
+### ***Discord, Discord Ghost (Clyde ™) și Discordapp (Herein DISCORD) sunt proprietatea intelectuală și legală a Discord Inc. Aceste Servicii, așa cum sunt enumerate în [Termenii și condițiile](/meta/terms) nu sunt afiliați cu Discord Inc sau cu oricare dintre filialele sale. Discord Wiki nu pretinde că deține proprietatea intelectuală a DISCORD, vă rog să nu încetați și să renunțați:***
 
 
 ## Wiki Staff
@@ -34,9 +34,16 @@ Azrael#6867 - Liderul Comunității
 Ghostwolf#0001 - Liderul Translatorilor
 OminousCry#2331 - Liderul Translatorilor
 
+ > **Moderatorii serverului**
+ 
+ *  DowDaw#0309
+ *  Downy#5863
+ *  Ten 🌈#1010
+
 > ***Contribuitorii Wiki***
 
 * alcyneous#2803 - Indoneziană
+* Aleph#7888 - Turcă
 * Anaís#4719 - Spaniolă
 * Comi#2319 - Franceză
 * Cyon aka FOR3VER#2469 - Coreeană, Chineză
@@ -76,7 +83,12 @@ OminousCry#2331 - Liderul Translatorilor
 
 ## Mulţumiri speciale
 
-> ***Donatori***
+> ***Foști contribuitori***
+
+* Ishidres#0001
+* zKiyade
+
+ > ***Donatori***
 
 * Dropbox#0001 - domeniul thediscord.wiki
 
@@ -85,4 +97,5 @@ OminousCry#2331 - Liderul Translatorilor
 *Un imens mulțumesc tuturor suporterilor noștri de pe [Patreon](https://www.patreon.com/TheDiscordWiki)!*
 
 * DowDaw#1339
+* Qaidul#6432
 * Saphir#0001
