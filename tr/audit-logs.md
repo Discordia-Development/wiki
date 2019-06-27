@@ -5,7 +5,7 @@ Hiç sunucunda kimin yeni bir kanal oluşturduğunu merak ettin mi? Ya da kimin 
 # Denetim Kaydını Bulma
 Tamam güzel de nerede bu Denetim Kaydı? [Sunucu Ayarları](/tr/server-settings)'nda "Denetim Kaydı" isminde bir sekme bulunuyor.
 
-![Audit Logs 2](/uploads/audit-logs/audit-logs-2.png "Audit Logs 2")
+![Audit Logs 2](/uploads/tr/denetimkaydi-1.png "Audit Logs 2")
 
 > **NOT:** Denetim Kaydını yalnızca **Denetim Kaydını Görüntüle** veya **Yönetici** yetkisine sahipsen görebilirsin.
 
