@@ -10,7 +10,7 @@ Biz Discord Viki'yiz. Bu güne kadar Discord hakkında öncü bilgi sağlayıcı
 <a href="https://discord.gg/ZRJ9Ghh">![DISCORD EMBED PLUGIN](https://discordapp.com/api/guilds/367460196148183040/widget.png?style=banner2)</a>
 
 ## Sorumluluk Reddi ve Yasal Bilgiler
-Discord Viki'nin Discord ile bir bağlantısı yoktur. Biz sadece Discord kullanıcılarının platform hakkındaki bilgileri keşfetmesine yardım etmek için buradayız. Şeffaflığın büyük hayranlarıyız, o yüzden hemen atlamadan önce servislerimize dair tüm yasal şeyleri bilmen için lütfen [Kullanım Şartları](/meta/terms)'mıza ve [Gizlilik Poliçe](/meta/privacy)'mize bir göz at!
+Discord Viki'nin Discord ile bir bağlantısı yoktur. Biz sadece Discord kullanıcılarının platform hakkındaki bilgileri keşfetmesine yardım etmek için buradayız. Şeffaflığın büyük birer hayranıyız, o yüzden hemen atlamadan önce servislerimize dair tüm yasal şeyleri bilmen için lütfen [Kullanım Şartları](/meta/terms)'mıza ve [Gizlilik Poliçe](/meta/privacy)'mize bir göz at!
 
 ### ***Discord, the Discord Ghost (Clyde), Discordapp ("DISCORD" olarak anılacaktır), ve Discord Nitro, Discord A.Ş.'nin fikirsel ve yasal mülküdür. [Kullanım Şartları](/meta/terms)'ndaki bu servislerin Discord A.Ş. ve onun iştirakleriyle bir bağlantısı bulunmamaktadır. Discord Viki (ing. The Discord Wiki) DISCORD'un herhangi bir fikirsel mülkünde sahiplik iddiasında bulunmaz.***
 
@@ -80,7 +80,7 @@ Discord Viki'nin Discord ile bir bağlantısı yoktur. Biz sadece Discord kullan
 
 ## Ayrıca Teşekkürler
 
-> ***Eski iştirakçiler***
+> ***Eski Katkıda Bulunanlar***
 
 * Ishidres#0001
 * zKiyade
