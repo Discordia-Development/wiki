@@ -1,4 +1,4 @@
-<!-- TITLE: Denetim Kaydı -->
+<!-- TITLE: [TR] Denetim Kaydı -->
 <!-- SUBTITLE: Discord'un Denetim Kaydı hakkında bilgi -->
 
 Hiç sunucunda kimin yeni bir kanal oluşturduğunu merak ettin mi? Ya da kimin sıkıntılı bir kullanıcıyı sunucudan yasakladığını ve o kullancının kim olduğunu? Korkmana gerek yok. Denetim Kaydı sunucunda kimin ne yaptığını tüm berraklığıyla sana sunar!
