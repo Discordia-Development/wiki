@@ -11,7 +11,7 @@ Tamam güzel de nerede bu Denetim Kaydı? [Sunucu Ayarları](/tr/server-settings
 
 Denetim Kaydı sekmesine tıkladığında, şuna benzeyen bir şeyler karşılaşırsın:
 
-![Audit Logs 3](/uploads/audit-logs/audit-logs-3.png "Audit Logs 3")
+![Audit Logs 3](/uploads/tr/denetimkaydi-2.png "Audit Logs 3")
 
 # Neleri Kaydeder?
 
@@ -32,10 +32,10 @@ Bu ne demek? Yani, bir kullanıcı bir eylem gerçekleştirirse, o eylem kaydedi
 # Ayrıntıları Öğrenme
 Denetim Kaydında bulunan bir çok eylem için, ayrıntılı bilgiler verilen sekmeyi genişletelerek öğrenilebilir.
 
-![Audit Logs 1](/uploads/audit-logs/audit-logs-1.png "Audit Logs 1")
+![Audit Logs 4](/uploads/tr/denetimkaydi-3.png "Audit Logs 4")
 
 Ve eğer belirli bir eylem veya belirli bir kullanıcı tarafından gerçekleştirilen eylemleri arıyorsan, gözün arkada kalmasın. Discord bu iki seçenek için de filtreleme özelliği bulunduruyor!
 
-![Audit Logs 4](/uploads/audit-logs/audit-logs-4.png "Audit Logs 4")
+![Audit Logs 5](/uploads/tr/denetimkaydi-4.png "Audit Logs 5")
 
 Aradıklarınla işin bittiyse, yuvarlak X butonuna basabilir, veya klavyenden Escape <kbd>Esc</kbd> tuşuna basabilirsin.
