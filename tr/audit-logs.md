@@ -30,7 +30,7 @@ Bu ne demek? Yani, bir kullanıcı bir eylem gerçekleştirirse, o eylem kaydedi
 
 
 # Ayrıntıları Öğrenme
-Denetim Kaydında bulunan bir çok eylem için, ayrıntılı bilgiler verilen sekmeyi genişletelerek öğrenilebilir.
+Denetim Kaydında bulunan bir çok eylem için ayrıntılı bilgiler, verilen sekmeyi genişletelerek öğrenilebilir.
 
 ![Audit Logs 4](/uploads/tr/denetimkaydi-3.png "Audit Logs 4")
 
