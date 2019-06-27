@@ -17,70 +17,72 @@ Vítejte na naší stránce! Jsme Discord Wiki! Jsme hrdí na to, že jsme jedn�
 * Mikesky#0001 (systémový administrátor, spravuje backend všech služeb od Wiki)
 * SleepaDru#7700 (systémový administrátor, spravuje backend všech služeb od Wiki)
 * Harrison#9100
-* kwando aka 黒澤ルビィ ★★★★#1313
+* 玉藻の前 ★★★★#1313
 * Tiemen#0001
 * cats#5485
 
 > ***Vedoucí na Wiki***
 
 * Azrael#6867 - Vedoucí komunity
-* Ghostwolf#0001 - Vedoucí překladu
+* Ghostwolf#2792 - Vedoucí překladu
 * OminousCry#2331 - Vedoucí překladu
-* OGNovuh#0003 - Vedoucí vývoje WikiBota
+
+> ***Moderátoři serveru***
+* DowDaw#0309
+* Downy#5863
+* Ten 🌈#1010
 
 > ***Přispěvatelé na Wiki***
 
 * alcyneous#2803 - Indonéština
+* Aleph#7888 - Turečtina
 * Anaís#4719 - Španělština
 * Cherno#9465 - Japonština
-* Comi#2319 - Francouzština
-* Cyon aka Fᴏʀᴇᴠᴇʀ#2469 - Korejština, čínština
 * D_EaN * STS#0105 - Maďarština
 * Daan#1337 - Holandština
 * Dann#3477 - Rumunština
 * deframet#0001 - Italština
 * Disegual#4088 - Italština
-* Elebier#8347 - Španělština
-* erykol#8141 - Polština
-* GreenTeen#6366 - Litevština
-* Harfeur#3633 - Francouzština
-* Immotay#0001 - Brazilská portugalština
-* Ishidres#0001 - Němčina
-* janik#0002 - Slovenština
+* erykol#6952 - Polština
+* Immotay#3150 - Brazilská portugalština
+* janik.#0001 - Slovenština
 * jcuenin#7650 - Francouzština
 * Justman#0150 - Ruština
 * Lireoy#4444 - Maďarština
 * Manfre#9262 - Italština
 * marcyblaze#6908 - Italština
 * Mib#0001 - Dánština
-* Mr. Black#5859 - Španělština
-* Nooby™#4562 - Francouzština
+* Noubouille#4562 - Francouzština
 * PapuleX#2589 - Čeština
-* RME#3050 - Holandština
+* randomblock1#8756
 * Samtell#0001 - Korejština
 * Saphir#0001 - Francouzština
-* SweetSofiMC#8821 - Španělština
+* SweetSofiMC#5106 - Španělština
 * 魏 Sync#9198 - Indonéština
-* Tarek#1337 - Švédština
 * TheMelvinNL#0001 - Holandština
 * Tim#6235 - Němčina
-* Vanished#8776 - Bosenština
-* Voknehzyr#1338 - Ruština
 * webhp#1337 - Pirátská angličtina
 * YuukiYuuks#5122 - Španělština
 * zabszk#5292 - Polština
+* 에버#2469 - Korejština, čínština
 
 > ***Vývojáři bota***
 
 *Podíleli se na vývoji Discord WikiBota.*
 * HyperCoder#2975
+* OGNovuh
 * Tiemen#0001
 
 ## Speciální poděkování
+
+> ***Bývalí přispěvatelé***
+* Ishidres#0001
+* zKiyade
 
 > ***Patroni***
 
 *Velké díky patří všem našim podporovatelům na službě [Patreon](https://www.patreon.com/TheDiscordWiki)!*
 
-* Wynran#1337
+* DowDaw#0309
+* Qaidul#6432
 * Saphir#0001
