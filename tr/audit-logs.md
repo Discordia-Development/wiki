@@ -5,13 +5,13 @@ Hiç sunucunda kimin yeni bir kanal oluşturduğunu merak ettin mi? Ya da kimin 
 # Denetim Kaydını Bulma
 Tamam güzel de nerede bu Denetim Kaydı? [Sunucu Ayarları](/tr/server-settings)'nda "Denetim Kaydı" isminde bir sekme bulunuyor.
 
-![DenetimKaydi](uploads/tr/denetimkaydi-1.png "DenetimKaydi")
+![Audit Logs 2](uploads/audit-logs/audit-logs-2.png "Audit Logs 2")
 
 > **NOT:** Denetim Kaydını yalnızca **Denetim Kaydını Görüntüle** veya **Yönetici** yetkisine sahipsen görebilirsin.
 
 Denetim Kaydı sekmesine tıkladığında, şuna benzeyen bir şeyler karşılaşırsın:
 
-![DenetimKaydi2](uploads/tr/denetimkaydi-2.png "DenetimKaydi2")
+![Audit Logs 3](uploads/audit-logs/audit-logs-3.png "Audit Logs 3")
 
 # Neleri Kaydeder?
 
@@ -32,10 +32,10 @@ Bu ne demek? Yani, bir kullanıcı bir eylem gerçekleştirirse, o eylem kaydedi
 # Ayrıntıları Öğrenme
 Denetim Kaydında bulunan bir çok eylem için, ayrıntılı bilgiler verilen sekmeyi genişletelerek öğrenilebilir.
 
-![DenetimKaydi3](uploads/tr/denetimkaydi-3.png "DenetimKaydi3")
+![Audit Logs 1](uploads/audit-logs/audit-logs-1.png "Audit Logs 1")
 
 Ve eğer belirli bir eylem veya belirli bir kullanıcı tarafından gerçekleştirilen eylemleri arıyorsan, gözün arkada kalmasın. Discord bu iki seçenek için de filtreleme özelliği bulunduruyor!
 
-![DenetimKaydi4](uploads/tr/denetimkaydi-4.png "DenetimKaydi4")
+![Audit Logs 4](uploads/audit-logs/audit-logs-4.png "Audit Logs 4")
 
 Aradıklarınla işin bittiyse, yuvarlak X butonuna basabilir, veya klavyenden Escape <kbd>Esc</kbd> tuşuna basabilirsin.
