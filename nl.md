@@ -29,6 +29,7 @@ De Discord Wiki is niet verwant aan Discord. We zijn hier alleen om Discord gebr
 >***Afdelingsleiders***
 
 * Azrael#6867 - Community Leiding
+* Ghostwolf#2792 - Vertaling Leiding
 * OminousCry#2331 - Vertaling Leiding
 
 > ***Wiki Bijdragers***
@@ -69,6 +70,7 @@ De Discord Wiki is niet verwant aan Discord. We zijn hier alleen om Discord gebr
 *Hebben bijdragen geleverd aan de Discord WikiBot*
 
 * HyperCoder#2975
+* OGNovuh
 * Tiemen#0001
 
 > ***Patrons***
@@ -76,4 +78,5 @@ De Discord Wiki is niet verwant aan Discord. We zijn hier alleen om Discord gebr
 *Een groot bedankje aan onze supporters op [Patreon](https://www.patreon.com/TheDiscordWiki)!*
 
 * DowDaw#1339
+* Qaidul#6432
 * Saphir#0001
