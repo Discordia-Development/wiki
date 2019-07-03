@@ -12,4 +12,4 @@ A hitelesített szerver jelvény látható a szerver neve mellett, és a meghív
 
 ## Régi hitelesített szerver jelvények
 Régebbi hitelesített szerver jelvények limitált ideig és csak a Discord-hivatalos szervereknél voltak eléretőek, mint pélául a Discord Developers.
-![Verifiedserver](/uploads/verified-servers/verifiedserver.png "Régi hitelesített szerver jelvény")
+![Hitelesített szerver](/uploads/verified-servers/verifiedserver.png "Régi hitelesített szerver jelvény")
