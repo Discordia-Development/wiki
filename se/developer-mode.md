@@ -4,15 +4,15 @@
 Om du tänker använda Discord API, till exempel till att göra en [bot](/bots), då kommer Discord's *Utvecklar Läge* vara till mycket hjälp.
 
 # Aktivera Utvecklar Läge på dator
-Enabling Developer Mode is easy. Open your Discord settings (the <i class="icon-cog"></i> next to your name at the bottom left) and click on *Appearance*. There you will find *Developer Mode*. Click the toggle to enable it.
+Att aktivera utvecklar läge är enkelt. Öppna Discord inställningarna (the <i class="icon-cog"></i> brevid ditt namn längst ner till vänster) och tryck på *Appearance*. Där kommer du hitta *Developer Mode*. Tryck på knappen för att sätta på det.
 
-![Devmode Toggle](/uploads/developer-mode/devmode-toggle.png "Devmode Toggle")
+![Utvecklar Knapp](/uploads/developer-mode/devmode-toggle.png "Devmode Toggle")
 
 ## Android
 
-On Android, you can enable Developer Mode by going to your Discord settings (the <i class="icon-cog"></i> next to your name at the bottom left) and tap on *Behavior*. There you will find *Developer Mode*. Tap the toggle to enable it.
+På Android, kan du sätta på Utvecklar Läga genom att gå till Discord inställningarna (<i class="icon-cog"></i> brevid ditt namn längst ner till vänster) och trycka på *Behavior*. Där kommer du hitta *Developer Mode*. Tryck på knappen för att sätta på det.
 
-![Devmode Toggle Android](/uploads/developer-mode/devmode-toggle-android.png "Devmode Toggle Android")
+![Utvecklar Knapp Android](/uploads/developer-mode/devmode-toggle-android.png "Devmode Toggle Android")
 
 ## iOS
 
