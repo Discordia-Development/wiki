@@ -87,7 +87,7 @@ The Discord Wiki är inte anknuten med Discord. Vi är bara här för att hjälp
 * Ishidres#0001
 * zKiyade
 
-> ***Patrons***
+> ***Stödjare***
 
 *Ett stort tack till alla våra stödjare på [Patreon](https://www.patreon.com/TheDiscordWiki)!*
 
