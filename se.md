@@ -13,7 +13,7 @@ We're The Discord Wiki. Vi är stolta över att vara en av de ledande leverantö
 ## Ansvarsbegränsningar och juridisk information
 The Discord Wiki är inte anknuten med Discord. Vi är bara här för att hjälpa Discord användare upptäcka information om platformen. Vi tror stark i klarhet, så innan du hoppar in, var snäll och kolla på våra [Användarvillkor](/meta/terms) och vår [Integritetspolicy](/meta/privacy) så du vet alla dem juridiska grejorna  legal stuff you need to know angående våra tjänster!
 
-	### ***Discord, Discord spöket (Clyde), Discordapp (Häri DISCORD), och Discord Nitro är immateriell och juridisk egendom av Discord Inc. Dessa Tjänster, som anges i [Användarvillkor](/meta/terms) är inte anknutna med Discord Inc. eller några dotterbolag häri. The Discord Wiki hävdar inte att äga någon av DISCORD's immaterialla egendom.***
+### ***Discord, Discord spöket (Clyde), Discordapp (Häri DISCORD), och Discord Nitro är immateriell och juridisk egendom av Discord Inc. Dessa Tjänster, som anges i [Användarvillkor](/meta/terms) är inte anknutna med Discord Inc. eller några dotterbolag häri. The Discord Wiki hävdar inte att äga någon av DISCORD's immaterialla egendom.***
 
 ## Wiki Personal
 
