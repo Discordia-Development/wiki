@@ -1,5 +1,5 @@
 <!-- [SE] Utvecklar Läge -->
-<!-- SUBTITLE: En djupgående dokumentation av Discord's Utvecklar Läge-->
+<!-- SUBTITLE: En dokumentation av Discord's Utvecklar Läge-->
 
 Om du tänker använda Discord API, till exempel till att göra en [bot](/bots), då kommer Discord's *Utvecklar Läge* vara till mycket hjälp.
 
