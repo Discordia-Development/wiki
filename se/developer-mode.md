@@ -1,9 +1,9 @@
-<!-- [SE] Developer Mode -->
-<!-- SUBTITLE: An in-depth documentation of Discord's Developer Mode-->
+<!-- [SE] Utvecklar Läge -->
+<!-- SUBTITLE: En djupgående dokumentation av Discord's Utvecklar Läge-->
 
-If you're going to make use of the Discord API, for instance to create a [bot](/bots), then Discord's *Developer Mode* will be of great help to you.
+Om du tänker använda Discord API, till exempel till att göra en [bot](/bots), då kommer Discord's *Utvecklar Läge* vara till mycket hjälp.
 
-# Enabling Developer Mode on Desktop
+# Aktivera Utvecklar Läge på dator
 Enabling Developer Mode is easy. Open your Discord settings (the <i class="icon-cog"></i> next to your name at the bottom left) and click on *Appearance*. There you will find *Developer Mode*. Click the toggle to enable it.
 
 ![Devmode Toggle](/uploads/developer-mode/devmode-toggle.png "Devmode Toggle")
