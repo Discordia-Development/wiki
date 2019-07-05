@@ -52,7 +52,7 @@ Halihó! Üdvözöllek a The Discord Wikin! Az átláthatóság hívői vagyunk,
 * Disegual#4088 - Olasz
 * erykol#6952 - Lengyel
 * Immotay#3150 - Brazilíai-Portugál
-* janik.#0001 - Szlovák
+* Janik#4444 - Szlovák
 * jcuenin#7650 - Francia
 * Justman#0150 - Orosz
 * Lireoy#4444 - Magyar
