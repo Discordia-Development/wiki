@@ -16,4 +16,4 @@ Direktmeddelande (DMs kort) är en mini version av Discord serverar mellan olika
 * Bottar kan inte läggas till
 * Gruppmeddelandets ägare har en krona brevid dess namn
 
-[Videosamtal](/video-chat) och [Skärmdelning](/screensharing) är tillgängliga i båda sorters Direktmeddelande
+[Videosamtal](/se/video-chat) och [Skärmdelning](/se/screensharing) är tillgängliga i båda sorters Direktmeddelande
