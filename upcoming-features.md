@@ -15,6 +15,7 @@ This is a list of features that will be occasionally updated with information ab
 | Dyslexia Font | Planned |
 | Go Live | Gradually Rolling Out |
 | Keyboard Navigation | In Development |
+| LFG channels | In Development |
 | Permissions Preview Tool | Planned |
 | Separate Server Boost Subscriptions | Planned |
 
@@ -22,14 +23,13 @@ This is a list of features that will be occasionally updated with information ab
 | Feature | Status	|
 |---------|---------|
 | 3D Touch Support | Planned |
-| Jump to Message | Planned |
 | Rich Push Notifications | Planned |
 
 ## Android
 | Feature | Status |
 |---------|--------|
 | Compress Image Toggle | Planned |
-| Game Detection | In Development |
+| Game Detection | Planned |
 | Screensharing | Planned |
 
 > Disclaimer: These are unreleased features and they might change before they are released to Canary/Android Alpha/TestFlight users. They might not be released at all, and ETAs are not available.
