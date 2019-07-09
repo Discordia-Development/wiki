@@ -1,8 +1,18 @@
 <!-- TITLE: Changelog -->
-<!-- SUBTITLE: Discord Changelog updated as of 6/22/2019 -->
+<!-- SUBTITLE: Discord Changelog updated as of 7/9/2019 -->
 
 This is the changelog/release date for major features or significant changes. PTB and Canary might have received some features sooner than the date listed below
 
+# 7/9/2019
+## iOS
+* Fixed a feature bug where swiping out of a server or DM back to the server list caused the app to glitch out
+* Added a speaker to non-speaker toggle button in voice channels
+* Voice calls in speaker mode no longer hang up when you lock your screen
+* Improved app loading times and updated splash screen
+
+Performance Buff
+
+- We've sped up the app to load even faster. There's also a fresh new look for Clyde, your favorite spinning logo.
 # 6/21/2019
 ## iOS
 * You can now toggle between speaker and non-speaker mode in DM/Group calls
