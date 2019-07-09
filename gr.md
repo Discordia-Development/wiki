@@ -4,34 +4,34 @@
 # Καλωσορίσατε
 ## Σχετικά με μας
 
-Ειμάστε το Discord Wiki. Είμαστε υπερήφανοι που είμαστε ένας από τους κορυφαίους παροχές πληροφοριών για το Discord μέχρι και σήμερα, και σας καλωσορίζουμε στην ιστοσελίδα μας! Ξεκινήσαμε ένα διακομιστή περίπου έναν χρόνο πριν, αφού συνειδητοποιήσαμε ότι οι πόροι μας μπορούσαν να βοηθήσουν άλλους να μάθουν για το Discord. Ένα χρόνο αργότερα, έχουμε 6.8 εκατομμύριο επισκέψεις τον μήνα! Επεκτείνουμε συνεχώς τις πληροφορίες μας, οπότε άμα νιώθεις ότι έχεις το πάθος, την θέληση και την αποφασιστικότητα που χρειάζεται για να γράψεις άρθρα για μας, τσεκάρε το κανάλι FAQs στον διακομιστή μας για να εγγραφείτε για να συμβάλλετε!
+Είμαστε το Discord Wiki. Είμαστε υπερήφανοι που είμαστε ένας από τους κορυφαίους παροχές πληροφοριών για το Discord μέχρι και σήμερα, και σας καλωσορίζουμε στην ιστοσελίδα μας! Ξεκινήσαμε ένα διακομιστή περίπου έναν χρόνο πριν, αφού συνειδητοποιήσαμε ότι οι πόροι μας μπορούσαν να βοηθήσουν άλλους να μάθουν για το Discord. Ένα χρόνο αργότερα, έχουμε 6.8 εκατομμύριο επισκέψεις τον μήνα! Επεκτείνουμε συνεχώς τις πληροφορίες μας, οπότε άμα νιώθεις ότι έχεις το πάθος, την θέληση και την αποφασιστικότητα που χρειάζεται για να γράψεις άρθρα για μας, τσέκαρε το κανάλι FAQs στον διακομιστή μας για να εγγραφείτε για να συμβάλλετε!
 
-[Join us on Discord!](https://discord.gg/ZRJ9Ghh)
+[Ελάτε στο Discord μας](https://discord.gg/ZRJ9Ghh)
 
 <a href="https://discord.gg/ZRJ9Ghh">![DISCORD EMBED PLUGIN](https://discordapp.com/api/guilds/367460196148183040/widget.png?style=banner2)</a>
 
-## Disclaimers and Legal Information
-The Discord Wiki is not affiliated with Discord. We're just here to help Discord users discover information about the platform. We're strong believers in transparency, so before you jump in, please take a look at our [Terms of Service](/meta/terms) and our [Privacy Policy](/meta/privacy) in order for you to know all the legal stuff you need to know regarding our services!
+## Νόμιμη αποποίηση ευθυνών και πληροφορίες
+Το Discord Wiki δεν είναι συνδεδεμένο με το Discord. Είμαστε εδώ απλά για να βοηθήσουμε χρήστες του Discord να ανακαλύψουν πληροφορίες για την πλατφόρμα. Πιστεύουμε ισχυρά στην διαφάνεια, οπότε πριν μπεις μέσα, παρακαλώ κοίταξε τους [Ορούς Παροχής μας](/gr/terms) και την [Πολιτική Απορρήτου μας](/gr/privacy) για να ξέρεις όλα τα νόμιμα πράγματα που πρέπει να ξέρεις σχετικά με τις υπηρεσίες μας!
 
-### ***Discord, το φαντασμά του Discord (Clyde), Discordapp (εν τουτώ DISCORD), και το Discord Nitro ειναί πνευματική και νομιμή ιδιοκτησία του Discord Inc. Αυτές οι υπηρεσίες, οπώς παρατηθέτε στους [Ορούς Παροχής](/gr/terms) δεν είναι συνδεδεμένες με την Discord Inc. ή εν τουτές θυγατρικές εταιρίες. The Discord Wiki δεν ισχυρίζεται οτί κατέχει ουδέν της πνευματικής ιδιοκτησίας του DISCORD.***
+### ***Discord, το φάντασμα του Discord (Clyde), Discordapp (εν τούτο DISCORD), και το Discord Nitro είναι πνευματική και νόμιμη ιδιοκτησία του Discord Inc. Αυτές οι υπηρεσίες, όπως παρατηθείτε στους [Ορούς Παροχής](/gr/terms) δεν είναι συνδεδεμένες με την Discord Inc. ή εν τούτες θυγατρικές εταιρίες. Το Discord Wiki δεν ισχυρίζεται οτί κατέχει ουδέν της πνευματικής ιδιοκτησίας του DISCORD.***
 
 ## Προσωπικό του Wiki
 
-> ***Διαχειρηστές της Wiki***
+> ***Διαχειριστές της Wiki***
 
-*Responsible for maintaining The Discord Wiki and its support server.*
-* Mikesky#0001 (Systems Administrator, maintains the backend of all of the services provided by the Wiki)
-* SleepaDru#7700 (Systems Administrator, maintains the backend of all of the services provided by the Wiki)
+*Υπεύθυνοι για την διατήρηση της Discord Wiki και τον διακομιστή υποστήριξης της.*
+* Mikesky#0001 (Διαχειριστής συστημάτων, συντηρητής όλων των υπηρεσιών παρασκηνίου που παρέχονται από την Wiki)
+* SleepaDru#7700 (Διαχειριστής συστημάτων, συντηρητής όλων των υπηρεσιών παρασκηνίου που παρέχονται από την Wiki)
 * Harrison#9100
 * 玉藻の前 ★★★★#1313
 * Tiemen#0001
 * cats#5485
 
-> ***Επικεφαλείς της Wiki***
+> ***Επικεφαλής της Wiki***
 
-* Azrael#6867 - Community Lead
-* Ghostwolf#2792 - Translation Lead
-* OminousCry#2331 - Translation Lead
+* Azrael#6867 - Επικεφαλής της κοινότητας
+* Ghostwolf#2792 - Επικεφαλής των μεταφράσεων
+* OminousCry#2331 - Επικεφαλής των μεταφράσεων
 
 > ***Moderators Διακομιστή***
 
@@ -44,44 +44,44 @@ The Discord Wiki is not affiliated with Discord. We're just here to help Discord
 * alcyneous#2803 - Ινδονησιακά
 * Aleph#7888 - Τουρκικά
 * Anaís#4719 - Ισπανικά
-* Cherno#9465 - Ιαπωνέζικα
+* Cherno#9465 - Γιαπωνέζικα
 * Costpap#7667 - Ελληνικά
-* D_EaN * STS#0105 - Hungarian
+* D_EaN * STS#0105 - Ουγγρικά
 * Daan#1337 - Ολλανδικά
-* Dann#3477 - Romanian
+* Dann#3477 - Ρουμανικά
 * deframet#0001 - Ιταλικά
 * Disegual#4088 - Ιταλικά
-* erykol#6952 - Πολονέζικα
-* Immotay#3150 - Brazilian-Portuguese
+* erykol#6952 - Πολωνέζικα
+* Immotay#3150 - Βραζιλιάνικα-Πορτογαλικά
 * Janik#4444 - Slovakian
 * jcuenin#7650 - Γαλλικά
-* Justman#0150 - Ρωσίκα
-* Lireoy#4444 - Hungarian
+* Justman#0150 - Ρωσικά
+* Lireoy#4444 - Ουγγρικά
 * Manfre#9262 - Ιταλικά
 * marcyblaze#6908 - Ιταλικά
-* Mib#0001 - Danish
+* Mib#0001 - Δανικά
 * Noubouille#4562 - Γαλλικά
-* PapuleX#2589 - Czech
+* PapuleX#2589 - Τσέχικα
 * randomblock1#8756
-* Samtell#0001 - Korean
+* Samtell#0001 - Κορεάτικα
 * Saphir#0001 - Γαλλικά
 * SweetSofiMC#5106 - Ισπανικά
-* 魏 Sync#9198 - Indonesian
+* 魏 Sync#9198 - Ινδονησιακά
 * TheMelvinNL#0001 - Ολλανδικά
 * Tim#6235 - Γερμανικά
 * webhp#1337 - Πειρατικά Αγγλικά
 * YuukiYuuks#5122 - Ισπανικά
-* zabszk#5292 - Πολονέζικα
-* 에버#2469 - Korean, Chinese
+* zabszk#5292 - Πολωνέζικα
+* 에버#2469 - Κορεάτικα, Κινέζικα
 
 > ***Προγραμματιστές του Bot***
 
-*συνισφέραν στο Discord WikiBot.*
+*συνεισφέρανε στο Discord WikiBot.*
 * HyperCoder#2975
 * OGNovuh
 * Tiemen#0001
 
-## Special Thanks
+## Ιδιαίτερες ευχαριστίες
 
 > ***Πρώην συνεισφέροντες***
 
@@ -90,7 +90,7 @@ The Discord Wiki is not affiliated with Discord. We're just here to help Discord
 
 > ***Patrons***
 
-*A huge thank you to all our supporters on [Patreon](https://www.patreon.com/TheDiscordWiki)!*
+*Ένα μεγάλο ευχαριστώ σε όλους τους υποστηρικτές μας στο [Patreon](https://www.patreon.com/TheDiscordWiki)!*
 
 * DowDaw#0309
 * Qaidul#6432
