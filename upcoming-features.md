@@ -18,7 +18,7 @@ This is a list of features that will be occasionally updated with information ab
 | LFG channels | In Development |
 | Permissions Preview Tool | Planned |
 | Separate Server Boost Subscriptions | Planned |
-| Server Folders | In Development |
+| Server Folders | In Testing |
 
 ## iOS
 | Feature | Status	|
