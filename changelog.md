@@ -6,6 +6,7 @@ This is the changelog/release date for major features or significant changes. PT
 # 7/23/2019
 * Server Folders
 * Block Quotes
+* New Idle and Active on Mobile status icons
 # 7/9/2019
 ## iOS
 * Fixed a feature bug where swiping out of a server or DM back to the server list caused the app to glitch out
