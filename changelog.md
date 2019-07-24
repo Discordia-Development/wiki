@@ -1,8 +1,11 @@
 <!-- TITLE: Changelog -->
-<!-- SUBTITLE: Discord Changelog updated as of 7/9/2019 -->
+<!-- SUBTITLE: Discord Changelog updated as of 7/24/2019 -->
 
 This is the changelog/release date for major features or significant changes. PTB and Canary might have received some features sooner than the date listed below
 
+# 7/23/2019
+* Server Folders
+* Block Quotes
 # 7/9/2019
 ## iOS
 * Fixed a feature bug where swiping out of a server or DM back to the server list caused the app to glitch out
