@@ -53,7 +53,7 @@ Discord Wiki nie je nijako spojený s Discordom. My len pomáhame uživateľom D
 * Harfeur#3633 - Francúzština
 * Immotay#0001 - Brazilská Portugalština
 * Ishidres#0001 - Nemčina
-* jan#5555 - Slovenčina
+* +Janik+#5555 - Slovenčina
 * jcuenin#7650 - Francúština
 * Justman#0150 - Ruština
 * Lireoy#4444 - Maďarčina
