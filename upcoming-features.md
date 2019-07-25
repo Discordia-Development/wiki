@@ -10,7 +10,6 @@ This is a list of features that will be occasionally updated with information ab
 
 | Feature |	Status |
 |---------|---------|
-| Block Quotes | Available on PTB |
 | Custom Statuses | Gradually Rolling Out |
 | Dyslexia Font | Planned |
 | Go Live | Gradually Rolling Out |
@@ -18,22 +17,20 @@ This is a list of features that will be occasionally updated with information ab
 | LFG channels | In Development |
 | Permissions Preview Tool | Planned |
 | Separate Server Boost Subscriptions | Planned |
-| Server Folders | Available on PTB |
 
 ## iOS
 | Feature | Status	|
 |---------|---------|
 | 3D Touch Support | Planned |
-| Block Quotes | In Development |
+| Block Quotes | Available on TestFlight |
 | Rich Push Notifications | Planned |
+| Server Folders | Available on TestFlight |
 
 ## Android
 | Feature | Status |
 |---------|--------|
-| Block Quotes | Available on Android Alpha |
 | Compress Image Toggle | Planned |
 | Game Detection | In Development |
 | Screensharing | Planned |
-| Server Folders | Available on Android Alpha |
 
 > Disclaimer: These are unreleased features and they might change before they are released to Canary/Android Alpha/TestFlight users. They might not be released at all, and ETAs are not available.
