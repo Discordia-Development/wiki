@@ -8,6 +8,17 @@ This is the changelog/release date for major features or significant changes. PT
 * Block Quotes
 * New Idle and Active on Mobile status icons
 
+## iOS
+* Server Folders
+* Block Quotes
+* Messages now highlight when you long press on them
+* YouTube, Twitch, Instagram, and Twitter links will now open in their native app
+* DM navigation header now shows user activity
+* Tapping profile avatars now opens the user profile sheet
+* Channel descriptions that are too long will now expand properly
+* Server invite suggestions will now consider group DMs
+* Taking pics without permissions no longer causes a crash
+
 ## Android
 * Server Folders
 * Block Quotes
