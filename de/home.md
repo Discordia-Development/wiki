@@ -1,87 +1,89 @@
 ---
-title: Startpagina
+title: Startseite
 description: 
 published: true
-date: 2019-07-29T16:22:11.659Z
+date: 2019-07-29T18:07:41.201Z
 tags: 
 ---
 
-# Welkom
-## Over ons
+# Willkommen
+## Über uns
 
-Wij zijn de Discord Wiki. We zijn trots één van de leidende providers van informatie over discord te zijn en verwelkomen je op onze website! We begonnen ongeveer een jaar geleden een discord server nadat we er achter kwamen dat onze vaardigheden gebruikt zouden kunnen worden om om andere te helpen en meer te leren over discord. Een jaar later was het ons gelukt om al meer dan 1.6 miljoen mensen per maand meer informatie en ondersteuning te bieden voor discord! Zelfs nu nog breiden we elke dag onze documentatie uit, dus als jij ook een passie, de tijd en wilskracht denkt te hebben om ons te helpen meer artikelen te schrijven kun je in het FAQs kanaal in onze server vinden hoe ook jij kunt helpen!  
+Dies ist das inoffizielle Discord Wiki. Wir sind stolz darauf, einer der führenden Anbieter von Informationen über Discord zu sein und begrüßen Dich auf unserer Webseite! Nachdem wir vor ungefähr einem Jahr erkannten, dass unsere Ressourcen dazu verwendet werden können um anderen zu helfen und mehr über Discord zu erfahren, gründetet wir einen Discord Server, statt all die Informationen für uns zu behalten. Schon ein Jahr später gelang es uns über 3,5 Millionen Nutzer pro Monat mit Informationen zu beliefern. Wir erweitern unsere Informationssammlung ständig. Solltest Du also das Interesse, den Willen und die Entschlossen haben uns zu unterstützen und Artikel für uns zu schreiben, lies Dir bitte unser FAQ auf unserem Server durch und bewirb dich um beizutragen.
 
-[Neem deel aan onze Discord server!](https://discord.gg/V6f8rZ2)
+[Treten Sie unserem Discord-Server bei!](https://discord.gg/ZeG8hbu)
 
-<a href="https://discord.gg/V6f8rZ2">![DISCORD EMBED PLUGIN](https://discordapp.com/api/guilds/367460196148183040/widget.png?style=banner2)</a>
+<a href="https://discord.gg/ZeG8hbu">![DISCORD EMBED PLUGIN](https://discordapp.com/api/guilds/367460196148183040/widget.png?style=banner2)</a></a>
 
-## Disclaimers en Juridische Informatie
-De Discord Wiki is niet verwant aan Discord. We zijn hier alleen om Discord gebruikers te helpen nieuwe informatie te ontdekken over het platform. We zijn sterk gelovig in openheid, dus voordat je begint, neem alsjeblieft een kijkje naar onze [Servicevoorwaarden](/terms) en ons [Privacybeleid](/privacy) zodat je alle juridische dingen weet die je moet weten met betrekking tot onze diensten!
+## Disclaimer und Legale Information
+Hallo! Wilkommen beim Discord Wiki! Wir glauben stark an Transparenz, deshalb beachten Sie unsere [Nutzungsbedingungen](de/nutzungsbedingungen) und unsere [Datenschutzbestimmungen](/de/datenschutz) um alles wichtige über unsere Dienste zu wissen!
 
-### ***Discord, De Discord Ghost (Clyde™), en Discordapp (Herein DISCORD) zijn eigendom van Discord Inc. Deze Diensten, zoals vermeld in de [Servicevoorwaarden](/terms) zijn niet verwant aan Discord Inc. of enig Dochteronderneming hiervan. De Discord Wiki beweert geen intellectuele eigendommen van DISCORD te bezitten, klaag ons alsjeblieft niet aan :^)***
+### ***Discord, the Discord Ghost (Clyde™), und Discordapp (In Folge DISCORD) sind geistiges und gesetzliches Eigentum von Discord Inc. Diese Seiten, wie in den [Nutzungsbedingungen](de/nutzungsbedingungen) festgelegt, sind nicht verbunden mit Discord Inc. oder jeglichen Tochtergesellschaften. The Discord Wiki gibt nicht an, DISCORD's geistiges Eigentum zu besitzen, bitte verklagt uns nicht.***
 
-## Wiki Personeel
+## Wiki Team
 > ***Wiki Administratoren***
 
-*Verantwoordelijk voor het onderhouden van de Discord Wiki en de bijbehorende ondersteunings server.*
-
-* Mikesky#0001 (Systeem Administrator, onderhoudt de backend van alle diensten die door de Wiki worden aangeboden)
+*Verantwortlich für die Wartung des Discord Wiki's und des Support Server.*
+* Mikesky#0001 (System Administrator, pflegt das Backend aller Systeme vom Wiki)
 * Harrison#9100
 * kwando aka ハンイット ★★★★#1313
 * Tiemen#0001
 * cats#5485
 
->***Afdelingsleiders***
+> ***Bereichsleitungen***
 
-* Azrael#6867 - Community Leiding
-* Ghostwolf#2792 - Vertaling Leiding
-* OminousCry#2331 - Vertaling Leiding
+* Azrael#6867 - CommunityLeitung
+* OminousCry#2331 - Übersetzungsleitung
 
-> ***Wiki Bijdragers***
+> ***Beitragende zum Wiki***
 
 * alcyneous#2803 - Indonesisch
-* Anaís#4719 - Spaans
-* Comi#2319 - Frans
-* Cyon aka FOR3VER#2469 - Koreaans, Chinees
-* D_EaN * STS#0105 - Hongaars
-* Daan#1337 - Nederlands
-* deframet#0707 - Italiaans
-* Disegual#4088 - Italiaan
-* erykol#8141 - Pools
-* GreenTeen#6366 - Litouws
-* Harfeur#3633 - Frans
-* Immotay#0001 - Braziliaans-Portugees
-* Ishidres#0001 - Duits
+* Anaís#4719 - Spanisch
+* Comi#2319 - Französisch
+* Cyon aka FOR3VER#2469 - Koreanisch, Chinesisch
+* D_EaN * STS#0105 - Ungarisch
+* Daan#1337 - Niederländisch
+* deframet#0707 - Italienisch
+* Disegual#4088 - Italienisch
+* erykol#8141 - Polnisch
+* Ghostwolf#9509 - Litauisch
+* GreenTeen#6366 - Litauisch
+* Harfeur#3633 - Französisch
+* Immotay#0001 - Brasilianisches Portugiesisch
+* Ishidres#0001 - Deutsch
 * Justman#0150 - Russisch
-* Lireoy#4444 - Hongaars
-* Manfre#9262 - Italiaans
-* marcyblaze - Italiaans
-* Mib#0001 - Deens
-* Neerwan#9498 - Frans
-* Nooby™#4562 - Frans
-* PapuleX#2589 - Tsjechisch
-* RME#3050 - Nederlands
-* Samtell#0001 - Koreaans
-* Saphir#0001 - Frans
+* Lireoy#4444 - Ungarisch
+* Manfre#9262 - Italienisch
+* marcyblaze - Italienisch
+* Mib#0001 - Dänisch
+* Neerwan#9498 - Französisch
+* Nooby™#4562 - Französisch
+* PapuleX#2589 - Tschechisch
+* RME#3050 - Niederländisch
+* Samtell#0001 - Koreanisch
+* Saphir#0001 - Französisch
 * 魏 Sync#9198 - Indonesisch
-* TheMelvinNL#0001 - Nederlands
-* Tim#6235 - Duits
+* TheMelvinNL#0001 - Niederländisch
+* Tim#6235 - Deutsch
 * Voknehzyr#1338 - Russisch
-* webhp#1337 - Piraat Engels
-* zabszk#5292 - Pools
+* webhp#1337 - Piraten Englisch
+* zabszk#5292 - Polnisch
 
-> ***Bot Ontwikkelaars***
+> ***Bot-Entwickler***
 
-*Hebben bijdragen geleverd aan de Discord WikiBot*
+*Haben zum Discord WikiBot beigetragen.*
+* @HyperCoder#2975
+* @Tiemen#0001
 
-* HyperCoder#2975
-* OGNovuh
-* Tiemen#0001
+## Besonderer Dank
 
-> ***Patrons***
+>***Spender***
 
-*Een groot bedankje aan onze supporters op [Patreon](https://www.patreon.com/TheDiscordWiki)!*
+* Dropbox#0001 - thediscord.wiki Domain
+
+>***Patrons***
+
+*Ein großes Dankeschön an all unsere Unterstützer auf [Patreon](https://www.patreon.com/TheDiscordWiki)!*
 
 * DowDaw#1339
-* Qaidul#6432
 * Saphir#0001
