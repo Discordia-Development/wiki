@@ -1,5 +1,10 @@
-<!-- TITLE: Home -->
-<!-- SUBTITLE: Welcome to The Discord Wiki! -->
+---
+title: Home
+description: Welcome to The Discord Wiki!
+published: true
+date: 2019-08-01T10:36:34.897Z
+tags: 
+---
 
 # Welcome
 ## About Us
@@ -47,7 +52,7 @@ The Discord Wiki is not affiliated with Discord. We're just here to help Discord
 * Cherno#9465 - Japanese
 * D_EaN * STS#0105 - Hungarian
 * Daan#1337 - Dutch
-* Dann#3477 - Romanian
+* Dann#1121 - Romanian
 * deframet#0001 - Italian
 * Disegual#4088 - Italian
 * erykol#6952 - Polish
