@@ -1,3 +1,11 @@
+---
+title: Upcoming Features
+description: A quick summary of Upcoming Features
+published: true
+date: 2019-08-02T22:43:43.617Z
+tags: 
+---
+
 <!-- TITLE: Upcoming Features -->
 <!-- SUBTITLE: A quick summary of Upcoming Features -->
 
@@ -10,7 +18,6 @@ This is a list of features that will be occasionally updated with information ab
 
 | Feature |	Status |
 |---------|---------|
-| Block Quotes | Planned |
 | Custom Statuses | Gradually Rolling Out |
 | Dyslexia Font | Planned |
 | Go Live | Gradually Rolling Out |
@@ -18,20 +25,20 @@ This is a list of features that will be occasionally updated with information ab
 | LFG channels | In Development |
 | Permissions Preview Tool | Planned |
 | Separate Server Boost Subscriptions | Planned |
-| Server Folders | In Testing |
 
 ## iOS
 | Feature | Status	|
 |---------|---------|
 | 3D Touch Support | Planned |
+| Nitro Gifting | In Development |
 | Rich Push Notifications | Planned |
 
 ## Android
 | Feature | Status |
 |---------|--------|
 | Compress Image Toggle | Planned |
-| Game Detection | Planned |
+| Game Detection | In Development |
+| Samsung Rich Presence | In Development |
 | Screensharing | Planned |
-| Server Folders | In Testing |
 
 > Disclaimer: These are unreleased features and they might change before they are released to Canary/Android Alpha/TestFlight users. They might not be released at all, and ETAs are not available.
