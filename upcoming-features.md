@@ -2,7 +2,7 @@
 title: Upcoming Features
 description: A quick summary of Upcoming Features
 published: true
-date: 2019-08-02T22:43:43.617Z
+date: 2019-08-03T01:05:39.064Z
 tags: 
 ---
 
@@ -30,7 +30,8 @@ This is a list of features that will be occasionally updated with information ab
 | Feature | Status	|
 |---------|---------|
 | 3D Touch Support | Planned |
-| Nitro Gifting | In Development |
+| Inline Video Player | Available on TestFlight |
+| Nitro Gifting | Available on TestFlight |
 | Rich Push Notifications | Planned |
 
 ## Android
