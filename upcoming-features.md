@@ -2,7 +2,7 @@
 title: Upcoming Features
 description: A quick summary of Upcoming Features
 published: true
-date: 2019-08-03T01:05:39.064Z
+date: 2019-08-03T20:21:32.774Z
 tags: 
 ---
 
@@ -39,7 +39,7 @@ This is a list of features that will be occasionally updated with information ab
 |---------|--------|
 | Compress Image Toggle | Planned |
 | Game Detection | In Development |
-| Samsung Rich Presence | In Development |
+| Samsung Overlay | In Development |
 | Screensharing | Planned |
 
 > Disclaimer: These are unreleased features and they might change before they are released to Canary/Android Alpha/TestFlight users. They might not be released at all, and ETAs are not available.
