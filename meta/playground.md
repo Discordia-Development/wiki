@@ -2,10 +2,11 @@
 title: Playground
 description: A playground to test things in.
 published: true
-date: 2019-08-05T17:28:32.290Z
+date: 2019-08-05T17:29:32.212Z
 tags: 
 ---
 
+# Playground
 <style type="text/css">
 .sitemap ul {
   display: grid;
@@ -44,8 +45,7 @@ tags:
   color: #fff;
 }
 </style>
-
-# Playground
+<link rel="stylesheet" href="test.css" />
 <br />
 
 <div class="sitemap">
