@@ -2,7 +2,7 @@
 title: Badges
 description: Information about Discord's Various User Badges
 published: true
-date: 2019-08-05T02:31:11.972Z
+date: 2019-08-05T02:31:52.419Z
 tags: 
 ---
 
@@ -64,7 +64,7 @@ Users who have purchased [Discord Nitro](/nitro) have the Discord Nitro badge on
 
 ![Nitrobadge](/badges/newnitrobadge.png "A Nitro Discord User's Badge")
 
-## Discord Nitro Early Supporter <img src="/icons/early-supporter.png" alt="early-supporter" width="21" height="21"/>
+## Discord Nitro Early Supporter <img src="/icons/early-supporter.png" alt="early-supporter" width="19" height="19"/>
 This is a limited run badge for anyone who *ever* had a Discord Nitro subscription before October 10th, 2018. This badge is permanent.
 
 ![Nitroearlysupporterbadge](/badges/nitroearlysupporterbadge.png "Nitro Early Supporter Badge")
