@@ -2,22 +2,17 @@
 title: Playground
 description: A playground to test things in.
 published: true
-date: 2019-08-05T16:15:39.616Z
+date: 2019-08-05T17:28:32.290Z
 tags: 
 ---
 
 <style type="text/css">
-body {
-  padding: 20px;
-  font-family: Helvetica;
-  background-color: #20262e;
-}
-ul {
+.sitemap ul {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
   grid-gap: 10px;
 }
-li {
+.sitemap li {
   background-color: #363131;
   border-radius: 3px;
   /* width: 175px;
@@ -25,7 +20,7 @@ li {
   padding: 15px;
   font-size: 16px; */
 }
-li .description {
+.sitemap li .description {
   float: left;
   padding: 15px;
   width: 175px;
@@ -33,7 +28,7 @@ li .description {
   color: #dcdcdc;
   font-size: 16px;
 }
-li .title {
+.sitemap li .title {
   background-color: #464040;
   text-align: center;
   /* position: relative; */
@@ -53,29 +48,31 @@ li .title {
 # Playground
 <br />
 
-<ul>
-  <li>
-    <span class="description">A summary of upcoming features. Lorem ipsum dolor sit amet consectetur, adipiscing elit accumsan dui.</span>
-    <span class="title">Upcoming Features</span>
-  </li>
-  <li>
-    <span class="description">A summary of upcoming features.</span>
-    <span class="title">Upcoming Features</span>
-  </li>
-  <li>
-    <span class="description">A summary of upcoming features.</span>
-    <span class="title">Upcoming Features</span>
-  </li>
-  <li>
-    <span class="description">A summary of upcoming features.</span>
-    <span class="title">Upcoming Features</span>
-  </li>
-  <li>
-    <span class="description">A summary of upcoming features.</span>
-    <span class="title">Upcoming Features</span>
-  </li>
-  <li>
-    <span class="description">A summary of upcoming features.</span>
-    <span class="title">Upcoming Features</span>
-  </li>
-</ul>
+<div class="sitemap">
+  <ul>
+    <li>
+      <span class="description">A summary of upcoming features. Lorem ipsum dolor sit amet consectetur, adipiscing elit accumsan dui.</span>
+      <span class="title">Upcoming Features</span>
+    </li>
+    <li>
+      <span class="description">A summary of upcoming features.</span>
+      <span class="title">Upcoming Features</span>
+    </li>
+    <li>
+      <span class="description">A summary of upcoming features.</span>
+      <span class="title">Upcoming Features</span>
+    </li>
+    <li>
+      <span class="description">A summary of upcoming features.</span>
+      <span class="title">Upcoming Features</span>
+    </li>
+    <li>
+      <span class="description">A summary of upcoming features.</span>
+      <span class="title">Upcoming Features</span>
+    </li>
+    <li>
+      <span class="description">A summary of upcoming features.</span>
+      <span class="title">Upcoming Features</span>
+    </li>
+  </ul>
+</div>
