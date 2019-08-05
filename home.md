@@ -2,7 +2,7 @@
 title: Home
 description: Welcome to The Discord Wiki!
 published: true
-date: 2019-08-01T10:36:34.897Z
+date: 2019-08-05T03:44:04.439Z
 tags: 
 ---
 
@@ -94,7 +94,7 @@ The Discord Wiki is not affiliated with Discord. We're just here to help Discord
 
 > ***Patrons***
 
-*A huge thank you to all our supporters on [Patreon](https://www.patreon.com/TheDiscordWiki)!*
+*A huge thank you to all our supporters on Patreon (Discontinued)*
 
 * DowDaw#0309
 * Qaidul#6432
