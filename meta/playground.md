@@ -2,12 +2,10 @@
 title: Playground
 description: A playground to test things in.
 published: true
-date: 2019-08-06T19:22:10.233Z
+date: 2019-08-06T19:24:51.417Z
 tags: 
 ---
 
-# Playground
-<br />
 <div class="sitemap">
   <ul>
     <li>
