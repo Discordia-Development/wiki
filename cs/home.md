@@ -2,7 +2,7 @@
 title: Domovská stránka
 description: 
 published: true
-date: 2019-07-29T16:20:13.531Z
+date: 2019-08-06T12:59:09.096Z
 tags: 
 ---
 
@@ -45,12 +45,12 @@ Vítejte na naší stránce! Jsme Discord Wiki! Jsme hrdí na to, že jsme jedn�
 * Cherno#9465 - Japonština
 * D_EaN * STS#0105 - Maďarština
 * Daan#1337 - Holandština
-* Dann#3477 - Rumunština
+* Dann#1121 - Rumunština
 * deframet#0001 - Italština
 * Disegual#4088 - Italština
 * erykol#6952 - Polština
 * Immotay#3150 - Brazilská portugalština
-* janik.#0001 - Slovenština
+* Janik#4444 - Slovenština
 * jcuenin#7650 - Francouzština
 * Justman#0150 - Ruština
 * Lireoy#4444 - Maďarština
@@ -86,7 +86,7 @@ Vítejte na naší stránce! Jsme Discord Wiki! Jsme hrdí na to, že jsme jedn�
 
 > ***Patroni***
 
-*Velké díky patří všem našim podporovatelům na službě [Patreon](https://www.patreon.com/TheDiscordWiki)!*
+*Velké díky patří všem našim podporovatelům na službě Patreon (ukončeno)*
 
 * DowDaw#0309
 * Qaidul#6432
