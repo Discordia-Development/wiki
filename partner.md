@@ -10,11 +10,9 @@
 <td colspan="2" style="text-align:center"><img src="/uploads/icons/partner.png" alt="partner" width="146" height="146"/>
 </tr>
 <tr>
-<td>Permanent:</td>
-<td>Yes</td>
 </tr>
 <tr>
-<td>Requirement:</td>
+<td>Requirements:</td>
 <td>Membership in the Discord  <a href="https://discordia.me/partner">Partner</a> program</td>
 </tr>
 </table> 
