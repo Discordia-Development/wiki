@@ -18,6 +18,7 @@
 </table> 
 
 
+
 # Features
 **Discord Partners receive the following VIP features:**
 * Customizable vanity URL for their guild
