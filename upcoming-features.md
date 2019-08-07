@@ -2,7 +2,7 @@
 title: Upcoming Features
 description: A quick summary of Upcoming Features
 published: true
-date: 2019-08-07T20:34:44.513Z
+date: 2019-08-07T20:34:59.003Z
 tags: 
 ---
 
@@ -22,7 +22,7 @@ This is a list of features that will be occasionally updated with information ab
 | Dyslexia Font | Planned |
 | Go Live | Gradually Rolling Out |
 | Keyboard Navigation | In Development |
-| LFG channels | In Development |
+| LFG channels | In Internal Testing |
 | Permissions Preview Tool | Planned |
 | Separate Server Boost Subscriptions | Planned |
 
