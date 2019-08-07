@@ -35,9 +35,9 @@ To get a chance for Discord partnership, go to the [Discord Partnership page](ht
 According to the Discord Partnership page, Discord looks for 'growing communities and content creators that show an authentic enthusiasm for Discord (which means you’re already using Discord for your community). We want to support communities that support us. Acceptance into the program is extremely qualitative and will vary from one candidate to the next.'
 
 **Specific communities that are usually accepted include:**
-* Reddits (8000+ subs)
-* Social Personalities (Large Facebook, Twitter, etc online personalities [10,000+ followers])
-* Content Creators/Streamers (Beam, Twitch, YouTube, Player.me, etc)
+* Subreddits (8,000+ subs)
+* Social Personalities (Large Facebook, Twitter, etc. online personalities [10,000+ followers])
+* Content Creators/Streamers (Beam, Twitch, YouTube, Player.me, etc.)
 * Non-Profits (Requires a valid EIN number)
 * Large Communities (Large guilds or gaming groups)
 
