@@ -37,7 +37,7 @@ According to the Discord Partnership page, Discord looks for 'growing communitie
 **Specific communities that are usually accepted include:**
 * Subreddits (8,000+ subs)
 * Social Personalities (Large Facebook, Twitter, etc. online personalities [10,000+ followers])
-* Content Creators/Streamers (Beam, Twitch, YouTube, Player.me, etc.)
+* Content Creators/Streamers (Beam, Twitch, YouTube, Player​.me, etc.)
 * Non-Profits (Requires a valid EIN number)
 * Large Communities (Large guilds or gaming groups)
 
