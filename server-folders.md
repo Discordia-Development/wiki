@@ -13,4 +13,4 @@ Server folders can be created by dragging a server on top of another server. By 
 
 Within folder settings, you can customize the name of the folder (folders without a name simply show a short list of the servers within), as well as a custom HEX color. Having a custom color on a folder changes the folder icon to said color, as well as putting a slight tint behind the folder icon when closed.
 
-![Server Folders](/uploads/server-folders/server-folders.png "Server Folders")
+![Server Folders](/uploads/server-folders/server-folders.png "Folder Settings")
