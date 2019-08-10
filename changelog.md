@@ -1,8 +1,16 @@
 <!-- TITLE: Changelog -->
-<!-- SUBTITLE: Discord Changelog updated as of 7/26/2019 -->
+<!-- SUBTITLE: Discord Changelog updated as of 8/10/2019 -->
 
 This is the changelog/release date for major features or significant changes. PTB and Canary might have received some features sooner than the date listed below
 
+# 8/9/2019
+## iOS
+* Inline video player
+* Revamped message context menu
+* You can now tap avatars to open the user menu
+* Voice activity in channel lists is now viewable
+* Server Boosts
+* You can now buy and gift Nitro
 # 7/25/2019
 * Server Folders
 * Block Quotes
