@@ -52,7 +52,7 @@ The Discord Wiki is not affiliated with Discord. We're just here to help Discord
 * Disegual#4088 - Italian
 * erykol#6952 - Polish
 * Immotay#3150 - Brazilian-Portuguese
-* 𝘑𝘢𝘯𝘪𝘬#6969 - Slovakian
+* janik!#0042 - Slovakian
 * jcuenin#7650 - French
 * Justman#0150 - Russian
 * Lireoy#4444 - Hungarian
