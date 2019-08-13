@@ -28,5 +28,6 @@ This page lists the various "limitations" imposed upon servers in Discord, mostl
 - Minimum time for idling: **10 minutes**.
 - Username/nickname: **32 characters**.
 - Channel topic size: **1,024 characters**.
+- Maximum number of user notes: **500** (If you reach this cap any new notes will not set).
 
 
