@@ -73,3 +73,15 @@ It can be revealed by clicking or tapping on the spoiler. This is what a reveale
 You can adjust the settings for showing spoilers in User Settings -> Text & Images. The *On servers I moderate* option will display spoiler content only on servers in which you have the **Manage Messages** permission.
 
 ![Spoiler settings](/uploads/markdown/spoiler-settings.png "Spoiler settings")
+
+## Block Quotes
+Using one greater-than sign (\>) you can create a block quote. Using three greater-than signs (\>\>\>), you can a multi-row block quote.
+
+![Blockquote](/uploads/markdown/blockquote.png "Blockquote")
+
+This would make the text appear as:
+
+
+
+Or as like this, with multiple rows:
+
