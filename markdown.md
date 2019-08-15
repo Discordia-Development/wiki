@@ -77,7 +77,13 @@ You can adjust the settings for showing spoilers in User Settings -> Text & Imag
 ## Block Quotes
 Using one greater-than sign (\>) you can create a block quote. Using three greater-than signs (\>\>\>), you can a multi-row block quote. You have to use Shift + Enter to start a new row.
 
+For a single row block quote:
+
 ![Blockquote](/uploads/markdown/blockquote.png "Blockquote")
+
+For a multi-row block quote:
+
+![Blockquotemultiple](/uploads/markdown/blockquotemultiple.png "Blockquotemultiple")
 
 This would make the text appear as:
 
