@@ -75,7 +75,7 @@ You can adjust the settings for showing spoilers in User Settings -> Text & Imag
 ![Spoiler settings](/uploads/markdown/spoiler-settings.png "Spoiler settings")
 
 ## Block Quotes
-Using one greater-than sign (\>) you can create a block quote. Using three greater-than signs (\>\>\>), you can a multi-row block quote.
+Using one greater-than sign (\>) you can create a block quote. Using three greater-than signs (\>\>\>), you can a multi-row block quote. You have to use Shift + Enter to start a new row.
 
 ![Blockquote](/uploads/markdown/blockquote.png "Blockquote")
 
