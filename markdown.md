@@ -81,7 +81,8 @@ Using one greater-than sign (\>) you can create a block quote. Using three great
 
 This would make the text appear as:
 
-
+![Blocksingle](/uploads/markdown/blocksingle.png "Blocksingle")
 
 Or as like this, with multiple rows:
 
+![Blockmultiple](/uploads/markdown/blockmultiple.png "Blockmultiple")
