@@ -73,3 +73,22 @@ Odhalit jej lze poklepáním na něj. Takto vypadá odhalený spoiler v chatovac
 Nastavení pro zobrazování spoileru lze upravit v uživatelském nastavení -> text a obrázky. Možnost *Na serverech, které spravuji* zobrazí obsah spoileru na serverech, na kterých máte oprávnění **spravovat zprávy**.
 
 ![Spoiler settings](/uploads/markdown/spoiler-settings.png "Nastavení spoilerů.")
+
+## Blok s citací
+Pomoci znaménka větší než (\>) můžete vytvořit blok s citací. Použitím třech znamének větší než (\>\>\>) můžete vytvořit blok s citací na více řádků. Pro nový řádek stiskněte Shift + Enter.
+
+Blok s citací na jednom řádku:
+
+![Blockquote](/uploads/markdown/blockquote.png "Blok s citací")
+
+Text bude vypadat takto:
+
+![Blocksingle](/uploads/markdown/blocksingle.png "Blok s citací")
+
+Blok s citací na více řádků:
+
+![Blockquotemultiple](/uploads/markdown/blockquotemultiple.png "Blok s citací na více řádků")
+
+Text bude vypadat takto:
+
+![Blockmultiple](/uploads/markdown/blockmultiple.png "Blok s citací na více řádků")
