@@ -3,6 +3,8 @@
 
 This is the changelog/release date for major features or significant changes. PTB and Canary might have received some features sooner than the date listed below
 
+# 8/16/2019
+* News channels have been changed into Announcement channels
 # 8/15/2019
 * Go Live wider roll out
 # 8/9/2019
