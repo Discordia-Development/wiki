@@ -1,8 +1,13 @@
 <!-- TITLE: Changelog -->
-<!-- SUBTITLE: Discord Changelog updated as of 8/15/2019 -->
+<!-- SUBTITLE: Discord Changelog updated as of 8/22/2019 -->
 
 This is the changelog/release date for major features or significant changes. PTB and Canary might have received some features sooner than the date listed below
 
+# 8/22/2019
+## Android
+* Samsung mobile overlay
+* You can now authorize apps inside the Discord app
+* Call connection fixes
 # 8/16/2019
 * News channels have been changed into Announcement channels
 # 8/15/2019
