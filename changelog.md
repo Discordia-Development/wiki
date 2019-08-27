@@ -1,8 +1,14 @@
 <!-- TITLE: Changelog -->
-<!-- SUBTITLE: Discord Changelog updated as of 8/22/2019 -->
+<!-- SUBTITLE: Discord Changelog updated as of 8/27/2019 -->
 
 This is the changelog/release date for major features or significant changes. PTB and Canary might have received some features sooner than the date listed below
 
+# 8/26/2019
+## iOS
+* CallKit integration can be disabled in settings
+* Hoisted the active voice indicator to the top of the screen
+* Improved the accessibility labeling around the app to make using VoiceOver easier
+* Redesigned user profiles
 # 8/22/2019
 ## Android
 * Samsung mobile overlay
