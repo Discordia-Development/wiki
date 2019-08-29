@@ -2,7 +2,7 @@
 title: Home
 description: Welcome to The Discord Wiki!
 published: true
-date: 2019-08-05T03:44:04.439Z
+date: 2019-08-29T21:49:39.413Z
 tags: 
 ---
 
@@ -52,7 +52,7 @@ The Discord Wiki is not affiliated with Discord. We're just here to help Discord
 * Cherno#9465 - Japanese
 * D_EaN * STS#0105 - Hungarian
 * Daan#1337 - Dutch
-* Dann#1121 - Romanian
+* Dann#0003 - Romanian
 * deframet#0001 - Italian
 * Disegual#4088 - Italian
 * erykol#6952 - Polish
