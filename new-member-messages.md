@@ -47,3 +47,4 @@ You can enable (or disable) this feature by going into the Server Settings and o
 - Hello. Is it *DiscordUser123* you're looking for?
 - *DiscordUser123* has joined. Stay a while and listen!
 - Roses are red, violets are blue, *DiscordUser123* joined this server with you
+- *DiscordUser123* has joined the battle bus.
