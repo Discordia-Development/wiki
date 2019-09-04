@@ -12,7 +12,6 @@ This is a list of features that will be occasionally updated with information ab
 |---------|---------|
 | Custom Statuses | Gradually Rolling Out |
 | Dyslexia Font | Planned |
-| Go Live | Gradually Rolling Out |
 | Keyboard Navigation | In Development |
 | LFG channels | In Internal Testing |
 | Permissions Preview Tool | Planned |
