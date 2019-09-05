@@ -2,11 +2,11 @@
 title: GameBridge
 description: An integration for Game developers
 published: true
-date: 2019-09-05T23:27:37.133Z
+date: 2019-09-05T23:29:46.360Z
 tags: 
 ---
 
-GameBridge was an SDK allowing developers of games to integrate Discord into their games. GameBridge has been deprecated in favor of [Rich Presence](/rich-presence) and [Discord GameSDK](https://discordapp.com/developers/docs/game-sdk/sdk-starter-guide).
+GameBridge was an SDK allowing developers of games to integrate Discord into their games. GameBridge has been deprecated in favor of [Discord GameSDK](https://discordapp.com/developers/docs/game-sdk/sdk-starter-guide).
 
 Features include:
 * Automatch players in voice channels
