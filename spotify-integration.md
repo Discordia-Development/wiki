@@ -2,7 +2,7 @@
 title: Spotify Integration
 description: 
 published: true
-date: 2019-09-06T02:41:39.549Z
+date: 2019-09-06T02:43:20.982Z
 tags: 
 ---
 
