@@ -1,11 +1,17 @@
-<!-- TITLE: New Member Messages -->
+---
+title: New Member Messages
+description: 
+published: true
+date: 2019-09-06T02:08:32.275Z
+tags: 
+---
 
 **New Member Messages** are special randomized system messages that appear in a specified channel of a server when a user joins the server. 
 
 # How to enable it
 You can enable (or disable) this feature by going into the Server Settings and on the Overview tab you can change the channel in which the system messages will appear.
 
-![Member Messages](/uploads/new-member-messages/member-messages.png "Member Messages")
+![Member Messages](https://raw.githubusercontent.com/DiscordiaWiki/wiki/master/uploads/new-member-messages/member-messages.png "Member Messages")
 
 # List of all new member messages
 - *DiscordUser123* just joined the server - glhf!
