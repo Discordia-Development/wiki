@@ -2,7 +2,7 @@
 title: Discord Tags
 description: Information about Discord tags
 published: true
-date: 2019-09-06T01:50:19.685Z
+date: 2019-09-06T01:50:40.243Z
 tags: 
 ---
 
