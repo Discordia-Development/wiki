@@ -2,14 +2,14 @@
 title: Servers
 description: A quick summary of servers
 published: true
-date: 2019-09-06T02:18:41.824Z
+date: 2019-09-06T02:19:16.163Z
 tags: 
 ---
 
 A server (occasionally referred to as a *guild* in Discord documentation) is the main feature on Discord.
 
 
-![Discordserver](https://raw.githubusercontent.com/DiscordiaWiki/wiki/master/uploads/servers/discordserver.png "A Discord Server")
+![Discordserver](/servers/discordserver.png "A Discord Server")
 
 *A server with one text channel and two voice channels.*
 
