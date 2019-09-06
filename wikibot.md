@@ -1,9 +1,14 @@
-<!-- TITLE: Discord WikiBot -->
-<!-- SUBTITLE: Discordia's WikiBot -->
+---
+title: Discord WikiBot
+description: Discordia's WikiBot
+published: true
+date: 2019-09-06T02:24:10.858Z
+tags: 
+---
 
 Discord WikiBot is a simple, yet effective tool that grabs articles from The Discord Wiki and Discord [Helpdesk](https://support.discordapp.com/hc/en-us). It's like a nice little wingman that can grab different books for you at the library! 
 
-![Obktbva](/uploads/wikibot/obktbva.png "Obktbva")
+![Obktbva](https://raw.githubusercontent.com/DiscordiaWiki/wiki/master/uploads/wikibot/obktbva.png "Obktbva")
 # Commands
 You may run the following commands on Discord WikiBot, either on any server it is in or in a direct message (you must share a mutual server to run commands in a DM).
 
