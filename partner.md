@@ -2,7 +2,7 @@
 title: Partner
 description: 
 published: true
-date: 2019-08-31T23:25:46.178Z
+date: 2019-09-06T01:29:29.818Z
 tags: 
 ---
 
@@ -13,7 +13,7 @@ tags:
 <td colspan="2" style="background-color:#4087ED; text-align:center">Discord Partner</td>
 </tr>
 <tr>
-<td colspan="2" style="text-align:center"><img src="/uploads/icons/partner.png" alt="partner" width="146" height="146"/>
+<td colspan="2" style="text-align:center"><img src="/icons/partner.png" alt="partner" width="146" height="146"/>
 </tr>
 <tr>
 <td>Permanent:</td>
