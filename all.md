@@ -2,7 +2,7 @@
 title: All Pages
 description: This is a manually edited list of All Pages. Please note the selection may vary at any time.
 published: true
-date: 2019-09-05T23:53:44.707Z
+date: 2019-09-06T00:50:48.019Z
 tags: 
 ---
 
@@ -30,10 +30,6 @@ No description found.
 
 &nbsp;
 # All Pages
-&nbsp;
-##### [Adverts](/adverts)
-Why The Discord Wiki has an advertisement, and why we'd appreciate you not blocking it: A Blog Post
-
 &nbsp;
 ##### [Audit Logs](/audit-logs)
 Information about Discord's Audit Logs
