@@ -2,7 +2,7 @@
 title: Developer Mode
 description: 
 published: true
-date: 2019-09-06T01:13:33.669Z
+date: 2019-09-06T01:13:48.655Z
 tags: 
 ---
 
