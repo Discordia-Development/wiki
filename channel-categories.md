@@ -2,7 +2,7 @@
 title: Channel Categories
 description: A summary of channel categories
 published: true
-date: 2019-08-31T02:44:54.431Z
+date: 2019-09-06T01:20:13.962Z
 tags: 
 ---
 
@@ -16,7 +16,7 @@ Channel categories can be made either with the right-click context menu, or the 
 
 Just as voice channel names, channel category names support spaces and custom characters, such as default emotes. Channel categories also support their own permissions, but will only apply to inside channels if they are synced with the category. 
 
-![Unsynced](https://nobody-loves.me/i/e25p.png)
+![Unsynced](https://nobody-loves.me/i/e25p.png) ![Synced](https://github.com/DiscordiaWiki/wiki/blob/master/uploads/channel-categories/uizsefp-1.png?raw=true)
 
 The older "Text Channels" and "Voice Channels" are now made into categories on newer created servers, with older servers having no categories at all. The normal default channels (the two General channels that are created) still exist in the same categories, however.
 
