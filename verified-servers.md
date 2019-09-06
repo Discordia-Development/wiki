@@ -2,7 +2,7 @@
 title: Verified Servers
 description: A description of Discord's Verified servers
 published: true
-date: 2019-09-06T02:15:55.003Z
+date: 2019-09-06T03:07:23.322Z
 tags: 
 ---
 
