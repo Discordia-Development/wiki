@@ -2,7 +2,7 @@
 title: Server Folders
 description: Used for organisation of servers
 published: true
-date: 2019-08-27T20:33:38.342Z
+date: 2019-09-06T01:22:24.953Z
 tags: 
 ---
 
@@ -15,10 +15,10 @@ Server folders were first tested on the Canary build during mid-July 2019, being
 ## Usage 
 Server folders can be created by dragging a server on top of another server. By right-clicking a server folder, you can mark the folder as read, as well as access folder settings. Taking every server out of a server folder will delete the folder.
 
-![Vymnppxrr 1](/uploads/server-folders/vymnppxrr-1.gif "GIF of creating a server folder.")
+![vymnppxrr-1.gif](/server-folders/vymnppxrr-1.gif)
 
 ## Folder Settings
 
 Within folder settings, you can customize the name of the folder (folders without a name simply show a short list of the servers within), as well as a custom HEX color. Having a custom color on a folder changes the folder icon to said color, and also adds a slight tint behind the folder icon when closed.
 
-![Server Folders](/uploads/server-folders/server-folders.png "Folder Settings")
+![server-folders.png](/server-folders/server-folders.png)
