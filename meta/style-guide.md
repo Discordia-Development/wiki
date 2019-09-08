@@ -2,11 +2,11 @@
 title: Style Guide
 description: Style guide for consistency across The Discord Wiki.
 published: true
-date: 2019-09-08T21:48:44.401Z
+date: 2019-09-08T21:52:01.754Z
 tags: 
 ---
 
-###### Style Guide
+# Style Guide
 The Style Guide is for maintaining consistency across The Discord Wiki. More in-depth sections of the guide are below. Due to the different writing styles that editors of The Discord Wiki have, 100% consistency across every artice will be impossible. The following rules should be taken into consideration when writing any article, however any questions with formatting not answered in this guide should be brought up in the Discord server. 
 
 # General Rules
