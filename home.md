@@ -2,7 +2,7 @@
 title: Home
 description: Welcome to The Discord Wiki!
 published: true
-date: 2019-09-08T21:29:35.630Z
+date: 2019-09-08T21:47:02.186Z
 tags: 
 ---
 
@@ -58,7 +58,7 @@ The Discord Wiki is not affiliated with Discord. We're just here to help Discord
 * erykol#6952 - Polish
 * Immotay#3150 - Brazilian-Portuguese
 * Janik#4444 - Slovakian
-* jcuenin#7650 ![discordserver.png](/discordserver.png)- French
+* jcuenin#7650 - French
 * Justman#0150 - Russian
 * Lireoy#4444 - Hungarian
 * Manfre#9262 - Italian
