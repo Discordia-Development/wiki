@@ -1,4 +1,10 @@
-<!-- TITLE: Partner -->
+---
+title: Partner
+description: 
+published: true
+date: 2019-09-06T01:29:30.955Z
+tags: 
+---
 
 <!--SUBTITLE: A Discord Partner is someone with a large following or server who applies and is accepted by Discord to receive VIP features for themselves and their guild. -->
 
@@ -7,16 +13,17 @@
 <td colspan="2" style="background-color:#4087ED; text-align:center">Discord Partner</td>
 </tr>
 <tr>
-<td colspan="2" style="text-align:center"><img src="/uploads/icons/partner.png" alt="partner" width="146" height="146"/>
+<td colspan="2" style="text-align:center"><img src="/icons/partner.png" alt="partner" width="146" height="146"/>
 </tr>
 <tr>
+<td>Permanent:</td>
+<td>Yes</td>
 </tr>
 <tr>
-<td>Requirements:</td>
+<td>Requirement:</td>
 <td>Membership in the Discord  <a href="https://discordia.me/partner">Partner</a> program</td>
 </tr>
 </table> 
-
 
 
 # Features
@@ -35,9 +42,9 @@ To get a chance for Discord partnership, go to the [Discord Partnership page](ht
 According to the Discord Partnership page, Discord looks for 'growing communities and content creators that show an authentic enthusiasm for Discord (which means you’re already using Discord for your community). We want to support communities that support us. Acceptance into the program is extremely qualitative and will vary from one candidate to the next.'
 
 **Specific communities that are usually accepted include:**
-* Subreddits (8,000+ subs)
-* Social Personalities (Large Facebook, Twitter, etc. online personalities [10,000+ followers])
-* Content Creators/Streamers (Beam, Twitch, YouTube, Player​.​me, etc.)
+* Reddits (8000+ subs)
+* Social Personalities (Large Facebook, Twitter, etc online personalities [10,000+ followers])
+* Content Creators/Streamers (Mixer, Twitch, etc [10,000+ followers])
 * Non-Profits (Requires a valid EIN number)
 * Large Communities (Large guilds or gaming groups)
 

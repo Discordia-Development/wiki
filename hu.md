@@ -1,5 +1,10 @@
-<!-- TITLE: Hungarian - Főoldal -->
-<!-- SUBTITLE: Üdvözlünk a The Discord Wikin! -->
+---
+title: Hungarian - Főoldal
+description: Üdvözlünk a The Discord Wikin!
+published: true
+date: 2019-07-23T06:22:31.799Z
+tags: 
+---
 
 # Üdvözlünk
 ## Rólunk

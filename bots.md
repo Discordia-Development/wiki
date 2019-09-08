@@ -1,5 +1,11 @@
-<!-- TITLE: Bots -->
-<!-- SUBTITLE: Information about various Discord Bot Libraries -->
+---
+title: Bots
+description: Information about various Discord Bot Libraries
+published: true
+date: 2019-07-23T06:21:55.605Z
+tags: 
+---
+
 * *This article is about Discord bots. To see Discord Wiki's own bot, see [WikiBot](/wikibot).*
 
 Discord allows users to create Bots and invite them to servers. Discord allows users to create applications that interact with the API. API documentation is listed [here](https://discordapp.com/developers/docs/intro).

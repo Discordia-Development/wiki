@@ -1,5 +1,10 @@
-<!-- TITLE: Chat Commands -->
-<!-- SUBTITLE: Describes all chat commands available, even the non-obvious/non-documented ones -->
+---
+title: Chat Commands
+description: Describes all chat commands available, even the non-obvious/non-documented ones
+published: true
+date: 2019-07-23T06:22:03.307Z
+tags: 
+---
 
 # Discord Chat Commands
 While some of Discord's "slash" commands are fairly obvious to access, there are some things that can be done in the Message box that are somewhat undocumented (or hard to find information about). To avoid having to dig through changelogs and support articles, here are the things you can do in the Message box:

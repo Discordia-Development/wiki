@@ -1,5 +1,10 @@
-<!-- TITLE: Italian - Pagina principale -->
-<!-- SUBTITLE: Benvenuti nella Discord Wiki! -->
+---
+title: Italian - Pagina principale
+description: Benvenuti nella Discord Wiki!
+published: true
+date: 2019-07-23T06:22:34.867Z
+tags: 
+---
 
 # Benvenuti
 ## Chi siamo

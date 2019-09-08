@@ -1,5 +1,10 @@
-<!-- TITLE: Discord Support -->
-<!-- SUBTITLE: Discord Community Support Servers -->
+---
+title: Discord Support
+description: Discord Community Support Servers
+published: true
+date: 2019-07-23T06:22:15.785Z
+tags: 
+---
 
 # Official Support Routes and Information
 ## Official Servers

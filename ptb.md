@@ -1,4 +1,10 @@
-<!-- TITLE: Discord Public Test Build -->
+---
+title: Discord Public Test Build
+description: 
+published: true
+date: 2019-07-23T06:22:53.738Z
+tags: 
+---
 
 The Public Test Build is the beta version of the Discord Client and the middle ground between the Stable and Canary clients. The Public Test Build (PTB) sometimes has features that are not available on [Stable](/stable). The PTB is intended to be a way for users to help Discord test new features, so it can be expected that PTB is less stable than the main client. PTB tends to receive features later than the [Canary](/canary) build. If you find a bug on PTB, please report it on the [Discord Testers](https://discord.gg/discord-testers) Discord server.
 

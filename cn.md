@@ -1,5 +1,10 @@
-<!-- TITLE: Chinese - 主页 -->
-<!-- SUBTITLE: 欢迎您来非官方Discord维基！ -->
+---
+title: Chinese - 主页
+description: 欢迎您来非官方Discord维基！
+published: true
+date: 2019-07-23T06:22:05.771Z
+tags: 
+---
 
 # 欢迎
 ## 介绍我们

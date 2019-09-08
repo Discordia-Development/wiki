@@ -1,5 +1,10 @@
-<!-- TITLE: Discord Easter Eggs -->
-<!-- SUBTITLE: List of discovered Discord Easter Eggs -->
+---
+title: Discord Easter Eggs
+description: List of discovered Discord Easter Eggs
+published: true
+date: 2019-09-06T00:23:06.155Z
+tags: 
+---
 
 An Easter Egg is an undocumented/secret feature in a piece of computer software that is usually included as a joke or for fun.
 
@@ -12,7 +17,7 @@ On Discord's website [homepage](https://discordapp.com) there are many objects t
 
 One example of the clickable objects is the question-box towards the top of the page.
 
-![Button](/uploads/easter-eggs/newbutton.png "A Button on Discord's Homepage that produces an Easter Egg")
+![Button](/easter-eggs/newbutton.png "A Button on Discord's Homepage that produces an Easter Egg")
 
 # Remixed Ringtone
 Users have a 0.1% chance upon startup of Discord that they will receive a remixed version of the incoming call ringtone during either a group or two-person voice call. If a user receives the remixed ringtone, it will play for the whole duration of the call instead of ending when the user joins the call. According to Discord staff, this is the rarest easter egg. You may hear the remixed ringtone [here](https://canary.discordapp.com/assets/b9411af07f154a6fef543e7e442e4da9.mp3).
@@ -33,12 +38,12 @@ On the [Discord API Rate Limits documentation page](https://discordapp.com/devel
 # Miguel's Fedora
 On the Discord [Jobs Page](https://discordapp.com/jobs) you can click on the different staff member's heads. When you click on a head, an object (such as a pokeball) will fall on it. If you click on Miguel Gaeta's head, one of the objects that might fall is a blurple fedora (amount of clicks until the fedora appears varies). 
 
-![Miguel](/uploads/easter-eggs/miguel.png "Miguel")
+![Miguel](/easter-eggs/miguel.png "Miguel")
 
 # Empathy Banana
 When your [search](/search) leads to no results, Discord will sometimes display an "empathy banana" instead of the usual no results dialogue. This is completely random.
 
-![Banana](/uploads/easter-eggs/banana.png "Banana")
+![Banana](/easter-eggs/banana.png "Banana")
 
 # Computer Man
 Visiting [printer.discordapp.com](https://printer.discordapp.com) will redirect you to a [video clip](https://www.youtube.com/watch?v=jeg_TJvkSjg) from an old Canadian show called Vid Kids. [b1nzy](https://twitter.com/b1naryth1ef), a Discord Developer was the one to implement this easter-egg. 
@@ -46,4 +51,4 @@ Visiting [printer.discordapp.com](https://printer.discordapp.com) will redirect 
 # Snek Game
 When you try to access a page that doesn't exist such as [this one](https://discordapp.com/TheDiscordWikisPartnership) you are redirected to a 404 page. Clicking the button on the console next to Nelly the Robo-Hamster starts a game like the classic Snake Game. Discord developer [tcoil](https://twitter.com/t_coil) made this game.
 
-![Console Button](/uploads/easter-eggs/console-button.png "Console Button")
+![Console Button](/easter-eggs/console-button.png "Console Button")

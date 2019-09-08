@@ -1,5 +1,10 @@
-<!-- TITLE: Korean - 홈 -->
-<!-- SUBTITLE: 비공식 디스코드 위키에 오신 것을 환영합니다! -->
+---
+title: Korean - 홈
+description: 비공식 디스코드 위키에 오신 것을 환영합니다!
+published: true
+date: 2019-07-23T06:22:37.433Z
+tags: 
+---
 
 # 환영합니다
 ## 소개

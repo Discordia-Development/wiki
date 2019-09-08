@@ -1,5 +1,10 @@
-<!-- TITLE: Two-Factor Authentication -->
-<!-- SUBTITLE: Using Two-Factor Authentication on Discord -->
+---
+title: Two-Factor Authentication
+description: Using Two-Factor Authentication on Discord
+published: true
+date: 2019-07-23T06:21:49.775Z
+tags: 
+---
 
 Two-Factor Authentication is a second step security measure when logging into Discord. It is not required, but recommended for safety purposes. 
 # Enabling 2FA

@@ -1,3 +1,11 @@
+---
+title: discord-web
+description: 
+published: true
+date: 2019-07-23T06:23:45.444Z
+tags: 
+---
+
 <!--TITLE: Discord Web -->
 
 Discord Web is the accessible client on Web Browsers. This allows users without a mobile device or a compatible computer to access Discord. The website for Discord is https://discordapp.com. You will need to be logged in to access it.

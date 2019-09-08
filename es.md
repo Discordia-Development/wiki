@@ -1,5 +1,10 @@
-<!-- TITLE: Spanish: Página Principal -->
-<!-- SUBTITLE: ¡Bienvenido a La Wiki de Discord! -->
+---
+title: Spanish: Página Principal
+description: ¡Bienvenido a La Wiki de Discord!
+published: true
+date: 2019-07-23T06:22:22.677Z
+tags: 
+---
 
 # Bienvenido
 ## Sobre nosotros

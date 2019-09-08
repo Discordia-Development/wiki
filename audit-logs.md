@@ -2,7 +2,7 @@
 title: Audit Logs
 description: Information about Discord's Audit Logs
 published: true
-date: 2019-06-03T20:49:46.977Z
+date: 2019-09-06T01:50:06.465Z
 tags: 
 ---
 
@@ -11,13 +11,13 @@ Ever wonder who created a new channel on your server? Or who the person who bann
 # Find Audit Logs
 So, where can you find Audit Logs? Inside the [server settings](/server-settings), there's a tab labeled Audit Logs.
 
-![Audit Logs 2](uploads/audit-logs/audit-logs-2.png "Audit Logs 2")
+![Audit Logs 2](/audit-logs/audit-logs-2.png "Audit Logs 2")
 
 > **NOTE**: You can only view Audit Logs if you have either the **View Audit Logs** or the **Administrator** permissions.
 
 Once you've clicked the Audit Logs tab, you'll be greeted with something that looks like this:
 
-![Audit Logs 3](uploads/audit-logs/audit-logs-3.png "Audit Logs 3")
+![Audit Logs 3](/audit-logs/audit-logs-3.png "Audit Logs 3")
 
 # What do they log?
 
@@ -38,10 +38,10 @@ So, what does this all mean? Well, whenever a user performs an action, it is log
 # Getting the Details
 For many of these actions, further details are given by expanding the given tab.
 
-![Audit Logs 1](uploads/audit-logs/audit-logs-1.png "Audit Logs 1")
+![Audit Logs 1](/audit-logs/audit-logs-1.png "Audit Logs 1")
 
 And, in case you're trying to find a specific action, or an action done by a specific user, have no fear! Discord gives the option to filter the results given by both of these options!
 
-![Audit Logs 4](uploads/audit-logs/audit-logs-4.png "Audit Logs 4")
+![Audit Logs 4](/audit-logs/audit-logs-4.png "Audit Logs 4")
 
 Once you're finished viewing all the Audit Logs you want to see, you can either click the circle with the X in it, or hit the Escape <kbd>Esc</kbd> key.

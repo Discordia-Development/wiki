@@ -1,51 +1,13 @@
-<!-- TITLE: Changelog -->
-<!-- SUBTITLE: Discord Changelog updated as of 8/27/2019 -->
+---
+title: Changelog
+description: Discord Changelog updated as of 7/9/2019
+published: true
+date: 2019-07-23T06:21:59.816Z
+tags: 
+---
 
 This is the changelog/release date for major features or significant changes. PTB and Canary might have received some features sooner than the date listed below
 
-# 8/26/2019
-## iOS
-* CallKit integration can be disabled in settings
-* Hoisted the active voice indicator to the top of the screen
-* Improved the accessibility labeling around the app to make using VoiceOver easier
-* Redesigned user profiles
-# 8/22/2019
-## Android
-* Samsung mobile overlay
-* You can now authorize apps inside the Discord app
-* Call connection fixes
-# 8/16/2019
-* News channels have been changed into Announcement channels
-# 8/15/2019
-* Go Live wider roll out
-# 8/9/2019
-## iOS
-* Inline video player
-* Revamped message context menu
-* You can now tap avatars to open the user menu
-* Voice activity in channel lists is now viewable
-* Server Boosts
-* You can now buy and gift Nitro
-# 7/25/2019
-* Server Folders
-* Block Quotes
-* New Idle and Active on Mobile status icons
-
-## iOS
-* Server Folders
-* Block Quotes
-* Messages now highlight when you long press on them
-* YouTube, Twitch, Instagram, and Twitter links will now open in their native app
-* DM navigation header now shows user activity
-* Tapping profile avatars now opens the user profile sheet
-* Channel descriptions that are too long will now expand properly
-* Server invite suggestions will now consider group DMs
-* Taking pics without permissions no longer causes a crash
-
-## Android
-* Server Folders
-* Block Quotes
-* Server Boosts
 # 7/9/2019
 ## iOS
 * Fixed a feature bug where swiping out of a server or DM back to the server list caused the app to glitch out

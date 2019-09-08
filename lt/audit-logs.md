@@ -1,5 +1,10 @@
-<!-- TITLE: [LT] Veiksmų žurnalai -->
-<!-- SUBTITLE: Informacija apie Discord'o Veiksmų Žurnalus -->
+---
+title: Veiksmų žurnalai
+description: Informacija apie Discord'o Veiksmų Žurnalus
+published: true
+date: 2019-07-29T18:21:48.254Z
+tags: 
+---
 
 Ar niekada nesusimąstei, kas sukūrė naują kanalą tavo serveryje? Ar kas buvo tas žmogus, kuris iš serverio užblokavo problemas sukeliantį narį? Nebijok, Veiksmų Žurnalai visąlaik čia, kad parodytų, kas ką padarė tavo serveryje!
 

@@ -1,4 +1,10 @@
-<!-- TITLE: Reactions -->
+---
+title: Reactions
+description: 
+published: true
+date: 2019-07-23T06:22:55.453Z
+tags: 
+---
 
 Reactions allow you to "react" to other people's messages. Reactions appear as a small emoji positioned below a message, along with a counter for each reaction. Reacting to a message requires the "Add Reaction" permission, however, no permissions are required in order to react to an existing reaction, already present on a message. The counter represents how many people have reacted with that certain emoji.
 

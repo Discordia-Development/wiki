@@ -1,5 +1,10 @@
-<!-- TITLE: Romanian - Acasă -->
-<!-- SUBTITLE: Bine ați venit pe Wiki Discord! -->
+---
+title: Romanian - Acasă
+description: Bine ați venit pe Wiki Discord!
+published: true
+date: 2019-07-23T06:22:59.650Z
+tags: 
+---
 
 # Welcome
 ## Despre noi

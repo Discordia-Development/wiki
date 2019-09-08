@@ -1,5 +1,10 @@
-<!-- TITLE: Pirate English - Home -->
-<!-- SUBTITLE: Welcome t' Th' Discord Wiki! -->
+---
+title: Pirate English - Home
+description: Welcome t' Th' Discord Wiki!
+published: true
+date: 2019-07-23T06:22:21.537Z
+tags: 
+---
 
 # Welcome
 ## 'Bout us

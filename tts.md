@@ -1,4 +1,10 @@
-<!-- TITLE: Text to Speech -->
+---
+title: Text to Speech
+description: 
+published: true
+date: 2019-07-23T06:23:19.036Z
+tags: 
+---
 
 Text to Speech (Short TTS) lets you broadcast a message to people in a channel. To do this, run the command `/tts <MESSAGE>` in the channel you want it to broadcast the message to. This always uses the system TTS engine, therefore sounds different across devices.
 

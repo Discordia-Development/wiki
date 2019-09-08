@@ -1,5 +1,10 @@
-<!-- TITLE: Game Night -->
-<!-- SUBTITLE: Discord Game Night -->
+---
+title: Game Night
+description: Discord Game Night
+published: true
+date: 2019-07-23T06:22:27.162Z
+tags: 
+---
 
 Discord Game Night is a monthly event where Discord staff stream on their [Twitch Channel](https://twitch.tv/discordapp). Usually the stream features Discord staff answering questions, playing games, joking around and giving away merchandise. GameNight is hosted on the Discord Events server, which you can find [here](https://discord.gg/events).
 

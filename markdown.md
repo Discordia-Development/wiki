@@ -1,5 +1,10 @@
-<!-- TITLE: Markdown -->
-<!-- SUBTITLE: Want to inject some flavor into your everyday text chat? -->
+---
+title: Markdown
+description: Want to inject some flavor into your everyday text chat?
+published: true
+date: 2019-09-06T02:07:33.308Z
+tags: 
+---
 
 Markdown is a Discord feature that enables the stylizing of text. There are a total of six different markdown operators in Discord.
 
@@ -8,49 +13,49 @@ Markdown is a Discord feature that enables the stylizing of text. There are a to
 This is done with two asterisks (\*\*) on both sides of text selected. 
 For example: `**The apple is sweet**`.
 
-![A 5 F 8 D 0](/uploads/markdown/a-5-f-8-d-0.png "Bolded markdown in typing window.")
+![Bolded markdown in typing window](https://raw.githubusercontent.com/DiscordiaWiki/wiki/master/uploads/markdown/a-5-f-8-d-0.png "Bolded markdown in typing window.")
 
 This would make the text appear as: 
 
-![Bolded Text In Chat](/uploads/markdown/bolded-text-in-chat.png "Bolded text in chat.")
+![Bolded Text In Chat](https://raw.githubusercontent.com/DiscordiaWiki/wiki/master/uploads/markdown/bolded-text-in-chat.png "Bolded text in chat.")
 
 ## Italicized Text
 This is done with one asterisk (\*) or underscore (\_) on both sides of text selected. For example: `*The apple is sweet*` or `_The apple is sweet_`.
 
-![6 E 34 Bc](/uploads/markdown/6-e-34-bc.png "Italicized markdown in typing window.")
+![Italicized markdown in typing window](https://raw.githubusercontent.com/DiscordiaWiki/wiki/master/uploads/markdown/6-e-34-bc.png "Italicized markdown in typing window.")
 
-![Bcb 156](/uploads/markdown/bcb-156.png "Italicized markdown in typing window.")
+![Bcb 156](https://raw.githubusercontent.com/DiscordiaWiki/wiki/master/uploads/markdown/bcb-156.png "Italicized markdown in typing window.")
 
 This would make the text appear as:
 
-![Italicized Text In Chat](/uploads/markdown/italicized-text-in-chat.png "Italicized text in chat.")
+![Italicized Text In Chat](https://raw.githubusercontent.com/DiscordiaWiki/wiki/master/uploads/markdown/italicized-text-in-chat.png "Italicized text in chat.")
 
 ## Strike-through Text
 This is done with two tildes (\~\~) on both sides of text selected. For example: `~~The apple is sweet~~`.
 
-![56992 E](/uploads/markdown/56992-e.png "Strikethrough markdown in typing window.")
+![Strikethrough markdown in typing window](https://raw.githubusercontent.com/DiscordiaWiki/wiki/master/uploads/markdown/56992-e.png "Strikethrough markdown in typing window.")
 
 This would make the text appear as:
 
-![Strikethrough Text In Chat](/uploads/markdown/strikethrough-text-in-chat.png "Strikethrough text in chat.")
+![Strikethrough Text In Chat](https://raw.githubusercontent.com/DiscordiaWiki/wiki/master/uploads/markdown/strikethrough-text-in-chat.png "Strikethrough text in chat.")
 
 ## Inline Code Blocks
 Using one backtick (\`) you can create an inline code block. They don't take up a line on their own compared to Code Blocks themselves. You can't style them though unlike full Code Blocks.
 
-![C 8 Ca 1 F](/uploads/markdown/c-8-ca-1-f.png "Inline code block in typing window.")
+![Inline code block in typing window](https://raw.githubusercontent.com/DiscordiaWiki/wiki/master/uploads/markdown/c-8-ca-1-f.png "Inline code block in typing window.")
 
 This would make the text appear as:
 
-![C 144 Da](/uploads/markdown/c-144-da.png "Inline code block in chat.")
+![Inline code block in chat](https://raw.githubusercontent.com/DiscordiaWiki/wiki/master/uploads/markdown/c-144-da.png "Inline code block in chat.")
 
 ## Code block formatting
 Surround text with three backticks (\`\`\`) to create a Code Block, if you want colored text, follow with a Highlight.js language ID
 
-![A 16 Ed 5](/uploads/markdown/a-16-ed-5.png "Multiline code block in typing window.")
+![Multiline code block in typing window](https://raw.githubusercontent.com/DiscordiaWiki/wiki/master/uploads/markdown/a-16-ed-5.png "Multiline code block in typing window.")
 
 This would make the text appear as:
 
-![C 73 Dd 2](/uploads/markdown/c-73-dd-2.png "Multiline code block in chat, with code syntax highlighted.")
+![Multiline code block in chat, with code syntax highlighted](https://raw.githubusercontent.com/DiscordiaWiki/wiki/master/uploads/markdown/c-73-dd-2.png "Multiline code block in chat, with code syntax highlighted.")
 
 You can use multiple markdown usages together in a piece of text anywhere, and can even combine them to make ones which stand out.
 
@@ -60,35 +65,16 @@ A full list of code block format IDs can be found in [this server](https://disco
 You can create a spoiler by surrounding your message with two vertical bars (\|\|) if you want to hide sensitive information. People can reveal spoilers by tapping or clicking on it. You can rehide spoilers in a channel by re-entering the channel. In addition to hiding text, the spoiler tag will also cover up any media sent until the recipient chooses to reveal it.
 You can also combine spoilers with other markdown formatting.
 
-![Typing spoiler](/uploads/markdown/typingspoiler.png "Typingspoiler")
+![Typing spoiler](https://raw.githubusercontent.com/DiscordiaWiki/wiki/master/uploads/markdown/typingspoiler.png "Typingspoiler")
 
 This is what an unrevealed spoiler looks like in chat:
 
-![Unrevealed spoiler](/uploads/markdown/unrevealedspoiler.png "Unrevealedspoiler")
+![Unrevealed spoiler](https://raw.githubusercontent.com/DiscordiaWiki/wiki/master/uploads/markdown/unrevealedspoiler.png "Unrevealedspoiler")
 
 It can be revealed by clicking or tapping on the spoiler. This is what a revealed spoiler looks like in chat:
 
-![Revealed spoiler](/uploads/markdown/revealedspoiler.png "Revealedspoiler")
+![Revealed spoiler](https://raw.githubusercontent.com/DiscordiaWiki/wiki/master/uploads/markdown/revealedspoiler.png "Revealedspoiler")
 
 You can adjust the settings for showing spoilers in User Settings -> Text & Images. The *On servers I moderate* option will display spoiler content only on servers in which you have the **Manage Messages** permission.
 
-![Spoiler settings](/uploads/markdown/spoiler-settings.png "Spoiler settings")
-
-## Block Quotes
-Using one greater-than sign (\>) you can create a block quote. Using three greater-than signs (\>\>\>), you can a multi-row block quote. You have to use Shift + Enter to start a new row.
-
-For a single row block quote:
-
-![Blockquote](/uploads/markdown/blockquote.png "Blockquote")
-
-For a multi-row block quote:
-
-![Blockquotemultiple](/uploads/markdown/blockquotemultiple.png "Blockquotemultiple")
-
-This would make the text appear as:
-
-![Blocksingle](/uploads/markdown/blocksingle.png "Blocksingle")
-
-Or as like this, with multiple rows:
-
-![Blockmultiple](/uploads/markdown/blockmultiple.png "Blockmultiple")
+![Spoiler settings](https://raw.githubusercontent.com/DiscordiaWiki/wiki/master/uploads/markdown/spoiler-settings.png "Spoiler settings")

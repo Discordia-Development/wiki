@@ -1,5 +1,10 @@
-<!-- TITLE: User Status -->
-<!-- SUBTITLE: Quickly switch notifications on or off at the press of a button -->
+---
+title: User Status
+description: Quickly switch notifications on or off at the press of a button
+published: true
+date: 2019-07-23T06:23:22.293Z
+tags: 
+---
 
 *This article is about Discord's User statuses. If you are looking for Discord's server status, go [here](https://status.discordapp.com) instead.*
 

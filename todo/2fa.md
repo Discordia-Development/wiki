@@ -1,4 +1,10 @@
-<!-- TITLE: Two-Factor Authentication -->
+---
+title: Two-Factor Authentication
+description: 
+published: true
+date: 2019-07-23T06:23:42.138Z
+tags: 
+---
 
 This is part of the [User Settings](/user-settings) in Discord.
 

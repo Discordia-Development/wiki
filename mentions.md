@@ -1,5 +1,10 @@
-<!-- TITLE: Mentions -->
-<!-- SUBTITLE: Notify users directly -->
+---
+title: Mentions
+description: Notify users directly
+published: true
+date: 2019-07-23T06:22:45.598Z
+tags: 
+---
 
 Mentions are a way to directly notify a user, multiple users or roles in messages. The main purpose of them is to be able to get someone into a channel or showing you're talking to them specifically. You can mention users or roles using `@name`.
 

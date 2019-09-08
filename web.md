@@ -1,5 +1,10 @@
-<!-- TITLE: Discord Web -->
-<!-- SUBTITLE: Discord browser client -->
+---
+title: Discord Web
+description: Discord browser client
+published: true
+date: 2019-07-23T06:23:27.026Z
+tags: 
+---
 
 Discord has a web app that allows you to access the service without downloading an application. To access the web app, go to discordapp.com/channels/@me. 
 

@@ -1,5 +1,10 @@
-<!-- TITLE: Streamer Mode -->
-<!-- SUBTITLE: Discord Streamer Mode -->
+---
+title: Streamer Mode
+description: Discord Streamer Mode
+published: true
+date: 2019-07-23T06:23:14.627Z
+tags: 
+---
 
 Discord has a Streamer Mode that allows you to access Discord during a stream without risk of revealing personal information.
 

@@ -1,5 +1,10 @@
-<!-- TITLE: Dutch - Startpagina -->
-<!-- SUBTITLE: Welkom bij de Discord Wiki! -->
+---
+title: Dutch - Startpagina
+description: Welkom bij de Discord Wiki!
+published: true
+date: 2019-07-23T06:22:49.879Z
+tags: 
+---
 
 # Welkom
 ## Over ons

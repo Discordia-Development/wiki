@@ -1,5 +1,10 @@
-<!-- TITLE: Cookie Policy -->
-<!-- SUBTITLE: Cookie Policy to comply with EU Regulations -->
+---
+title: Cookie Policy
+description: Cookie Policy to comply with EU Regulations
+published: true
+date: 2019-07-23T06:23:32.534Z
+tags: 
+---
 
 # Info
 In order for this site to work properly, we sometimes place small data files called cookies on your device.

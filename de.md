@@ -1,5 +1,10 @@
-<!-- TITLE: German - Startseite -->
-<!-- SUBTITLE: Willkommen beim unoffizielen Discord Wiki! -->
+---
+title: German - Startseite
+description: Willkommen beim unoffizielen Discord Wiki!
+published: true
+date: 2019-07-23T06:22:12.229Z
+tags: 
+---
 
 # Willkommen
 ## Über uns

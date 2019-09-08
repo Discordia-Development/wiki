@@ -1,9 +1,15 @@
-<!-- TITLE: Servers -->
-<!-- SUBTITLE: A quick summary of servers -->
+---
+title: Servers
+description: A quick summary of servers
+published: true
+date: 2019-09-08T10:26:54.986Z
+tags: 
+---
+
 A server (occasionally referred to as a *guild* in Discord documentation) is the main feature on Discord.
 
 
-![Discordserver](/uploads/servers/discordserver.png "A Discord Server")
+![Discordserver](/servers/discordserver.png "A Discord Server")
 
 *A server with one text channel and two voice channels.*
 
@@ -15,7 +21,8 @@ Users can create a server by scrolling to the bottom of their server list and cl
 # Features
 Servers may contain text channels, voice channels, roles and custom emojis.
 ## Text Channels
-Text channels are how users communicate with each other on a server. Users with the "Manage Channels" permission may create and delete text and voice channels. These extra text channels may edited so that only certain roles and/or users may read it. As of a new update, the first channel created will not be the default text channel. The default channel now changes to the one with the lowest permissions. 
+Text channels are how users communicate with each other on a server. Users with the "Manage Channels" permission may create and delete text and voice channels. These extra text channels may be edited so that only certain roles and/or users may read it. As of a new update, the first channel created will not be the default text channel. The default channel now changes to the one with the lowest permissions.
+
 ## Voice Channels
 Voice channels allow server members to talk to each other using their voices. There is no default voice channels and all permissions may be edited for any voice channel. Servers are not required to have voice channels, but they make the party a bit more fun!
 ## Roles

@@ -1,5 +1,10 @@
-<!-- TITLE: Privacy Policy -->
-<!-- SUBTITLE: The Privacy Policy for any services provided by The Discord Wiki -->
+---
+title: Privacy Policy
+description: The Privacy Policy for any services provided by The Discord Wiki
+published: true
+date: 2019-07-23T06:23:36.453Z
+tags: 
+---
 
 # Introduction
 At The Discord Wiki, we collect and manage user data according to the following Privacy Policy, with the goal of incorporating our company values: transparency, accessibility, sanity, usability. This document is part of The Discord Wiki's [Terms of Service](https://discordia.me/meta/terms), and by using https://discordia.me (the “Services”), you agree to the terms of this Privacy Policy and the Terms of Service. Please read the Terms of Service in their entirety, and refer to those for definitions and contacts.

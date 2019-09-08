@@ -1,5 +1,10 @@
-<!-- TITLE: Technology -->
-<!-- SUBTITLE: Stuff about Discord's internal systems, with some undocumented situations as well -->
+---
+title: Technology
+description: Stuff about Discord's internal systems, with some undocumented situations as well
+published: true
+date: 2019-07-23T06:23:16.828Z
+tags: 
+---
 
 # Discord's "stack"
 

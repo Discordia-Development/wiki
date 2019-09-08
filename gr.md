@@ -1,5 +1,10 @@
-<!-- TITLE: Greek - Αρχική Σελίδα -->
-<!-- SUBTITLE: Καλωσορίσατε στο The Discord Wiki! -->
+---
+title: Greek - Αρχική Σελίδα
+description: Καλωσορίσατε στο The Discord Wiki!
+published: true
+date: 2019-07-23T06:22:29.432Z
+tags: 
+---
 
 # Καλωσορίσατε
 ## Σχετικά με μας

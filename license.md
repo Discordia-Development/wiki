@@ -1,3 +1,11 @@
+---
+title: license
+description: 
+published: true
+date: 2019-07-23T06:22:40.011Z
+tags: 
+---
+
 Attribution-ShareAlike 4.0 International
 
 =======================================================================

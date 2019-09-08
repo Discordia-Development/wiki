@@ -1,6 +1,14 @@
+---
+title: discord
+description: 
+published: true
+date: 2019-09-06T01:35:41.965Z
+tags: 
+---
+
 <!--TITLE: Discord -->
 
-![Logo](/uploads/discord/logo.png "Logo")
+![Logo](https://raw.githubusercontent.com/DiscordiaWiki/wiki/master/uploads/discord/logo.png "Logo")
 
 Discord is a free text and voice-based social software directed towards gamers. With over 130 million users and counting, Discord continues to grow and has many updates and awesome features.
 

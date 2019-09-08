@@ -1,5 +1,10 @@
-<!-- TITLE: HypeSquad -->
-<!-- SUBTITLE: Are you Hyped? Because I'm feeling super duper hyped to tell you about this really cool thing! -->
+---
+title: HypeSquad
+description: Are you Hyped? Because I'm feeling super duper hyped to tell you about this really cool thing!
+published: true
+date: 2019-07-23T06:22:31.851Z
+tags: 
+---
 
 <table style="width:250px; border:1px solid black; float:center">
 <tr>

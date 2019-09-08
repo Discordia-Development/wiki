@@ -1,5 +1,10 @@
-<!-- TITLE: Turkish - Ana Sayfa -->
-<!-- SUBTITLE: Discord Viki'ye hoş geldin! -->
+---
+title: Turkish - Ana Sayfa
+description: Discord Viki'ye hoş geldin!
+published: true
+date: 2019-07-23T06:23:17.955Z
+tags: 
+---
 
 # Hoş geldin
 ## Hakkımızda

@@ -1,5 +1,10 @@
-<!-- TITLE: Swedish - Hem -->
-<!-- SUBTITLE: Välkommen till The Discord Wiki! -->
+---
+title: Swedish - Hem
+description: Välkommen till The Discord Wiki!
+published: true
+date: 2019-07-23T06:23:04.301Z
+tags: 
+---
 
 # Välkommen
 ## Om Oss

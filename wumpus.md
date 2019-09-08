@@ -1,4 +1,10 @@
-<!-- TITLE: Wumpus -->
+---
+title: Wumpus
+description: 
+published: true
+date: 2019-07-23T06:23:29.041Z
+tags: 
+---
 
 Wumpus is one of Discord's mascots.
 

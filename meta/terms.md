@@ -1,5 +1,10 @@
-<!-- TITLE: Terms of Service -->
-<!-- SUBTITLE: The Terms of Service for any services provided by The Discord Wiki -->
+---
+title: Terms of Service
+description: The Terms of Service for any services provided by The Discord Wiki
+published: true
+date: 2019-07-23T06:23:40.474Z
+tags: 
+---
 
 # 1. Acceptance of the Terms of Service
 Welcome to **The Discord Wiki** (a.k.a. "**we**" or "**us**" or the "**Company**"). We are excited to have you as user and member of the community. The following terms and conditions (collectively, these "**Terms of Service**") apply to your use of https://discordia.me, including any content, functionality and services offered on or via https://discordia.me (the "**Services**"). The Terms of Service also include our **Privacy Policy**, which you can review [HERE](https://discordia.me/meta/privacy)

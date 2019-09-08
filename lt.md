@@ -1,5 +1,10 @@
-<!-- TITLE: Lithuanian - Pagrindinis -->
-<!-- SUBTITLE: Sveiki atvykę į The Discord Wiki! -->
+---
+title: Lithuanian - Pagrindinis
+description: Sveiki atvykę į The Discord Wiki!
+published: true
+date: 2019-07-23T06:22:43.256Z
+tags: 
+---
 
 # Sveiki
 ## Apie mus

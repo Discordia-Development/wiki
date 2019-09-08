@@ -1,5 +1,10 @@
-<!-- TITLE: Home -->
-<!-- SUBTITLE: Welcome to The Discord Wiki! -->
+---
+title: Home
+description: Welcome to The Discord Wiki!
+published: true
+date: 2019-09-08T21:48:06.150Z
+tags: 
+---
 
 # Welcome
 ## About Us
@@ -47,12 +52,12 @@ The Discord Wiki is not affiliated with Discord. We're just here to help Discord
 * Cherno#9465 - Japanese
 * D_EaN * STS#0105 - Hungarian
 * Daan#1337 - Dutch
-* Dann#3477 - Romanian
+* Dann#0003 - Romanian
 * deframet#0001 - Italian
 * Disegual#4088 - Italian
 * erykol#6952 - Polish
 * Immotay#3150 - Brazilian-Portuguese
-* janik!#0042 - Slovakian
+* Janik#4444 - Slovakian
 * jcuenin#7650 - French
 * Justman#0150 - Russian
 * Lireoy#4444 - Hungarian
@@ -89,7 +94,7 @@ The Discord Wiki is not affiliated with Discord. We're just here to help Discord
 
 > ***Patrons***
 
-*A huge thank you to all our supporters on [Patreon](https://www.patreon.com/TheDiscordWiki)!*
+*A huge thank you to all our supporters on Patreon (Discontinued)*
 
 * DowDaw#0309
 * Qaidul#6432

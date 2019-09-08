@@ -1,4 +1,10 @@
-<!-- TITLE:Discord Stable -->
+---
+title: Discord Stable
+description: 
+published: true
+date: 2019-07-23T06:23:13.554Z
+tags: 
+---
 
 Discord Stable is the main Discord client. 
 The main client is called Stable because it has very little bugs.

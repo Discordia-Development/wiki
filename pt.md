@@ -1,5 +1,10 @@
-<!-- TITLE: Portuguese - Início -->
-<!-- SUBTITLE: Bem-vindo a Discord Wiki! -->
+---
+title: Portuguese - Início
+description: Bem-vindo a Discord Wiki!
+published: true
+date: 2019-07-23T06:22:53.680Z
+tags: 
+---
 
 # Bem-vindo
 ## Sobre nós

@@ -1,5 +1,11 @@
-<!-- TITLE: Bug Hunters -->
-<!-- SUBTITLE: Helping Discord Developers manage Bug Reports and fix Bugs -->
+---
+title: Bug Hunters
+description: Helping Discord Developers manage Bug Reports and fix Bugs
+published: true
+date: 2019-07-23T06:21:56.714Z
+tags: 
+---
+
 # Bug Hunters
 Bug Hunters are an elite group of Discord users, who have successfully found bugs with Discord on any client and had it reproduced by three users. They help the Discord developers to learn about bugs and fix them.
 

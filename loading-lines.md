@@ -1,5 +1,10 @@
-<!-- TITLE: Loading Lines -->
-<!-- SUBTITLE: A quick summary of Loading Lines -->
+---
+title: Loading Lines
+description: A quick summary of Loading Lines
+published: true
+date: 2019-07-23T06:22:42.166Z
+tags: 
+---
 
 Loading lines are a feature for the Desktop and iOS versions of Discord. These will show a saying, usually a video game reference, along with the words "Loading," until Discord is finished loading, and then it will say "Ready." These are also shown when Discord is updating.
 

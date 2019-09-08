@@ -1,5 +1,10 @@
-<!-- TITLE: Japanese - ホーム -->
-<!-- SUBTITLE: ようこそ　Discord Wikiへ! -->
+---
+title: Japanese - ホーム
+description: ようこそ　Discord Wikiへ!
+published: true
+date: 2019-07-23T06:22:36.155Z
+tags: 
+---
 
 # ようこそ！
 ## このWikiについて

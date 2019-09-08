@@ -1,4 +1,10 @@
-<!-- TITLE: Server Settings -->
+---
+title: Server Settings
+description: 
+published: true
+date: 2019-07-23T06:23:07.890Z
+tags: 
+---
 
 The settings below are specific to servers.
 
