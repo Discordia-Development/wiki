@@ -1,13 +1,20 @@
 ---
 title: Changelog
-description: Discord Changelog updated as of 9/10/2019
+description: Discord Changelog updated as of 9/13/2019
 published: true
-date: 2019-09-10T13:10:25.010Z
+date: 2019-09-13T18:46:34.743Z
 tags: 
 ---
 
 This is the changelog/release date for major features or significant changes. PTB and Canary might have received some features sooner than the date listed below
 
+# 9/11/2019
+## iOS
+* You can now spectate Go Live streams
+* Updated in-built image picker
+* New voice calling UI
+* Updated chat buttons
+* You can now create announcement channels
 # 9/9/2019
 * UI refresh including renovated light theme
 # 9/4/2019
