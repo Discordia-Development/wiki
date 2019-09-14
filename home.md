@@ -2,7 +2,7 @@
 title: Home
 description: Welcome to The Discord Wiki!
 published: true
-date: 2019-09-08T21:48:06.150Z
+date: 2019-09-14T18:04:02.922Z
 tags: 
 ---
 
@@ -37,6 +37,12 @@ The Discord Wiki is not affiliated with Discord. We're just here to help Discord
 * Azrael#6867 - Community Lead
 * Ghostwolf#2792 - Translation Lead
 * OminousCry#2331 - Translation Lead
+
+> ***Wiki Moderators***
+
+* Costpap#7667
+* Dann™#0003
+* PapuleX#2589
 
 > ***Server Moderators***
 
