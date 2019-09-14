@@ -2,7 +2,7 @@
 title: Pagrindinis
 description: 
 published: true
-date: 2019-07-29T16:29:05.588Z
+date: 2019-09-14T18:05:25.869Z
 tags: 
 ---
 
@@ -36,6 +36,12 @@ The Discord Wiki nėra susijusi su Discord. Mes tik padedame Discord vartotojams
 * Azrael#6867 - Bendruomenės lyderis
 * Ghostwolf#2792 - Vertimų lyderis
 * OminousCry#2331 - Vertimų lyderis
+
+> ***Wiki Moderatoriai***
+
+* Costpap#7667
+* Dann™#0003
+* PapuleX#2589
 
 > ***Serverio moderatoriai***
 
