@@ -2,12 +2,15 @@
 title: Changelog
 description: Discord Changelog updated as of 9/22/2019
 published: true
-date: 2019-09-22T13:42:53.164Z
+date: 2019-09-24T12:35:48.681Z
 tags: 
 ---
 
 This is the changelog/release date for major features or significant changes. PTB and Canary might have received some features sooner than the date listed below
 
+# 9/23/2019
+## iOS
+* Fixed iOS 13 bugs
 # 9/21/2019
 ## Android
 * Group DM icons are now colored
