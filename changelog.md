@@ -1,8 +1,8 @@
 ---
 title: Changelog
-description: Discord Changelog updated as of 9/22/2019
+description: Discord Changelog updated as of 9/24/2019
 published: true
-date: 2019-09-24T12:35:48.681Z
+date: 2019-09-24T12:35:56.910Z
 tags: 
 ---
 
