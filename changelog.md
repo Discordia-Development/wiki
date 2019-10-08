@@ -1,13 +1,16 @@
 ---
 title: Changelog
-description: Discord Changelog updated as of 9/24/2019
+description: Discord Changelog updated as of 10/8/2019
 published: true
-date: 2019-09-24T12:35:56.910Z
+date: 2019-10-08T19:58:43.472Z
 tags: 
 ---
 
 This is the changelog/release date for major features or significant changes. PTB and Canary might have received some features sooner than the date listed below
 
+# 10/7/2019
+## iOS
+* You can now gift Nitro
 # 9/23/2019
 ## iOS
 * Fixed iOS 13 bugs
@@ -48,7 +51,7 @@ This is the changelog/release date for major features or significant changes. PT
 * You can now tap avatars to open the user menu
 * Voice activity in channel lists is now viewable
 * Server Boosts
-* You can now buy and gift Nitro
+* You can now buy
 # 7/25/2019
 * Server Folders
 * Block Quotes
