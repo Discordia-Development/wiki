@@ -2,7 +2,7 @@
 title: Discord Resources
 description: Useful Discord Resources
 published: true
-date: 2019-10-16T18:41:11.450Z
+date: 2019-10-16T20:37:28.634Z
 tags: 
 ---
 
@@ -31,7 +31,7 @@ tags:
 * [Discord Testers](http://discord.gg/discord-testers)
 * [Discord Events](http://discord.gg/events)
 * [Discord Feedback](https://discord.gg/discord-feedback)
-* .[Discord Game SDK Help](https://discord.gg/discord-gamesdk)
+* [Discord Game SDK Help](https://discord.gg/discord-gamesdk)
 
 ### Archived Servers
 
