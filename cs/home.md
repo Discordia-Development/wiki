@@ -2,7 +2,7 @@
 title: Domovská stránka
 description: 
 published: true
-date: 2019-08-06T12:59:31.566Z
+date: 2019-10-19T16:38:41.932Z
 tags: 
 ---
 
@@ -32,6 +32,12 @@ Vítejte na naší stránce! Jsme Discord Wiki! Jsme hrdí na to, že jsme jedn�
 * Ghostwolf#2792 - Vedoucí překladu
 * OminousCry#2331 - Vedoucí překladu
 
+> ***Moderátoři na Wiki***
+
+* Costpap#7667
+* Dann™#0003
+* PapuleX#2589
+
 > ***Moderátoři serveru***
 * DowDaw#0309
 * Downy#5863
@@ -44,7 +50,7 @@ Vítejte na naší stránce! Jsme Discord Wiki! Jsme hrdí na to, že jsme jedn�
 * Anaís#4719 - Španělština
 * Cherno#9465 - Japonština
 * D_EaN * STS#0105 - Maďarština
-* Daan#1337 - Holandština
+* Daan#0003 - Holandština
 * Dann#1121 - Rumunština
 * deframet#0001 - Italština
 * Disegual#4088 - Italština
