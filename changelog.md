@@ -1,13 +1,24 @@
 ---
 title: Changelog
-description: Discord Changelog updated as of 10/8/2019
+description: Discord Changelog updated as of 10/21/2019
 published: true
-date: 2019-10-08T19:58:43.472Z
+date: 2019-10-21T14:13:46.362Z
 tags: 
 ---
 
 This is the changelog/release date for major features or significant changes. PTB and Canary might have received some features sooner than the date listed below
 
+# 10/21/2019
+## Android
+* Redesigned user profiles
+* Android 10 users will no longer have trouble uploading images from the image picker
+# 10/13/2019
+## iOS
+* Inviting people to calls and voice channels is easier now
+* Voice channels are now in action sheets
+* Refreshed the emoji keyboard to show all your server icons
+* You can now follow Announcement Channels
+* Native context menus now match your system theme on iOS 13
 # 10/7/2019
 ## iOS
 * You can now gift Nitro
