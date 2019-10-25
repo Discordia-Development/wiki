@@ -1,13 +1,15 @@
 ---
 title: Changelog
-description: Discord Changelog updated as of 10/21/2019
+description: Discord Changelog updated as of 10/26/2019
 published: true
-date: 2019-10-21T14:13:46.362Z
+date: 2019-10-25T23:58:23.325Z
 tags: 
 ---
 
 This is the changelog/release date for major features or significant changes. PTB and Canary might have received some features sooner than the date listed below
 
+# 10/25/2019
+* Custom Statuses
 # 10/21/2019
 ## Android
 * Redesigned user profiles
