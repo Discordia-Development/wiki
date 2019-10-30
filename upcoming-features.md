@@ -2,7 +2,7 @@
 title: Upcoming Features
 description: A quick summary of Upcoming Features
 published: true
-date: 2019-10-25T23:58:55.009Z
+date: 2019-10-30T04:52:26.821Z
 tags: 
 ---
 
@@ -21,7 +21,6 @@ This is a list of features that will be occasionally updated with information ab
 | Keyboard Navigation | In Development |
 | LFG channels | In Testing |
 | Permissions Preview Tool | Planned |
-| Separate Server Boost Subscriptions | In Development |
 
 ## iOS
 | Feature | Status	|
