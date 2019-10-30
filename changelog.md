@@ -1,13 +1,24 @@
 ---
 title: Changelog
-description: Discord Changelog updated as of 10/26/2019
+description: Discord Changelog updated as of 10/30/2019
 published: true
-date: 2019-10-25T23:58:23.325Z
+date: 2019-10-30T04:57:32.653Z
 tags: 
 ---
 
 This is the changelog/release date for major features or significant changes. PTB and Canary might have received some features sooner than the date listed below
 
+# 10/29/2019
+## Desktop
+* Increased included server boosts with Nitro to 2 boosts
+* Separately purchasable Server Boosts
+* Server boost level 2 increased from 10 boosts to 15 boosts
+* Server boost level 3 increased from 20 boosts to 30 boosts
+## Android
+* Improved User Sheet with DM and Call actions
+* Improved Android 10 Support
+* Presence in the User Sheet no longer overlaps or looks malformed
+* Image Thumbnails on Android 10 are no longer empty gray squares, unless you are taking a picture of those.
 # 10/25/2019
 * Custom Statuses
 # 10/21/2019
