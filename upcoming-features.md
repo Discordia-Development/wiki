@@ -2,7 +2,7 @@
 title: Upcoming Features
 description: A quick summary of Upcoming Features
 published: true
-date: 2019-10-30T04:52:26.821Z
+date: 2019-10-30T22:13:36.287Z
 tags: 
 ---
 
@@ -18,6 +18,7 @@ This is a list of features that will be occasionally updated with information ab
 
 | Feature |	Status |
 |---------|---------|
+| Chat Input Box Live Preview | In Testing |
 | Keyboard Navigation | In Development |
 | LFG channels | In Testing |
 | Permissions Preview Tool | Planned |
