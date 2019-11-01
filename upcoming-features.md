@@ -2,7 +2,7 @@
 title: Upcoming Features
 description: A quick summary of Upcoming Features
 published: true
-date: 2019-11-01T19:53:25.773Z
+date: 2019-11-01T19:53:49.475Z
 tags: 
 ---
 
@@ -27,11 +27,13 @@ This is a list of features that will be occasionally updated with information ab
 |---------|---------|
 | 3D Touch Support | Planned |
 | Rich Push Notifications | Planned |
+| Timed Muting | In Development |
 
 ## Android
 | Feature | Status |
 |---------|--------|
 | Compress Image Toggle | Planned |
 | Screen Sharing | Planned |
+| Timed Muting | In Development |
 
 > Disclaimer: These are unreleased features and they might change before they are released to Canary/Android Alpha/TestFlight users. They might not be released at all, and ETAs are not available.
