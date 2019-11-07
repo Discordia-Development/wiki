@@ -1,13 +1,16 @@
 ---
 title: Changelog
-description: Discord Changelog updated as of 10/30/2019
+description: Discord Changelog updated as of 11/7/2019
 published: true
-date: 2019-10-30T04:57:32.653Z
+date: 2019-11-07T22:48:32.868Z
 tags: 
 ---
 
 This is the changelog/release date for major features or significant changes. PTB and Canary might have received some features sooner than the date listed below
 
+# 11/7/2019
+## Android
+* Custom Statuses
 # 10/29/2019
 ## Desktop
 * Increased included server boosts with Nitro to 2 boosts
