@@ -1,13 +1,22 @@
 ---
 title: Changelog
-description: Discord Changelog updated as of 11/7/2019
+description: Discord Changelog updated as of 11/12/2019
 published: true
-date: 2019-11-07T22:48:32.868Z
+date: 2019-11-12T18:10:13.270Z
 tags: 
 ---
 
 This is the changelog/release date for major features or significant changes. PTB and Canary might have received some features sooner than the date listed below
 
+# 11/12/2019
+* Improved emoji picker which properly themes to dark mode and shows the server the emoji is from
+* Jumboed emojis are bigger now
+* You can now sort search results by oldest messages
+* Added a Mark Unread option to the context menu on messages
+* Embeds have received a refreshed look
+* Muted and Deafened icons in voice channels now show you if you've been muted by a moderator
+* The Twemoji version has been updated to 12.1.3
+* Many other Quality of Life changes
 # 11/7/2019
 ## Android
 * Custom Statuses
