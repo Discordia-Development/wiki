@@ -1,13 +1,23 @@
 ---
 title: Changelog
-description: Discord Changelog updated as of 11/12/2019
+description: Discord Changelog updated as of 11/16/2019
 published: true
-date: 2019-11-12T18:10:13.270Z
+date: 2019-11-16T10:50:40.674Z
 tags: 
 ---
 
 This is the changelog/release date for major features or significant changes. PTB and Canary might have received some features sooner than the date listed below
 
+# 11/15/2019
+## iOS
+* New navigation through tabs
+* Refreshed chat input, including a Gift button
+* Added Mark Unread option for messages
+* Added Save Image and Copy Media Link options when long pressing images in chat
+* Addded suggestions for slash commands
+* New option to send lower quality images on cellular data
+* Emojis in emoji picker updated to Emoji 12.0
+* New toast notification when you successfully copy links, IDs or send friend requests
 # 11/12/2019
 * Improved emoji picker which properly themes to dark mode and shows the server the emoji is from
 * Jumboed emojis are bigger now
@@ -19,6 +29,9 @@ This is the changelog/release date for major features or significant changes. PT
 * Many other Quality of Life changes
 # 11/7/2019
 ## Android
+* Custom Statuses
+# 11/1/2019
+## iOS
 * Custom Statuses
 # 10/29/2019
 ## Desktop
