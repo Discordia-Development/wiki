@@ -2,7 +2,7 @@
 title: Upcoming Features
 description: A quick summary of Upcoming Features
 published: true
-date: 2019-11-01T19:54:24.884Z
+date: 2019-11-16T10:40:09.724Z
 tags: 
 ---
 
@@ -27,7 +27,6 @@ This is a list of features that will be occasionally updated with information ab
 |---------|---------|
 | 3D Touch Support | Planned |
 | Rich Push Notifications | Planned |
-| Tabs | In A/B Testing |
 | Timed Muting | In Development |
 
 ## Android
