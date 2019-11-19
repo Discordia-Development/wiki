@@ -1,13 +1,25 @@
 ---
 title: Changelog
-description: Discord Changelog updated as of 11/16/2019
+description: Discord Changelog updated as of 11/19/2019
 published: true
-date: 2019-11-16T10:50:40.674Z
+date: 2019-11-19T14:01:42.074Z
 tags: 
 ---
 
 This is the changelog/release date for major features or significant changes. PTB and Canary might have received some features sooner than the date listed below
 
+# 11/19/2019
+* Twitter embeds now support showing multiple images
+* New audit log actions have been added:
+  * Move Member
+  * Disconnect Member
+  * Add Bot
+  * Bulk Delete Messages
+  * Pin Message
+  * Unpin Message
+  * Create Integration
+  * Update Integration
+  * Delete Integration
 # 11/15/2019
 ## iOS
 * New navigation through tabs
