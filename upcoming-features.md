@@ -2,7 +2,7 @@
 title: Upcoming Features
 description: A quick summary of Upcoming Features
 published: true
-date: 2019-11-19T13:58:45.859Z
+date: 2019-11-21T22:22:15.433Z
 tags: 
 ---
 
@@ -34,6 +34,6 @@ This is a list of features that will be occasionally updated with information ab
 |---------|--------|
 | Compress Image Toggle | Planned |
 | Screen Sharing | Planned |
-| Timed Muting | In Development |
+| Timed Muting | Available on Android Alpha |
 
 > Disclaimer: These are unreleased features and they might change before they are released to Canary/Android Alpha/TestFlight users. They might not be released at all, and ETAs are not available.
