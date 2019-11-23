@@ -2,7 +2,7 @@
 title: Upcoming Features
 description: A quick summary of Upcoming Features
 published: true
-date: 2019-11-21T22:22:15.433Z
+date: 2019-11-23T09:28:26.995Z
 tags: 
 ---
 
@@ -18,7 +18,7 @@ This is a list of features that will be occasionally updated with information ab
 
 | Feature |	Status |
 |---------|---------|
-| Chat Input Box Live Preview | In Development |
+| Rich Chat Box | In Testing |
 | Keyboard Navigation | In Development |
 | Permissions Preview Tool | Planned |
 
@@ -27,13 +27,13 @@ This is a list of features that will be occasionally updated with information ab
 |---------|---------|
 | 3D Touch Support | Planned |
 | Rich Push Notifications | Planned |
-| Timed Muting | In Development |
+| Temporary Muting | In Development |
 
 ## Android
 | Feature | Status |
 |---------|--------|
 | Compress Image Toggle | Planned |
 | Screen Sharing | Planned |
-| Timed Muting | Available on Android Alpha |
+| Temporary Muting | Available on Android Alpha |
 
 > Disclaimer: These are unreleased features and they might change before they are released to Canary/Android Alpha/TestFlight users. They might not be released at all, and ETAs are not available.
