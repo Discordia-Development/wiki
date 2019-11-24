@@ -2,7 +2,7 @@
 title: User Settings
 description: Make Discord just the way you want it!
 published: true
-date: 2019-09-06T01:40:06.740Z
+date: 2019-11-24T21:59:16.843Z
 tags: 
 ---
 
@@ -14,6 +14,7 @@ You may change your online status by clicking on your profile picture on the use
 * Idle - Indicates that you are not actively on Discord or replying/reading messages. You will still receive notifications. <img src="https://raw.githubusercontent.com/DiscordiaWiki/wiki/master/uploads/icons/idle.png" alt="idle" width="18" height="18"/>
 * Do Not Disturb - Indicates you are busy. You will not receive desktop notifications. <img src="https://raw.githubusercontent.com/DiscordiaWiki/wiki/master/uploads/icons/dnd.png" alt="dnd" width="18" height="18"/>
 * Invisible - Displays you as offline to everyone else but you still receive desktop notifications and have full access to Discord. <img src="https://raw.githubusercontent.com/DiscordiaWiki/wiki/master/uploads/icons/offline.png" alt="offline" width="18" height="18"/> on your own screen, no dot on other users' screens (since you’re displayed as offline).
+* Custom Status - Allows you to set or change a custom message for other users to read as well as an emoji.
 
 To access the main settings, click the cog icon <img src="https://raw.githubusercontent.com/DiscordiaWiki/wiki/master/uploads/icons/settings.png" alt="settings" width="25" height="25"/> on the bottom left of the application.
 
