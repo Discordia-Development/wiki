@@ -2,7 +2,7 @@
 title: Spotify Integration
 description: 
 published: true
-date: 2019-09-06T02:43:22.003Z
+date: 2019-11-24T22:09:40.393Z
 tags: 
 ---
 
@@ -11,7 +11,7 @@ tags:
 
 A Spotify account can be added to your profile through the Connections tab in User Settings.
 
-![Integrations](/e-96-faa.png "E 96 Faa")
+![Connections | Desktop App (Windows)](https://nobody-loves.me/i/9fko.png)
 
 Upon clicking the Spotify logo, you will be directed to a login page to enter your Spotify username and password. Once this is done, your Spotify account will appear in the Connections tab. 
 Below the profile, options will include:
