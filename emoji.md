@@ -2,7 +2,7 @@
 title: Emojis
 description: 
 published: true
-date: 2019-09-06T01:46:43.913Z
+date: 2019-11-24T20:40:47.271Z
 tags: 
 ---
 
@@ -35,6 +35,10 @@ Whenever you finish making your new emote, you can edit the emoji's name by clic
 Animated emojis were added on December 21st, 2017 for use by Nitro users only. These emojis can be added normally, without Nitro, to servers, but only able to be used by Nitro users. Animated emojis will pause on the first frame if posted by webhooks, or if the Discord window is out of focus. As bot accounts technically have Nitro, they can use animated emojis. These emojis also do not add to the total emoji cap, and instead have their own cap of 50 animated emojis.
 
 ![Animated Emoji](https://raw.githubusercontent.com/DiscordiaWiki/wiki/master/uploads/emoji/animated-emoji.gif "Animated Emoji")
+
+## Increased Emoji numbers
+With server boosting did Discord add a option to add additional emojis.
+For each boost level reached will the emoji-count increase by 50 for both normal and animated ones up to a maximum limit of 150 additional emotes (400 in total).
 
 ## Other Emoji
 Other emoji forms exist, such as Gamewisp and Subscriber emotes.
