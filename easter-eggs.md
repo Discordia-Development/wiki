@@ -2,7 +2,7 @@
 title: Discord Easter Eggs
 description: List of discovered Discord Easter Eggs
 published: true
-date: 2019-09-06T00:23:06.155Z
+date: 2019-11-24T20:31:46.849Z
 tags: 
 ---
 
@@ -16,6 +16,7 @@ Found an easter egg that isn't on this list? Let a Wiki Editor know!
 On Discord's website [homepage](https://discordapp.com) there are many objects that when clicked cause a small object (usually Mario related) to appear on the screen.
 
 One example of the clickable objects is the question-box towards the top of the page.
+There is also a small chance that a wumpus (The mascot of Discord) will appear from that question-box, instead of a Mario related item.
 
 ![Button](/easter-eggs/newbutton.png "A Button on Discord's Homepage that produces an Easter Egg")
 
@@ -52,3 +53,11 @@ Visiting [printer.discordapp.com](https://printer.discordapp.com) will redirect 
 When you try to access a page that doesn't exist such as [this one](https://discordapp.com/TheDiscordWikisPartnership) you are redirected to a 404 page. Clicking the button on the console next to Nelly the Robo-Hamster starts a game like the classic Snake Game. Discord developer [tcoil](https://twitter.com/t_coil) made this game.
 
 ![Console Button](/easter-eggs/console-button.png "Console Button")
+
+# "Discordo" sound
+When you double-click twice on the "Home" icon in the Discord client, will you enable a "Discordo" sound effect which will be played each time you reload the client.
+You can disable it by double-clicking the icon twice again.
+
+The "Discordo" sound comes from the [update video about the improved white theme](https://youtube.com/watch?v=BJHZxqyfrqk?t=61).
+
+You may hear the sound [here](https://canary.discordapp.com/assets/773745b4ebae9f47e802724ec33b8a3f.mp3).
