@@ -2,7 +2,7 @@
 title: User Status
 description: Quickly switch notifications on or off at the press of a button
 published: true
-date: 2019-07-23T06:23:22.293Z
+date: 2019-11-24T21:55:17.650Z
 tags: 
 ---
 
@@ -33,3 +33,11 @@ Invisible lets you use Discord normally while appearing offline, however the typ
 
 ## Offline
 This status is applied to your account as soon as every connected client loses connection. It can't be applied manually.
+
+# Custom Statuses
+
+Custom statuses let you set your own message for other users to see, acting like a playing status. You can set or change a custom status a custom status by clicking on your profile picture in the left drawer in the desktop or mobile app and selecting the text for the status, an emote, and the time after which it will be cleared.
+
+![Custom Status Menu ](/custom-status/custom-status-menu.png)
+
+![Example of a Custom Status](/custom-status/custom-status.png)
