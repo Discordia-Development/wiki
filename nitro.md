@@ -2,7 +2,7 @@
 title: Nitro
 description: Support Discord's Development
 published: true
-date: 2019-09-15T03:28:40.029Z
+date: 2019-11-24T20:59:38.866Z
 tags: 
 ---
 
@@ -53,13 +53,13 @@ The regular Discord Nitro subscription ($9.99/Month, $99.99/Year) gives users ac
 
 ### Discord Nitro Games
 
-Nitro Games were included with the purchase of the main Discord Nitro tier, however are planned to be removed on October 15th, 2019. Discord has stated that this will not affect Nitro Game Perks or games that were purchased from the store or store channels within servers. [Discord also announced that they will provide refunds](https://blog.discordapp.com/whats-coming-for-nitro-a732ddc4b5b1) to those who want to cancel their Nitro due to the removal of Nitro Games.
+Nitro Games were included with the purchase of the main Discord Nitro tier, however they have been removed as of October 15th, 2019. Discord has stated that this will not affect Nitro Game Perks or games that were purchased from the store or store channels within servers. [Discord also announced that they will provide refunds](https://blog.discordapp.com/whats-coming-for-nitro-a732ddc4b5b1) to those who want to cancel their Nitro due to the removal of Nitro Games.
 
 
 # Purchasing Nitro
 To purchase Nitro, click the user settings cog on the bottom left of your screen and click the Nitro tab. Once there, select monthly or yearly, enter your credit or debit card information, then zipcode when prompted. To pay with PayPal, you need to have a failover method of payment registered on your PayPal account, such as a bank account or card, regardless of whether there is sufficient funds in your PayPal wallet.
 
-![User Settings/Nitro](/uploads/7138-b-7-1.png "User Settings/Nitro")
+![User Settings/Nitro](/nitro/94-be-52.png)
 # Official Launch Video
 
 [video](https://www.youtube.com/watch?v=psIIWROIvtM){.youtube}
