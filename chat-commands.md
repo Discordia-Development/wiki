@@ -2,7 +2,7 @@
 title: Chat Commands
 description: Describes all chat commands available, even the non-obvious/non-documented ones
 published: true
-date: 2019-07-23T06:22:03.307Z
+date: 2019-11-24T20:16:06.381Z
 tags: 
 ---
 
@@ -19,12 +19,13 @@ While some of Discord's "slash" commands are fairly obvious to access, there are
 
 These slash commands are only available on the Desktop and iOS apps. Unfortunately, Android users don't have that luck.
 
-* `/tableflip` : Outputs `(╯°□°）╯︵ ┻━┻` in chat
-* `/unflip` : Outputs `┬─┬﻿ ノ( ゜-゜ノ)` in chat
-* `/shrug` : Outputs `¯\_(ツ)_/¯` in chat
+* `/tableflip [message]` : Outputs `(╯°□°）╯︵ ┻━┻` in chat. Adding text after it will add the tableflip emoticon after it
+* `/unflip [message]` : Outputs `┬─┬﻿ ノ( ゜-゜ノ)` in chat. Adding text after it will add the unflip emoticon after it
+* `/shrug` : Outputs `¯\_(ツ)_/¯` in chat. Adding text after it will add the shrug emoticon after it
 * `/me <a message here>` : Outputs your message in italics, in the style of IRC. Identical to just surrounding your message with `*<a message here>*` (`*` for italics)
 * `/nick <new nickname>` : Changes your nickname on the server to what you place after the command. Requires "Change Nickname" permissions on the server.
 * `/tenor <search query>` and `/giphy <search query>` : Searches animated gifs on the web, using those 2 websites.
 * `/spoiler <message to be spoiled>`: Puts anything after the slash command in a spoiler. If nothing is put after the command it will send `||||`.
 
-> When `<something>` is used, it's indicative that you can put any string in there, excluding the `<>`. Aka it's a "placeholder".
+> `<something>` indicates a "placeholder", meaning you can replace it with any text you like.
+> `[something]` indicates a optional "placeholder", meaning you can replace it with any text you like, but it's optional.
