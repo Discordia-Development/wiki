@@ -2,7 +2,7 @@
 title: Discord Easter Eggs
 description: List of discovered Discord Easter Eggs
 published: true
-date: 2019-11-24T20:46:20.284Z
+date: 2019-11-26T04:44:02.270Z
 tags: 
 ---
 
@@ -61,3 +61,43 @@ You can disable it by double-clicking the icon twice again.
 The "Discodo" sound comes from the [update video about the improved white theme](https://youtube.com/watch?v=BJHZxqyfrqk?t=61).
 
 You may hear the sound [here](https://canary.discordapp.com/assets/773745b4ebae9f47e802724ec33b8a3f.mp3).
+
+# Name copying
+If you click your name in the corner, it will show "Copied!". If you click it more, though, it says different things. Here's a progressive list.
+
+> "Copied!"
+{.is-success}
+
+> "Double Copy!"
+{.is-success}
+
+> "Triple Copy!"
+{.is-success}
+
+> "Dominating!!"
+{.is-success}
+
+> "Rampage!!"
+{.is-success}
+
+> "Mega Copy!!"
+{.is-success}
+
+> "Unstoppable!!"
+{.is-success}
+
+> "Wicked Sick!!"
+{.is-success}
+
+> "Monster Copy!!!"
+{.is-success}
+
+> "GODLIKE!!!!"
+{.is-danger}
+
+> "BEYOND GODLIKE!!!!"
+{.is-danger}
+
+
+"GODLIKE!!!!" and "BEYOND GODLIKE!!!!" shake in red,
+while the rest are in green.
