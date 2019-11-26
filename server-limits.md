@@ -2,7 +2,7 @@
 title: Server Limits
 description: Various limitations of servers in Discord
 published: true
-date: 2019-11-26T21:12:30.540Z
+date: 2019-11-26T21:57:55.438Z
 tags: 
 ---
 
@@ -14,11 +14,13 @@ This page lists the various "limitations" imposed upon servers in Discord, mostl
 - Servers reaching **5,000** *simultaneous online* members will need to contact Support to be moved to hardware supporting larger servers - this is when members start getting "Server Unavailable" errors.
 - A server can have *at most* **500 channels** - text, voice, and categories combined. Once 500 channels are reached, no more channels can be created.
 - A server can have *at most* **250 roles**. 
+- Servers reaching **1,000** members have the offline members list removed.
+
+## Emoji Limits
 - A server can have *at most* **50 regular and 50 animated emojis** without any server boosts.
 - A server can have *at most* **100 regular and 50 animated emojis** with 2 server boosts *(level 1)*.
 - A server can have *at most* **150 regular and 50 animated emojis** with 15 server boosts *(level 2)*.
 - A server can have *at most* **250 regular and 50 animated emojis** with 30 sever boosts *(level 3)*.
-- Servers reaching **1,000** members have the offline members list removed.
 
 # Other Limits
 - Message limit: **2,000 characters**. (note: user/channel/role mentions and emojis contain more characters than are shown)
