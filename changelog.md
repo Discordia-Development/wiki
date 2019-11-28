@@ -1,13 +1,20 @@
 ---
 title: Changelog
-description: Discord Changelog updated as of 11/19/2019
+description: Discord Changelog updated as of 11/28/2019
 published: true
-date: 2019-11-19T14:01:42.074Z
+date: 2019-11-28T14:38:17.961Z
 tags: 
 ---
 
 This is the changelog/release date for major features or significant changes. PTB and Canary might have received some features sooner than the date listed below
 
+# 11/27/2019
+## Android
+* Timed muting for channels and servers
+* Added Mark Unread option for messages
+* Slash commands
+* Notifications now show avatars
+* Light theme contrast adjustments
 # 11/19/2019
 * Twitter embeds now support showing multiple images
 * New audit log actions have been added:
