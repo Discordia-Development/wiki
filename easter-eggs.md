@@ -2,7 +2,7 @@
 title: Discord Easter Eggs
 description: List of discovered Discord Easter Eggs
 published: true
-date: 2019-11-26T04:44:02.270Z
+date: 2019-11-28T21:30:09.466Z
 tags: 
 ---
 
@@ -101,3 +101,7 @@ If you click your name in the corner, it will show "Copied!". If you click it mo
 
 "GODLIKE!!!!" and "BEYOND GODLIKE!!!!" shake in red,
 while the rest are in green.
+
+# Boosting confetti
+Hovering over the boost-icon on a boost-message will cause confetti to appear.
+
