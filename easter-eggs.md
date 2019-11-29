@@ -2,7 +2,7 @@
 title: Discord Easter Eggs
 description: List of discovered Discord Easter Eggs
 published: true
-date: 2019-11-28T21:30:09.466Z
+date: 2019-11-29T14:57:48.303Z
 tags: 
 ---
 
@@ -55,8 +55,8 @@ When you try to access a page that doesn't exist such as [this one](https://disc
 ![Console Button](/easter-eggs/console-button.png "Console Button")
 
 # "Discodo" sound
-When you double-click twice on the "Home" icon in the Discord client, will you enable a "Discodo" sound effect which will be played each time you reload it.
-You can disable it by double-clicking the icon twice again.
+When you tripple-click on the "Home" icon in the Discord client, will you enable a "Discodo" sound effect which will be played each time the client is reloaded.
+You can disable it by tripple-clicking the icon again, playing the disconnect sound to confirm the change.
 
 The "Discodo" sound comes from the [update video about the improved white theme](https://youtube.com/watch?v=BJHZxqyfrqk?t=61).
 
