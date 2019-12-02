@@ -2,7 +2,7 @@
 title: Easter Eggs
 description: Eine Liste aller gefundenen Discord Easter Eggs
 published: true
-date: 2019-11-29T15:58:38.584Z
+date: 2019-12-02T22:42:10.019Z
 tags: 
 ---
 
@@ -13,7 +13,7 @@ Das folgende ist eine Liste aller gefundenen Easter Eggs in Discord.
 Hast du ein Easterg Egg gefunden welches noch nicht gelisted ist? Lass es einem Wiki Editor wissen!
 
 # Discord Webseite
-Auf Discord's [Website](https://discordapp.com) hat es verschiedene Objekte, welche beim anklicken ein kleines (oftmals Mario relevantes) erscheinen lässt.
+Auf Discord's [Website](https://discordapp.com) hat es verschiedene Objekte, welche beim anklicken ein kleines (oftmals Mario relevantes) Item erscheinen lässt.
 
 Ein Beispiel von einem anklickbaren Objekt ist der Fragezeichen-Block am oberen Bereich der Webseite.
 Es gibt auch ne kleine chance, dass ein Wumpus (Das Maskotchen von Discord) aus dem Fragezeichen-Block erscheint anstelle eines Mario items.
