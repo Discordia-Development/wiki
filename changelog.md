@@ -1,13 +1,20 @@
 ---
 title: Changelog
-description: Discord Changelog updated as of 11/28/2019
+description: Discord Changelog updated as of 12/8/2019
 published: true
-date: 2019-11-28T14:38:17.961Z
+date: 2019-12-08T20:10:16.985Z
 tags: 
 ---
 
 This is the changelog/release date for major features or significant changes. PTB and Canary might have received some features sooner than the date listed below
 
+# 12/03/2019
+## iOS
+* Added Discord System Messages
+* Added shortcut for changing your status: long press your profile picture in the tab bar
+* Fixed: Receiving a call while outside the app will now reliably ring for you
+* Fixed: Captcha verification on iPad should no longer hang off the screen
+* Fixed: Status bar is no longer invisible on Light Theme
 # 11/27/2019
 ## Android
 * Timed muting for channels and servers
