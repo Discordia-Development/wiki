@@ -2,7 +2,7 @@
 title: Upcoming Features
 description: A quick summary of Upcoming Features
 published: true
-date: 2019-11-28T14:36:34.850Z
+date: 2019-12-08T20:07:03.034Z
 tags: 
 ---
 
@@ -21,13 +21,15 @@ This is a list of features that will be occasionally updated with information ab
 | Rich Chat Box | In Testing |
 | Keyboard Navigation | In Development |
 | Permissions Preview Tool | Planned |
+| Timed Muting | In Testing |
+| Go Live Screensharing | In Development |
 
 ## iOS
 | Feature | Status	|
 |---------|---------|
 | 3D Touch Support | Planned |
 | Rich Push Notifications | Planned |
-| Temporary Muting | In Development |
+| Timed Muting | Availabible on TestFlight |
 
 ## Android
 | Feature | Status |
