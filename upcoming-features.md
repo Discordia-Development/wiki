@@ -2,7 +2,7 @@
 title: Upcoming Features
 description: A quick summary of Upcoming Features
 published: true
-date: 2019-12-08T20:07:03.034Z
+date: 2019-12-08T20:07:33.193Z
 tags: 
 ---
 
