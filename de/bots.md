@@ -2,7 +2,7 @@
 title: Bots
 description: Informationen über verschiedenste Bot-APIs
 published: true
-date: 2019-12-29 3:00:00 UTC
+date: 2019-12-29 3:36:00 UTC
 tags:
 ---
 
