@@ -1,22 +1,27 @@
-<!-- TITLE: [DE] Bots -->
+---
+title: Bots
+description: Informationen über verschiedenste Bot-APIs
+published: true
+date: 2019-12-29 3:00:00 UTC
+tags:
+---
 
-Discord erlaubt Benutzern, Bots zu erstellen und sie in Server einzuladen. Discord hat eine einzigartige API (zu deutsch: Anwendungsprogrammierschnittstelle) erstellt, die es Benutzern erlaubt Anwendungen zu entwickeln die direkt mit dem Server interagieren. Du kannst dir die API Dokumentation [hier](https://discordapp.com/developers/docs/intro) anschauen.
-[Hier](http://discord.gg/discord-api) geht es zum API Discord Server der von der Community geleitet wird.
+* *Dieser Artikel ist über Discord Bots. Um den eigenen Bot des Discord Wikis zu sehen, siehe [WikiBot](https://github.com/DiscordiaWiki/wiki/blob/master/wikibot).*
 
-# Server Bots
-Die häufigste Art von Bots sind Server Bots. Server-Bots haben sogenannte Bot Konten die sich von normalen Benutzerkonten unterscheiden und hauptsächlich auf Servern funktionieren. Es gibt Hunderte Server-Bots auf Discord, die unterschiedliche Funktionen haben. Um einen Server-Bot in deiner Gilde einzuladen, musst du die Berechtigung **Manage Server** haben, und anschließend musst deinen Bot mit einem bestimmten Berechtigungslink autorisieren. Um einen Bot zu laden, klicke auf den Autorisierungslink und wähle einen Server aus. Danach folgt eine Seite mit verschiedenen Berechtigungen die du dem Bot entweder erlauben oder verweigern kannst und drücke anschließend auf "Einladen". Um einen Bot von deinem Server zu entfernen kannst du ihn enfach kicken oder bannen, wie du es mit einem anderen User machen würdest. Bot-Konten haben ein Bot-Tag neben ihrem Namen. Wenn du deinen eigenen Server Bot erstellen möchtest, musst du ihn über die Bewerbungsseite von Discord registrieren. Klick [hier] (https://discordapp.com/developers/applications/me), um auf die Anwendungsseite zuzugreifen.
+Discord erlaubt Benutzersn, Bots zu erstellen und diese in Server einzuladen. Discord erlaubt Benutzern Applikationen zu erstellen, welche mir der API interagieren. Die Dokumentation ist [hier](https://discordapp.com/developers/docs/intro) gelistet. Dem Community-geführten, aber offizielle Discord API-Server kann man [hier](http://discord.gg/discord-api) beitreten.
 
-# Selfbots
-Selfbots sind, wenn ein Benutzer die Discord API verwendet, um ihr eigenes Konto zu "verbessern" und ihm dazu einige automatisierte Fähigkeiten, wie ein Selbst-Ping und Einbettungen, gibt. Ein Selfbot läuft auf deinem Account (nicht über die Applikationsseite) und hat die Möglichkeit, Nachrichten für dich zu posten. Selfbots sind gegen die Discord API [OAuth](https://discordapp.com/developers/docs/topics/oauth2#bot-vs-user-accounts) Nutzungsbedingungen und können zu einer Sperrung deines Kontos führen, wenn sie gefunden werden. Selfbots dürfen nur auf *deine* Befehle antworten, sonst gilt es als Userbot (siehe unten). Um einen Selfbot zu benutzen, benötigst du deinen User-Token, der auf der Konsole zu finden ist. **Gib niemandem deinem User-Token. Wenn jemand deinen User-Token hat, kann derjenige deinem Konto ernsthafte Schäden zufügen, einschließlich deine Nachrichten lesen, senden und Chaos in jedem Server veranstalten in dem drinnen bist.**
+# Reguläre Bots
+Reguläre Bots haben *dedizierte* Bot-Konten, erstellt durch das Entwickler-Portal. Bot-Konten haben andere Einschränkungen und Features als Benutzerkonten. Um einen Serverbot auf deine Gilde einzuladen musst du die **Server verwalten** Berechtigung auf der Gilde, sowie einen Autorisierungslink (Auch OAuth-Link genannt) speziell für diesen Bot haben. Um einen Bot einzuladen, klicke auf den Link, wähle einen Server, verbiete oder erlaube es die gelisteten Berechtigungen auf der Seite und klicke 'Autorisieren'. Um einen Bot von deinem Server zu entfernen, kicke oder banne es wie einen normalen Benutzer. Erneutes einladen des Bot-Kontos, während dieser gebannt ist, entbannt diesen. Bot-Konten haben einen Bot Tag neben ihren Namen um sie von normalen Benutzern zu unterscheiden. Wenn du deinen eigenen Bot erstellen willst, musst du diesen durch Discord's Applikations-Seite erstellen. Die Applikations-Seite ist [hier](https://discordapp.com/developers/applications/me) gelistet.
 
+# Selbstbots
+Selbstbots sind Benutzer, welche die Discord API verwenden um ihr Konto zu automatisieren. Ein Selbstbot läuft direkt auf deinem Konto durch das verwenden deines Benutzer-Tokens um sich selbst zu automatisieren. Selbstbots sind gegen die Discord [OAuth](https://discordapp.com/developers/docs/topics/oauth2#bot-vs-user-accounts) Richtlinien und können zur Terminierung deines Kontos führen. Im vergleich zu Userbots, antworten Selbstbots nur auf das Konto, auf welchem der Bot läuft. **Gib niemandem deinen Benutzer-Token. Wenn jemand deinen Benutzer-Token erhält, können diese deinem Konto erheblichen Schaden zufügen, inclusive lesen von Nachrichten, senden von Nachrichten sowie verändern aller Server für welche du Rechte hast.**
 
 # Userbots
-Userbots sind voll funktionsfähige Bots die durch ein normales Benutzerkonto laufen. Dies ist gegen die Discord [Nutzungsbedingungen] (https://discordapp.com/terms). Wenn du einem Userbot begegnest, melde es bitte an [support@discordapp.com.] (Mailto: support@discordapp.com)
-
+Userbots sind voll funktionsfähige Bots welche über ein normales Konto laufen. Dies ist gegen die Discord [Nutzungsbedingungen](https://discordapp.com/terms). Wie andere verletzungen der Nutzungsbedingungen können Userbots an das Discord Vertauen & Sicherheit Team unter support@discordapp.com gemeldet werden.
 
 # Bibliotheken
-Benutzer haben verschiedene Bibliotheken erstellt die, die Discord API wesentlich einfacher machen.
-
+Benutzer haben verschiedenste Bibliotheken erstellt, welche das verwenden der Discord API leichter machen.
+* [Discord.io](https://github.com/izy521/discord.io)
 * [Discord.js](https://github.com/hydrabolt/discord.js)
 * [Discord.net](https://github.com/RogueException/Discord.Net)
 * [Disco](https://github.com/b1naryth1ef/disco)
@@ -24,12 +29,10 @@ Benutzer haben verschiedene Bibliotheken erstellt die, die Discord API wesentlic
 * [Discord-rs](https://github.com/SpaceManiac/discord-rs)
 * [Discord4J](https://github.com/austinv11/Discord4J)
 * [Discordcr](https://github.com/meew0/discordcr)
-* [Discordia](https://github.com/SinisterRectus/Discordia) *(Not Affiliated)*
+* [Discordia](https://github.com/SinisterRectus/Discordia) *Nicht zu verwechseln mit htttps://discordia.me*
 * [Discordie](https://github.com/qeled/discordie)
 * [DiscordGo](https://github.com/bwmarrin/discordgo)
-* [DiscordPHP](https://github.com/teamreflex/DiscordPHP)
 * [Discordrb](https://github.com/meew0/discordrb)
-* [Dscord](https://github.com/b1naryth1ef/dscord)
 * [DSharpPlus](https://github.com/NaamloosDT/DSharpPlus)
 * [Eris](https://github.com/abalabahaha/eris)
 * [Javacord](https://github.com/BtoBastian/Javacord)
@@ -40,3 +43,5 @@ Benutzer haben verschiedene Bibliotheken erstellt die, die Discord API wesentlic
 * [SwiftDiscord](https://github.com/nuclearace/SwiftDiscord)
 * [Sword](https://github.com/Azoy/Sword)
 
+### Discord-kuratierte Bibliotheken
+Discord hat [eine Liste von kuratierten Bibliotheken](https://discordapp.com/developers/docs/topics/community-resources#libraries) "die den API-Standarts von Discord bezüglich Authentifizierung und Ratenbegrenzung entsprechen." (Übersetzt vom englischen) 
