@@ -33,7 +33,7 @@ Sobald das Fenster offen ist, schreibe den Befehl 'hh [Pfeil rechts] nk'. Das sc
 > Dieses Easter Egg wurde mit dem TAYNE Update eingefügt
 
 # Rate Limits Dokumentation
-Auf der [Discord API Rate Limit Dokumentation](https://discordapp.com/developers/docs/topics/rate-limits) ist ein [Doppelpunkt](http://i.imgur.com/BkLamTK.png) welcher wenn man auf in klickt [diese Webseite](http://takeb1nzyto.space) öffnet. Die Webseite ist eine witzige Animation erstellt von [Dougley](http://dougleyownsthisdomain.takeb1nzyto.space/). Dieses Easter Egg wurde durch Night, einem Discord Teammitglied, eingefügt.
+Auf der [Discord API Rate Limit Dokumentation](https://discordapp.com/developers/docs/topics/rate-limits) ist ein [Doppelpunkt](/uploads/easter-eggs/colon.png) welcher wenn man auf in klickt [diese Webseite](http://takeb1nzyto.space) öffnet. Die Webseite ist eine witzige Animation erstellt von [Dougley](http://dougleyownsthisdomain.takeb1nzyto.space/). Dieses Easter Egg wurde durch Night, einem Discord Teammitglied, eingefügt.
 
 # Miguel's Fedora
 Auf der Discord [Job Seite](https://discordapp.com/jobs) kann man auf die Köpfe der verschiedenen Mitarbeiter klicken. Wenn du auf einen Kopf klickst wird ein Objekt (Beispielsweise ein Pokeball) auf Ihn fallen. Wenn du auf Miguel Gaeta's Kopf klickst, kann eines der Objekte ein Blauoletter Fedora sein (Anzahl klicks bis dieser erscheint kann variieren).
