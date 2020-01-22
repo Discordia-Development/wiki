@@ -2,7 +2,7 @@
 title: Friends List
 description: A quick summary of the Friends List
 published: true
-date: 2020-01-09T05:13:06.166Z
+date: 2020-01-22T09:17:33.673Z
 tags: 
 ---
 

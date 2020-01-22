@@ -2,7 +2,7 @@
 title: Server Folders
 description: Used for organization of servers
 published: true
-date: 2020-01-22T02:24:36.366Z
+date: 2020-01-22T09:18:00.938Z
 tags: 
 ---
 

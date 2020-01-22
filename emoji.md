@@ -2,7 +2,7 @@
 title: Emojis
 description: A picture is worth a thousand words, so why not have your very own emojis? Thankfully, Discord includes a quick and easy way to add pretty much any image as a custom emote!
 published: true
-date: 2020-01-22T03:10:51.522Z
+date: 2020-01-22T09:17:32.245Z
 tags: 
 ---
 

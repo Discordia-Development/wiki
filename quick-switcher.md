@@ -2,7 +2,7 @@
 title: Quick Switcher
 description: Zipping around at the speed of light, Quick Switcher is an entirely new way to access your favorite servers faster than ever before!
 published: true
-date: 2020-01-22T03:28:32.556Z
+date: 2020-01-22T09:17:54.901Z
 tags: 
 ---
 

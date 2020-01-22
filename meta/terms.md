@@ -2,7 +2,7 @@
 title: Terms of Service
 description: The Terms of Service for any services provided by The Discord Wiki
 published: true
-date: 2019-07-23T06:23:40.474Z
+date: 2020-01-22T09:18:40.738Z
 tags: 
 ---
 

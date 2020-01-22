@@ -2,7 +2,7 @@
 title: Channel Settings
 description: Description of channel settings
 published: true
-date: 2020-01-22T03:05:50.881Z
+date: 2020-01-22T09:17:15.177Z
 tags: 
 ---
 

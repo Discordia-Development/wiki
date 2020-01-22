@@ -2,7 +2,7 @@
 title: Spotify Integration
 description: A short how-to on connecting your Spotify account to Discord!
 published: true
-date: 2020-01-09T05:35:43.997Z
+date: 2020-01-22T09:18:07.639Z
 tags: 
 ---
 

@@ -2,7 +2,7 @@
 title: Badges
 description: Information about Discord's Various User Badges
 published: true
-date: 2020-01-22T02:56:10.739Z
+date: 2020-01-22T09:17:05.650Z
 tags: 
 ---
 

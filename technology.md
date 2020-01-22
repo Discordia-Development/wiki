@@ -2,7 +2,7 @@
 title: Technology
 description: Stuff about Discord's internal systems, with some undocumented situations as well
 published: true
-date: 2020-01-09T05:39:52.841Z
+date: 2020-01-22T09:18:13.598Z
 tags: 
 ---
 

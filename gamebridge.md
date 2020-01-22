@@ -2,7 +2,7 @@
 title: GameBridge
 description: An integration for Game developers
 published: true
-date: 2020-01-09T05:14:17.873Z
+date: 2020-01-22T09:17:35.152Z
 tags: 
 ---
 

@@ -2,7 +2,7 @@
 title: Channel Categories
 description: A summary of Channel Categories
 published: true
-date: 2020-01-22T03:04:09.108Z
+date: 2020-01-22T09:17:13.689Z
 tags: 
 ---
 

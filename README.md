@@ -1,3 +1,11 @@
+---
+title: README
+description: 
+published: true
+date: 2020-01-22T09:17:01.147Z
+tags: 
+---
+
 # The Discord Wiki
 
 Hey there! This is the repository containing all of the source files for The Discord Wiki.

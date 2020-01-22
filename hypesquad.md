@@ -2,7 +2,7 @@
 title: Hypesquad
 description: Are you Hyped? Because I'm feeling super duper hyped to tell you about this really cool thing!
 published: true
-date: 2020-01-22T03:16:40.752Z
+date: 2020-01-22T09:17:41.272Z
 tags: 
 ---
 

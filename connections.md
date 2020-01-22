@@ -2,7 +2,7 @@
 title: Connections
 description: Connect your Discord thingy to your other thingies!
 published: true
-date: 2020-01-09T05:41:52.722Z
+date: 2020-01-22T09:17:21.794Z
 tags: 
 ---
 

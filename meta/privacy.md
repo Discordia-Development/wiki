@@ -2,7 +2,7 @@
 title: Privacy Policy
 description: The Privacy Policy for any services provided by The Discord Wiki
 published: true
-date: 2019-07-23T06:23:36.453Z
+date: 2020-01-22T09:18:40.738Z
 tags: 
 ---
 

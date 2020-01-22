@@ -2,7 +2,7 @@
 title: Two-Factor Authentication
 description: Using Two-Factor Authentication on Discord
 published: true
-date: 2019-12-31T05:31:26.255Z
+date: 2020-01-22T09:16:58.829Z
 tags: 
 ---
 

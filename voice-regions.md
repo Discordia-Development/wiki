@@ -2,7 +2,7 @@
 title: Voice Regions
 description: 
 published: true
-date: 2020-01-09T05:49:17.883Z
+date: 2020-01-22T09:18:21.103Z
 tags: 
 ---
 

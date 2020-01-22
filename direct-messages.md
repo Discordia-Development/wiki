@@ -2,7 +2,7 @@
 title: Direct Messages
 description: Information about Direct Messages (DMs) on Discord
 published: true
-date: 2020-01-09T05:04:35.833Z
+date: 2020-01-22T09:17:24.663Z
 tags: 
 ---
 

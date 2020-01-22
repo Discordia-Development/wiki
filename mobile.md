@@ -2,7 +2,7 @@
 title: Mobile
 description: 
 published: true
-date: 2020-01-09T05:53:26.716Z
+date: 2020-01-22T09:17:47.417Z
 tags: 
 ---
 

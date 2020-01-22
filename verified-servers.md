@@ -2,7 +2,7 @@
 title: Verified Servers
 description: 
 published: true
-date: 2020-01-22T03:37:45.719Z
+date: 2020-01-22T09:18:19.655Z
 tags: 
 ---
 

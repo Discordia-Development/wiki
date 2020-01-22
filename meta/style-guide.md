@@ -2,7 +2,7 @@
 title: Style Guide
 description: Style guide for consistency across The Discord Wiki.
 published: true
-date: 2019-09-08T21:52:02.911Z
+date: 2020-01-22T09:18:37.606Z
 tags: 
 ---
 

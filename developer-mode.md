@@ -2,7 +2,7 @@
 title: Developer Mode
 description: An in-depth documentation of Discord's Developer Mode
 published: true
-date: 2020-01-09T05:03:56.198Z
+date: 2020-01-22T09:17:23.249Z
 tags: 
 ---
 

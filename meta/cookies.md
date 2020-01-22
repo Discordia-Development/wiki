@@ -2,7 +2,7 @@
 title: Cookie Policy
 description: Cookie Policy to comply with EU Regulations
 published: true
-date: 2019-07-23T06:23:32.534Z
+date: 2020-01-22T09:18:25.331Z
 tags: 
 ---
 

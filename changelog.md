@@ -2,7 +2,7 @@
 title: Discord Changelog
 description: Discord Changelog updated as of 12/8/2019
 published: true
-date: 2020-01-09T05:54:44.082Z
+date: 2020-01-22T09:17:12.208Z
 tags: 
 ---
 

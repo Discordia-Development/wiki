@@ -2,7 +2,7 @@
 title: Clyde
 description: The Discord Bot
 published: true
-date: 2020-01-09T05:20:26.340Z
+date: 2020-01-22T09:17:18.105Z
 tags: 
 ---
 

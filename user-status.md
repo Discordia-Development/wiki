@@ -2,7 +2,7 @@
 title: User Status
 description: Quickly switch notifications on or off at the press of a button
 published: true
-date: 2020-01-22T03:47:38.675Z
+date: 2020-01-22T09:18:18.170Z
 tags: 
 ---
 

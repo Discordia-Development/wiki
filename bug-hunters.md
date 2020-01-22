@@ -2,7 +2,7 @@
 title: Bug Hunters
 description: Helping Discord Developers manage Bug Reports and fix Bugs
 published: true
-date: 2020-01-09T04:57:18.045Z
+date: 2020-01-22T09:17:08.619Z
 tags: 
 ---
 

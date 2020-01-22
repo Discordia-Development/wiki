@@ -2,7 +2,7 @@
 title: User Settings
 description: Make Discord just the way you want it!
 published: true
-date: 2020-01-09T05:54:44.082Z
+date: 2020-01-22T09:18:16.674Z
 tags: 
 ---
 

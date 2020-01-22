@@ -2,7 +2,7 @@
 title: Markdown
 description: Want to inject some flavor into your everyday text chat?
 published: true
-date: 2020-01-09T05:52:18.069Z
+date: 2020-01-22T09:17:44.391Z
 tags: 
 ---
 

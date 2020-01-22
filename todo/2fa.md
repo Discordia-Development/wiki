@@ -2,7 +2,7 @@
 title: Two-Factor Authentication
 description: 
 published: true
-date: 2019-07-23T06:23:42.138Z
+date: 2020-01-22T09:18:42.151Z
 tags: 
 ---
 
