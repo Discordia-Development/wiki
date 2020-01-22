@@ -1,3 +1,0 @@
-<!-- TITLE: [RO] Mesaje de Alătuare și Ieșire -->
-
-Mesajele de alătuare și ieșire sunt mesaje de sistem speciale care apar în canalul principal atunci când un utilizator iese sau se alătură server-ului. Momentan, este un experiment limitat la 5% din serverele nou create ([sursă](https://www.reddit.com/r/discordapp/comments/68hpid/how_to_get_rid_of_join_messages/dgyz653/)). În plus, mesajele de alătuare și ieșire sunt dezactivate automat odată ce server-ul tău ajunge la 20 de membrii ([sursă](https://www.reddit.com/r/discordapp/comments/6a6jhb/discord_automatically_welcomes_user_and_i_want_to/dhc2a1i/)).
