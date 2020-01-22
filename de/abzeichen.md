@@ -66,4 +66,4 @@ Benutzer, welche Discord Nitro gekaugt haben, haben dieses Abzeichen auf ihrem P
 ## Supporter der ersten Stunde <img src="/uploads/icons/early-supporter.png" alt="early-supporter" width="19" height="19"/>
 Dies ist ein limitiertes Abzeichen, welcher jeder bekam, welcher Discord Nitro *vor* dem 10. Oktober 2018 besass. Dieses Abzeichen ist permanent.
 
-![Nitroearlysupporterbadge](/uploads/badges/nitroearlysupporterbadge.png "Supporter der ersten Stunde Abzeichen")
+![Nitroearlysupporterbadge](/uploads/badges/nitroearlysupporterbadge.png "Supporter der ersten Stunde Abzeichen") 
