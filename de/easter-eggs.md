@@ -2,7 +2,7 @@
 title: Easter Eggs
 description: Eine Liste aller gefundenen Discord Easter Eggs
 published: true
-date: 2019-12-02T22:42:10.019Z
+date: 2020-01-22T09:00:36.688Z
 tags: 
 ---
 
@@ -18,7 +18,7 @@ Auf Discord's [Website](https://discordapp.com) hat es verschiedene Objekte, wel
 Ein Beispiel von einem anklickbaren Objekt ist der Fragezeichen-Block am oberen Bereich der Webseite.
 Es gibt auch ne kleine chance, dass ein Wumpus (Das Maskotchen von Discord) aus dem Fragezeichen-Block erscheint anstelle eines Mario items.
 
-![Knopf](/uploads/easter-eggs/newbutton.png "Ein Knopf auf Discord's Webseite welches ein Easter Egg zeigt")
+![Knopf](https://cdn.discordia-dev.com/z5NxTJBl.gif "Ein Knopf auf Discord's Webseite welches ein Easter Egg zeigt")
 
 # Remixed Klingelton
 User haben eine 0.1% chance beim starten von Discord, dass sie eine geremixte version des Anruf Klingelton bei entweder einem Gruppen oder Zwei Personen-Anruf erhalten. Wenn ein User diesen Klingelton erhält, spielt er für die ganze Länge anstatt auzuhören, wenn er den Anruf annimmt. Das Discord-Team sagt dass dies das seltenste Easter Egg sei. Du kannst den geremixten Klingelton [hier](https://canary.discordapp.com/assets/b9411af07f154a6fef543e7e442e4da9.mp3) hören.
@@ -38,12 +38,12 @@ Auf der [Discord API Rate Limit Dokumentation](https://discordapp.com/developers
 # Miguel's Fedora
 Auf der Discord [Job Seite](https://discordapp.com/jobs) kann man auf die Köpfe der verschiedenen Mitarbeiter klicken. Wenn du auf einen Kopf klickst wird ein Objekt (Beispielsweise ein Pokeball) auf Ihn fallen. Wenn du auf Miguel Gaeta's Kopf klickst, kann eines der Objekte ein Blauoletter Fedora sein (Anzahl klicks bis dieser erscheint kann variieren).
 
-![Miguel](/uploads/easter-eggs/miguel.png "Miguel")
+![Miguel](https://cdn.discordia-dev.com/U74QzoWD.png "Miguel")
 
 # Empatie Banane
 Wenn du etwas [suchst](/search) und es keine Resultate gibt, kann Discord manchmal eine "Empatie Banane" anzeigen anstelle des normalen Keine Resultate Dialogs. Das ist komplett zufällig.
 
-![Banane](/uploads/easter-eggs/banana.png "Banane")
+![Banane](https://cdn.discordia-dev.com/T8expofU.png "Banane")
 
 # Computer Man
 Das aufrufen von [printer.discordapp.com](https://printer.discordapp.com) leitet einen weiter zu einem [Video](https://www.youtube.com/watch?v=jeg_TJvkSjg) von einer alten kanadischen Show namens Vid Kids. [b1nzy](https://twitter.com/b1naryth1ef), ein Entwickler von Discord, war derjenige welches dieses Easter Egg eingefügt hat.
@@ -51,7 +51,7 @@ Das aufrufen von [printer.discordapp.com](https://printer.discordapp.com) leitet
 # Snek Spiel
 Wenn du versuchst eine Seite auzurufen, welche nicht existiert, so wie [diese hier](https://discordapp.com/TheDiscordWikisPartnership), wirst du zu einer 404 Seite weitergeleitet. Klicken des Knopfs auf der Konsole direkt neben Nelly dem Robo-Hamster startet ein Spiel ähnlich dem klassischen Spiel "Snake". Discord Entwickler [tcoil](https://twitter.com/t_coil) machte dieses Spiel.
 
-![Konsolen Knopf](/uploads/easter-eggs/console-button.png "Konsolen Knopf")
+![Konsolen Knopf](https://cdn.discordia-dev.com/D5gvJfJa.png "Konsolen Knopf")
 
 # "Discodo" Sound
 Wenn du dreimal schnell auf das "Home" Icon im Discord Klient klickst, aktivierst du einen "Discodo" Soundeffekt, welcher jedes mal beim neu laden des Klient spielt.
@@ -63,6 +63,10 @@ Du kannst den Sound [hier](https://canary.discordapp.com/assets/773745b4ebae9f47
 
 # Namen kopieren
 Wenn du auf deinen Namen in der unteren linken ecke klickst zeigt dieser "Copied!". Wenn du es mehrmals anklickst, wird es andere Dinge sagen. Hier ist eine progressive Liste.
+</br>
+<video autoplay muted loop>
+        <source src="https://cdn.discordia-dev.com/10ijtreH.mp4" type="video/mp4">
+</video>
 
 > "Copied!"
 {.is-success}
@@ -104,4 +108,4 @@ Wenn du auf deinen Namen in der unteren linken ecke klickst zeigt dieser "Copied
 # Boosting Konfetti
 Wenn man über das Boost Icon einer Boost-Nachricht fährt erscheint Konfetti. Dies ist nicht möglich in der Mobile App.
 
-![Konfetti](/uploads/easter-eggs/boost-confetti.gif "Boost Konfetti")
+![Konfetti](https://cdn.discordia-dev.com/1v6Qjbft.gif "Boost Konfetti")
