@@ -2,7 +2,7 @@
 title: Home
 description: Welcome to The Discord Wiki
 published: true
-date: 2020-01-22T09:18:40.738Z
+date: 2020-01-31T22:01:43.951Z
 tags: 
 ---
 
@@ -83,6 +83,7 @@ We're The Discord Wiki. We're proud to be one of the leading providers of inform
 * YuukiYuuks#5122 - Spanish
 * zabszk#5292 - Polish
 * 에버#2469 - Korean, Chinese
+* Andre_601 - German
 
 > ***Bot Developers***
 
