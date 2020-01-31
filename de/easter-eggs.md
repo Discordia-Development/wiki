@@ -2,7 +2,7 @@
 title: Easter Eggs
 description: Eine Liste aller gefundenen Discord Easter Eggs
 published: true
-date: 2020-01-31T21:44:55.430Z
+date: 2020-01-31T22:36:03.339Z
 tags: 
 ---
 
@@ -54,14 +54,12 @@ Wenn du versuchst eine Seite auzurufen, welche nicht existiert, so wie [diese hi
 ![Konsolen Knopf](https://cdn.discordia-dev.com/D5gvJfJa.png "Konsolen Knopf")
 
 # "Discodo" Sound
-Wenn du dreimal schnell auf das "Home" Icon im Discord Klient klickst, aktivierst du einen "Discodo" Soundeffekt, welcher jedes mal beim neu laden des Klient spielt.
-Du kannst das durch erneutes dreimaliges klicken auf das Home Icon deaktivieren, welches den "Sprachchat getrennt" sound als bestätigung spielt.
+Wenn du 15 mal schnell auf das "Home" Icon im Discord Klient klickst, aktivierst du einen "Discodo" Soundeffekt, welcher jedes mal beim neu laden des Klient spielt.
+Du kannst das durch erneutes 15-maliges klicken auf das Home Icon deaktivieren, welches den "Sprachchat getrennt" sound als bestätigung spielt.
 
 Der "Discodo" Sound kommt von dem [Update Video über das verbesserte Helle Design](https://youtube.com/watch?v=BJHZxqyfrqk?t=61).
 
 Du kannst den Sound [hier](https://canary.discordapp.com/assets/773745b4ebae9f47e802724ec33b8a3f.mp3) hören.
-
-Dieses Easter Egg wurde in einem späteren Update entfernt.
 
 # Namen kopieren
 Wenn du auf deinen Namen in der unteren linken ecke klickst zeigt dieser "Copied!". Wenn du es mehrmals anklickst, wird es andere Dinge sagen. Hier ist eine progressive Liste.
