@@ -2,7 +2,7 @@
 title: Discord Easter Eggs
 description: List of discovered Discord Easter Eggs
 published: true
-date: 2020-01-31T21:51:19.598Z
+date: 2020-01-31T21:51:30.525Z
 tags: 
 ---
 
@@ -55,7 +55,7 @@ When you try to access a page that doesn't exist such as [this one](https://disc
 
 # "Discodo" sound
 Clicking 15 times on the "Home" icon in the Discord client will enable a "Discodo" sound effect which will be played each time the client is reloaded.
-You can disable it by clicking the icon 15 times, playing the disconnect sound to confirm the change.
+You can disable it by clicking the icon 15 times, which will play the disconnect sound to confirm the change.
 
 The "Discodo" sound comes from the [update video about the improved white theme](https://youtube.com/watch?v=BJHZxqyfrqk?t=61).
 
