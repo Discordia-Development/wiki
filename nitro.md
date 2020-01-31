@@ -2,7 +2,7 @@
 title: Discord Nitro
 description: 
 published: true
-date: 2020-01-22T09:17:50.501Z
+date: 2020-01-31T21:38:36.330Z
 tags: 
 ---
 
@@ -23,7 +23,7 @@ tags:
 </tr>
 </table> 
 
-Discord Nitro is a premium subscription service for Discord with two tiers, adding features and free access to games. Nitro was launched for testing in Australia on December 22nd, 2016 and globally released on January 23rd, 2017. On December 22nd, 2017, the ability to pay with PayPal was added. On October 10th, 2018, Discord Nitro was split up into two different tiers, Discord Nitro and Discord Nitro Classic. On September 13th, Discord announced the removal of Nitro games from the main Nitro tier as well as an increase of the upload limit to 100MB.
+Discord Nitro is a premium subscription service for Discord with two tiers, adding features and 2 server boosts. Nitro was launched for testing in Australia on December 22nd, 2016 and globally released on January 23rd, 2017. On December 22nd, 2017, the ability to pay with PayPal was added. On October 10th, 2018, Discord Nitro was split up into two different tiers, Discord Nitro and Discord Nitro Classic. On September 13th, Discord announced the removal of Nitro games from the main Nitro tier as well as an increase of the upload limit to 100MB.
 
 # Tiers
 
@@ -47,8 +47,7 @@ The regular Discord Nitro subscription ($9.99/Month, $99.99/Year) gives users ac
 
 * All features included with Discord Nitro Classic.
 * Higher resolution for screenshare and Go Live (1080p or Source stream quality, or 60 FPS streams).
-* Ability to boost servers.
-* Access to Nitro Game Perks for games such as Paladins, Warframe, and Warface.
+* 2 servers boosts.
 * Higher upload limit (100 MB)
 
 ### Discord Nitro Games
