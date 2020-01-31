@@ -2,7 +2,7 @@
 title: Discord Easter Eggs
 description: List of discovered Discord Easter Eggs
 published: true
-date: 2020-01-31T21:24:43.766Z
+date: 2020-01-31T21:50:54.673Z
 tags: 
 ---
 
@@ -54,14 +54,12 @@ When you try to access a page that doesn't exist such as [this one](https://disc
 ![Console Button](http://cdn.discordia-dev.com/D5gvJfJa.png "Console Button")
 
 # "Discodo" sound
-When you tripple-click on the "Home" icon in the Discord client, will you enable a "Discodo" sound effect which will be played each time the client is reloaded.
+Clicking 15 times on the "Home" icon in the Discord client will enable a "Discodo" sound effect which will be played each time the client is reloaded.
 You can disable it by tripple-clicking the icon again, playing the disconnect sound to confirm the change.
 
 The "Discodo" sound comes from the [update video about the improved white theme](https://youtube.com/watch?v=BJHZxqyfrqk?t=61).
 
 You may hear the sound [here](https://canary.discordapp.com/assets/773745b4ebae9f47e802724ec33b8a3f.mp3).
-
-This easter egg was removed in a later update.
 
 # Name copying
 If you click your name in the corner, it will show "Copied!". If you click it more, though, it says different things. Here's a progressive list.
