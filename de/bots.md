@@ -1,17 +1,16 @@
 ---
 title: Bots
-description: Informationen über verschiedenste Bot-APIs
+description: Informationen über verschiedene Bot-Bibliotheken
 published: true
-date: 2019-12-29 3:36:00 UTC
-tags:
+date: 2020-01-31T21:59:42.328Z
+tags: 
 ---
 
-* *Dieser Artikel ist über Discord Bots. Um den eigenen Bot des Discord Wikis zu sehen, siehe [WikiBot](https://github.com/DiscordiaWiki/wiki/blob/master/wikibot).*
-
-Discord erlaubt Benutzersn, Bots zu erstellen und diese in Server einzuladen. Discord erlaubt Benutzern Applikationen zu erstellen, welche mir der API interagieren. Die Dokumentation ist [hier](https://discordapp.com/developers/docs/intro) gelistet. Dem Community-geführten, aber offizielle Discord API-Server kann man [hier](http://discord.gg/discord-api) beitreten.
+Discord erlaubt Benutzern Bots zu erstellen und diese in Server einzuladen. Discord erlaubt Benutzern Applikationen zu erstellen, welche mit der API interagieren können. Die API-Dokumentation kann [hier](https://discordapp.com/developers/docs/intro) gefunden werden.
+Den Community-betriebene aber offizielle Discord API Server kann man [hier](https://discord.gg/discord-api) beitreten.
 
 # Reguläre Bots
-Reguläre Bots haben *dedizierte* Bot-Konten, erstellt durch das Entwickler-Portal. Bot-Konten haben andere Einschränkungen und Features als Benutzerkonten. Um einen Serverbot auf deine Gilde einzuladen musst du die **Server verwalten** Berechtigung auf der Gilde, sowie einen Autorisierungslink (Auch OAuth-Link genannt) speziell für diesen Bot haben. Um einen Bot einzuladen, klicke auf den Link, wähle einen Server, verbiete oder erlaube es die gelisteten Berechtigungen auf der Seite und klicke 'Autorisieren'. Um einen Bot von deinem Server zu entfernen, kicke oder banne es wie einen normalen Benutzer. Erneutes einladen des Bot-Kontos, während dieser gebannt ist, entbannt diesen. Bot-Konten haben einen Bot Tag neben ihren Namen um sie von normalen Benutzern zu unterscheiden. Wenn du deinen eigenen Bot erstellen willst, musst du diesen durch Discord's Applikations-Seite erstellen. Die Applikations-Seite ist [hier](https://discordapp.com/developers/applications/me) gelistet.
+Reguläre Bots haben *dedizierte* Bot-Accounts, welche durch das Developer-Portal erstellt werden. Bot-Accounts haben andere Einschränkungen und Features als Benutzer-Accounts. Um einen Bot zu deinem Discord einzuladen, musst due die **Server verwalten** Berechtigung haben, als auch den Bot mittels eines Autorisierungslinks speziell für diesen Bot autorisieren. Um einen Bot einzuladen, klicke den Autorisierungslink, wähle einen Server, verbiete oder erlaube die gelisteten Rechte und klicke "Autorisieren". Um einen Bot von deinem Server zu entfernen, kicke oder banne es wie du es mit einem Benutzer tun würdest. Das erneute einladen eines gebannten Bots hebt den Ban automatisch auf. Bot-Accounts haben einen Bot tag neben ihrem namen um sie von normalen Benutzern zu unterscheiden. Wenn du einen Bot selber erstellen willst, musst du dies durch Discord's Applikationsseite tun. Die Applikationsseite ist [hier](https://discordapp.com/developers/applications/me) gelistet.
 
 # Selbstbots
 Selbstbots sind Benutzer, welche die Discord API verwenden um ihr Konto zu automatisieren. Ein Selbstbot läuft direkt auf deinem Konto durch das verwenden deines Benutzer-Tokens um sich selbst zu automatisieren. Selbstbots sind gegen die Discord [OAuth](https://discordapp.com/developers/docs/topics/oauth2#bot-vs-user-accounts) Richtlinien und können zur Terminierung deines Kontos führen. Im vergleich zu Userbots, antworten Selbstbots nur auf das Konto, auf welchem der Bot läuft. **Gib niemandem deinen Benutzer-Token. Wenn jemand deinen Benutzer-Token erhält, können diese deinem Konto erheblichen Schaden zufügen, inclusive lesen von Nachrichten, senden von Nachrichten sowie verändern aller Server für welche du Rechte hast.**
@@ -44,4 +43,4 @@ Benutzer haben verschiedenste Bibliotheken erstellt, welche das verwenden der Di
 * [Sword](https://github.com/Azoy/Sword)
 
 ### Discord-kuratierte Bibliotheken
-Discord hat [eine Liste von kuratierten Bibliotheken](https://discordapp.com/developers/docs/topics/community-resources#libraries) "die den API-Standarts von Discord bezüglich Authentifizierung und Ratenbegrenzung entsprechen." (Übersetzt vom englischen) 
+Discord hat [eine Liste von kuratierten Bibliotheken](https://discordapp.com/developers/docs/topics/community-resources#libraries) "die den API-Standarts von Discord bezüglich Authentifizierung und Ratenbegrenzung entsprechen." (Übersetzt vom englischen)
