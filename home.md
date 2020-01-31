@@ -2,14 +2,14 @@
 title: Home
 description: Welcome to The Discord Wiki
 published: true
-date: 2020-01-31T22:01:43.951Z
+date: 2020-01-31T22:33:58.660Z
 tags: 
 ---
 
 # Welcome
 ## About Us
 
-We're The Discord Wiki. We're proud to be one of the leading providers of information about Discord to date, and we welcome you to our site! We started a server about a year ago after realizing that our resources could be used to help others learn about Discord. A year later, we are getting 6.8 million hits a month! We're ever expanding our information, so if you feel like you have the passion, the will, and the resolve required to write articles for us, check out the FAQs channel in our server and sign up to help contribute!
+We're The Discord Wiki. We're proud to be one of the leading providers of information about Discord to date, and we welcome you to our site! We started a server in 2017 after realizing that our resources could be used to help others learn about Discord. A year later, we are getting 6.8 million hits a month! We're ever expanding our information, so if you feel like you have the passion, the will, and the resolve required to write articles for us, check out the FAQs channel in our server and sign up to help contribute!
 
 [Join us on Discord!](https://discord.gg/ZRJ9Ghh)
 
@@ -83,7 +83,7 @@ We're The Discord Wiki. We're proud to be one of the leading providers of inform
 * YuukiYuuks#5122 - Spanish
 * zabszk#5292 - Polish
 * 에버#2469 - Korean, Chinese
-* Andre_601 - German
+* Andre_601#0601 - German
 
 > ***Bot Developers***
 
