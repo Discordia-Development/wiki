@@ -1,89 +1,107 @@
 ---
-title: Startseite
-description: 
+title: Willkommen
+description: Willkommen im Discordia Wiki
 published: true
-date: 2019-11-29T15:05:59.052Z
+date: 2020-01-31T22:34:13.645Z
 tags: 
 ---
 
 # Willkommen
 ## Über uns
+Wir sind das Discord Wiki. Wir sind stolz darauf eines der führenden Anbieter von Informationen über Discord zu sein und wir begrüssen dich auf unserer Seite! Wir haben diesen Server in 2017 gestartet nachdem wir realisiert haben, dass unsere Resourcen verwendet werden können um anderen beim lernen über Discord zu helfen. Ein Jahr später haben wir 6.8 millionen Aufrufe pro Monat! Wir erweitern stetig unsere Informationen, also wenn du das gefühl, die passion und den Willen hast Artikel für uns zu schreiben, schau dir den FAQ-Kanal in unserem Server an und registrier dich um uns zu helfen!
 
-Dies ist das inoffizielle Discord Wiki. Wir sind stolz darauf, einer der führenden Anbieter von Informationen über Discord zu sein und begrüßen Dich auf unserer Webseite! Nachdem wir vor ungefähr einem Jahr erkannten, dass unsere Ressourcen dazu verwendet werden können um anderen zu helfen und mehr über Discord zu erfahren, gründetet wir einen Discord Server, statt all die Informationen für uns zu behalten. Schon ein Jahr später gelang es uns über 3,5 Millionen Nutzer pro Monat mit Informationen zu beliefern. Wir erweitern unsere Informationssammlung ständig. Solltest Du also das Interesse, den Willen und die Entschlossenheit haben uns zu unterstützen und Artikel für uns zu schreiben, lies Dir bitte unser FAQ auf unserem Server durch und bewirb dich um beizutragen.
+[Tritt unserem Discord bei!](https://discord.gg/ZRJ9Ghh)
 
-[Trete unserem Discord-Server bei!](https://discord.gg/ZeG8hbu)
+<a href="https://discord.gg/ZRJ9Ghh">![DISCORD EMBED PLUGIN](https://discordapp.com/api/guilds/367460196148183040/widget.png?style=banner2)</a>
 
-<a href="https://discord.gg/ZeG8hbu">![DISCORD EMBED PLUGIN](https://discordapp.com/api/guilds/367460196148183040/widget.png?style=banner2)</a></a>
+## Disclaimer und Rechtliche Informationen
+**Das Discord Wiki ist nicht verbunden mit Discord.** Wir sind nur hier um Discord-Nutzern zu helfen Informationen über die Plattform zu entdecken. Wir glauben stark an Transparenz, also bevor du dich hineinstürzt, schau dir unsere [Nutzungsbedingungen](/meta/terms) und [Datenschutz-Bestimmungen](/meta/privacy) an um alle rechtlichen über unsere Service zu wissen.
 
-## Disclaimer und Legale Information
-Hallo! Wilkommen beim Discord Wiki! Wir glauben stark an Transparenz, deshalb beachte unsere [Nutzungsbedingungen](de/nutzungsbedingungen) und unsere [Datenschutzbestimmungen](/de/datenschutz) um alles wichtige über unsere Dienste zu wissen!
+**Discord, der Discord Geist (Clyde), Discordapp (hierin DISCORD), und Discord Nitro sind das Intellektuelle und rechtliche Eigentum von Discord Inc. Diese Service, wie beschrieben in den [Nutzungsbestimmungen](/meta/terms) sind nicht in verbindungn Discord Inc. oder irgendwelchen Tochtergesellschaften hierin. Das Discord Wiki behauptet nicht jedwedes Intellektuelles Eigentum von DISCORD zu besitzen.**
 
-### ***Discord, the Discord Ghost (Clyde™), und Discordapp (In Folge DISCORD) sind geistiges und gesetzliches Eigentum von Discord Inc. Diese Seiten, wie in den [Nutzungsbedingungen](de/nutzungsbedingungen) festgelegt, sind nicht verbunden mit Discord Inc. oder jeglichen Tochtergesellschaften. The Discord Wiki gibt nicht an, DISCORD's geistiges Eigentum zu besitzen, bitte verklagt uns nicht.***
+## Wiki Mitarbeiter
 
-## Wiki Team
 > ***Wiki Administratoren***
 
-*Verantwortlich für die Wartung des Discord Wiki's und des Support Server.*
-* Mikesky#0001 (System Administrator, pflegt das Backend aller Systeme vom Wiki)
+*Zuständig für das verwalten des Discord Wiki und des Support Server.*
+* Mikesky#0001 (System-Administrator, verwaltet das Backend aller vom Wiki angebotenen Dienste)
+* SleepaDru#7700 (System-Administrator, verwaltet das Backend aller vom Wiki angebotenen Dienste)
 * Harrison#9100
-* kwando aka ハンイット ★★★★#1313
+* 玉藻の前 ★★★★#1313
 * Tiemen#0001
 * cats#5485
 
-> ***Bereichsleitungen***
+> ***Wiki Köpfe***
 
-* Azrael#6867 - CommunityLeitung
+* Azrael#6867 - Communityleitung
+* Ghostwolf#2792 - Übersetzungsleitung
 * OminousCry#2331 - Übersetzungsleitung
 
-> ***Beitragende zum Wiki***
+> ***Wiki Moderatoren***
+
+* Costpap#7667
+* Dann™#0003
+* PapuleX#2589
+
+> ***Server Moderatoren***
+
+* DowDaw#0309
+* Downy#5863
+* Ten 🌈#1010
+
+> ***Wiki-Mitwirkende***
 
 * alcyneous#2803 - Indonesisch
+* Aleph#7888 - Türkisch
 * Anaís#4719 - Spanisch
-* Comi#2319 - Französisch
-* Cyon aka FOR3VER#2469 - Koreanisch, Chinesisch
+* Cherno#9465 - Japanisch
 * D_EaN * STS#0105 - Ungarisch
 * Daan#1337 - Niederländisch
-* deframet#0707 - Italienisch
+* Dann#0003 - Romanisch
+* deframet#0001 - Italienisch
 * Disegual#4088 - Italienisch
-* erykol#8141 - Polnisch
-* Ghostwolf#9509 - Litauisch
-* GreenTeen#6366 - Litauisch
-* Harfeur#3633 - Französisch
-* Immotay#0001 - Brasilianisches Portugiesisch
-* Ishidres#0001 - Deutsch
+* erykol#6952 - Polnisch
+* Immotay#3150 - Brasilianisches Portugiesisch
+* Janik#4444 - Slowakisch
+* jcuenin#7650 - Französisch
 * Justman#0150 - Russisch
 * Lireoy#4444 - Ungarisch
 * Manfre#9262 - Italienisch
-* marcyblaze - Italienisch
+* marcyblaze#6908 - Italienisch
 * Mib#0001 - Dänisch
-* Neerwan#9498 - Französisch
-* Nooby™#4562 - Französisch
+* Noubouille#4562 - Französisch
 * PapuleX#2589 - Tschechisch
-* RME#3050 - Niederländisch
+* randomblock1#8756
 * Samtell#0001 - Koreanisch
 * Saphir#0001 - Französisch
+* SweetSofiMC#5106 - Spanisch
 * 魏 Sync#9198 - Indonesisch
 * TheMelvinNL#0001 - Niederländisch
 * Tim#6235 - Deutsch
-* Voknehzyr#1338 - Russisch
 * webhp#1337 - Piraten Englisch
+* YuukiYuuks#5122 - Spanisch
 * zabszk#5292 - Polnisch
+* 에버#2469 - Koreanisch, Chinesisch
+* Andre_601#0601 - Deutsch
 
 > ***Bot-Entwickler***
 
-*Haben zum Discord WikiBot beigetragen.*
-* @HyperCoder#2975
-* @Tiemen#0001
+*Haben zum Discord WikiBot beigetragen*
+* HyperCoder#2975
+* OGNovuh
+* Tiemen#0001
 
-## Besonderer Dank
+## Special Thanks
 
->***Spender***
+> ***Frühere Mitwirkende***
 
-* Dropbox#0001 - thediscord.wiki Domain
+* Ishidres#0001
+* zKiyade
 
->***Patrons***
+> ***Patrons***
 
-*Ein großes Dankeschön an all unsere Unterstützer auf [Patreon](https://www.patreon.com/TheDiscordWiki)!*
+*Ein grosses Danke an alle unsere Unterstützer auf Patreon (Abgesetzt)*
 
-* DowDaw#1339
+* DowDaw#0309
+* Qaidul#6432
 * Saphir#0001
