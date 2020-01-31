@@ -2,7 +2,7 @@
 title: Discord Easter Eggs
 description: List of discovered Discord Easter Eggs
 published: true
-date: 2020-01-22T09:17:30.750Z
+date: 2020-01-31T21:24:43.766Z
 tags: 
 ---
 
@@ -60,6 +60,8 @@ You can disable it by tripple-clicking the icon again, playing the disconnect so
 The "Discodo" sound comes from the [update video about the improved white theme](https://youtube.com/watch?v=BJHZxqyfrqk?t=61).
 
 You may hear the sound [here](https://canary.discordapp.com/assets/773745b4ebae9f47e802724ec33b8a3f.mp3).
+
+This easter egg was removed in a later update.
 
 # Name copying
 If you click your name in the corner, it will show "Copied!". If you click it more, though, it says different things. Here's a progressive list.
