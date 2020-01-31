@@ -2,7 +2,7 @@
 title: Easter Eggs
 description: Eine Liste aller gefundenen Discord Easter Eggs
 published: true
-date: 2020-01-22T09:00:36.688Z
+date: 2020-01-31T21:44:55.430Z
 tags: 
 ---
 
@@ -13,15 +13,15 @@ Das folgende ist eine Liste aller gefundenen Easter Eggs in Discord.
 Hast du ein Easterg Egg gefunden welches noch nicht gelisted ist? Lass es einem Wiki Editor wissen!
 
 # Discord Webseite
-Auf Discord's [Website](https://discordapp.com) hat es verschiedene Objekte, welche beim anklicken ein kleines (oftmals Mario relevantes) Item erscheinen lässt.
+Auf Discord's [Webseite](https://discordapp.com) hat es verschiedene Objekte, welche beim anklicken ein kleines (oftmals Mario relevantes) Item erscheinen lässt.
 
 Ein Beispiel von einem anklickbaren Objekt ist der Fragezeichen-Block am oberen Bereich der Webseite.
-Es gibt auch ne kleine chance, dass ein Wumpus (Das Maskotchen von Discord) aus dem Fragezeichen-Block erscheint anstelle eines Mario items.
+Es gibt auch eine kleine chance, dass ein Wumpus (Das Maskotchen von Discord) aus dem Fragezeichen-Block erscheint anstelle eines Mario items.
 
 ![Knopf](https://cdn.discordia-dev.com/z5NxTJBl.gif "Ein Knopf auf Discord's Webseite welches ein Easter Egg zeigt")
 
-# Remixed Klingelton
-User haben eine 0.1% chance beim starten von Discord, dass sie eine geremixte version des Anruf Klingelton bei entweder einem Gruppen oder Zwei Personen-Anruf erhalten. Wenn ein User diesen Klingelton erhält, spielt er für die ganze Länge anstatt auzuhören, wenn er den Anruf annimmt. Das Discord-Team sagt dass dies das seltenste Easter Egg sei. Du kannst den geremixten Klingelton [hier](https://canary.discordapp.com/assets/b9411af07f154a6fef543e7e442e4da9.mp3) hören.
+# Veränderter Klingelton
+Benutzer haben eine 0.1% chance beim starten von Discord, dass sie eine veränderte version des Anruf Klingelton bei entweder einem Gruppen oder Zwei Personen-Anruf erhalten. Wenn ein Benutzer diesen Klingelton erhält, spielt er für die ganze Länge anstatt auzuhören, wenn er den Anruf annimmt. Das Discord-Team sagt dass dies das seltenste Easter Egg sei. Du kannst den veränderten Klingelton [hier](https://canary.discordapp.com/assets/b9411af07f154a6fef543e7e442e4da9.mp3) hören.
 
 # Geheime Tastenkombination
 Vom Tastenkombinations-Fenster aus kannst du eine geheime Tastenkombination eingeben welches eine Animation basierend auf den [Shun Goku Satsu](http://streetfighter.wikia.com/wiki/Shun_Goku_Satsu) angriff von Street Fighter abspielt.
@@ -60,6 +60,8 @@ Du kannst das durch erneutes dreimaliges klicken auf das Home Icon deaktivieren,
 Der "Discodo" Sound kommt von dem [Update Video über das verbesserte Helle Design](https://youtube.com/watch?v=BJHZxqyfrqk?t=61).
 
 Du kannst den Sound [hier](https://canary.discordapp.com/assets/773745b4ebae9f47e802724ec33b8a3f.mp3) hören.
+
+Dieses Easter Egg wurde in einem späteren Update entfernt.
 
 # Namen kopieren
 Wenn du auf deinen Namen in der unteren linken ecke klickst zeigt dieser "Copied!". Wenn du es mehrmals anklickst, wird es andere Dinge sagen. Hier ist eine progressive Liste.
@@ -102,10 +104,20 @@ Wenn du auf deinen Namen in der unteren linken ecke klickst zeigt dieser "Copied
 {.is-danger}
 
 > **Notizen**:
-> "Copy!" scheint ein schreibfehler zu sein, da alle anderen Texte ins Deutsche übersetzt wurden.
 > "GOTTGLEICH!!!!" und "MEHR ALS GOTTGLEICH!!!!" haben einen roten hintergrund und zitternden Text, während der Rest einen grünen Hintergrund ohne zitternden Text hat.
 
 # Boosting Konfetti
 Wenn man über das Boost Icon einer Boost-Nachricht fährt erscheint Konfetti. Dies ist nicht möglich in der Mobile App.
 
 ![Konfetti](https://cdn.discordia-dev.com/1v6Qjbft.gif "Boost Konfetti")
+
+Das hovern über eine Boost-Nachricht hat ausserdem eine geringe Chance, dass ein animierter Wumpus erscheint und mehr Konfetti wirft.
+
+<video width="400" autoplay muted loop>
+        <source src="http://cdn.discordia-dev.com/6gvYZgKI.mp4" type="video/mp4">
+</video>
+
+# Softsoap
+Softsoap ist eine Seifen-Marke, oftmals in der Form von Handseifen oder Körper Duschmittel, welches erstmals in 1980 von Robert R. Taylor erfunden wurde, bevor es 7 Jahre später an die Colgate Firma verkauft wurde. Softsoap kann oftmals in in Game Night-Streams gefunden werden aber es kameet auch in einigen "Neue Features" Videos. (Zum Beispiel kann eine Flasche von *Granatapfel und Mango Infusion* Softsoap im Hintergrund des [Discord's Nitro Brew Kaffee Aprilscherz Video](https://www.youtube.com/watch?v=9Z4GW6Vd6NI) gefunden werden) Die zwei häufigsten Flaschen Softsoap sind *"Granatapfel und Mango Infusion Körper waschmittel"* in 18 fl oz. (532.324 ml) und *"Lavendel & Kamille Handseife"* in 7.5 fl oz. (221.801 ml) mengen.
+
+Das Debut des Insider Witz war im Game Night-Stream vom Oktober 2016, in welchem das Discord Teammitglied Zencha mehrmals seine Sätze zu Werbung für *Granatapfel und Mango Infusionen* Softsoab geändert hat und behaupted es würde einem "geschmeidige Haut" geben.
