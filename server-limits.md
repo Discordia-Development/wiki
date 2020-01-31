@@ -2,7 +2,7 @@
 title: Server Limits
 description: Limitations placed on how many things you can do in Discord
 published: true
-date: 2020-01-22T09:18:02.397Z
+date: 2020-01-31T21:25:50.715Z
 tags: 
 ---
 
@@ -10,7 +10,7 @@ tags:
 This page lists the various "limitations" imposed upon servers in Discord, mostly to answer "how many X can I make?" questions. It's important to note that other than the 5,000 online user limit, **none of these can be modified**. There is currently no feature/method by which a server or user can bypass the limitations noted below.
 
 - A user cannot be on more than **100 servers**. Once this limit is hit, any server invite will display as "Invite Expired".
-- Servers have no theoretical member limit - there are servers with tens of thousands of users (75k+ in once instance). 
+- Normally servers have a member limit of **250,000** members. However, some partnered and verified servers can get this limit raised to **500,000**.
 - Servers reaching **5,000** *simultaneous online* members will need to contact Support to be moved to hardware supporting larger servers - this is when members start getting "Server Unavailable" errors.
 - A server can have *at most* **500 channels** - text, voice, and categories combined. Once 500 channels are reached, no more channels can be created.
 - A server can have *at most* **250 roles**. 
@@ -18,9 +18,9 @@ This page lists the various "limitations" imposed upon servers in Discord, mostl
 
 ## Emoji Limits
 - A server can have *at most* **50 regular and 50 animated emojis** without any server boosts.
-- A server can have *at most* **100 regular and 50 animated emojis** with 2 server boosts *(level 1)*.
-- A server can have *at most* **150 regular and 50 animated emojis** with 15 server boosts *(level 2)*.
-- A server can have *at most* **250 regular and 50 animated emojis** with 30 sever boosts *(level 3)*.
+- A server can have *at most* **100 regular and 100 animated emojis** with 2 server boosts *(level 1)*.
+- A server can have *at most* **150 regular and 150 animated emojis** with 15 server boosts *(level 2)*.
+- A server can have *at most* **250 regular and 250 animated emojis** with 30 sever boosts *(level 3)*.
 
 # Other Limits
 - Message limit: **2,000 characters**. (note: user/channel/role mentions and emojis contain more characters than are shown)
@@ -28,7 +28,7 @@ This page lists the various "limitations" imposed upon servers in Discord, mostl
 - Pinned messages limit: **50** messages
 - Reactions per message: **20** reactions.
 - Maximum attachment size: **8 MB (or 8388608 bytes to be exact)**.
-- Maximum attachment size with Nitro: **50 MB (or 52428800 bytes to be exact)**.
+- Maximum attachment size with Nitro or on a level 3 boosted server: **100 MB (or 104857600 bytes to be exact)**.
 - Minimum time for idling: **10 minutes**.
 - Username/nickname: **32 characters**.
 - Channel topic size: **1,024 characters**.
