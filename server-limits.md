@@ -2,7 +2,7 @@
 title: Server Limits
 description: Limitations placed on how many things you can do in Discord
 published: true
-date: 2020-02-13T09:33:56.151Z
+date: 2020-02-13T09:51:57.967Z
 tags: 
 ---
 
@@ -17,10 +17,12 @@ This page lists the various "limitations" imposed upon servers in Discord, mostl
 - Servers reaching **1,000** members have the offline members list removed.
 
 ## Emoji Limits
-- A server can have *at most* **50 regular and 50 animated emojis** without any server boosts.
-- A server can have *at most* **100 regular and 100 animated emojis** with 2 server boosts *(level 1)*.
-- A server can have *at most* **150 regular and 150 animated emojis** with 15 server boosts *(level 2)*.
-- A server can have *at most* **250 regular and 250 animated emojis** with 30 sever boosts *(level 3)*.
+The amount of emojis (Both normal and animated ones) a Server can have can change with the current boost level of the server.
+
+- No boosts (No level): **50 regular and 50 animated emojis**
+- 2 boosts (Level 1): **100 regular and 100 animated emojis**
+- 15 boosts (Level 2): **150 regular and 150 animated emojis**
+- 30 boosts (Level 3): **250 regular and 250 animated emojis**
 
 # Other Limits
 - Message limit: **2,000 characters**. (note: user/channel/role mentions and emojis contain more characters than are shown)
