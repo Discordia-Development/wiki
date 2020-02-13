@@ -2,7 +2,7 @@
 title: Server Limits
 description: Limitations placed on how many things you can do in Discord
 published: true
-date: 2020-01-31T21:25:50.715Z
+date: 2020-02-13T09:33:56.151Z
 tags: 
 ---
 
@@ -27,8 +27,10 @@ This page lists the various "limitations" imposed upon servers in Discord, mostl
 - TTS message limit: **200 characters**.
 - Pinned messages limit: **50** messages
 - Reactions per message: **20** reactions.
-- Maximum attachment size: **8 MB (or 8388608 bytes to be exact)**.
-- Maximum attachment size with Nitro or on a level 3 boosted server: **100 MB (or 104857600 bytes to be exact)**.
+- Maximum attachment size
+  - Default: **8 MB (or 8388608 bytes)**.
+  - On Boost-Level 2: **50 MB (or 52428800)**
+  - On Boost-Level 3 or when having Nitro: **100 MB (or 104857600 bytes)**
 - Minimum time for idling: **10 minutes**.
 - Username/nickname: **32 characters**.
 - Channel topic size: **1,024 characters**.
