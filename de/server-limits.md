@@ -2,7 +2,7 @@
 title: Server Limits
 description: Limitierungen Ã¼ber wieviele Dinge du auf Discord tun kannst
 published: true
-date: 2020-02-13T10:05:59.783Z
+date: 2020-02-20T14:57:43.660Z
 tags: 
 ---
 
@@ -33,6 +33,6 @@ Die anzahl Emojis (Sowohl normale wie animierte) welcher ein Server haben kann Ã
   - Standard: **8 MB (oder 8388608 Bytes)**
   - Mit Boost-Level 2: **50 MB (oder 52428800 Bytes)**
   - Mit Boost-Level 3 oder Nitro: **100 MB (oder 104857600 Bytes)**
-- Maximale Abwesenheits-Zeit: **10 Minuten**.
+- Minimale Abwesenheits-Zeit: **10 Minuten**.
 - Benutzername/Spitzname: **32 Zeichen**.
 - Kanalthema: **1024 Zeichen**.
