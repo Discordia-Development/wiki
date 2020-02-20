@@ -2,7 +2,7 @@
 title: Home
 description: Welcome to The Discord Wiki
 published: true
-date: 2020-02-20T06:46:34.674Z
+date: 2020-02-20T07:19:01.319Z
 tags: 
 ---
 
