@@ -2,7 +2,7 @@
 title: Willkommen
 description: Willkommen im Discordia Wiki
 published: true
-date: 2020-01-31T22:34:13.645Z
+date: 2020-03-09T20:07:11.762Z
 tags: 
 ---
 
@@ -15,9 +15,9 @@ Wir sind das Discord Wiki. Wir sind stolz darauf eines der führenden Anbieter v
 <a href="https://discord.gg/ZRJ9Ghh">![DISCORD EMBED PLUGIN](https://discordapp.com/api/guilds/367460196148183040/widget.png?style=banner2)</a>
 
 ## Disclaimer und Rechtliche Informationen
-**Das Discord Wiki ist nicht verbunden mit Discord.** Wir sind nur hier um Discord-Nutzern zu helfen Informationen über die Plattform zu entdecken. Wir glauben stark an Transparenz, also bevor du dich hineinstürzt, schau dir unsere [Nutzungsbedingungen](/meta/terms) und [Datenschutz-Bestimmungen](/meta/privacy) an um alle rechtlichen über unsere Service zu wissen.
+**Das Discord Wiki ist nicht in verbindung mit Discord.** Wir sind nur hier um Discord-Nutzern zu helfen, Informationen über die Plattform zu entdecken. Wir glauben stark an Transparenz, also bevor du dich hineinstürzt, schau dir unsere [Nutzungsbedingungen](/meta/terms) und [Datenschutz-Bestimmungen](/meta/privacy) an um alle rechtlichen infos über unsere Dienste zu wissen.
 
-**Discord, der Discord Geist (Clyde), Discordapp (hierin DISCORD), und Discord Nitro sind das Intellektuelle und rechtliche Eigentum von Discord Inc. Diese Service, wie beschrieben in den [Nutzungsbestimmungen](/meta/terms) sind nicht in verbindungn Discord Inc. oder irgendwelchen Tochtergesellschaften hierin. Das Discord Wiki behauptet nicht jedwedes Intellektuelles Eigentum von DISCORD zu besitzen.**
+**Discord, der Discord Geist (Clyde), Discordapp (hierin DISCORD), und Discord Nitro sind das Intellektuelle und rechtliche Eigentum von Discord Inc. Die Dienste, wie beschrieben in den [Nutzungsbestimmungen](/meta/terms), sind nicht in verbindung mit Discord Inc. oder irgendwelchen Tochtergesellschaften. Das Discord Wiki behauptet nicht, DISCORD's intellektuelles Eigentum zu besitzen.**
 
 ## Wiki Mitarbeiter
 
