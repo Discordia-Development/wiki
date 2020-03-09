@@ -2,30 +2,70 @@
 title: Chat Commands
 description: Describes all chat commands available, even the non-obvious/non-documented ones
 published: true
-date: 2020-01-22T09:17:16.662Z
+date: 2020-03-09T19:57:35.484Z
 tags: 
 ---
 
 # Discord Chat Commands
 While some of Discord's "slash" commands are fairly obvious to access, there are some things that can be done in the Message box that are somewhat undocumented (or hard to find information about). To avoid having to dig through changelogs and support articles, here are the things you can do in the Message box:
 
-* **React to the previous message** (Desktop and iOS): To add a reaction to the previous message in chat, simply write `+:emojiname:` in your message box, and send it. For instance, reacting `+:smile:` adds the smile reaction. This even works with custom emojis, assuming you're on the right server or you have nitro!
-* **Edit your previous message with up arrow** (Desktop only): Instead of having to right-click on a message, select "Edit Message" and clicking inside the edit box, you can simply hit the *Up* arrow on your keyboard to edit your last message in that channel!
-* **Fix a quick typo with s/text/replace** (Desktop and iOS): Typed "teh" instead of "the" and want to quickly fix it? Use `s/teh/the` ! Using any variation of `s/one word/another word` will edit your previous message. It only changes a single instance (the first one), but to fix a quick typo it's great!
-* **Get the ID of a mentionable item**: Anything that can be mentioned in chat (emoji, user, channel, role, etc) can be used to get the ID of that item. For instance, type in `\@user` to get a user's ID. `\@role` to get a role ID, `\#channel` to get a channel ID. Regular unicode emojis will give you the real unicode character (instead of the image) which can then be used in your username, so `\:poop:` to your heart's content! 
-* **Get a unicode emoji**: If you escape an emoji with a `\` you will get its unicode form. So, `\:smiley:` doesn't return the discord version of `:smiley:` but returns the unicode one (😃). Note: This only works with standard emoji, not with custom ones.
+## Chat functions
+There are some chat functionalities, which aren't that obvious, but make using the chat a bit easier.
+
+### React to the previous message
+Available on Desktop and iOS.  
+When you type `+:emojiname:` in chat and send it, will the last message receive the mentioned emoji as a reaction.  
+This also works with Emotes (custom Emojis) but requires you to be on the same Server or have Nitro for it.
+
+### Edit your previous message with up arrow
+Available for Desktop.  
+If you want to edit your previously send message, do you not need to right-click it and then select "Edit Message".  
+Instead can you just press the *up arrow* key on your keyboard to edit it.
+
+### Fix a quick typo
+Available for Desktop and iOS.  
+Typed "Teh" instead of "The" and want to correct it real quick? Just type `s/Teh/The` in the chat to automatically edit your last message. It only changes a single instance (the first one), but is quite useful to quickly correct some typos!
+
+### Get the ID of a mentionable item
+Anything that can be mentioned in chat (Emotes, User, Roles, Channels, etc.) can be used to get the ID of that specific item.  
+For example will `\@User` show the ID of the mentioned User, `\@Role` the ID of the mentioned role, `\#Channel` the ID of the mentioned channel and so on.
+
+**Keep in mind that the User, Role, ... is still getting mentioned!**
+
+### Get a unicode Emoji
+You sadly can't use `:poop:` in your Name to display the Poop Emoji.  
+But you can get the unicode Emoji of `:poop:` by prefixing it with a `\`. That way will `\:poop:` become 💩, which you can use in your name.
 
 ## Slash Commands
 
 These slash commands are only available on the Desktop and iOS apps. Unfortunately, Android users don't have that luck.
 
-* `/tableflip [message]` : Outputs `(╯°□°）╯︵ ┻━┻` in chat. Adding text after it will add the tableflip emoticon after it
-* `/unflip [message]` : Outputs `┬─┬﻿ ノ( ゜-゜ノ)` in chat. Adding text after it will add the unflip emoticon after it
-* `/shrug` : Outputs `¯\_(ツ)_/¯` in chat. Adding text after it will add the shrug emoticon after it
-* `/me <a message here>` : Outputs your message in italics, in the style of IRC. Identical to just surrounding your message with `*<a message here>*` (`*` for italics)
-* `/nick <new nickname>` : Changes your nickname on the server to what you place after the command. Requires "Change Nickname" permissions on the server.
-* `/tenor <search query>` and `/giphy <search query>` : Searches animated gifs on the web, using those 2 websites.
-* `/spoiler <message to be spoiled>`: Puts anything after the slash command in a spoiler. If nothing is put after the command it will send `||||`.
+> **Note**:
+> `<Text>` is required and `[Text]` is optional.
 
-> `<something>` indicates a "placeholder", meaning you can replace it with any text you like.
-> `[something]` indicates a optional "placeholder", meaning you can replace it with any text you like, but it's optional.
+### `/tableflip [Message]`
+Outputs `(╯°□°）╯︵ ┻━┻` in chat.  
+When you attach a message to the command (`/tableflip I don't like this table.`) will the emoticon be attached to the end of the message (`I don't like this table. (╯°□°）╯︵ ┻━┻`).
+
+### `/unflip [Message]`
+Outputs `┬─┬ ノ( ゜-゜ノ)` in chat.  
+When you attach a message to the command (`/unflip I do like this table tho.`) will the emoticon be attached to the end of the message (`I do like this table tho. ┬─┬ ノ( ゜-゜ノ)`).
+
+### `/shrug [Message]`
+Outputs `¯\_(ツ)_/¯` in chat.  
+When you attach a message to the command (`/shrug I prefer chairs.`) will the emoticon be attached to the end of the message (`I prefer chairs. ¯\_(ツ)_/¯`).
+
+### `/me <Message>`
+Outputs your message in *italics*, in the style of IRC.  
+Identical to surrounding your message with `*` (asterisks. `*<Message here>*`)
+
+### `/nick <New Nickname>`
+Changes your nickname on the server to the provided one.  
+You need "Change Nickname" permission on the Server.
+
+### `/tenor <Search Querry>` and `/giphy <Search Querry>`
+Searches through Tenor or Giphy (Depending on which command you used) for gifs matching the provided search querry.
+
+### `/spoiler <Message>`
+Puts the provided message in spoilers.  
+Identical to surrounding your message with `||` (`||<Message here>||`)
