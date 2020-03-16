@@ -2,7 +2,7 @@
 title: Chat Befehle
 description: Beschreibt alle verfügbaren Chat Befehle, sogar die nicht offensichtlichen/nicht dokumentierten
 published: true
-date: 2020-03-09T19:35:21.065Z
+date: 2020-03-16T17:59:32.524Z
 tags: 
 ---
 
@@ -35,6 +35,16 @@ Zum Beispiel wird `\@Benutzer` die id vom erwähnten Benutzer zeigen, `\@Rolle` 
 ### Erhalte das unicode Emoji
 Traurigerweise kannst du nicht einfach `:poop:` in deinem Namen verwenden um das Poop Emoji zu zeigen.  
 Du kannst aber das Unicode Emoji von `:poop` erhalten, indem du es mit einem `\` beginnst. So wird aus `\:poop:` 💩, welches du dann in deinem Namen verwenden kannst.
+
+### Text formattierung
+Discord hat mehrere Tasten-Kombinationen eingefügt, mit welcher du deine Nachricht formatieren kannst, ähnlich wie in Text-Editoren.  
+Hier ist eine Liste der Tasten-Kombinationen und was sie tun:
+- `Ctrl + B`: **Fett**
+- `Ctrl + I`: *Kursiv*
+- `Ctrl + U`: <u>Unterstrichen</u>
+
+> **Wichtig!**  
+> Du musst Text markiert haben, um diese Tasten-Kombinationen zu verwenden.
 
 ## Slash Befehle
 Diese Befehle sind nur auf der Desktop und iOS App verfügbar. Unglücklicherweise haben Android-Nutzer kein solches Glück.
