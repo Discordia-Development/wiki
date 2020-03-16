@@ -2,7 +2,7 @@
 title: Chat Commands
 description: Describes all chat commands available, even the non-obvious/non-documented ones
 published: true
-date: 2020-03-09T19:57:35.484Z
+date: 2020-03-16T18:02:31.456Z
 tags: 
 ---
 
@@ -35,6 +35,16 @@ For example will `\@User` show the ID of the mentioned User, `\@Role` the ID of 
 ### Get a unicode Emoji
 You sadly can't use `:poop:` in your Name to display the Poop Emoji.  
 But you can get the unicode Emoji of `:poop:` by prefixing it with a `\`. That way will `\:poop:` become 💩, which you can use in your name.
+
+### Text formatting
+Discord added multiple keyboard combinations, which allow you to format your message, similar to a Text-Editor.  
+Here is a list of all keyboard combinations and what they do:
+- `Ctrl + B`: **Bold**
+- `Ctrl + I`: *Italic*
+- `Ctrl + U`: <u>Underlined</u>
+
+> **Important!**  
+> You need to highlight text in order to use the above keyboard combinations.
 
 ## Slash Commands
 
