@@ -2,7 +2,7 @@
 title: Willkommen
 description: Willkommen im Discordia Wiki
 published: true
-date: 2020-03-09T20:07:11.762Z
+date: 2020-03-09T20:07:13.486Z
 tags: 
 ---
 

@@ -2,7 +2,7 @@
 title: Server Limits
 description: Limitierungen über wieviele Dinge du auf Discord tun kannst
 published: true
-date: 2020-02-20T14:57:43.660Z
+date: 2020-02-20T14:57:45.610Z
 tags: 
 ---
 

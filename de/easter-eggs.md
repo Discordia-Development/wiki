@@ -2,7 +2,7 @@
 title: Easter Eggs
 description: Eine Liste aller gefundenen Discord Easter Eggs
 published: true
-date: 2020-01-31T22:36:03.339Z
+date: 2020-01-31T22:36:04.918Z
 tags: 
 ---
 

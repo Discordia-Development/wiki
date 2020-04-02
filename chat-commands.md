@@ -2,7 +2,7 @@
 title: Chat Commands
 description: Describes all chat commands available, even the non-obvious/non-documented ones
 published: true
-date: 2020-03-16T18:02:31.456Z
+date: 2020-03-16T18:02:33.192Z
 tags: 
 ---
 

@@ -2,7 +2,7 @@
 title: Chat Befehle
 description: Beschreibt alle verfügbaren Chat Befehle, sogar die nicht offensichtlichen/nicht dokumentierten
 published: true
-date: 2020-03-16T17:59:32.524Z
+date: 2020-03-16T17:59:35.144Z
 tags: 
 ---
 

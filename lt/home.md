@@ -2,8 +2,8 @@
 title: [LT] Pagrindinis puslapis
 description: Sveiki atvykę į The Discord Wiki!
 published: true
-date: 2020-03-30T13:43:34.744Z
-tags: home
+date: 2020-03-30T13:43:36.590Z
+tags: 
 ---
 
 # Sveiki
