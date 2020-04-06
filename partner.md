@@ -2,7 +2,7 @@
 title: Discord Partner
 description: 
 published: true
-date: 2020-01-22T09:17:51.953Z
+date: 2020-04-06T20:49:55.138Z
 tags: 
 ---
 
@@ -14,8 +14,6 @@ tags:
 <td colspan="2" style="text-align:center"><img src="https://github.com/DiscordiaWiki/wiki/blob/master/uploads/icons/partner.png?raw=true" alt="Partner" width="146" height="146"/>
 </tr>
 <tr>
-<td>Permanent:</td>
-<td>Yes</td>
 </tr>
 <tr>
 <td>Requirement:</td>
