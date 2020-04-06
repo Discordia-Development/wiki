@@ -2,7 +2,7 @@
 title: Discord Easter Eggs
 description: List of discovered Discord Easter Eggs
 published: true
-date: 2020-01-31T21:51:32.143Z
+date: 2020-04-06T20:59:15.992Z
 tags: 
 ---
 
@@ -23,22 +23,8 @@ There is also a small chance that a Wumpus (the mascot of Discord) will appear f
 # Remixed Ringtone
 Users have a 0.1% chance upon startup of Discord that they will receive a remixed version of the incoming call ringtone during either a group or two-person voice call. If a user receives the remixed ringtone, it will play for the whole duration of the call instead of ending when the user joins the call. According to Discord staff, this is the rarest easter egg. You may hear the remixed ringtone [here](https://canary.discordapp.com/assets/b9411af07f154a6fef543e7e442e4da9.mp3).
 
-# Secret Keyboard Combo
-From the Keyboard Combinations menu you may enter a secret command that plays an animation based on the [Shun Goku Satsu](http://streetfighter.wikia.com/wiki/Shun_Goku_Satsu) attack from Street Fighter games.
-
-To view this easter egg first pull up the Keyboard Combo menu by typing 'Control /' on a Windows computer or 'Command /' on a Macintosh. This can't be done via the Discord mobile apps. 
-
-Once on the Keyboard Combo menu, type the command 'hh [right arrow] nk'. Typing this command will display the animation on your screen. You may view the animation [here](http://cdn.discordia-dev.com/Ifug7Nln.gif "Keyboard Combo (hh→nk)").
-
-> This easter egg was publicized during the TAYNE update
-
 # Rate Limits Documentation Page
 On the [Discord API Rate Limits documentation page](https://discordapp.com/developers/docs/topics/rate-limits) there is a [colon](http://cdn.discordia-dev.com/xaSYoLyK.png) that when clicked opens [this website](http://takeb1nzyto.space). The website is a fun animation created by [Dougley](http://dougleyownsthisdomain.takeb1nzyto.space/). This easter egg was implemented by Night, a Discord staff member.
-
-# Miguel's Fedora
-On the Discord [Jobs Page](https://discordapp.com/jobs) you can click on the different staff member's heads. When you click on a head, an object (such as a pokeball) will fall on it. If you click on Miguel Gaeta's head, one of the objects that might fall is a blurple fedora (amount of clicks until the fedora appears varies). 
-
-![Miguel](http://cdn.discordia-dev.com/U74QzoWD.png "Miguel")
 
 # Empathy Banana
 When your [search](/search) leads to no results, Discord will sometimes display an "empathy banana" instead of the usual no results dialogue. This is completely random.
@@ -54,8 +40,8 @@ When you try to access a page that doesn't exist such as [this one](https://disc
 ![Console Button](http://cdn.discordia-dev.com/D5gvJfJa.png "Console Button")
 
 # "Discodo" sound
-Clicking 15 times on the "Home" icon in the Discord client will enable a "Discodo" sound effect which will be played each time the client is reloaded.
-You can disable it by clicking the icon 15 times, which will play the disconnect sound to confirm the change.
+Clicking very consistantly on the "Home" icon in the Discord client will enable a "Discodo" sound effect which will be played each time the client is reloaded.
+You can disable it by clicking the icon again, very consistantly, which will play the voice channel disconnect sound confirming the change.
 
 The "Discodo" sound comes from the [update video about the improved white theme](https://youtube.com/watch?v=BJHZxqyfrqk?t=61).
 
@@ -120,4 +106,4 @@ Hovering over the boost icon also has a small chance for an animated Wumpus to a
 # Softsoap
 Softsoap is a brand of soap, most primarily in the forms of hand soap and body wash, that was first created in 1980 by Robert R. Taylor, before being sold to the Colgate company seven years later.  Softsoap is often found in Discord's Game Night streams, though it also occasionally cameos in "new feature" videos. (for example, a bottle of *Pomegranate and Mango Infusions* Softsoap can be found in the background of [Discord's Nitro Brew Coffee April Fools video](https://www.youtube.com/watch?v=9Z4GW6Vd6NI))  The two most referenced bottles of Softsoap are *"Pomegranate and Mango Infusions Bodywash"* in 18 fl oz. quantity and *"Lavender & Chamomile Hand Soap"* in 7.5 fl oz quantity.
 
-The inside joke's debut was in the October 2016 Game Night stream, in which Discord staff member Zencha frequently transitions his sentences into advertisements for *Pomegranate and Mango Infusions* Softsoap, claiming that it will give the customer "silky smooth skin".
+The inside joke's debut was in the October 2016 Game Night stream, in which former Discord staff member Zencha frequently transitions his sentences into advertisements for *Pomegranate and Mango Infusions* Softsoap, claiming that it will give the customer "silky smooth skin".
