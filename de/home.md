@@ -2,7 +2,7 @@
 title: Willkommen
 description: Willkommen im Discordia Wiki
 published: true
-date: 2020-03-09T20:07:13.486Z
+date: 2020-04-06T22:05:50.387Z
 tags: 
 ---
 
@@ -83,6 +83,7 @@ Wir sind das Discord Wiki. Wir sind stolz darauf eines der führenden Anbieter v
 * zabszk#5292 - Polnisch
 * 에버#2469 - Koreanisch, Chinesisch
 * Andre_601#0601 - Deutsch
+* Dejelnieks 2.0#9205 - Russisch
 
 > ***Bot-Entwickler***
 
