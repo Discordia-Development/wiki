@@ -2,7 +2,7 @@
 title: Home
 description: Welcome to The Discord Wiki
 published: true
-date: 2020-04-06T20:58:35.788Z
+date: 2020-04-06T21:47:53.744Z
 tags: 
 ---
 
@@ -66,6 +66,7 @@ We're The Discord Wiki. We're proud to be one of the leading providers of inform
 * Janik#4444 - Slovakian
 * jcuenin#7650 - French
 * Justman#0150 - Russian
+* Dejelnieks 2.0#9205 - Russian
 * Lireoy#4444 - Hungarian
 * Manfre#9262 - Italian
 * marcyblaze#6908 - Italian
