@@ -2,7 +2,7 @@
 title: Domovská stránka
 description: 
 published: true
-date: 2020-01-09T06:08:00.176Z
+date: 2020-04-07T09:02:12.173Z
 tags: 
 ---
 
@@ -59,6 +59,7 @@ Vítejte na naší stránce! Jsme Discord Wiki! Jsme hrdí na to, že jsme jedn�
 * Janik#4444 - Slovenština
 * jcuenin#7650 - Francouzština
 * Justman#0150 - Ruština
+* Dejelnieks 2.0#9205 - Ruština
 * Lireoy#4444 - Maďarština
 * Manfre#9262 - Italština
 * marcyblaze#6908 - Italština
