@@ -2,11 +2,11 @@
 title: Nitro
 description: Discord Nitro
 published: true
-date: 2020-04-07T09:45:49.900Z
+date: 2020-04-07T09:52:29.332Z
 tags: nitro
 ---
 
-<table style="width:250px; border:1px solid black; float:center">
+<table style="width:450px; border:1px solid black; float:center">
 <tr>
 <td colspan="2" style="background-color:#4F5D7F; text-align:center">Discord Nitro</td>
 </tr>
@@ -14,18 +14,26 @@ tags: nitro
 <td colspan="2" style="text-align:center"><img src="https://cdn.discordapp.com/emojis/340386793075769345.png?v=1" alt="nitro"></td>
 </tr>
 <tr>
-<td>Permanent:</td>
-<td>No</td>
+<td>Появление:</td>
+<td>23 января 2017 года</td>
 </tr>
 <tr>
-<td>Requirement:</td>
-<td>Discord <a href="https://discordia.me/Nitro">Nitro</a> subscription.</td>
+<td>Виды оплаты:</td>
+<td>Ежемесячно или Ежегодно</td>
+</tr>
+<tr>
+<td>Требование:</td>
+<td>Discord <a href="https://discordia.me/Nitro">Nitro</a> подписка.</td>
+</tr>
+<tr>
+<td>Способы оплаты:</td>
+<td>Любая кредитная или дебетовая карты и PayPal</td>
 </tr>
 </table> 
 
 Discord Nitro - это премиальный сервис подписки для Discord с двумя уровнями, добавлением функций и 2 серверными усилителями. Нитро был запущен для тестирования в Австралии 22 декабря 2016 года и выпущен по всему миру 23 января 2017 года.
 
-22 декабря 2017 года была добавлена возможность оплаты с помощью PayPal. 10-го октября 2018 года,  Discord Nitro была разделена на два различных уровней,  Discord Nitro и  Discord Nitro Classic. 13 сентября Discord объявила об удалении Nitro games из основного уровня Nitro, а также об увеличении лимита загрузки до 100 МБ.
+22 декабря 2017 года была добавлена возможность оплаты с помощью PayPal. 10-го октября 2018 года,  Discord Nitro была разделена на два различных уровней,  Discord Nitro и  Discord Nitro Classic. 13 сентября Discord объявила об удалении Nitro Games из основного уровня Nitro, а также об увеличении лимита загрузки до 100 МБ.
 
 # Виды подписок
 
