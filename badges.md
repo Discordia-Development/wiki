@@ -2,7 +2,7 @@
 title: Badges
 description: Information about Discord's Various User Badges
 published: true
-date: 2020-04-09T13:35:23.149Z
+date: 2020-04-09T14:27:21.148Z
 tags: 
 ---
 
@@ -13,12 +13,12 @@ Badges appear in a hierarchical order, and multiple badges will stack.
 # General Badges
 If a user has multiple badges, all badges that the user has will appear.
 
-![badges_profile.png](/uploads/badges/badges_profile.png "A General Overview of Badges")
+![Profile with badges](/uploads/badges/badges_profile.png "A General Overview of Badges")
 
 # Discord Staff <img src="/uploads/badges/staff_badge.png" alt="Discord Staff Badge" width="21" height="21"/>
 This badge is issued to all Discord Staff. The badge distinguishes users from staff members, and prevents impersonation by non-Discord employees.
 
-![Discord Staff Badge](/uploads/badges/staff_badge_profile.png "A Staff Member's Badge")
+![Discord Staff Profile](/uploads/badges/staff_badge_profile.png "A Staff Member's Badge")
 
 # Discord Partner <img src="/uploads/badges/partner_badge.png" alt="Discord Partner Badge" width="21" height="21"/>
 Discord [Partners](/partner) have the Partner badge on their profile. As the Partner perks only go to the server owner, only users that own a Partnered server can receive this badge.
@@ -75,4 +75,4 @@ This is a limited run badge for anyone who *ever* had a Discord Nitro subscripti
 This badge is received by having at least one bot verified by Discord.  
 Each bot that reaches over 100 simultanious Guilds has a chance of getting verified.
 
-![verified_developer_badge_profile.png](/uploads/badges/verified_developer_badge_profile.png "A verified Developer Badge")
+![verified Bot developer Badge](/uploads/badges/verified_developer_badge_profile.png "A verified Developer Badge")
