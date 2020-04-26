@@ -2,7 +2,7 @@
 title: Home
 description: Welcome to The Discord Wiki
 published: true
-date: 2020-04-26T05:53:51.105Z
+date: 2020-04-26T05:54:18.375Z
 tags: 
 ---
 
@@ -28,7 +28,7 @@ We're The Discord Wiki. We're proud to be one of the leading providers of inform
 * Mikesky#0001 (Systems Administrator, maintains the backend of all of the services provided by the Wiki)
 * SleepaDru#7700 (Systems Administrator, maintains the backend of all of the services provided by the Wiki)
 * Harrison#9100
-* エレシュキガル ★★★★#1313 (Kwando1313)
+* エレシュキガル ★★★★#1313 (kwando1313)
 * Tiemen#0001
 * cats#5485
 
