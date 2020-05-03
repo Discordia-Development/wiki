@@ -8,7 +8,7 @@ tags:
 
 Canary is Discord's alpha testing program. Due to Canary being a testing program, it is usually less stable than the normal build, but usually gets features earlier than the [PTB](/ptb) or [Stable](/stable) clients. The Canary Build's purpose is to allow users to help Discord test new features. Bugs on the Canary build are supposed to be reported on the [Discord Testers](http://discord.gg/discord-testers) server.
 
-Unlike [PTB](/ptb) or [Stable](/stable), Canary's icon is orange instead of blurple.
+Unlike [PTB](/ptb) or [Stable](/stable), Canary's icon is canary yellow instead of blurple.
 
 # Download
 * [macOS Canary](https://discordapp.com/api/download/canary?platform=osx)
