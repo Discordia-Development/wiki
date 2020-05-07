@@ -2,7 +2,7 @@
 title: GameBridge
 description: An integration for Game developers
 published: true
-date: 2020-01-22T09:17:35.152Z
+date: 2020-05-07T16:39:31.487Z
 tags: 
 ---
 
@@ -15,5 +15,3 @@ Features include:
 * Building up a community (Partner-like benefits)
 * Controlling Audio Settings
 * Positional Audio (Voices placed in a virtual space to augment distribution of players)
-
-At the moment the [GameBridge-Website](https://discordapp.com/gamebridge) shows a few games which support GameBridge. GameBridge's Documentation can be found [here](https://discordapp.com/developers/docs/topics/gamebridge).
