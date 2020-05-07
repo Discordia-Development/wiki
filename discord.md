@@ -2,17 +2,17 @@
 title: Discord
 description: 
 published: true
-date: 2020-01-22T09:17:29.203Z
+date: 2020-05-07T16:56:58.004Z
 tags: 
 ---
 
 ![Logo](https://raw.githubusercontent.com/DiscordiaWiki/wiki/master/uploads/discord/logo.png "Logo")
 
-Discord is a free text and voice-based social software directed towards gamers. With over 130 million users and counting, Discord continues to grow and has many updates and awesome features.
+Discord is a free text and voice-based social software directed towards gamers. With over 250 million users and counting, Discord continues to grow and has many updates and awesome features.
 
 Discord is developed by Discord Inc. (previously known as Hammer and Chisel), by the former developers of the OpenFeint software, which was a very popular mobile gaming platform for iOS and Android until 2012. Jason Citron, the founder, went ahead to develop Discord with a group of amazing employees, and were also known for the popular mobile game MOBA: Fates Forever.
 
-The website for Discord is https://discordapp.com. 
+The website for Discord is https://discord.com. 
 
 # Platforms
 Discord is available on multiple platforms:
@@ -38,7 +38,7 @@ These are only accessible on Windows, MacOSX/macOS and Linux:
 **Stable:** This is Discord's stable, public build. It is the most polished build, with the features completed and polished.
 
 **Public Test Build (PTB)**: This is Discord's PTB build, with features not yet released the public. It's not as stable and can have bugs and issues.
-*It can be downloaded by selecting Public Test Build on the Discord download page (https://discordapp.com/download).*
+*It can be downloaded by selecting Public Test Build on the Discord download page (https://discord.com/download).*
 
 **Canary:** This is Discord's Canary build, with the earliest of features introduced to users. It's the bleeding edge of the client and can have instability and issues and bugs with new features whilst also introduce bug fixes present on the Stable and PTB builds.
 *It can be downloaded through the Discord Testers group (https://discord.gg/discord-testers).*
