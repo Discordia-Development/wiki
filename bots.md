@@ -2,7 +2,7 @@
 title: Bots
 description: Information about various Discord Bot Libraries
 published: true
-date: 2020-01-22T09:17:07.153Z
+date: 2020-05-07T16:48:37.748Z
 tags: 
 ---
 
@@ -45,3 +45,8 @@ Users have created many different libraries that make using the Discord API easi
 ### Discord-Curated Libraries
 
 Discord has [a list of curated libraries](https://discordapp.com/developers/docs/topics/community-resources#libraries) "that conform to [Discord's] APIs standards around authentication and rate limiting."
+
+# Verification
+On April 7th, 2020, Bots Verification was introduced. Each bot that reaches over 75 simultanious guilds has a chance of getting verified. 
+
+Starting October 7th, 2020, unverified bots will not be able to join more than 100 servers (if it's already in more than 100 of them, you won't be able to invite it) and won't be able to access [Privileged Intents](https://discord.com/developers/docs/topics/gateway#privileged-intents).
