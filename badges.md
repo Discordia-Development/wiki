@@ -2,7 +2,7 @@
 title: Badges
 description: Information about Discord's Various User Badges
 published: true
-date: 2020-05-07T16:42:00.294Z
+date: 2020-05-07T16:42:07.609Z
 tags: 
 ---
 
@@ -73,6 +73,6 @@ This is a limited run badge for anyone who *ever* had a Discord Nitro subscripti
 
 # Verified Bot Developer <img src="/uploads/badges/verified_developer_badge.png" alt="Verified Developer Badge" width="21" height="21"/>
 This badge is received by having at least one bot verified by Discord.  
-Each bot that reaches over 75 simultanious Guilds has a chance of getting verified.
+Each bot that reaches over 75 simultanious guilds has a chance of getting verified.
 
 ![verified Bot developer Badge](/uploads/badges/verified_developer_badge_profile.png "A verified Developer Badge")
