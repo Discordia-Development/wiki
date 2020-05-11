@@ -2,7 +2,7 @@
 title: Server Limits
 description: Limitations placed on how many things you can do in Discord
 published: true
-date: 2020-04-21T11:21:14.137Z
+date: 2020-05-11T12:38:02.971Z
 tags: 
 ---
 
@@ -13,7 +13,7 @@ This page lists the various "limitations" imposed upon servers in Discord, mostl
 - Normally servers have a member limit of **250,000** members. However, some partnered and verified servers can get this limit raised to **500,000**.
 - Servers reaching **25,000** *simultaneous online* members will need to contact Support to be moved to hardware supporting larger servers - this is when members start getting "Server Unavailable" errors.
 - A server can have *at most* **500 channels** - text, voice, and categories combined. Once 500 channels are reached, no more channels can be created.
-- A category can have *at most* **50 channels** - text and voice combined. Once 50 channels are reached, no more channels can be created inside that categoty.
+- A category can have *at most* **50 channels** - text and voice combined. Once 50 channels are reached, no more channels can be created inside that category.
 - A server can have *at most* **250 roles**. 
 - Servers reaching **1,000** members have the offline members list removed.
 
