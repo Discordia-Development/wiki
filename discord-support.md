@@ -2,7 +2,7 @@
 title: Discord Support
 description: Discord Official Support and Community Support Servers
 published: true
-date: 2020-04-09T14:52:27.408Z
+date: 2020-05-12T15:08:13.318Z
 tags: 
 ---
 
@@ -29,7 +29,7 @@ tags:
 
 ## Servers 
 * [Discord Testers](http://discord.gg/discord-testers)
-* [Discord Events](http://discord.gg/events)
+* [Discord Events](http://discord.gg/discord-events)
 * [Discord Developers](https://discord.gg/discord-developers) *(formerly Discord Game SDK Help)*
 
 ### Archived Servers
