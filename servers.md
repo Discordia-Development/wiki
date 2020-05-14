@@ -2,7 +2,7 @@
 title: Servers
 description: 
 published: true
-date: 2020-01-22T09:18:06.218Z
+date: 2020-05-14T07:20:48.238Z
 tags: 
 ---
 
@@ -48,4 +48,4 @@ Levels:
 
 
 # Vanity Invites
-Some servers have the ability to be able to set custom invite links, instead of a randomly generated one. One example is https://discord.gg/discord-developers. Servers gain the ability to set vanity invites if they are a [Discord Partner](/partner), [Verified Server](/verified-servers), or owned by a Discord Developer. Any member with Manage Server can customize the vanity invite.
+Some servers have the ability to be able to set custom invite links, instead of a randomly generated one. One example is https://discord.gg/discord-developers. Servers gain the ability to set vanity invites if they are a [Discord Partner](/partner), [Verified Server](/verified-servers), the server has reached Level 3 boost through server boosting feature or owned by a Discord Developer. Any member with Manage Server can customize the vanity invite.
