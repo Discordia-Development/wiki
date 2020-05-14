@@ -2,7 +2,7 @@
 title: Discord Easter Eggs
 description: List of discovered Discord Easter Eggs
 published: true
-date: 2020-05-07T17:16:53.041Z
+date: 2020-05-14T07:30:40.700Z
 tags: 
 ---
 
@@ -51,7 +51,11 @@ The "Discodo" sound comes from the [update video about the improved white theme]
 You may hear the sound [here](https://canary.discord.com/assets/773745b4ebae9f47e802724ec33b8a3f.mp3).
 
 # Name copying
-If you click your name in the corner, it will show "Copied!". If you click it more, though, it says different things. Here's a progressive list.
+If you click your name in the corner, it will show "Copied!". If you click it more, though, it says different things. 
+
+![username-copy-messages.gif](/username-copy-messages.gif)
+
+Here's a progressive list.
 
 > "Copied!"
 {.is-success}
