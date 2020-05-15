@@ -2,7 +2,7 @@
 title: Roles
 description: 
 published: true
-date: 2020-01-22T09:17:57.998Z
+date: 2020-05-15T11:02:48.806Z
 tags: 
 ---
 
@@ -40,7 +40,7 @@ The **Kick Members** permission allows a user to kick anyone who is below them i
 
 The **Ban Members** permission allows a user to ban anyone who is below them in the hierarchy. This also allows a user to access the ban list, and unban members from it.
 
-**Create Instant Invites** allows a user to create a instant invite for the server. Instant Invites can be revoked in the Instant Invites channel by anyone with Manage Server.
+**Create Invite** allows the user to create an invite for the server. Invites can be revoked in the Invites tab in Server Settings by anyone with Manage Server permission.
 
 The **Change Nickname** permission allows a user to change their own nickname. This nickname can still be changed by anyone above them with the Manage Nicknames permission.
 
@@ -66,9 +66,9 @@ The **Read Text Channels & See Voice Channels** permission allows a user to see 
 
 **Read Channel History** allows users to read the channel's history. If denied, they can only view history as far as they have seen the channel, and is reset after they reload the client.
 
-**Mention Everyone** allows users to mention @everyone or @here, unless denied by that channel's permissions.
+**Mention @everyone, @here and All Roles** allows users to mention @everyone, @here and All Roles unless denied by that channel's permissions.
 
-**Use External Emojis** allows users to use External Emojis, such as BTTV/Twitch global emojis, and emojis from other servers, if they have [Discord Nitro](/nitro). This can be denied by a channel's permissions.
+**Use External Emojis** allows users to use External Emojis, such as BTTV/Twitch global emojis, and emojis from other servers, if they have [Discord Nitro / Discord Nitro Classic](/nitro). This can be denied by a channel's permissions.
 
 **Add Reactions** allows users to add reactions to any message, unless denied by that channel's permissions. 
 
@@ -78,6 +78,8 @@ The **Read Text Channels & See Voice Channels** permission allows a user to see 
 
 **Speak** allows users to speak in a channel, unless denied by that channel's permission, or has been Server Muted.
 
+**Video** allows users to turn on their cameras in the channel and use Go Live feature.
+
 **Mute Members** allows a user to Server Mute other members, which makes the muted user unable to be heard by anyone in the channel. 
 
 **Deafen Members** allows a user to Server Deafen other members, which makes the deafened user unable to hear anyone in the channel.
@@ -86,9 +88,11 @@ The **Read Text Channels & See Voice Channels** permission allows a user to see 
 
 **Use Voice Activity** allows a user to not have to use Push-to-Speak, unless denied by that channel's permissions.
 
+**Priority Speaker**, when activated, automatically lowers the volume of the other members without this permission in the voice channel. This feature can be only activated using the <kbd>Push to Talk (Priority)</kbd> keybind.
+
 # Other Info
 
-A role can have a color from the 22 default colors, have a HEX color, or have no color at all. Users take the color of the highest role in their list, as long as it has a color.
+A role can have a color from the 20 default colors, have a HEX color, or have no color at all. Users take the color of the highest role in their list, as long as it has a color.
 
 When adding a bot to a server, it can ask for permissions. If given, this will make an undeletable role that can also not be given to any user manually. If no permissions are given, no role will be created.
 
