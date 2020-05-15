@@ -2,7 +2,7 @@
 title: Mentions
 description: 
 published: true
-date: 2020-01-22T09:17:45.899Z
+date: 2020-05-15T10:52:31.873Z
 tags: 
 ---
 
@@ -19,3 +19,10 @@ Using `@everyone` and `@here` allows for mentioning every member with and withou
 
 # Mentions using IDs
 You can also directly mention an user or a role through the ID. The client replaces `@role` or `@username#discrim` with `<@&ID>` or `<@ID>` (respectively) and vice versa automatically. The reason this is used is because names change while IDs don't. The client not displaying mentions as the user- or role name can be achieved by escaping the mention. This can be done by typing `\@name#discrim` or `\@role` and will display the ID but still tag the user. Mentioning users by their ID is commonly used by bots.
+
+# Checking mentions
+On the top right corner, click <kbd>@</kbd> button to open the recent mentions tab, which let's you see all recent messages, where you were mentioned.
+
+![Mentions Tab](/uploads/mentions/mentions-tab.png)
+
+For every mention, there are two buttons - "Jump" and "Close". "Jump" buttons takes you to the original message of the mention and "Close" button let's you to clear the current notification of the mention.
