@@ -1,8 +1,8 @@
 ---
-title: Discord Easter Eggs
+title: Easter Eggs
 description: List of discovered Discord Easter Eggs
 published: true
-date: 2020-05-14T07:30:40.700Z
+date: 2020-05-15T09:38:22.459Z
 tags: 
 ---
 
@@ -13,7 +13,7 @@ The following is a list of discovered easter eggs on Discord.
 Found an easter egg that isn't on this list? Let a Wiki Editor know! 
 
 # Discord Homepage
-On Discord's website [homepage](https://discordapp.com) there are many objects that, when clicked, cause a small object (usually Mario related) to appear on the screen.
+On Discord's website [homepage](https://discord.com) there are many objects that, when clicked, cause a small object (usually Mario related) to appear on the screen.
 
 One example of the clickable objects is the question box towards the top of the page.
 
@@ -53,7 +53,7 @@ You may hear the sound [here](https://canary.discord.com/assets/773745b4ebae9f47
 # Name copying
 If you click your name in the corner, it will show "Copied!". If you click it more, though, it says different things. 
 
-![username-copy-messages.gif](/username-copy-messages.gif)
+![username-copy-messages.gif](/uploads/easter-eggs/username-copy-messages.gif)
 
 Here's a progressive list.
 
