@@ -2,7 +2,7 @@
 title: Chat Commands
 description: Describes all chat commands available, even the non-obvious/non-documented ones
 published: true
-date: 2020-03-16T18:02:33.192Z
+date: 2020-05-15T09:53:49.787Z
 tags: 
 ---
 
@@ -74,7 +74,11 @@ Changes your nickname on the server to the provided one.
 You need "Change Nickname" permission on the Server.
 
 ### `/tenor <Search Querry>` and `/giphy <Search Querry>`
-Searches through Tenor or Giphy (Depending on which command you used) for gifs matching the provided search querry.
+Searches through Tenor or Giphy (Depending on which command you used) for gifs matching the provided search query.
+
+### `/tts <Message>`
+Uses text-to-speech to read the message to all members currently viewing the channel.
+You need "Send TTS Messages" permission on the Server/Channel.
 
 ### `/spoiler <Message>`
 Puts the provided message in spoilers.  
