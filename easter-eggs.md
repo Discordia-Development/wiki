@@ -2,7 +2,7 @@
 title: Easter Eggs
 description: List of discovered Discord Easter Eggs
 published: true
-date: 2020-05-15T09:38:22.459Z
+date: 2020-05-15T11:24:24.367Z
 tags: 
 ---
 
@@ -17,7 +17,7 @@ On Discord's website [homepage](https://discord.com) there are many objects that
 
 One example of the clickable objects is the question box towards the top of the page.
 
-![Box](/easter-eggs/newbutton.png)
+![Box](/uploads/easter-eggs/newbutton.png)
 
 There is also a small chance that a Wumpus (the mascot of Discord) will appear from that question box, instead of a Mario related item.
 
@@ -26,13 +26,13 @@ Users have a 0.1% chance upon startup of Discord that they will receive a remixe
 
 # Rate Limits Documentation Page
 On the [Discord API Rate Limits documentation page](https://discord.com/developers/docs/topics/rate-limits) there is a colon that when clicked opens [this website](http://takeb1nzyto.space). 
-![colon.png](/easter-eggs/colon.png)
+![colon.png](/uploads/easter-eggs/colon.png)
 The website is a fun animation created by [Dougley](http://dougleyownsthisdomain.takeb1nzyto.space/). This easter egg was implemented by Night, a Discord staff member.
 
 # Empathy Banana
 When your [search](/search) leads to no results, Discord will sometimes display an "empathy banana" instead of the usual no results dialogue. This is completely random.
 
-![Banana](/easter-eggs/banana.png)
+![Banana](/uploads/easter-eggs/banana.png)
 
 # Computer Man
 Visiting [printer.discord.com](https://printer.discord.com) will redirect you to a [video clip](https://www.youtube.com/watch?v=jeg_TJvkSjg) from an old Canadian show called Vid Kids. [b1nzy](https://twitter.com/b1naryth1ef), a Discord Developer was the one to implement this easter-egg. 
@@ -40,7 +40,7 @@ Visiting [printer.discord.com](https://printer.discord.com) will redirect you to
 # Snek Game
 When you try to access a page that doesn't exist such as [this one](https://discord.com/TheDiscordWikisPartnership) you are redirected to a 404 page. Clicking the button on the console next to Nelly the Robo-Hamster starts a game like the classic Snake Game. Discord developer [tcoil](https://twitter.com/t_coil) made this game.
 
-![Console Button](/easter-eggs/console-button.png)
+![Console Button](/uploads/easter-eggs/console-button.png)
 
 # "Discodo" sound
 Clicking very consistantly on the "Home" icon in the Discord client will enable a "Discodo" sound effect which will be played each time the client is reloaded.
@@ -97,7 +97,7 @@ Here's a progressive list.
 # Boosting confetti
 Hovering over the boost icon on a boost message will cause confetti to appear. This is not possible in the mobile app.
 
-![Boost Confetti](/easter-eggs/boost-confetti.gif)
+![Boost Confetti](/uploads/easter-eggs/boost-confetti.gif)
 
 Hovering over the boost icon also has a small chance for an animated Wumpus to appear in any of the four corners of the chat window at random and throw out more confetti.
 
