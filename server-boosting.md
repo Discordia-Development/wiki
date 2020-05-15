@@ -1,8 +1,8 @@
 ---
-title: Server boosting
+title: Server Boosting
 description: Boosting unlocks various perks for the Discord Server they're used on. This page explains what those perks are.
 published: true
-date: 2020-04-08T20:09:11.468Z
+date: 2020-05-15T11:04:21.900Z
 tags: 
 ---
 
