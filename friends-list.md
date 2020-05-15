@@ -2,7 +2,7 @@
 title: Friends List
 description: A quick summary of the Friends List
 published: true
-date: 2020-01-22T09:17:33.673Z
+date: 2020-05-15T10:25:01.664Z
 tags: 
 ---
 
@@ -12,22 +12,22 @@ The friends list is a feature that allows to see your friends and what they're d
 ## Adding Friends
 Friend requests can either be sent from the profile, or the friends list page itself. The friends list page can be found when clicking the Home button, or at the top of your list of Direct Messages. 
 
-![Home](https://raw.githubusercontent.com/DiscordiaWiki/wiki/master/uploads/direct-messages/home.png "Home")
+![Home](/uploads/friends-list/home.png)
 
 Friends can be added via their Discord username and [Discriminator](https://discordia.me/discriminator), or be suggested from your Steam or Skype friends list if those are integrated into your account. 
 
-![Adding A Friend](https://raw.githubusercontent.com/DiscordiaWiki/wiki/master/uploads/friends-list/adding-a-friend.png "Adding a friend")
+![Adding A Friend](/uploads/friends-list/adding-a-friend.png)
 
 ## Friends List Usage
-The friend list displays the username and avatar, playing status, and mutual servers of the friend. 
+The friend list displays the username and avatar, playing status, and buttons to message your friend or to show more actions, which include "Start Video Call", "Start Voice Call" and "Remove Friend". 
 
-![Friend in list](https://raw.githubusercontent.com/DiscordiaWiki/wiki/master/uploads/aftrebh.png "Friend in list")
+![Friend in list](/uploads/friends-list/new-friends-list.png)
 
-Clicking on a username or avatar will direct you to your Direct Messages with the friend. Clicking on one of the server icons will redirect you to said server.
+Clicking on a username, avatar or the message button will direct you to your Direct Messages with the friend.
 
 ## Friend List Categories
 
-* All - shows all friends, online or offline.
 * Online - shows only online (Online, DND, and Idle) friends.
+* All - shows all friends, online or offline.
 * Pending - shows either sent or received friend requests.
 * Blocked - shows all blocked users.
