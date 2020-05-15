@@ -2,7 +2,7 @@
 title: Discord StreamKit
 description: 
 published: true
-date: 2020-01-22T09:18:12.076Z
+date: 2020-05-15T09:59:06.139Z
 tags: 
 ---
 
@@ -19,7 +19,6 @@ The following integrations allow you to link the apps listed below with your Dis
 * [Youtube Gaming](https://support.discordapp.com/hc/en-us/articles/215162978-Youtube-Gaming-Integration-FAQ) - Allow Discord to automatically sync your partnered YouTube Gaming channel sponsors to a role. 
 * [Twinge](http://www.twinge.tv/sys/discord) - Allow Twinge to share analytics and Twitch community interaction within your Discord server. 
 * [Mixer](https://watchbeam.zendesk.com/hc/en-us/articles/211272063-Discord-Chat) - Allow Discord to automatically sync your Mixer subscribers to a role. 
-* [GameWisp](https://gamewisp.zendesk.com/hc/en-us/articles/222644768) - Allow Discord to automatically sync your GameWisp subscribers to a role.
 * [XSplit](https://streamkit.discordapp.com/overlay) - Customize, promote, and show off your Discord community directly on your stream. 
 * [OBS](https://streamkit.discordapp.com/overlay) - Customize, promote, and show off your Discord community directly on your stream.
 
