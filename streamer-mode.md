@@ -2,15 +2,11 @@
 title: Streamer Mode
 description: 
 published: true
-date: 2020-01-22T09:18:10.618Z
+date: 2020-05-15T11:08:30.419Z
 tags: 
 ---
 
 Discord has a Streamer Mode that allows you to access Discord during a stream without risk of revealing personal information.
-
-Users using Streamer Mode will have a purple dot as their online status on the user list . Their user-card will display purple and give the user an option to view the user’s livestream if they have a linked Twitch account. 
-
-![alt text](http://i.imgur.com/zt8qHVQ.png?1)
 
 # Activating Streamer Mode
 To use Streamer Mode, click the cog on the bottom left of the Discord application to access the [User Settings](/user-settings) and click on 'Streamer Mode'.
