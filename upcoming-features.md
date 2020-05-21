@@ -2,7 +2,7 @@
 title: Upcoming Features
 description: 
 published: true
-date: 2020-01-22T09:18:15.051Z
+date: 2020-05-21T15:23:39.154Z
 tags: 
 ---
 
@@ -15,19 +15,22 @@ This is a list of features that will be occasionally updated with information ab
 
 | Feature |	Status |
 |---------|---------|
+| Inbox | In Internal Testing |
+| Interactive UI API | Planned |
 | Keyboard Navigation | In Development |
-| Permissions Preview Tool | Planned |
 
 ## iOS
 | Feature | Status	|
 |---------|---------|
-| 3D Touch Support | Planned |
-| Rich Push Notifications | Planned |
+| Jump To Message | Available on TestFlight |
+| Krisp Noise Suppression | In Testing |
+| Quick Reply | In Development |
+| Screen Sharing | Planned |
 
 ## Android
 | Feature | Status |
 |---------|--------|
-| Compress Image Toggle | Planned |
+| Krisp Noise Suppression | In Testing |
 | Screen Sharing | Planned |
 
 > Disclaimer: These are unreleased features and they might change before they are released to Canary/Android Alpha/TestFlight users. They might not be released at all, and ETAs are not available.
