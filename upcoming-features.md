@@ -2,8 +2,9 @@
 title: Upcoming Features
 description: 
 published: true
-date: 2020-05-21T15:23:39.154Z
+date: 2020-06-08T01:41:57.347Z
 tags: 
+editor: markdown
 ---
 
 # Upcoming Features
@@ -22,9 +23,8 @@ This is a list of features that will be occasionally updated with information ab
 ## iOS
 | Feature | Status	|
 |---------|---------|
-| Jump To Message | Available on TestFlight |
+| GIF Picker | In Development |
 | Krisp Noise Suppression | In Testing |
-| Quick Reply | In Development |
 | Screen Sharing | Planned |
 
 ## Android
