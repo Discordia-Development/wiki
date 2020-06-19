@@ -2,8 +2,9 @@
 title: Home
 description: Welcome to The Discord Wiki
 published: true
-date: 2020-04-26T05:54:18.375Z
+date: 2020-06-19T11:10:28.026Z
 tags: 
+editor: markdown
 ---
 
 # Welcome
@@ -85,6 +86,7 @@ We're The Discord Wiki. We're proud to be one of the leading providers of inform
 * zabszk#5292 - Polish
 * 에버#2469 - Korean, Chinese
 * Andre_601#0601 - German
+* rostyclav999#2517 - Ukrainian
 
 > ***Bot Developers***
 
