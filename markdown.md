@@ -2,8 +2,9 @@
 title: Markdown
 description: Want to inject some flavor into your everyday text chat?
 published: true
-date: 2020-01-22T09:17:44.391Z
+date: 2020-06-27T23:26:25.702Z
 tags: 
+editor: markdown
 ---
 
 Markdown is a Discord feature that enables the stylizing of text. There are a total of six different markdown operators in Discord.
@@ -78,3 +79,22 @@ It can be revealed by clicking or tapping on the spoiler. This is what a reveale
 You can adjust the settings for showing spoilers in User Settings -> Text & Images. The *On servers I moderate* option will display spoiler content only on servers in which you have the **Manage Messages** permission.
 
 ![Spoiler settings](https://raw.githubusercontent.com/DiscordiaWiki/wiki/master/uploads/markdown/spoiler-settings.png "Spoiler settings")
+
+## Quote and Quoteblocks
+You can create a quote by starting your message with a (>) followed by a space.  
+This will make the line have a small grey bar on the left and the text being indent, similar to how an embed looks.
+
+Any new line with text that doesn't start with a > will be displayed normally.  
+To change this, either start every new line with a > and space or start the first line with three > (>>>) and a space to have the complete text after it as a quote.
+
+Single quote (Only indents the line starting with >)
+![quote-example.png](/uploads/markdown/quote-example.png "Single quote")
+
+Would make the text appear as this:
+![quote result](/uploads/markdown/quote-result.png "How a single quote would look like")
+
+Starting the line with three > however...
+![quoteblock example](/uploads/markdown/quoteblock-example.png "Quote Block")
+
+...will make the entire text after it a quote:
+![quoteblock result](/uploads/markdown/quoteblock-result.png "Result of a Quote Block")
