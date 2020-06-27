@@ -2,7 +2,7 @@
 title: Markdown
 description: Want to inject some flavor into your everyday text chat?
 published: true
-date: 2020-06-27T23:26:25.702Z
+date: 2020-06-27T23:28:08.495Z
 tags: 
 editor: markdown
 ---
@@ -81,7 +81,7 @@ You can adjust the settings for showing spoilers in User Settings -> Text & Imag
 ![Spoiler settings](https://raw.githubusercontent.com/DiscordiaWiki/wiki/master/uploads/markdown/spoiler-settings.png "Spoiler settings")
 
 ## Quote and Quoteblocks
-You can create a quote by starting your message with a (>) followed by a space.  
+You can create a quote by starting your message with a "Greater than" character (>) followed by a space.  
 This will make the line have a small grey bar on the left and the text being indent, similar to how an embed looks.
 
 Any new line with text that doesn't start with a > will be displayed normally.  
