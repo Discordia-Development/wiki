@@ -2,25 +2,27 @@
 title: Connections
 description: Connect your Discord thingy to your other thingies!
 published: true
-date: 2020-01-22T09:17:21.794Z
+date: 2020-06-27T23:12:33.838Z
 tags: 
+editor: markdown
 ---
 
 The Connections menu is within the [User Settings](/user-settings) of your Discord account. 
 
 ## Available Connections
 
-![Connections | Desktop App (Windows)](https://nobody-loves.me/i/9fko.png)
+![Connections | Desktop App (Windows)](/uploads/connections/connections.png)
 
 The available connections include:
-* Twitch
-* YouTube
-* Steam
-* Reddit
-* Facebook
-* Twitter
-* Spotify
-* Xbox Live
+* [Twitch](https://twitch.tv)
+* [YouTube](https://youtube.com)
+* [Battle.net](https://battle.net)
+* [Steam](https://steampowered.com)
+* [Reddit](https://reddit.com)
+* [Facebook](https://facebook.com)
+* [Twitter](https://twitter.com)
+* [Spotify](https://spotify.com)
+* [XBox](https://xbox.com)
 
 
 ## Connections Menu
