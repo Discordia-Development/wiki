@@ -2,7 +2,7 @@
 title: Home
 description: Welcome to The Discord Wiki
 published: true
-date: 2020-06-19T11:10:28.026Z
+date: 2020-07-04T13:16:44.527Z
 tags: 
 editor: markdown
 ---
@@ -22,8 +22,8 @@ We're The Discord Wiki. We're proud to be one of the leading providers of inform
 **Discord, the Discord Ghost (Clyde), Discordapp (Herein DISCORD), and Discord Nitro are the intellectual and legal property of Discord Inc. These Services, as listed in the [Terms of Service](/meta/terms) are not affiliated with Discord Inc. or any subsidiaries herein. The Discord Wiki does not claim to own any of DISCORD's intellectual property.**
 
 ## Wiki Staff
-
-> ***Wiki Administrators***
+The wiki would not be possibel without the help of the following:
+### Wiki Administrators
 
 *Responsible for maintaining The Discord Wiki and its support server.*
 * Mikesky#0001 (Systems Administrator, maintains the backend of all of the services provided by the Wiki)
@@ -33,25 +33,25 @@ We're The Discord Wiki. We're proud to be one of the leading providers of inform
 * Tiemen#0001
 * cats#5485
 
-> ***Wiki Heads***
+### Wiki Heads
 
 * Azrael#6867 - Community Lead
 * Ghostwolf#2792 - Translation Lead
 * OminousCry#2331 - Translation Lead
 
-> ***Wiki Moderators***
+### Wiki Moderators
 
 * Costpap#7667
 * Dann™#0003
 * PapuleX#2589
 
-> ***Server Moderators***
+### Server Moderators
 
 * DowDaw#0309
 * Downy#5863
 * Ten 🌈#1010
 
-> ***Wiki Contributors***
+### International Wiki Contributors
 
 * alcyneous#2803 - Indonesian
 * Aleph#7888 - Turkish
@@ -88,7 +88,7 @@ We're The Discord Wiki. We're proud to be one of the leading providers of inform
 * Andre_601#0601 - German
 * rostyclav999#2517 - Ukrainian
 
-> ***Bot Developers***
+### Bot Developers
 
 *Contributed to the Discord WikiBot.*
 * HyperCoder#2975
@@ -97,14 +97,14 @@ We're The Discord Wiki. We're proud to be one of the leading providers of inform
 
 ## Special Thanks
 
-> ***Former contributors***
+### Former contributors
 
 * Ishidres#0001
 * zKiyade
 
-> ***Patrons***
+### Patrons
 
-*A huge thank you to all our supporters on Patreon (Discontinued)*
+*A huge thank you to all our supporters on Patreon (discontinued)*
 
 * DowDaw#0309
 * Qaidul#6432
