@@ -2,7 +2,7 @@
 title: Home
 description: Welcome to The Discord Wiki!
 published: true
-date: 2020-07-04T13:17:00.681Z
+date: 2020-07-04T13:17:22.813Z
 tags: 
 editor: markdown
 ---
@@ -22,7 +22,7 @@ We're The Discord Wiki. We're proud to be one of the leading providers of inform
 **Discord, the Discord Ghost (Clyde), Discordapp (Herein DISCORD), and Discord Nitro are the intellectual and legal property of Discord Inc. These Services, as listed in the [Terms of Service](/meta/terms) are not affiliated with Discord Inc. or any subsidiaries herein. The Discord Wiki does not claim to own any of DISCORD's intellectual property.**
 
 ## Wiki Staff
-The wiki would not be possibel without the help of the following:
+The wiki would not be possible without the help of the following:
 ### Wiki Administrators
 
 *Responsible for maintaining The Discord Wiki and its support server.*
