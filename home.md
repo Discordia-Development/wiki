@@ -1,8 +1,8 @@
 ---
 title: Home
-description: Welcome to The Discord Wiki
+description: Welcome to The Discord Wiki!
 published: true
-date: 2020-07-04T13:16:44.527Z
+date: 2020-07-04T13:17:00.681Z
 tags: 
 editor: markdown
 ---
