@@ -2,7 +2,7 @@
 title: Home
 description: Welcome to The Discord Wiki!
 published: true
-date: 2020-07-06T23:16:05.079Z
+date: 2020-07-06T23:16:17.031Z
 tags: 
 editor: markdown
 ---
@@ -109,6 +109,3 @@ The wiki would not be possible without the help of the following:
 * DowDaw#0309
 * Qaidul#6432
 * Saphir#0001
-
-
-This is a quick test for GitHub syncing
