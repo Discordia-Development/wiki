@@ -2,7 +2,7 @@
 title: Chat Befehle
 description: Beschreibt alle verfügbaren Chat Befehle, sogar die nicht offensichtlichen/nicht dokumentierten
 published: true
-date: 2020-07-12T20:14:34.110Z
+date: 2020-07-12T20:24:05.186Z
 tags: 
 editor: markdown
 ---
@@ -75,6 +75,10 @@ Du benötigst "Nickname ändern" Berechtigung auf dem Server.
 
 ### `/tenor <Suchbegriff>` und `/giphy <Suchbegriff>`
 Durchsucht Tenor oder Giphy (Abhängig davon, welchen Befehl du verwendet hast) nach gifs, welche deinem Suchbegriff entsprechen.
+
+### `/tts <Nachricht>`
+Verwendet Text-zu-Sprache um die Nachricht für alle, welche den Textkanal sehen und die "Text-zu-Sprache" Einstellung aktiv haben, vorzulesen.
+Du benötigst die "TTS-Nachrichten senden" Berechtigung im Server/Textkanal und musst die "Text-zu-Sprache" Option in deinen Einstellungen aktiviert haben, um diesen Befehl verwenden zu können.
 
 ### `/spoiler <Nachricht>`
 Setzt alles nach dem Befehl in Spoiler.  
