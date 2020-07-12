@@ -2,8 +2,9 @@
 title: Chat Commands
 description: Describes all chat commands available, even the non-obvious/non-documented ones
 published: true
-date: 2020-05-15T09:53:49.787Z
+date: 2020-07-12T20:13:40.504Z
 tags: 
+editor: markdown
 ---
 
 # Discord Chat Commands
@@ -48,7 +49,7 @@ Here is a list of all keyboard combinations and what they do:
 
 ## Slash Commands
 
-These slash commands are only available on the Desktop and iOS apps. Unfortunately, Android users don't have that luck.
+These slash commands are only available on the Desktop and iOS apps. Android users only have access to `/tableflip`, `/unflip` and `/shrug`.
 
 > **Note**:
 > `<Text>` is required and `[Text]` is optional.
