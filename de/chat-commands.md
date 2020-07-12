@@ -2,8 +2,9 @@
 title: Chat Befehle
 description: Beschreibt alle verfügbaren Chat Befehle, sogar die nicht offensichtlichen/nicht dokumentierten
 published: true
-date: 2020-03-16T17:59:35.144Z
+date: 2020-07-12T20:14:34.110Z
 tags: 
+editor: markdown
 ---
 
 # Discord Chat Befehle
@@ -47,7 +48,7 @@ Hier ist eine Liste der Tasten-Kombinationen und was sie tun:
 > Du musst Text markiert haben, um diese Tasten-Kombinationen zu verwenden.
 
 ## Slash Befehle
-Diese Befehle sind nur auf der Desktop und iOS App verfügbar. Unglücklicherweise haben Android-Nutzer kein solches Glück.
+Diese Befehle sind nur auf der Desktop und iOS App verfügbar. Android Benutzer haben nur Zugriff auf `/tableflip`, `/unflip` und `/shrug`.
 
 > **Hinweis**:  
 > `<Text>` wird benötigt, während `[Text]` optional ist.
