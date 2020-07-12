@@ -2,7 +2,7 @@
 title: Chat Commands
 description: Describes all chat commands available, even the non-obvious/non-documented ones
 published: true
-date: 2020-07-12T20:13:40.504Z
+date: 2020-07-12T20:24:03.383Z
 tags: 
 editor: markdown
 ---
@@ -78,8 +78,8 @@ You need "Change Nickname" permission on the Server.
 Searches through Tenor or Giphy (Depending on which command you used) for gifs matching the provided search query.
 
 ### `/tts <Message>`
-Uses text-to-speech to read the message to all members currently viewing the channel.
-You need "Send TTS Messages" permission on the Server/Channel.
+Uses text-to-speech to read the message to all members, which can view the channel and have the "Text-to-speech" setting active.
+You need "Send TTS Messages" permission on the Server/Channel and also need to have the "Text-to-speech" option in your setting enabled in order to use this command.
 
 ### `/spoiler <Message>`
 Puts the provided message in spoilers.  
