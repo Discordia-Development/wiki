@@ -2,7 +2,7 @@
 title: Verknüpfungen
 description: Verbinde dein Discord Dingens mit anderen Dingens
 published: true
-date: 2020-06-27T23:12:40.384Z
+date: 2020-07-14T22:48:49.620Z
 tags: 
 editor: markdown
 ---
@@ -11,7 +11,7 @@ editor: markdown
 Das Verknüpfungsmenu ist in den [Benutzereinstellungen](/user-settings) deines Discord Accounts.
 
 ## Verfügbare Verknüpfungen
-![Verknüfungen | Desktop App (Windows)](/uploads/connections/connections.png)
+![Verknüfungen | Desktop App (Windows)](/uploads/connections/connections_07-07-2020.png)
 
 Die verfügbaren Verknüpfungen enthalten:
 * [Twitch](https://twitch.tv)
@@ -23,6 +23,7 @@ Die verfügbaren Verknüpfungen enthalten:
 * [Twitter](https://twitter.com)
 * [Spotify](https://spotify.com)
 * [XBox](https://xbox.com)
+* [GitHub](https://github.com)
 
 ## Verknüpfungsmenu
 
