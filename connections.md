@@ -1,8 +1,8 @@
 ---
 title: Connections
-description: Connect your Discord thingy to your other thingies!
+description: Connect your Discord account to your other accounts!
 published: true
-date: 2020-07-14T19:40:56.042Z
+date: 2020-07-14T19:42:21.448Z
 tags: 
 editor: markdown
 ---
