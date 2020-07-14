@@ -2,7 +2,7 @@
 title: Connections
 description: Connect your Discord account to your other accounts!
 published: true
-date: 2020-07-14T19:42:21.448Z
+date: 2020-07-14T22:49:39.584Z
 tags: 
 editor: markdown
 ---
@@ -11,7 +11,7 @@ The Connections menu is found in the [User Settings](/user-settings) of your Dis
 
 ## Available Connections
 
-![Connections | Desktop App (Windows)](/uploads/connections/connections.png)
+![Connections | Desktop App (Windows)](/uploads/connections/connections_07-07-2020.png)
 
 The available connections include:
 * [Twitch](https://twitch.tv)
