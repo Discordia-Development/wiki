@@ -2,7 +2,7 @@
 title: Easter Eggs
 description: Eine Liste aller gefundenen Discord Easter Eggs
 published: true
-date: 2020-07-31T01:58:00.439Z
+date: 2020-07-31T01:58:58.701Z
 tags: 
 editor: markdown
 ---
@@ -17,7 +17,7 @@ Hast du ein Easterg Egg gefunden welches noch nicht gelisted ist? Lass es einem 
 > Die Discord Website wurde im Juli 2020 geändert und enthält die unten stehenden Easter Eggs nicht länger.
 {.is-info}
 
-Auf Discord's [Webseite](https://discordapp.com) hat es verschiedene Objekte, welche beim anklicken ein kleines (oftmals Mario relevantes) Item erscheinen lässt.
+Auf Discord's [Webseite](https://discord.com) hat es verschiedene Objekte, welche beim anklicken ein kleines (oftmals Mario relevantes) Item erscheinen lässt.
 
 Ein Beispiel von einem anklickbaren Objekt ist der Fragezeichen-Block am oberen Bereich der Webseite.
 Es gibt auch eine kleine chance, dass ein Wumpus (Das Maskotchen von Discord) aus dem Fragezeichen-Block erscheint anstelle eines Mario items.
@@ -25,7 +25,7 @@ Es gibt auch eine kleine chance, dass ein Wumpus (Das Maskotchen von Discord) au
 ![Knopf](/uploads/easter-eggs/newbutton.png "Ein Knopf auf Discord's Webseite welches ein Easter Egg zeigt")
 
 # Veränderter Klingelton
-Benutzer haben eine 0.1% chance beim starten von Discord, dass sie eine veränderte version des Anruf Klingelton bei entweder einem Gruppen oder Zwei Personen-Anruf erhalten. Wenn ein Benutzer diesen Klingelton erhält, spielt er für die ganze Länge anstatt auzuhören, wenn er den Anruf annimmt. Das Discord-Team sagt dass dies das seltenste Easter Egg sei. Du kannst den veränderten Klingelton [hier](https://canary.discordapp.com/assets/b9411af07f154a6fef543e7e442e4da9.mp3) hören.
+Benutzer haben eine 0.1% chance beim starten von Discord, dass sie eine veränderte version des Anruf Klingelton bei entweder einem Gruppen oder Zwei Personen-Anruf erhalten. Wenn ein Benutzer diesen Klingelton erhält, spielt er für die ganze Länge anstatt auzuhören, wenn er den Anruf annimmt. Das Discord-Team sagt dass dies das seltenste Easter Egg sei. Du kannst den veränderten Klingelton [hier](https://canary.discord.com/assets/b9411af07f154a6fef543e7e442e4da9.mp3) hören.
 
 # Geheime Tastenkombination
 Vom Tastenkombinations-Fenster aus kannst du eine geheime Tastenkombination eingeben welches eine Animation basierend auf den [Shun Goku Satsu](http://streetfighter.wikia.com/wiki/Shun_Goku_Satsu) angriff von Street Fighter abspielt.
@@ -37,7 +37,7 @@ Sobald das Fenster offen ist, schreibe den Befehl 'hh [Pfeil rechts] nk'. Das sc
 > Dieses Easter Egg wurde mit dem TAYNE Update eingefügt
 
 # Rate Limits Dokumentation
-Auf der [Discord API Rate Limit Dokumentation](https://discordapp.com/developers/docs/topics/rate-limits) ist ein [Doppelpunkt](/uploads/easter-eggs/colon.png) welcher wenn man auf in klickt [diese Webseite](http://takeb1nzyto.space) öffnet.
+Auf der [Discord API Rate Limit Dokumentation](https://discord.com/developers/docs/topics/rate-limits) ist ein [Doppelpunkt](/uploads/easter-eggs/colon.png) welcher wenn man auf in klickt [diese Webseite](http://takeb1nzyto.space) öffnet.
 
 Die Webseite ist eine witzige Animation erstellt von [Dougley](http://dougleyownsthisdomain.takeb1nzyto.space/). Dieses Easter Egg wurde durch Night, einem Discord Teammitglied, eingefügt.
 
@@ -49,10 +49,10 @@ Wenn du etwas [suchst](/search) und es keine Resultate gibt, kann Discord manchm
 ![Banane](/uploads/easter-eggs/banana.png "Banane")
 
 # Computer Man
-Das aufrufen von [printer.discordapp.com](https://printer.discordapp.com) leitet einen weiter zu einem [Video](https://www.youtube.com/watch?v=jeg_TJvkSjg) von einer alten kanadischen Show namens Vid Kids. [b1nzy](https://twitter.com/b1naryth1ef), ein Entwickler von Discord, war derjenige welches dieses Easter Egg eingefügt hat.
+Das aufrufen von [printer.discordapp.com](https://printer.discord.com) leitet einen weiter zu einem [Video](https://www.youtube.com/watch?v=jeg_TJvkSjg) von einer alten kanadischen Show namens Vid Kids. [b1nzy](https://twitter.com/b1naryth1ef), ein Entwickler von Discord, war derjenige welches dieses Easter Egg eingefügt hat.
 
 # Snek Spiel
-Wenn du versuchst eine Seite auzurufen, welche nicht existiert, so wie [diese hier](https://discordapp.com/TheDiscordWikisPartnership), wirst du zu einer 404 Seite weitergeleitet. Klicken des Knopfs auf der Konsole direkt neben Nelly dem Robo-Hamster startet ein Spiel ähnlich dem klassischen Spiel "Snake". Discord Entwickler [tcoil](https://twitter.com/t_coil) machte dieses Spiel.
+Wenn du versuchst eine Seite auzurufen, welche nicht existiert, so wie [diese hier](https://discord.com/TheDiscordWikisPartnership), wirst du zu einer 404 Seite weitergeleitet. Klicken des Knopfs auf der Konsole direkt neben Nelly dem Robo-Hamster startet ein Spiel ähnlich dem klassischen Spiel "Snake". Discord Entwickler [tcoil](https://twitter.com/t_coil) machte dieses Spiel.
 
 ![Konsolen Knopf](/uploads/easter-eggs/console-button.png "Konsolen Knopf")
 
@@ -62,7 +62,7 @@ Du kannst es durch erneutes, gleichmässiges klicken auf das "Home" icon deaktiv
 
 Der "Discodo" Sound kommt von dem [Update Video über das verbesserte Helle Design](https://youtube.com/watch?v=BJHZxqyfrqk?t=61).
 
-Du kannst den Sound [hier](https://canary.discordapp.com/assets/773745b4ebae9f47e802724ec33b8a3f.mp3) hören.
+Du kannst den Sound [hier](https://canary.discord.com/assets/773745b4ebae9f47e802724ec33b8a3f.mp3) hören.
 
 # Namen kopieren
 Wenn du auf deinen Namen in der unteren linken ecke klickst zeigt dieser "Copied!". Wenn du es mehrmals anklickst, wird es andere Dinge sagen. Hier ist eine progressive Liste.
