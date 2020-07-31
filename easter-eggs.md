@@ -2,7 +2,7 @@
 title: Easter Eggs
 description: List of discovered Discord Easter Eggs
 published: true
-date: 2020-07-31T01:45:36.163Z
+date: 2020-07-31T01:59:36.586Z
 tags: 
 editor: markdown
 ---
@@ -31,8 +31,10 @@ Users have a 0.1% chance upon startup of Discord that they will receive a remixe
 
 # Rate Limits Documentation Page
 On the [Discord API Rate Limits documentation page](https://discord.com/developers/docs/topics/rate-limits) there is a colon that when clicked opens [this website](http://takeb1nzyto.space). 
-![colon.png](/uploads/easter-eggs/colon.png)
+
 The website is a fun animation created by [Dougley](http://dougleyownsthisdomain.takeb1nzyto.space/). This easter egg was implemented by Night, a Discord staff member.
+
+![colon.png](/uploads/easter-eggs/colon.png "The collon to click for the Easter egg")
 
 # Empathy Banana
 When your [search](/search) leads to no results, Discord will sometimes display an "empathy banana" instead of the usual no results dialogue. This is completely random.
@@ -104,7 +106,7 @@ Hovering over the boost icon on a boost message will cause confetti to appear. T
 
 ![Boost Confetti](/uploads/easter-eggs/boost-confetti.gif)
 
-Hovering over the boost icon also has a small chance for an animated Wumpus to appear in any of the four corners of the chat window at random and throw out more confetti.
+Hovering over the boost icon multiple times quickly also has a small chance for an animated Wumpus to appear in any of the four corners of the chat window at random and throw out more confetti.
 
 # Softsoap
 Softsoap is a brand of soap, most primarily in the forms of hand soap and body wash, that was first created in 1980 by Robert R. Taylor, before being sold to the Colgate company seven years later.  Softsoap is often found in Discord's Game Night streams, though it also occasionally cameos in "new feature" videos. (for example, a bottle of *Pomegranate and Mango Infusions* Softsoap can be found in the background of [Discord's Nitro Brew Coffee April Fools video](https://www.youtube.com/watch?v=9Z4GW6Vd6NI))  The two most referenced bottles of Softsoap are *"Pomegranate and Mango Infusions Bodywash"* in 18 fl oz. quantity and *"Lavender & Chamomile Hand Soap"* in 7.5 fl oz quantity.
