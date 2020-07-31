@@ -2,8 +2,9 @@
 title: Easter Eggs
 description: List of discovered Discord Easter Eggs
 published: true
-date: 2020-05-15T11:24:24.367Z
+date: 2020-07-31T01:45:36.163Z
 tags: 
+editor: markdown
 ---
 
 An Easter Egg is an undocumented/secret feature in a piece of computer software that is usually included as a joke or for fun.
@@ -13,6 +14,10 @@ The following is a list of discovered easter eggs on Discord.
 Found an easter egg that isn't on this list? Let a Wiki Editor know! 
 
 # Discord Homepage
+> The Discord website got changed in July 2020 and no longer contains the below easter eggs.
+{.is-info}
+
+
 On Discord's website [homepage](https://discord.com) there are many objects that, when clicked, cause a small object (usually Mario related) to appear on the screen.
 
 One example of the clickable objects is the question box towards the top of the page.
