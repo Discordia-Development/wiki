@@ -2,7 +2,7 @@
 title: Discord Partner
 description: 
 published: true
-date: 2020-08-04T03:20:55.666Z
+date: 2020-08-04T03:49:12.723Z
 tags: 
 editor: markdown
 ---
@@ -28,6 +28,7 @@ editor: markdown
 * Animated server icon
 * Discord Partner badge for the server and server owner
 * Nitro for the server owner as long as they are partnered
+* Customizable vanity invite URL
 
 # Becoming a Discord Partner
 
