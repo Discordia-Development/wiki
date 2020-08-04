@@ -2,8 +2,9 @@
 title: Discord Partner
 description: 
 published: true
-date: 2020-04-06T20:49:55.138Z
+date: 2020-08-04T03:19:50.843Z
 tags: 
+editor: markdown
 ---
 
 <table style="width:250px; border:1px solid black; float:center">
@@ -23,25 +24,12 @@ tags:
 
 # Features
 **Discord Partners receive the following VIP features:**
-* Customizable vanity URL for their guild
-* Higher bit-rate VIP servers for voice channels within their server
-* Custom splash screen for their guild
-* Free Discord Partner hoodie
-* Free Discord Nitro
-* Displayable partner badge for their website, Twitch channel, etc
-* Access to the Discord Partners guild
-* Faster support
+* Server banner
+* Animated server icon
+* Discord Partner badge for the server and server owner
+* Nitro for the server owner as long as they are partnered
 
 # Becoming a Discord Partner
-To get a chance for Discord partnership, go to the [Discord Partnership page](http://discordapp.com/partners) and fill out the application.
 
-According to the Discord Partnership page, Discord looks for 'growing communities and content creators that show an authentic enthusiasm for Discord (which means you’re already using Discord for your community). We want to support communities that support us. Acceptance into the program is extremely qualitative and will vary from one candidate to the next.'
+As of August 3rd, 2020, the Discord Partner program was changed to reward more active servers than servers with a large following outside of Discord. Now, to be eligible for the Discord Partner program, a server must meet the Activity Requirements listed in the Partner Program section of Server Insights. Partnership is not automatic and users still have to fill out an application.
 
-**Specific communities that are usually accepted include:**
-* Reddits (8000+ subs)
-* Social Personalities (Large Facebook, Twitter, etc online personalities [10,000+ followers])
-* Content Creators/Streamers (Mixer, Twitch, etc [10,000+ followers])
-* Non-Profits (Requires a valid EIN number)
-* Large Communities (Large guilds or gaming groups)
-
-(Not all the values given are dead set, everything is based on who/what you are and do. Everyone has a chance, but these are the low-averages for a partner.)
