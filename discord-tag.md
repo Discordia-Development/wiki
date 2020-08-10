@@ -2,13 +2,13 @@
 title: Discord Tags
 description: Information about Discord tags
 published: true
-date: 2020-08-10T21:11:46.271Z
+date: 2020-08-10T21:12:14.405Z
 tags: 
 editor: markdown
 ---
 
 # Discord Tags
-A "Discord tag" is the combination of a username and their discriminator (a 4-digit number). The tag always appeas as `username#discriminator`.
+A "Discord tag" is the combination of a username and their discriminator (a 4-digit number). The tag always appears as `username#discriminator`.
 
 ## Discriminator
 The discriminator is used by Discord to distinguish multiple users that share the same name.
