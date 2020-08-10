@@ -2,18 +2,23 @@
 title: Discord Tags
 description: Information about Discord tags
 published: true
-date: 2020-05-15T10:05:19.004Z
+date: 2020-08-10T21:11:46.271Z
 tags: 
+editor: markdown
 ---
 
 # Discord Tags
-A "Discord tag", or sometimes referred to as a "discriminator", is a 4-digit number displayed next to someone's username on Discord, after a . Discord tags are how Discord differentiates between users with the same username.
+A "Discord tag" is the combination of a username and their discriminator (a 4-digit number). The tag always appeas as `username#discriminator`.
 
-Discord tags range from 0001 to 9999 and are randomly assigned. Accounts or renamed to, username that all Discord tag spots have been taken. In the latter case, Discord will return an error. If all discord tags for one same username is taken, no new accounts can be created with that username.
+## Discriminator
+The discriminator is used by Discord to distinguish multiple users that share the same name.
+Each user gets a random discriminator assigned that can range from 0001 up to 9999. The number 0000 is only used by webhooks and [Clyde](/clyde) respectively.
+
+When all discriminators for a specific username are taken can no new account with the same name be created.
 
 ![Username Change](/uploads/discriminator/usernamechange.png)
 
-## Changing your Discord Tag
-Changing Discord tag is possible by having a [Discord Nitro / Discord Nitro Classic](/nitro) subscription, or being a [Discord Partner](/partner). This allows one to set your Discord tag to any number between 0001 and 9999, provided it isn't already taken, and is limited to 5 changes per hour. If a user's Nitro subscription expires, their Discord tag will be randomly reset to a different number, but only if the advantage of the perk is taken.
+## Changing your Discriminator
+Changing your Discriminator is possible by having a [Discord Nitro / Discord Nitro Classic](/nitro) subscription, or being a [Discord Partner](/partner). This allows one to set your Discord tag to any number between 0001 and 9999, provided it isn't already taken, and is limited to 5 changes per hour. If a user's Nitro subscription expires, their Discriminator will be randomly reset to a different number, but only if the advantage of the perk is taken.
 
 ![Changing Discord Tags](/uploads/discriminator/tagchange.png)
