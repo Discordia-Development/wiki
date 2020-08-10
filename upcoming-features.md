@@ -2,7 +2,7 @@
 title: Upcoming Features
 description: A list of features in development for Discord.
 published: true
-date: 2020-06-28T02:54:31.910Z
+date: 2020-08-10T20:40:47.261Z
 tags: 
 editor: markdown
 ---
@@ -14,24 +14,22 @@ This is an occasionally updated list of upcoming features that will exist in the
 
 ## Desktop
 
-| Feature |	Status |
-|---------|---------|
-| Interactive UI API | Planned |
+| Feature             |	Status         |
+|---------------------|----------------|
+| Interactive UI API  | Planned        |
 | Keyboard Navigation | In Development |
-| Redesigned Integrations Tab | In Development |
 
 ## iOS
-| Feature | Status	|
-|---------|---------|
-| GIF Picker | In Development |
-| Krisp Noise Suppression | In Testing |
-| Screen Sharing | Planned |
+| Feature                 | Status         |
+|-------------------------|----------------|
+| GIF Picker              | In Development |
+| Krisp Noise Suppression | In Testing     |
+| Screen Sharing          | Planned        |
 
 ## Android
-| Feature | Status |
-|---------|--------|
+| Feature                 | Status     |
+|-------------------------|------------|
 | Krisp Noise Suppression | In Testing |
-| Screen Sharing | Planned |
-| Updated Emoji Picker | Available on Android Alpha |
+| Screen Sharing          | Planned    |
 
 > Disclaimer: These are unreleased features and therefore might change before they are released to Canary/Android Alpha/TestFlight users. They might not be released at all, and ETAs are usually not available.
