@@ -1,9 +1,10 @@
 ---
 title: Channel Categories
-description: A summary of Channel Categories
+description: A summary of channel categories.
 published: true
-date: 2020-01-22T09:17:13.689Z
+date: 2020-08-26T22:01:28.363Z
 tags: 
+editor: markdown
 ---
 
 # Channel Categories
@@ -19,7 +20,7 @@ Channel categories can be made either with the right-click context menu, or the 
 
 ---
 
-Just as voice channel names, channel category names support spaces and custom characters, such as default emotes. Channel categories also support their own permissions, but will only apply to inside channels if they are synced with the category. 
+Just like voice channels, channel category names support spaces and custom characters, such as default emotes. Channel categories also support their own permissions, but these only apply to channels if they are synced with the category. 
 
 #### Channel Permissions Unsynced with Category
 ![Unsynced Channel Permissions](https://github.com/DiscordiaWiki/wiki/blob/master/uploads/channel-categories/b-6-dd-3-jj-1.png?raw=true "Unsynced Channel Permissions") 
