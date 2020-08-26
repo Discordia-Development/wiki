@@ -2,13 +2,13 @@
 title: Home
 description: Welcome to The Discord Wiki!
 published: true
-date: 2020-07-06T23:16:17.031Z
+date: 2020-08-26T00:44:12.286Z
 tags: 
 editor: markdown
 ---
 
 # Welcome
-## About Us
+## About Uss
 
 We're The Discord Wiki. We're proud to be one of the leading providers of information about Discord to date, and we welcome you to our site! We started a server in 2017 after realizing that our resources could be used to help others learn about Discord. A year later, we are getting 6.8 million hits a month! We're ever expanding our information, so if you feel like you have the passion, the will, and the resolve required to write articles for us, check out the FAQs channel in our server and sign up to help contribute!
 
