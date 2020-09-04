@@ -2,8 +2,9 @@
 title: Badges
 description: Information about Discord's Various User Badges
 published: true
-date: 2020-05-07T16:42:07.609Z
+date: 2020-09-04T13:06:03.119Z
 tags: 
+editor: markdown
 ---
 
 Discord has different badges that distinguish a user as a member of specific groups. Badges display on a user's profile card. To access someone's profile card, click them and select **view profile** by hovering over their avatar. 
@@ -71,8 +72,9 @@ This is a limited run badge for anyone who *ever* had a Discord Nitro subscripti
 
 ![Nitro Early Supporter Badge](/uploads/badges/early_supporter_badge_profile.png "A Nitro Early Supporter Badge")
 
-# Verified Bot Developer <img src="/uploads/badges/verified_developer_badge.png" alt="Verified Developer Badge" width="21" height="21"/>
+# Early Verified Bot Developer <img src="/uploads/badges/verified_developer_badge.png" alt="Verified Developer Badge" width="21" height="21"/>
 This badge is received by having at least one bot verified by Discord.  
 Each bot that reaches over 75 simultanious guilds has a chance of getting verified.
+[https://github.com/discord/discord-api-docs/issues/1991](Not possible) to get it now. 
 
 ![verified Bot developer Badge](/uploads/badges/verified_developer_badge_profile.png "A verified Developer Badge")
