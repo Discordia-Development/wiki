@@ -2,7 +2,7 @@
 title: Badges
 description: Information about Discord's Various User Badges
 published: true
-date: 2020-09-07T16:13:13.667Z
+date: 2020-09-07T16:18:20.293Z
 tags: 
 editor: markdown
 ---
@@ -22,7 +22,7 @@ This badge is issued to all Discord Staff. The badge distinguishes users from st
 ![Discord Staff Profile](/uploads/badges/staff_badge_profile.png "A Staff Member's Badge")
 
 # Partnered Server Owner <img src="/uploads/badges/new_partner_badge.png" alt="Partnered Server Owner" width="21" height="21" />
-Since August 28th, 2020 can every Server owner that meets specific requirements apply for partnership with Discord.
+Since August 28th, 2020 can every Server owner that meets specific requirements apply for [partnership](/partners) with Discord.
 Partnering with Discord will unlock specific features on the Server and also unlock special perks for the Server owner such as this badge.
 
 ![Partnered Server Owner Badge](/uploads/badges/new_partner_badge_profile.png "A 'Partnered Server Owner' Badge")
