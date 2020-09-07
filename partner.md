@@ -2,7 +2,7 @@
 title: Discord Partner
 description: 
 published: true
-date: 2020-08-04T03:49:12.723Z
+date: 2020-09-07T16:21:22.307Z
 tags: 
 editor: markdown
 ---
@@ -33,4 +33,6 @@ editor: markdown
 # Becoming a Discord Partner
 
 As of [August 3rd, 2020](https://support.discord.com/hc/en-us/articles/115001494012), the Discord Partner program was changed to reward more active servers than servers with a large following outside of Discord. Now, to be eligible for the Discord Partner program, a server must meet the Activity Requirements listed in the Partner Program section of Server Insights. Partnership is not automatic and users still have to fill out an application.
+
+Partnership may also be removed at any time when the requirements, as described in the Server insight's Partner Programm section, are no longer met for an extended period of time.
 
