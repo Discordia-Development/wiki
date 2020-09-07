@@ -2,8 +2,9 @@
 title: Abzeichen
 description: Hier findest du all Abzeichen, welche du eventuell erhalten kannst
 published: true
-date: 2020-04-09T14:27:26.482Z
+date: 2020-09-07T16:18:22.273Z
 tags: 
+editor: markdown
 ---
 
 Discord hat verschiedene Abzeichen, welche einen Benutzer als ein Mitglied von verschiedenen Gruppen darstellt. Abzeichen werden auf dem Profil eines Benutzers angezeigt. Um das Profil von jemandem abzurufen, klicke auf Ihren namen und wähle **Profil anzeigen** wenn du über den Avatar fährst.
@@ -20,10 +21,16 @@ Dieses Abzeichen wird allen Teammitgliedern von Discord gegeben. Das Abzeichen u
 
 ![Discord Team Profil](/uploads/badges/staff_badge_profile.png "Das Abzeichen eines Teammitglieds")
 
-# Discord Partner <img src="/uploads/badges/partner_badge.png" alt="Discord Partner Abzeichen" width="21" height="21" />
-Discord [Partner](/partner) haben das Partner Abzeichen auf Ihrem Profil. Da die Partner-Perks nur an den Besitzer eines Partner-Servers gehen, kann nur der Besitzer eines solchen servers dieses Abzeichen erhalten.
+# Partnered Server Owner <img src="/uploads/badges/new_partner_badge.png" alt="Partnered Server Owner" width="21" height="21" />
+Seit dem 28. August 2020 kann jeder Serverbesitzer, welcher bestimmte Voraussetzungen efüllt, sich für das [Partnerprogramm](/partners) bewerben.
+Discord-Partner zu sein gibt spezielle funktionen auf dem Server und gibt dem Serverbesitzer bestimmte Perks.
 
-![Partner Profil](/uploads/badges/partner_badge_profile.png "Das Abzeichen eines Discord Partners")
+![Partnered Server Owner Badge](/uploads/badges/new_partner_badge_profile.png "Ein 'Partnered Server Owner' Abzeichen")
+
+## Discord Partner <img src="/uploads/badges/partner_badge.png" alt="Discord Partner Abzeichen" width="19" height="19" />
+Dieses Abzeichen wird nicht mehr angezeigt und wurde am 28. August 2020 durch das obige Abzeichen ersetzt.
+
+![Partner Profil](/uploads/badges/partner_badge_profile.png "Das alte 'Discord Partner' Abzeichen")
 
 # Discord HypeSquad <img src="/uploads/badges/hypesquad_badge.png" alt="HypeSquad Abzeichen" width="21" height="21" />
 Discord [HypeSquad](/hypesquad) Eventteilnehmer und -planer haben das HypeSquad Event Abzeichen auf Ihrem Profil. Nur Benutzer, welche Discord Eventplaner/-teilnehmer sind können dieses Abzeichen erhalten.
@@ -69,8 +76,10 @@ Dies ist ein limitiertes Abzeichen für alle, welche *jemals* ein Discord Nitro 
 
 ![Supporter der ersten Stunde Profil](/uploads/badges/early_supporter_badge_profile.png "Das 'Supporter der ersten Stunde' Abzeichen")
 
-# Verifizierter Bot Entwickler <img src="/uploads/badges/verified_developer_badge.png" alt="Verifizierter Bot Entwickler Abzeichen" width="21" height="21" />
-Dieses Abzeichen erhält man, wenn man einen verifizierten/bestätigten Bot besitzt.  
-Jeder Bot, welcher auf mehr als 100 Gilden gleichzeitig ist, hat eine Möglichkeit, verifiziert zu werden.
+# Early verified Bot Developer <img src="/uploads/badges/verified_developer_badge.png" alt="Früher verifizierter Bot Entwickler Abzeichen" width="21" height="21" />
+Dieses Abzeichen erhielt man, wenn man einen Bot besitzt, welcher von Discord verifiziert wurde.
+Jede Bot, welcher auf mehr als 75 Gilden ist, hat eine Möglichkeit, verifiziert zu werden.
 
-![Verifizierter Bot Entwickler Profil](/uploads/badges/verified_developer_badge_profile.png "Das 'Verifizierter Bot Entwickler' Abzeichen")
+Seit dem 9. August 2020 ist es [nicht mehr möglich](https://github.com/discord/discord-api-docs/issues/1991) dieses Abzeichen zu erhalten. Das Abzeichen wurde ausserdem auch umbenannt zu "Early verified Bot Developer".
+
+![Early verified Bot Developer Profil](/uploads/badges/verified_developer_badge_profile.png "Das 'Early verified Bot Developer' Abzeichen")
