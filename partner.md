@@ -2,20 +2,22 @@
 title: Discord Partner
 description: 
 published: true
-date: 2020-09-07T16:21:22.307Z
+date: 2020-09-07T16:36:08.701Z
 tags: 
 editor: markdown
 ---
 
-<table style="width:250px; border:1px solid black; float:center">
-<tr>
-<td colspan="2" style="background-color:#4087ED; text-align:center">Discord Partner</td>
-</tr>
-<tr>
-<td colspan="2" style="text-align:center"><img src="https://github.com/DiscordiaWiki/wiki/blob/master/uploads/icons/partner.png?raw=true" alt="Partner" width="146" height="146"/>
-</tr>
-<tr>
-</tr>
+<table style="border:1px solid black; float:center">
+  <tr>
+    <td colspan="2" style="background-color:#4087ED; text-align:center">Discord Partner
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align:center"><img src="/uploads/badges/new_partner_badge.png" alt="Partner" width="146" height="146"/>
+    </td>
+  </tr>
+  <tr>
+  </tr>
 <tr>
 <td>Requirement:</td>
 <td>Membership in the Discord  <a href="https://discordia.me/partner">Partner</a> program</td>
@@ -24,11 +26,11 @@ editor: markdown
 
 # Features
 **Discord Partners receive the following VIP features:**
-* Server banner
-* Animated server icon
-* Discord Partner badge for the server and server owner
-* Nitro for the server owner as long as they are partnered
-* Customizable vanity invite URL
+- Server banner
+- Animated server icon
+- Discord Partner badge for the server and server owner
+- Nitro for the server owner as long as they are partnered
+- Customizable vanity invite URL for the partnered Server
 
 # Becoming a Discord Partner
 
