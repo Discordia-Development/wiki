@@ -2,7 +2,7 @@
 title: Badges
 description: Information about Discord's Various User Badges
 published: true
-date: 2020-09-04T13:06:03.119Z
+date: 2020-09-07T15:50:20.419Z
 tags: 
 editor: markdown
 ---
@@ -72,9 +72,10 @@ This is a limited run badge for anyone who *ever* had a Discord Nitro subscripti
 
 ![Nitro Early Supporter Badge](/uploads/badges/early_supporter_badge_profile.png "A Nitro Early Supporter Badge")
 
-# Early Verified Bot Developer <img src="/uploads/badges/verified_developer_badge.png" alt="Verified Developer Badge" width="21" height="21"/>
-This badge is received by having at least one bot verified by Discord.  
+# Early Verified Bot Developer <img src="/uploads/badges/verified_developer_badge.png" alt="Early Verified Developer Badge" width="21" height="21"/>
+This badge was received by having at least one bot verified by Discord.  
 Each bot that reaches over 75 simultanious guilds has a chance of getting verified.
-[https://github.com/discord/discord-api-docs/issues/1991](Not possible) to get it now. 
 
-![verified Bot developer Badge](/uploads/badges/verified_developer_badge_profile.png "A verified Developer Badge")
+Since August 19, 2020 is it [no longer possible](https://github.com/discord/discord-api-docs/issues/1991) to earn this badge by getting your bot verified and it was renamed from "Verified Bot Developer" to "Early Verified Bot Developer".
+
+![verified Bot developer Badge](/uploads/badges/verified_developer_badge_profile.png "A Early verified Developer Badge")
