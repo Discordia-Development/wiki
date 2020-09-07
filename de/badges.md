@@ -2,7 +2,7 @@
 title: Abzeichen
 description: Hier findest du all Abzeichen, welche du eventuell erhalten kannst
 published: true
-date: 2020-09-07T16:18:22.273Z
+date: 2020-09-07T16:19:43.927Z
 tags: 
 editor: markdown
 ---
@@ -22,7 +22,7 @@ Dieses Abzeichen wird allen Teammitgliedern von Discord gegeben. Das Abzeichen u
 ![Discord Team Profil](/uploads/badges/staff_badge_profile.png "Das Abzeichen eines Teammitglieds")
 
 # Partnered Server Owner <img src="/uploads/badges/new_partner_badge.png" alt="Partnered Server Owner" width="21" height="21" />
-Seit dem 28. August 2020 kann jeder Serverbesitzer, welcher bestimmte Voraussetzungen efüllt, sich für das [Partnerprogramm](/partners) bewerben.
+Seit dem 28. August 2020 kann jeder Serverbesitzer, welcher bestimmte Voraussetzungen efüllt, sich für das [Partnerprogramm](/partner) bewerben.
 Discord-Partner zu sein gibt spezielle funktionen auf dem Server und gibt dem Serverbesitzer bestimmte Perks.
 
 ![Partnered Server Owner Badge](/uploads/badges/new_partner_badge_profile.png "Ein 'Partnered Server Owner' Abzeichen")
