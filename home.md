@@ -2,7 +2,7 @@
 title: Home
 description: Welcome to The Discord Wiki!
 published: true
-date: 2020-09-20T19:55:32.137Z
+date: 2020-09-20T19:57:03.048Z
 tags: 
 editor: markdown
 dateCreated: 2019-12-31T05:18:44.042Z
@@ -14,8 +14,6 @@ dateCreated: 2019-12-31T05:18:44.042Z
 We're The Discord Wiki. We're proud to be one of the leading providers of information about Discord to date, and we welcome you to our site! We started a server in 2017 after realizing that our resources could be used to help others learn about Discord.
 
 [Join us on Discord!](https://discord.gg/ZRJ9Ghh)
-
-`<iframe src="https://discord.com/widget?id=367460196148183040&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>`
 
 ## Disclaimers and Legal Information
 **The Discord Wiki is not affiliated with Discord.** We're just here to help Discord users discover information about the platform. We're strong believers in transparency, so before you jump in, please take a look at our [Terms of Service](/meta/terms) and our [Privacy Policy](/meta/privacy) in order for you to know all the legal stuff you need to know regarding our services.
