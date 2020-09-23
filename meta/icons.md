@@ -2,7 +2,7 @@
 title: Icons
 description: Page listing icons to be used around the Wiki to represent different things.
 published: true
-date: 2020-09-23T22:15:30.431Z
+date: 2020-09-23T22:15:56.906Z
 tags: 
 editor: markdown
 dateCreated: 2020-01-22T09:18:27.460Z
@@ -40,7 +40,7 @@ dateCreated: 2020-01-22T09:18:27.460Z
 * HypeSquad Balance | King of the Hat - <img src="/uploads/icons/koth-balance.png" alt="koth-balance" width="36" height="36"/> `<img src="/uploads/icons/koth-balance.png" alt="koth-balance" width="36" height="36"/>`
 * HypeSquad Balance | Snowsgiving - <img src="/uploads/icons/snowsgiving-balance.png" alt="snowsgiving-balance" width="36" height="36"/> `<img src="/uploads/icons/snowsgiving-balance.png" alt="snowsgiving-balance" width="36" height="36"/>`
 * Bug Hunter - <img src="/uploads/icons/bug-hunter.png" alt="bug-hunter" width="36" height="36"/> `<img src="/uploads/icons/bug-hunter.png" alt="bug-hunter" width="36" height="36"/>`
-* Nitro - <img src="/uploads/icons/icons/nitro.png" alt="nitro" width="36" height="36"/> `<img src="/uploads/icons/nitro.png" alt="nitro" width="36" height="36"/> `
+* Nitro - <img src="/uploads/icons/nitro.png" alt="nitro" width="36" height="36"/> `<img src="/uploads/icons/nitro.png" alt="nitro" width="36" height="36"/> `
 * Early Supporter - <img src="/uploads/icons/early-supporter.png" alt="early-supporter" width="36" height="36"/> `<img src="/uploads/icons/early-supporter.png" alt="early-supporter" width="36" height="36"/>`
 
 ## UI
