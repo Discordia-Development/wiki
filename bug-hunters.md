@@ -2,7 +2,7 @@
 title: Bug Hunters
 description: Helping Discord Developers manage Bug Reports and fix Bugs
 published: true
-date: 2020-09-23T21:41:54.857Z
+date: 2020-09-23T21:43:56.554Z
 tags: 
 editor: markdown
 dateCreated: 2020-01-09T04:56:27.542Z
@@ -53,6 +53,10 @@ The same goes for when you **can't** reproduce a bug but this time is the comman
 ## What do I get?
 The Discord Testers Server has multiple "tiers". You can unlock a tier when meeting the right reqiuirements for it.
 
+> Note that any mention of `X*` means that the actual amount of approved Bug Reports for this tier is undisclosed.
+{.is-info}
+
+## Tabs {.tabset}
 ### Tier 1: @everyone
 Everyone joining Discord Testers has this tier.
 It doesn't have any benefits but actual limits such as only having access to specific channels.
@@ -85,6 +89,3 @@ You get access to Discord Focus Tests and also the [Bug Hunter Badge](/badges#di
 - Bug Tracker Rank
 
 You receive the [Golden Bug Hunter Badge](/badges) and a possible chance of becoming a Junior Moderator.
-
-> *The actual amount of approved Bug Reports required per Tier is undisclosed
-{.is-info}
