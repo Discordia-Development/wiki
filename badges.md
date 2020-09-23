@@ -2,9 +2,10 @@
 title: Badges
 description: Information about Discord's Various User Badges
 published: true
-date: 2020-09-07T16:19:34.194Z
+date: 2020-09-23T20:53:10.456Z
 tags: 
 editor: markdown
+dateCreated: 2020-01-09T04:54:05.986Z
 ---
 
 Discord has different badges that distinguish a user as a member of specific groups. Badges display on a user's profile card. To access someone's profile card, click them and select **view profile** by hovering over their avatar. 
@@ -39,15 +40,16 @@ Discord [HypeSquad](/hypesquad) Event Attendees and Event Coordinators have the 
 
 You can receive any of the HypeSquad House badges by taking the HypeSquad quiz in the [Discord settings](https://discordapp.com/settings/hypesquad-online). If you want to join Bravery, answer using the first option for all questions. If you want to join Brilliance, use the second option for all questions, and for Balance, use the third option. If you want to be randomly assigned to a house, use the last option for all questions.
 
-## HypeSquad Bravery  <img src="/uploads/badges/bravery_badge.png" alt="HypeSquad Bravery Badge" width="19" height="19"/>
+## tabs {.tabset}
+### HypeSquad Bravery  <img src="/uploads/badges/bravery_badge.png" alt="HypeSquad Bravery Badge" width="15" height="15"/>
 
 ![HypeSquad Bravery Badge](/uploads/badges/bravery_badge_profile.png "HypeSquad Bravery Badge")
 
-## HypeSquad Brilliance <img src="/uploads/badges/brilliance_badge.png" alt="HypeSquad Brilliance Badge" width="19" height="19"/>
+### HypeSquad Brilliance <img src="/uploads/badges/brilliance_badge.png" alt="HypeSquad Brilliance Badge" width="15" height="15"/>
 
 ![HypeSquad Brilliance Badge](/uploads/badges/brilliance_badge_profile.png "HypeSquad Brilliance Badge")
 
-## HypeSquad Balance <img src="/uploads/badges/balance_badge.png" alt="HypeSquad Balance Badge" width="19" height="19"/>
+### HypeSquad Balance <img src="/uploads/badges/balance_badge.png" alt="HypeSquad Balance Badge" width="15" height="15"/>
 
 ![balance_badge_profile.png](/uploads/badges/balance_badge_profile.png "HypeSquad Balance Badge")
 
