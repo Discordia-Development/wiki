@@ -1,34 +1,39 @@
-<!-- TITLE: [DE] Partner -->
+---
+title: Discord Partner
+description: 
+published: true
+date: 2020-09-23T20:49:27.549Z
+tags: 
+editor: markdown
+dateCreated: 2020-09-23T20:49:27.549Z
+---
 
-Ein Discord Partner ist jemand der eine große Community hat und sich bei Discord bewirbt und als Partner akzeptiert wird. Er erhält VIP Austattungen für sich und seinen Server. 
+<table style="border:1px solid black; float:center">
+  <tr>
+    <td colspan="2" style="background-color:#4087ED; text-align:center">Discord Partner
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align:center"><img src="/uploads/badges/new_partner_badge.png" alt="Partner" width="146" height="146"/>
+    </td>
+  </tr>
+  <tr>
+  </tr>
+<tr>
+<td>Vorraussetzung:</td>
+<td>Mitglied im Discord  <a href="https://discordia.me/partner">Partner</a> Programm</td>
+</tr>
+</table> 
 
-![Partnerlogo](/uploads/partner/partnerlogo.png "Partnerlogo")
+# Features
+**Discord Partner erhalten die folgenden VIP Features:**
+- Server Banner
+- Animiertes Server Icon
+- Discord Partner Badge für den Server und Serverbesitzer
+- Nitro für den Serverbesitzer solange diese ein Partner ist
+- Benutzerdefinierte Spezial-Einladungs URL für den gepartnerten Server
 
-*Discord Partner Logo*
+# Ein Discord Partner werden
+Seit dem [3. August 2020](https://support.discord.com/hc/en-us/articles/115001494012) hat sich das Partnerprogramm geändert um mehr aktive Server als Server mit grossen Follower-Zahlen ausserhalb Discords zu belohnen. Um nun eine Möglichkeit zu haben ein Discord Partner zu werden, muss der Server vorraussetzungen, welche im Partner Programm Bereich der Servereinblicke zu finden ist, erfüllen. Das Partner Programm ist nicht automatisiert und Benutzer müssen nachwievor ein Formular ausfüllen.
 
-# Besonderheiten
-**Discord Partner bekommen diese Austattungen:**
-* Eine eigene URL für den Discord Server
-* VIP Servers für die eigene Gilde; (Höhere Bitrate in den Voice Channels)
-* Benutzerdefinertes Bild für den Einladungslink;
-* Kostenloser Discord Partner Hoodie; (Für den Server Inhaber)
-* Kostenloses Discord Nitro Abonnement; (Für den Server Inhaber)
-* Partner Abzeichen für die eigene Webseite, Twitch-Channel etc.;
-* Zugriff auf den Discord Partner Server mit super schnellem Support und die Möglichkeiten mit anderen Partnern zusammen zu arbeiten.
-
-![Njjbheg](/uploads/partner/njjbheg.png "Njjbheg")
-
-# Discord Partner werden
-Um die Chance zu kriegen ein Discord Partner zu werden, gehe auf die [Discord Partner Seite](http://discordapp.com/partners) und fülle das Formular aus.
-
-Laut der Webseite, Discord sucht nach "Gemeinschaften die wachsen und Personen, die Inhalte schaffen z.B. auf YouTube, Twitch etc. und Enthusiasmus für Discord zeigen (was bedeutet dass du bereits Discord für deine Community benutzt). Wir wollen Gemeinschaften fördern, die uns fördern. Ob man im Programm aufgenommen wird, unterscheidet sich von Person zu Person, da die Qualität extrem wichtig ist. 
-
-**Konkrete Gemeinschaften die meistens akzeptiert werden, beinhalten:**
-* Reddit (8000+ Abos)
-* Einflussreiche Persöhnlichkeiten (Facebook, Twitter, etc Online Persönlichkeiten [10,000+ Follower])
-* Content Creators/Streamer (Beam, Twitch, YouTube, Player.me, etc)
-* Gemeinnützige Gemeinschaften (werden zu 100% akzeptiert wenn du eine EID vorzeigen kannst)
-* Große Gemeinschaften (Große Gilden oder Gaming Gruppen)
-
-(Nicht alle angegebenen Werte sind fest bestimmt. Alles basiert auf die Qualität deiner Gemeinschaft, wer du bist und was du machst/machen möchtest. Jeder hat eine Chance, aber die genannten Werte sind Mittelwerte für einen Partner.
-*Twitch Partner und registrierte gemeinnützige Organisationen sind garantiert Discord Partner.*
+Die Partnerschaft kann auch zu jeder Zeit wieder entfernt werden, wenn die Vorraussetzungen - wie beschrieben im Partner Programm Bereich der Servereinblicke - für eine längere Zeit nicht mehr erfüllt sind.
