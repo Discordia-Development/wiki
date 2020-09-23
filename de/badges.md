@@ -2,9 +2,10 @@
 title: Abzeichen
 description: Hier findest du all Abzeichen, welche du eventuell erhalten kannst
 published: true
-date: 2020-09-07T16:19:43.927Z
+date: 2020-09-23T20:59:31.023Z
 tags: 
 editor: markdown
+dateCreated: 2020-04-09T14:27:26.482Z
 ---
 
 Discord hat verschiedene Abzeichen, welche einen Benutzer als ein Mitglied von verschiedenen Gruppen darstellt. Abzeichen werden auf dem Profil eines Benutzers angezeigt. Um das Profil von jemandem abzurufen, klicke auf Ihren namen und wähle **Profil anzeigen** wenn du über den Avatar fährst.
@@ -27,7 +28,7 @@ Discord-Partner zu sein gibt spezielle funktionen auf dem Server und gibt dem Se
 
 ![Partnered Server Owner Badge](/uploads/badges/new_partner_badge_profile.png "Ein 'Partnered Server Owner' Abzeichen")
 
-## Discord Partner <img src="/uploads/badges/partner_badge.png" alt="Discord Partner Abzeichen" width="19" height="19" />
+## Discord Partner (Alt) <img src="/uploads/badges/partner_badge.png" alt="Discord Partner Abzeichen" width="19" height="19" />
 Dieses Abzeichen wird nicht mehr angezeigt und wurde am 28. August 2020 durch das obige Abzeichen ersetzt.
 
 ![Partner Profil](/uploads/badges/partner_badge_profile.png "Das alte 'Discord Partner' Abzeichen")
@@ -37,18 +38,24 @@ Discord [HypeSquad](/hypesquad) Eventteilnehmer und -planer haben das HypeSquad 
 
 ![HypeSquad Profil](/uploads/badges/hypesquad_badge_profile.png "Das Abzeichen eines Eventplaners/-teilnehmers")
 
-## HypeSquad Bravery <img src="/uploads/badges/bravery_badge.png" alt="HypeSquad Bravery Abzeichen" width="19" height="19" />
+## HypeSquad Häuser
+
+## Tabs {.tabset}
+### HypeSquad Bravery <img src="/uploads/badges/bravery_badge.png" alt="HypeSquad Bravery Abzeichen" width="15" height="15" />
 
 ![HypeSquad Bravery Profil](/uploads/badges/bravery_badge_profile.png "Das Abzeichen eines HypeSquad Bravery Mitglieds")
 
-## HypeSquad Brilliance <img src="/uploads/badges/brilliance_badge.png" alt="HypeSquad Brilliance Abzeichen" width="19" height="19" />
+### HypeSquad Brilliance <img src="/uploads/badges/brilliance_badge.png" alt="HypeSquad Brilliance Abzeichen" width="15" height="15" />
 
 ![HypeSquad Brilliance Profil](/uploads/badges/brilliance_badge_profile.png "Das Abzeichen eines HypeSquad Brilliance Mitglieds")
 
-## HypeSquad Balance <img src="/uploads/badges/balance_badge.png" alt="HypeSquad Balance Abzeichen" width="19" height="19" />
+### HypeSquad Balance <img src="/uploads/badges/balance_badge.png" alt="HypeSquad Balance Abzeichen" width="15" height="15" />
 
 ![HypeSquad Balance Profil](/uploads/badges/balance_badge_profile.png "Das Abzeichen eines HypeSquad Balance Mitglieds")
 
+## Spezielle HypeSquad Abzeichen
+
+## Tabs {.tabset}
 ### Goldenes HypeSquad Balance <img src="/uploads/badges/balance_gold_badge.png" alt="Goldenes HypeSquad Balance Abzeichen" width="15" height="15" />
 
 Das goldene Balance Abzeichen wurde allen HypeSquad Balance Mitgliedern als teil von Discord's Wohltätigkeitsprogramm Snowsgiving verliehen. Balance wurde das Abzeichen verliehen, da diese die höchste Summe an Spendengeldern erziehlten. Das Abzeichen blieb golden bis zum 3. Februar 2019. Das Abzeichen war auch das einzige animierte, mit einem Schimmer alle paar Sekunden.
