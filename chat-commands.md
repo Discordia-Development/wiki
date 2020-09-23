@@ -2,7 +2,7 @@
 title: Chat Commands
 description: Lists all the chat commands available, even the non-obvious/non-documented ones.
 published: true
-date: 2020-09-20T11:47:45.676Z
+date: 2020-09-23T23:44:27.607Z
 tags: 
 editor: markdown
 dateCreated: 2020-01-09T05:19:49.964Z
@@ -41,9 +41,9 @@ But you can get the unicode emoji of `:poop:` by prefixing it with a `\`. That w
 ### Text formatting
 Discord added multiple keyboard combinations, which allow you to format your message, similar to a Text-Editor.  
 Here is a list of all keyboard combinations and what they do:
-- `Ctrl + B`: **Bold**
-- `Ctrl + I`: *Italic*
-- `Ctrl + U`: <u>Underlined</u>
+- <kbd>Ctrl</kbd> + <kbd>B</kbd>: **Bold**
+- <kbd>Ctrl</kbd> + <kbd>I</kbd>: *Italic*
+- <kbd>Ctrl</kbd> + <kbd>U</kbd>: <u>Underlined</u>
 
 > **Important!**  
 > You need to highlight text in order to use the above keyboard combinations.
