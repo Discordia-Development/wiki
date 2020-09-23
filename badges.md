@@ -2,7 +2,7 @@
 title: Badges
 description: Information about Discord's Various User Badges
 published: true
-date: 2020-09-23T20:53:10.456Z
+date: 2020-09-23T20:55:29.326Z
 tags: 
 editor: markdown
 dateCreated: 2020-01-09T04:54:05.986Z
@@ -28,7 +28,7 @@ Partnering with Discord will unlock specific features on the Server and also unl
 
 ![Partnered Server Owner Badge](/uploads/badges/new_partner_badge_profile.png "A 'Partnered Server Owner' Badge")
 
-## Discord Partner <img src="/uploads/badges/partner_badge.png" alt="Discord Partner Badge" width="19" height="19"/>
+## Discord Partner (Old) <img src="/uploads/badges/partner_badge.png" alt="Discord Partner Badge" width="19" height="19"/>
 This badge is no longer displayed and was replaced with the above on August 28th, 2020.
 
 ![Discord Partner Badge](/uploads/badges/partner_badge_profile.png "A Discord Partner Badge")
@@ -39,6 +39,8 @@ Discord [HypeSquad](/hypesquad) Event Attendees and Event Coordinators have the 
 ![HypeSquad Badge](/uploads/badges/hypesquad_badge_profile.png "A HypeSquad Event Member's Badge")
 
 You can receive any of the HypeSquad House badges by taking the HypeSquad quiz in the [Discord settings](https://discordapp.com/settings/hypesquad-online). If you want to join Bravery, answer using the first option for all questions. If you want to join Brilliance, use the second option for all questions, and for Balance, use the third option. If you want to be randomly assigned to a house, use the last option for all questions.
+
+## HypeSquad Houses
 
 ## tabs {.tabset}
 ### HypeSquad Bravery  <img src="/uploads/badges/bravery_badge.png" alt="HypeSquad Bravery Badge" width="15" height="15"/>
@@ -53,6 +55,9 @@ You can receive any of the HypeSquad House badges by taking the HypeSquad quiz i
 
 ![balance_badge_profile.png](/uploads/badges/balance_badge_profile.png "HypeSquad Balance Badge")
 
+## Special HypeSuad Badges
+
+## Tabs {.tabset}
 ### Gold HypeSquad Balance <img src="/uploads/badges/balance_gold_badge.png" alt="Gold Balance Badge" width="15" height="15"/>
 
 The Gold HypeSquad Balance badge was awarded to all HypeSquad Balance members as part of Discord's charity program Snowsgiving. Balance was awarded the golden badge due to them achieving the highest amount of donation money raised. The Balance badge stayed golden until February 3rd, 2019. The badge has also been the only animated badge, with it having a shine every few seconds.
