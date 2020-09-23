@@ -2,8 +2,10 @@
 title: Discord Support
 description: Discord Official Support and Community Support Servers
 published: true
-date: 2020-05-15T10:02:34.768Z
+date: 2020-09-23T20:36:50.464Z
 tags: 
+editor: markdown
+dateCreated: 2020-01-09T05:07:12.998Z
 ---
 
 # Official
@@ -29,7 +31,7 @@ tags:
 
 ## Servers 
 * [Discord Testers](http://discord.gg/discord-testers)
-* [Discord Events](http://discord.gg/discord-events)
+* [Discord Townhall](http://discord.gg/discord-townhall) (Formerly Discord Events)
 * [Discord Developers](https://discord.gg/discord-developers) *(formerly Discord Game SDK Help)*
 
 ### Archived Servers
