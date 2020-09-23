@@ -2,7 +2,7 @@
 title: Icons
 description: Page listing icons to be used around the Wiki to represent different things.
 published: true
-date: 2020-09-23T22:14:22.814Z
+date: 2020-09-23T22:15:30.431Z
 tags: 
 editor: markdown
 dateCreated: 2020-01-22T09:18:27.460Z
