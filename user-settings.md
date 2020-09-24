@@ -2,8 +2,10 @@
 title: User Settings
 description: Make Discord just the way you want it!
 published: true
-date: 2020-01-22T09:18:16.674Z
+date: 2020-09-24T18:41:23.756Z
 tags: 
+editor: markdown
+dateCreated: 2020-01-09T05:41:50.408Z
 ---
 
 The following settings are available to Discord users. *Note: Some of these settings may not be available on the [web](/web) or [mobile](/mobile) applications.*
@@ -16,7 +18,7 @@ You may change your online status by clicking on your profile picture on the use
 * Invisible - Displays you as offline to everyone else but you still receive desktop notifications and have full access to Discord. <img src="https://raw.githubusercontent.com/DiscordiaWiki/wiki/master/uploads/icons/offline.png" alt="offline" width="18" height="18"/> on your own screen, no dot on other users' screens (since you’re displayed as offline).
 * Custom Status - Allows you to set or change a custom message for other users to read as well as an emoji.
 
-To access the main settings, click the cog icon <img src="https://raw.githubusercontent.com/DiscordiaWiki/wiki/master/uploads/icons/settings.png" alt="settings" width="25" height="25"/> on the bottom left of the application.
+To access the main settings, click the cog icon (i.e. ![settings](/uploads/icons/settings.png =24x)) on the bottom left of the application.
 
 Each option is divided into a section below.
 # Tabs
