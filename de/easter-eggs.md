@@ -2,9 +2,10 @@
 title: Easter Eggs
 description: Eine Liste aller gefundenen Discord Easter Eggs
 published: true
-date: 2020-07-31T01:58:58.701Z
+date: 2020-10-02T19:50:22.935Z
 tags: 
 editor: markdown
+dateCreated: 2020-01-22T08:59:41.026Z
 ---
 
 Ein Easter Egg ist ein nicht dokumentiertes/geheimes Feature in Computersoftware welches oftmals als Witz oder aus Spass eingefügt worden ist.
@@ -47,6 +48,11 @@ Die Webseite ist eine witzige Animation erstellt von [Dougley](http://dougleyown
 Wenn du etwas [suchst](/search) und es keine Resultate gibt, kann Discord manchmal eine "Empatie Banane" anzeigen anstelle des normalen Keine Resultate Dialogs. Das ist komplett zufällig.
 
 ![Banane](/uploads/easter-eggs/banana.png "Banane")
+
+## Zerbrochene Lupe
+Ähnlich zur Empatie Banane gibt es eine (vergleichsweise grössere) Chance, eine zerbrochene Lupe zu erhalten.
+
+![Zerbrochene Lupe](/uploads/easter-eggs/magnifying-glass.png "Oh nein! Du hast es kaputt gemacht!")
 
 # Computer Man
 Das aufrufen von [printer.discordapp.com](https://printer.discord.com) leitet einen weiter zu einem [Video](https://www.youtube.com/watch?v=jeg_TJvkSjg) von einer alten kanadischen Show namens Vid Kids. [b1nzy](https://twitter.com/b1naryth1ef), ein Entwickler von Discord, war derjenige welches dieses Easter Egg eingefügt hat.
