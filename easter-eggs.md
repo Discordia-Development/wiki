@@ -2,7 +2,7 @@
 title: Easter Eggs
 description: List of discovered Discord Easter Eggs
 published: true
-date: 2020-10-02T19:43:55.574Z
+date: 2020-10-02T19:46:48.571Z
 tags: 
 editor: markdown
 dateCreated: 2020-01-09T05:10:50.550Z
@@ -41,6 +41,11 @@ The website is a fun animation created by [Dougley](http://dougleyownsthisdomain
 When your [search](/search) leads to no results, Discord will sometimes display an "empathy banana" instead of the usual no results dialogue. This is completely random.
 
 ![Banana](/uploads/easter-eggs/banana.png)
+
+## Broken magnifying glass
+Alongside the Empathy Banana is there a (comparably larger) chance to get a broken magnifying glass.
+
+![magnifying-glass.png](/uploads/easter-eggs/magnifying-glass.png "Oh no! You broke it!")
 
 # Computer Man
 Visiting [printer.discord.com](https://printer.discord.com) will redirect you to a [video clip](https://www.youtube.com/watch?v=jeg_TJvkSjg) from an old Canadian show called Vid Kids. [b1nzy](https://twitter.com/b1naryth1ef), a Discord Developer was the one to implement this easter-egg. 
