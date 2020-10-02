@@ -2,7 +2,7 @@
 title: Easter Eggs
 description: List of discovered Discord Easter Eggs
 published: true
-date: 2020-10-02T19:46:48.571Z
+date: 2020-10-02T19:48:46.302Z
 tags: 
 editor: markdown
 dateCreated: 2020-01-09T05:10:50.550Z
@@ -43,7 +43,7 @@ When your [search](/search) leads to no results, Discord will sometimes display 
 ![Banana](/uploads/easter-eggs/banana.png)
 
 ## Broken magnifying glass
-Alongside the Empathy Banana is there a (comparably larger) chance to get a broken magnifying glass.
+Similar to the Empathy Banana is there a (comparably larger) chance to get a broken magnifying glass.
 
 ![magnifying-glass.png](/uploads/easter-eggs/magnifying-glass.png "Oh no! You broke it!")
 
