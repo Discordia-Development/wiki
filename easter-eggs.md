@@ -2,9 +2,10 @@
 title: Easter Eggs
 description: List of discovered Discord Easter Eggs
 published: true
-date: 2020-07-31T01:59:36.586Z
+date: 2020-10-02T19:43:55.574Z
 tags: 
 editor: markdown
+dateCreated: 2020-01-09T05:10:50.550Z
 ---
 
 An Easter Egg is an undocumented/secret feature in a piece of computer software that is usually included as a joke or for fun.
