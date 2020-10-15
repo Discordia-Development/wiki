@@ -23,7 +23,7 @@ You publish a message by clicking the "publish" icon next to the message (The me
 # Store Channels
 Store Channels are channels you can see game details at, they're similar to store pages but they're contained inside your server on a channel, these channels have a naming structure similar to voice channels which allows uppercase characters and spaces in their names. A store channel may look like this.
 
-![](/uploads/developer-license/store_channel.png 'An example of a Store Channel.')
+![store_channel.png](/uploads/developer-license/store_channel.png 'An example of a Store Channel.')
 
 The form for creating a store channel:
 
