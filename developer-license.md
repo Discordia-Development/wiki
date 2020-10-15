@@ -27,6 +27,6 @@ Store Channels are channels you can see game details at, they're similar to stor
 
 The form for creating a store channel:
 
-![store_channel_form.png](/uploads/developer-license/store_channel_form.png)</figure>
+![store_channel_form.png](/uploads/developer-license/store_channel_form.png)
 
 But this is not all, when you get this license you get access plenty of choices about your game, ability to create gift links, ability to create and modify your store channel and plenty more.
