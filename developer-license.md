@@ -6,7 +6,7 @@ date: 2020-10-15T21:50:52.089Z
 tags: 
 ---
 
-Discord's Developer Application License (commonly know as the **gamedev license**) is a license that you need to buy if you want to publish your game on Discord.
+Discord's Developer Application License (commonly known as the **gamedev license**) is a license that you need to buy if you want to publish your game on Discord.
 
 On the [Discord Developer Portal](https://discord.com/developers) you will see a prompt talking about the license on the left bottom corner. *Your app should be on a team to get a license.*
 
