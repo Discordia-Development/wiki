@@ -2,8 +2,8 @@
 title: Developer Application License
 description: Information about Discord's Developer Application License which is used to publish games.
 published: true
-date: 2020-10-16T06:33:44.501Z
-tags: 
+date: 2020-10-16T06:34:49.078Z
+tags: developers, games, store, licence, news channels
 editor: markdown
 dateCreated: 2020-10-16T05:52:06.548Z
 ---
