@@ -1,21 +1,24 @@
 ---
 title: Server Boosting
-description: Boosting unlocks various perks for the Discord Server they're used on. This page explains what those perks are.
+description: This article describes Server Boosts, how they work and their perks.
 published: true
-date: 2020-05-15T11:04:21.900Z
+date: 2020-10-19T22:10:38.428Z
 tags: 
+editor: markdown
+dateCreated: 2020-04-08T20:09:11.468Z
 ---
 
-Discord allows users with Nitro to *boost* a Discord Server, which can unlock different perks depending on what Levels the Discord Server has reached.
+Discord allows users with Nitro to *boost* a Discord Server, which can unlock various perks for the entire server.
 
-# How to boost
-Users with Discord Nitro have the ability to boost a Discord either once or even twice depending on their type of Nitro.  
-Users with classic Nitro have one free boost while users with normal Nitro have two.
+# Getting Boosts
+You can purchase boosts in two ways:
+- If you subscribe to/are gifted [Nitro](/en/nitro), you get 2 free Boosts and a discount on separately purchased Boosts.
+- You can also pay for Boosts separately from Nitro.
 
-Additionally can everyone buy boosts themself to use on a Discord of their choice.
+If you have Nitro Classic, you won't get any free boosts but you will get the discount.
 
 # Boost levels
-Depending on how many Boosts a Discord Server has can it unlock a different level (or tier how it is called too).
+Depending on how many Boosts a server has, it unlocks new levels.
 
 ## Level 1
 Can be unlocked with 2 boosts, meaning that a single Nitro user could unlock it.
@@ -47,6 +50,5 @@ This level unlocks the following perks:
 - 100MB upload limit for all Members on the Discord
 
 # Losing boosts
-Your Discord Server will lose boosts, when the Booster either moves the boost to another Discord Server, or his Nitro expires.  
-Discord Servers have a "Grace period" before they actually lose the boost, to prevent losing a level, if the booster just forgot to renew his subscription (or similar).  
-The Grace period is 3 days.
+The server will lose boosts when a server booster either moves their Boost(s) to another server, or their Nitro/Boost subscription expires.
+Servers have a "grace period" of 3 days before they actually lose the level in case the booster forgot to renew their subscription or similar.
