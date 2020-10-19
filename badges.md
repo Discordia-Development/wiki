@@ -2,7 +2,7 @@
 title: Badges
 description: Information about Discord's Various User Badges
 published: true
-date: 2020-09-23T20:55:29.326Z
+date: 2020-10-19T23:09:47.635Z
 tags: 
 editor: markdown
 dateCreated: 2020-01-09T04:54:05.986Z
@@ -84,6 +84,13 @@ Users who have purchased [Discord Nitro](/nitro) have the Discord Nitro badge on
 This is a limited run badge for anyone who *ever* had a Discord Nitro subscription before October 10th, 2018. This badge is permanent.
 
 ![Nitro Early Supporter Badge](/uploads/badges/early_supporter_badge_profile.png "A Nitro Early Supporter Badge")
+
+## Server Boosting <img src="/uploads/badges/boosting_icons.png" alt="Server boosting" height="19">
+When you [boost](/server-boosting) one or multiple servers for a certain time will a pink gem be displayed in your profile.
+This badge is *dynamic* and changes over time, depending on how long you boost.
+
+Here is a quick overview of all current badges and how long you need to bost for it to be shown on your profile.
+![boosting_progress.png](/uploads/badges/boosting_progress.png 'All the boost badges and how long you need to boost to get them.')
 
 # Early Verified Bot Developer <img src="/uploads/badges/verified_developer_badge.png" alt="Early Verified Developer Badge" width="21" height="21"/>
 This badge was received by having at least one bot verified by Discord.  
