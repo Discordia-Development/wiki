@@ -2,7 +2,7 @@
 title: Server Boosting
 description: This article describes Server Boosts, how they work and their perks.
 published: true
-date: 2020-10-19T22:10:38.428Z
+date: 2020-10-19T23:14:44.566Z
 tags: 
 editor: markdown
 dateCreated: 2020-04-08T20:09:11.468Z
@@ -12,7 +12,7 @@ Discord allows users with Nitro to *boost* a Discord Server, which can unlock va
 
 # Getting Boosts
 You can purchase boosts in two ways:
-- If you subscribe to/are gifted [Nitro](/en/nitro), you get 2 free Boosts and a discount on separately purchased Boosts.
+- If you subscribe to/are gifted [Nitro](/nitro), you get 2 free Boosts and a discount on separately purchased Boosts.
 - You can also pay for Boosts separately from Nitro.
 
 If you have Nitro Classic, you won't get any free boosts but you will get the discount.
@@ -48,6 +48,13 @@ This level unlocks the following perks:
 - 384 Kbps Audio quality for voice chat
 - Option to set a vanity URL (discord.gg/yourVanityUrl)
 - 100MB upload limit for all Members on the Discord
+
+# Your benefits
+By boosting a Server will you receive some benefits.
+
+- A pink ruby will be displayed right next to your name in the member list of the Server(s) you boost.
+- You'll get a dedicated booster role for the Server(s) you're boosting.
+- Your profile will display a [Badge](/badges#server-boosting) if you boost at least one server for a certain period.
 
 # Losing boosts
 The server will lose boosts when a server booster either moves their Boost(s) to another server, or their Nitro/Boost subscription expires.
