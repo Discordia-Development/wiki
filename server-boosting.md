@@ -2,7 +2,7 @@
 title: Server Boosting
 description: This article describes Server Boosts, how they work and their perks.
 published: true
-date: 2020-10-19T23:14:44.566Z
+date: 2020-10-20T19:03:59.585Z
 tags: 
 editor: markdown
 dateCreated: 2020-04-08T20:09:11.468Z
@@ -55,6 +55,11 @@ By boosting a Server will you receive some benefits.
 - A pink ruby will be displayed right next to your name in the member list of the Server(s) you boost.
 - You'll get a dedicated booster role for the Server(s) you're boosting.
 - Your profile will display a [Badge](/badges#server-boosting) if you boost at least one server for a certain period.
+
+## Badges <img src="/uploads/badges/boosting_icons.png" alt="Server boosting" height="19">
+Depending on how long you've been boosting at least one server, your profile will have one of the following badges:
+![boosting_progress.png](/uploads/badges/boosting_progress.png 'All the boost badges and how long you need to boost to get them.')
+> Note that if you don't renew you Boost/Nitro subscription, your badge will be reset.
 
 # Losing boosts
 The server will lose boosts when a server booster either moves their Boost(s) to another server, or their Nitro/Boost subscription expires.
