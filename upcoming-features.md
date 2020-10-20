@@ -2,7 +2,7 @@
 title: Upcoming Features
 description: A list of features in development for Discord.
 published: true
-date: 2020-10-20T23:04:21.154Z
+date: 2020-10-20T23:05:23.785Z
 tags: 
 editor: markdown
 dateCreated: 2020-01-09T05:40:56.368Z
@@ -23,6 +23,7 @@ This is an occasionally updated list of upcoming features for Discord, whether i
 | Membership Gating            | In Testing            |
 | Slash Commands API           | In Development        |
 | Stickers                     | Gradually Rolling Out |
+| Threads                      | In Development        |
 
 ## iOS
 | Feature             | Status                |
