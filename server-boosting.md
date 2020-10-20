@@ -2,7 +2,7 @@
 title: Server Boosting
 description: This article describes Server Boosts, how they work and their perks.
 published: true
-date: 2020-10-20T19:03:59.585Z
+date: 2020-10-20T19:04:17.822Z
 tags: 
 editor: markdown
 dateCreated: 2020-04-08T20:09:11.468Z
