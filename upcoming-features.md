@@ -2,7 +2,7 @@
 title: Upcoming Features
 description: A list of features in development for Discord.
 published: true
-date: 2020-09-20T11:36:42.180Z
+date: 2020-10-20T22:46:56.617Z
 tags: 
 editor: markdown
 dateCreated: 2020-01-09T05:40:56.368Z
@@ -23,12 +23,12 @@ This is an occasionally updated list of upcoming features for Discord, whether i
 ## iOS
 | Feature                 | Status         |
 |-------------------------|----------------|
-| Screen Sharing          | Planned        |
+| Screen Sharing          | In Development |
 
 ## Android
-| Feature                 | Status     |
-|-------------------------|------------|
-| Screen Sharing          | Planned    |
+| Feature                 | Status         |
+|-------------------------|----------------|
+| Screen Sharing          | In Development |
 
 
 ## Disclaimer
