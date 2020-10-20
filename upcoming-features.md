@@ -2,7 +2,7 @@
 title: Upcoming Features
 description: A list of features in development for Discord.
 published: true
-date: 2020-10-20T22:46:56.617Z
+date: 2020-10-20T23:04:21.154Z
 tags: 
 editor: markdown
 dateCreated: 2020-01-09T05:40:56.368Z
@@ -15,20 +15,28 @@ This is an occasionally updated list of upcoming features for Discord, whether i
 
 ## Desktop
 
-| Feature             |	Status         |
-|---------------------|----------------|
-| Interactive UI API  | Planned        |
-| Keyboard Navigation | In Development |
+| Feature                      |	Status               |
+|------------------------------|-----------------------|
+| Enhanced Private Channels UX | In Development        |
+| Inline Replies               | In Testing            |
+| Interactive UI API           | Planned               |
+| Membership Gating            | In Testing            |
+| Slash Commands API           | In Development        |
+| Stickers                     | Gradually Rolling Out |
 
 ## iOS
-| Feature                 | Status         |
-|-------------------------|----------------|
-| Screen Sharing          | In Development |
+| Feature             | Status                |
+|---------------------|-----------------------|
+| Inline Replies      | In Testing            |
+| Screen Sharing      | In Testing            |
+| Stickers            | Gradually Rolling Out |
 
 ## Android
-| Feature                 | Status         |
-|-------------------------|----------------|
-| Screen Sharing          | In Development |
+| Feature             | Status                |
+|---------------------|-----------------------|
+| Inline Replies      | In Testing            |
+| Screen Sharing      | In Testing            |
+| Stickers            | Gradually Rolling Out |
 
 
 ## Disclaimer
