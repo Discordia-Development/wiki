@@ -2,9 +2,10 @@
 title: Chat Befehle
 description: Beschreibt alle verfügbaren Chat Befehle, sogar die nicht offensichtlichen/nicht dokumentierten
 published: true
-date: 2020-07-12T20:24:05.186Z
+date: 2020-10-25T16:30:28.793Z
 tags: 
 editor: markdown
+dateCreated: 2020-03-09T19:35:21.065Z
 ---
 
 # Discord Chat Befehle
@@ -46,31 +47,39 @@ Hier ist eine Liste der Tasten-Kombinationen und was sie tun:
 
 > **Wichtig!**  
 > Du musst Text markiert haben, um diese Tasten-Kombinationen zu verwenden.
+{.is-warning}
 
 ## Slash Befehle
-Diese Befehle sind nur auf der Desktop und iOS App verfügbar. Android Benutzer haben nur Zugriff auf `/tableflip`, `/unflip` und `/shrug`.
+Ein grossteil dieser Befehle können nur auf Desktop und iOS Klients verwendet werden. Android Benutzer haben nur zugang zu `/tableflip`, `/unflip` und `/shrug`.
 
 > **Hinweis**:  
 > `<Text>` wird benötigt, während `[Text]` optional ist.
+{.is-info}
 
 ### `/tableflip [Nachricht]`
-Gibt `(╯°□°）╯︵ ┻━┻` als Output in den Chat.  
-Wenn du eine Nachricht an den Befehl anhängst (`/tableflip Ich mag diesen Tisch nicht.`), wird das Emoticon ans ende dieser Nachricht angehängt (`Ich mag diesen Tisch nicht. (╯°□°）╯︵ ┻━┻`).
+Gibt `(╯°□°）╯︵ ┻━┻` als Output in den Chat.
+
+Das hinzufügen einer Nachricht nach dem Befehl hängt das Emoticon an die Nachricht an.
+Zum Beispiel wird `/tableflip Ich mag diesen Tisch nicht.` zu `Ich mag diesen Tisch nicht. (╯°□°）╯︵ ┻━┻`
 
 ### `/unflip [Nachricht]`
-Gibt `┬─┬ ノ( ゜-゜ノ)` als Output in den Chat.  
-Wenn du eine Nachricht an den Befehl anhängst (`/unflip Ich mag diesen Tisch aber.`), wird das Emoticon ans ende dieser Nachricht angehängt (`Ich mag diesen Tisch aber. ┬─┬ ノ( ゜-゜ノ)`).
+Gibt `┬─┬ ノ( ゜-゜ノ)` als Output in den Chat.
+
+Das hinzufügen einer Nachricht nach dem Befehl hängt das Emoticon an die Nachricht an.
+Zum Beispiel wird `/unflip Ich mag diesen Tisch aber.` zu `Ich mag diesen Tisch aber. ┬─┬ ノ( ゜-゜ノ)`
 
 ### `/shrug [Nachricht]`
-Gibt `¯\_(ツ)_/¯` als Output in den Chat.  
-Wenn du eine Nachricht an den Befehl anhängst (`/shrug Ich mag Stühle mehr.`), wird das Emoticon ans ende dieser Nachricht angehängt (`Ich mag Stühle mehr. ¯\_(ツ)_/¯`).
+Gibt `¯\_(ツ)_/¯` als Output in den Chat.
+
+Das hinzufügen einer Nachricht nach dem Befehl hängt das Emoticon an die Nachricht an.
+Zum Beispiel wird `/shrug Ich mag Stühle mehr.` zu `Ich mag Stühle mehr. ¯\_(ツ)_/¯`
 
 ### `/me <Nachricht>`
-Sended deine Nachricht in *Kursiv* ähnlich dem Stil von IRC.  
+Sended deine Nachricht in *Kursiv* ähnlich dem Stil von IRC.
 Genau gleich wie wenn du die Nachricht mit `*` (Asterisk) umhülst (`*<Nachricht hier>*`)
 
 ### `/nick <Neuer Nickname>`
-Ändert deinen Nicknamen auf dem Server zu dem, was du nach dem Befehl angegeben hast.  
+Ändert deinen Nicknamen auf dem Server zu dem, was du nach dem Befehl angegeben hast.
 Du benötigst "Nickname ändern" Berechtigung auf dem Server.
 
 ### `/tenor <Suchbegriff>` und `/giphy <Suchbegriff>`
@@ -79,6 +88,10 @@ Durchsucht Tenor oder Giphy (Abhängig davon, welchen Befehl du verwendet hast) 
 ### `/tts <Nachricht>`
 Verwendet Text-zu-Sprache um die Nachricht für alle, welche den Textkanal sehen und die "Text-zu-Sprache" Einstellung aktiv haben, vorzulesen.
 Du benötigst die "TTS-Nachrichten senden" Berechtigung im Server/Textkanal und musst die "Text-zu-Sprache" Option in deinen Einstellungen aktiviert haben, um diesen Befehl verwenden zu können.
+
+> **Hinweis**:
+> Im moment funktioniert Text-zu-Sprache auf Mobilen Geräten nicht.
+{.is-info}
 
 ### `/spoiler <Nachricht>`
 Setzt alles nach dem Befehl in Spoiler.  
