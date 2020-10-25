@@ -2,7 +2,7 @@
 title: Chat Commands
 description: Lists all the chat commands available, even the non-obvious/non-documented ones.
 published: true
-date: 2020-10-25T16:15:59.122Z
+date: 2020-10-25T16:16:52.352Z
 tags: 
 editor: markdown
 dateCreated: 2020-01-09T05:19:49.964Z
@@ -47,6 +47,7 @@ Here is a list of all keyboard combinations and what they do:
 
 > **Important!**  
 > You need to highlight text in order to use the above keyboard combinations.
+{.is-warning}
 
 ## Slash Commands
 
@@ -54,6 +55,7 @@ A large majority of these slash commands are only available for the Desktop and 
 
 > **Note**:
 > `<text>` is required and `[text]` is optional.
+{.is-info}
 
 ### `/tableflip [message]`
 Outputs `(╯°□°）╯︵ ┻━┻` in chat.  
