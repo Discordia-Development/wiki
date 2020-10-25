@@ -2,7 +2,7 @@
 title: Chat Commands
 description: Lists all the chat commands available, even the non-obvious/non-documented ones.
 published: true
-date: 2020-09-23T23:44:27.607Z
+date: 2020-10-25T16:15:59.122Z
 tags: 
 editor: markdown
 dateCreated: 2020-01-09T05:19:49.964Z
@@ -50,7 +50,7 @@ Here is a list of all keyboard combinations and what they do:
 
 ## Slash Commands
 
-These slash commands are only available on the Desktop and iOS apps. Android users only have access to `/tableflip`, `/unflip` and `/shrug`.
+A large majority of these slash commands are only available for the Desktop and iOS clients. Android users only have access to `/tableflip`, `/unflip` and `/shrug`.
 
 > **Note**:
 > `<text>` is required and `[text]` is optional.
