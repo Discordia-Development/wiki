@@ -2,7 +2,7 @@
 title: Chat Commands
 description: Lists all the chat commands available, even the non-obvious/non-documented ones.
 published: true
-date: 2020-10-25T16:16:52.352Z
+date: 2020-10-25T16:22:40.042Z
 tags: 
 editor: markdown
 dateCreated: 2020-01-09T05:19:49.964Z
@@ -58,23 +58,29 @@ A large majority of these slash commands are only available for the Desktop and 
 {.is-info}
 
 ### `/tableflip [message]`
-Outputs `(╯°□°）╯︵ ┻━┻` in chat.  
-When you attach a message to the command (`/tableflip I don't like this table.`) will the emoticon be attached to the end of the message (`I don't like this table. (╯°□°）╯︵ ┻━┻`).
+Outputs `(╯°□°）╯︵ ┻━┻` in chat.
+
+Appending a message after the command will add the Emoticon at the end of it.
+For example will `/tableflip I don't like this table.` turn into `I don't like this table. (╯°□°）╯︵ ┻━┻`
 
 ### `/unflip [message]`
 Outputs `┬─┬ ノ( ゜-゜ノ)` in chat.  
-When you attach a message to the command (`/unflip I do like this table tho.`) will the emoticon be attached to the end of the message (`I do like this table tho. ┬─┬ ノ( ゜-゜ノ)`).
+
+Appending a message after the command will add the Emoticon at the end of it.
+For example will `/unflip I do like this table tho.` turn into `I do like this table tho. ┬─┬ ノ( ゜-゜ノ)`
 
 ### `/shrug [message]`
 Outputs `¯\_(ツ)_/¯` in chat.  
-When you attach a message to the command (`/shrug I prefer chairs.`) will the emoticon be attached to the end of the message (`I prefer chairs. ¯\_(ツ)_/¯`).
+
+Appending a message after the command will add the Emoticon at the end of it.
+For example will `/shrug I prefer chairs.` turn into `I prefer chairs. ¯\_(ツ)_/¯`
 
 ### `/me <message>`
 Outputs your message in *italics*, in the style of IRC. Identical to surrounding your message with asterisks (`*`, `*<message here>*`)
 
 ### `/nick <new nickname>`
 Changes your nickname on the server to the provided one.  
-You need "Change Nickname" permission on the Server.
+You need "Change Nickname" permission on the Server in order to use this.
 
 ### `/tenor <search query>` and `/giphy <search query>`
 Searches through Tenor or Giphy (Depending on which command you used) for gifs matching the provided search query.
@@ -84,7 +90,8 @@ Uses text-to-speech to read the message to all members, which can view the chann
 You need the "Send TTS Messages" permission on the server/channel and also need to have the "Text-to-speech" option in your settings enabled in order to use this command.
 
 > **Note**
-> At the moment, text-to-speech doesn't work on mobile. 
+> At the moment, text-to-speech doesn't work on mobile.
+{.is-info}
 
 ### `/spoiler <message>`
 Puts the provided message in spoilers. This is identical to surrounding your message with `||`s (`||<message here>||`)
