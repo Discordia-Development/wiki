@@ -2,7 +2,7 @@
 title: Upcoming Features
 description: A list of features in development for Discord.
 published: true
-date: 2020-10-20T23:05:23.785Z
+date: 2020-11-03T19:40:55.719Z
 tags: 
 editor: markdown
 dateCreated: 2020-01-09T05:40:56.368Z
@@ -17,7 +17,7 @@ This is an occasionally updated list of upcoming features for Discord, whether i
 
 | Feature                      |	Status               |
 |------------------------------|-----------------------|
-| Enhanced Private Channels UX | In Development        |
+| Enhanced Private Channels UX | In Testing            |
 | Inline Replies               | In Testing            |
 | Interactive UI API           | Planned               |
 | Membership Gating            | In Testing            |
@@ -26,18 +26,20 @@ This is an occasionally updated list of upcoming features for Discord, whether i
 | Threads                      | In Development        |
 
 ## iOS
-| Feature             | Status                |
-|---------------------|-----------------------|
-| Inline Replies      | In Testing            |
-| Screen Sharing      | In Testing            |
-| Stickers            | Gradually Rolling Out |
+| Feature                      |	Status                     |
+|------------------------------|-----------------------------|
+| Enhanced Private Channels UX | Available on iOS Testflight |
+| Inline Replies               | In Testing                  |
+| Screen Sharing               | In Testing                  |
+| Stickers                     | Gradually Rolling Out       |
 
 ## Android
-| Feature             | Status                |
-|---------------------|-----------------------|
-| Inline Replies      | In Testing            |
-| Screen Sharing      | In Testing            |
-| Stickers            | Gradually Rolling Out |
+| Feature             | Status                  |
+|---------------------|-------------------------|
+| Enhanced Private Channels UX | In Development |
+| Inline Replies      | In Testing              |
+| Screen Sharing      | In Testing              |
+| Stickers            | Gradually Rolling Out   |
 
 
 ## Disclaimer
