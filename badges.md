@@ -2,7 +2,7 @@
 title: Badges
 description: Information about Discord's Various User Badges
 published: true
-date: 2020-11-06T22:05:58.672Z
+date: 2020-11-06T22:09:00.423Z
 tags: 
 editor: markdown
 dateCreated: 2020-01-09T04:54:05.986Z
@@ -38,9 +38,10 @@ Discord [HypeSquad](/hypesquad) Event Attendees and Event Coordinators have the 
 
 ![HypeSquad Badge](/uploads/badges/hypesquad_badge_profile.png "A HypeSquad Event Member's Badge")
 
+## HypeSquad Houses
 You can receive any of the HypeSquad House badges by taking the HypeSquad quiz in the [Discord settings](https://discord.com/settings/hypesquad-online). If you want to join Bravery, answer using the first option for all questions. If you want to join Brilliance, use the second option for all questions, and for Balance, use the third option. If you want to be randomly assigned to a house, use the last option for all questions.
 
-## HypeSquad Houses
+Below can you see the badges and how they would look like on the profile.
 
 ## tabs {.tabset}
 ### HypeSquad Bravery  <img src="/uploads/badges/bravery_badge.png" alt="HypeSquad Bravery Badge" width="15" height="15"/>
