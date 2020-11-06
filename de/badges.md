@@ -2,7 +2,7 @@
 title: Abzeichen
 description: Hier findest du all Abzeichen, welche du eventuell erhalten kannst
 published: true
-date: 2020-09-23T20:59:31.023Z
+date: 2020-11-06T22:13:33.797Z
 tags: 
 editor: markdown
 dateCreated: 2020-04-09T14:27:26.482Z
@@ -39,6 +39,9 @@ Discord [HypeSquad](/hypesquad) Eventteilnehmer und -planer haben das HypeSquad 
 ![HypeSquad Profil](/uploads/badges/hypesquad_badge_profile.png "Das Abzeichen eines Eventplaners/-teilnehmers")
 
 ## HypeSquad Häuser
+Du kannst jede der HypeSquad Haus-Abzeichen erhalten, indem du das HypeSquad Quiz in den [Discord Einstellungen](https://discord.com/settings/hypesquad-online) absolviertst. Wenn du Bravery beitreten willst, beantworte alle Fragen mit der ersten Antwort. Wenn du Brilliance beitreten willst, wähle die Zweite Antwort. Für Balance die Dritte. Wenn du zufällig einem Haus zugeordnet werden willst, wähle die vierte Antwort für alle Fragen.
+
+Unten kannst du eine übersicht aller Abzeichen, sowie sie auf dem Profil aussehen würden sehen.
 
 ## Tabs {.tabset}
 ### HypeSquad Bravery <img src="/uploads/badges/bravery_badge.png" alt="HypeSquad Bravery Abzeichen" width="15" height="15" />
