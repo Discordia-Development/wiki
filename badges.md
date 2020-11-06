@@ -2,7 +2,7 @@
 title: Badges
 description: Information about Discord's Various User Badges
 published: true
-date: 2020-11-06T22:09:00.423Z
+date: 2020-11-06T22:19:26.031Z
 tags: 
 editor: markdown
 dateCreated: 2020-01-09T04:54:05.986Z
@@ -90,7 +90,7 @@ This is a limited run badge for anyone who *ever* had a Discord Nitro subscripti
 When you [boost](/server-boosting) one or multiple servers for a certain time will a pink gem be displayed in your profile.
 This badge is *dynamic* and changes over time, depending on how long you boost.
 
-Here is a quick overview of all current badges and how long you need to bost for it to be shown on your profile.
+Here is a quick overview of all current badges and how long you need to boost for it to be shown on your profile.
 ![boosting_progress.png](/uploads/badges/boosting_progress.png 'All the boost badges and how long you need to boost to get them.')
 
 # Early Verified Bot Developer <img src="/uploads/badges/verified_developer_badge.png" alt="Early Verified Developer Badge" width="21" height="21"/>
