@@ -2,29 +2,40 @@
 title: Verified Developers
 description: Information about verified developers and how to become one
 published: true
-date: 2020-05-15T09:36:34.520Z
+date: 2020-11-06T22:40:29.366Z
 tags: 
+editor: markdown
+dateCreated: 2020-04-08T14:13:08.365Z
 ---
 
 Discord Bot Developers, which own a bot that is in more than 75 simultanious servers, can apply to become a verified Developer, which comes with special benefits.
 
 # Benefits
+Getting your bot verified will give some benefits.
 
 ## Developer
-The developer of a bot receives a "Verified Bot Developer" <img src="/uploads/badges/verified_developer_badge.png" alt="Verified Developer Badge" width="21" height="21"/> badge, which is shown on their account alongside all other badges they may have.
+> Since the 9th of August 2020 do Bot Developers no longer receive the Badge for getting one of their bots verified.
+The Badge has also been renamed to "Early Verified Bot Developer" and remains visible for devs that got their bot(s) verified before the above date.
+{.is-warning}
 
-![verified_dev.png](/uploads/verified-developers/verified_dev.png)
+The Developer of a bot receives a "Verified Bot Developer" ![verified_developer_badge.png](/uploads/badges/verified_developer_badge.png =x21) badge, which is shown on their account alongside all other [badges](/badges) they may have.
+If the bot application is part of a Dev Team, will all participants in that team also receive the badge.
+
+![verified_developer_badge_profile.png](/uploads/badges/verified_developer_badge_profile.png)
 
 ## Bots
-All verified bots will receive a checkmark within the "BOT" tag right next to their name, the ability to pass 100 simultanious servers limit and, if requested, the access to Privileged Gateway Intents.
+All verified bots will receive a checkmark within the "BOT" tag right next to their name that reads "Verified Bot" when hovered over, the ability to pass 100 simultanious servers limit and, if requested, the access to Privileged Gateway Intents.
 
 ![verified_bot.png](/uploads/verified-developers/verified_bot.png)
 
-> After October 7th, all unverified bots will not be able to join more than 100 simultanious servers and all bots, if not requested, will lose the access to Privileged Gateway Intents.
-{.is-warning}
+> Since October 7th are bots no longer able to join more than 100 servers without verification.
+Once this number of simultanious Servers has been reached will a bot not be able to get added to any additional Server.
+The user that wants to add the bot to a server will receive an error on the OAuth Page for the bot.
+{.is-info}
 
 # Verification
-Once you're eligible to verify your bot, you will receive an e-mail from Discord and an official Direct Message from Discord too inside the app (the user will have "System" tag near its username).
+A bot becomes eligible for verification once it is on 75 or more Discord Servers.
+You will then receive an e-mail but also a official Direct message from Discord in your Discord Account, which owns the application.
 
 ![official-message-verification.jpg](/uploads/verified-developers/official-message-verification.jpg)
 
