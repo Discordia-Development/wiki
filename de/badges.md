@@ -2,7 +2,7 @@
 title: Abzeichen
 description: Hier findest du all Abzeichen, welche du eventuell erhalten kannst
 published: true
-date: 2020-11-06T22:20:33.099Z
+date: 2020-11-06T22:20:49.384Z
 tags: 
 editor: markdown
 dateCreated: 2020-04-09T14:27:26.482Z
@@ -95,7 +95,7 @@ Hier ist eine schnelle Übersicht von allen aktuellen Abzeichen und wie lange du
 
 # Early verified Bot Developer <img src="/uploads/badges/verified_developer_badge.png" alt="Früher verifizierter Bot Entwickler Abzeichen" height="21" />
 Dieses Abzeichen erhielt man, wenn man einen Bot besitzt, welcher von Discord verifiziert wurde.
-Jede Bot, welcher auf mehr als 75 Gilden ist, hat eine Möglichkeit, verifiziert zu werden.
+Jeder Bot, welcher auf mehr als 75 Gilden ist, hat eine Möglichkeit, verifiziert zu werden.
 
 Seit dem 9. August 2020 ist es [nicht mehr möglich](https://github.com/discord/discord-api-docs/issues/1991) dieses Abzeichen zu erhalten. Das Abzeichen wurde ausserdem auch umbenannt zu "Early verified Bot Developer".
 
