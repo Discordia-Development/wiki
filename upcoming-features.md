@@ -2,7 +2,7 @@
 title: Upcoming Features
 description: A list of features in development for Discord.
 published: true
-date: 2020-11-03T19:40:55.719Z
+date: 2020-11-10T00:26:37.359Z
 tags: 
 editor: markdown
 dateCreated: 2020-01-09T05:40:56.368Z
@@ -34,12 +34,12 @@ This is an occasionally updated list of upcoming features for Discord, whether i
 | Stickers                     | Gradually Rolling Out       |
 
 ## Android
-| Feature             | Status                  |
-|---------------------|-------------------------|
-| Enhanced Private Channels UX | In Development |
-| Inline Replies      | In Testing              |
-| Screen Sharing      | In Testing              |
-| Stickers            | Gradually Rolling Out   |
+| Feature                      | Status                     |
+|------------------------------|----------------------------|
+| Enhanced Private Channels UX | In Development             |
+| Inline Replies               | In Testing                 |
+| Screen Sharing               | Available on Android Alpha |
+| Stickers                     | Gradually Rolling Out      |
 
 
 ## Disclaimer
