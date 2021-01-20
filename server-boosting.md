@@ -2,7 +2,7 @@
 title: Server Boosting
 description: This article describes Server Boosts, how they work and their perks.
 published: true
-date: 2021-01-20T22:23:12.449Z
+date: 2021-01-20T22:23:23.617Z
 tags: 
 editor: markdown
 dateCreated: 2020-04-08T20:09:11.468Z
@@ -54,7 +54,7 @@ By boosting a Server will you receive some benefits.
 
 - A pink ruby will be displayed right next to your name in the member list of the Server(s) you boost.
 - You'll get a dedicated booster role for the Server(s) you're boosting.
-This role cannot be deleted from the Server, but the name, color, position and permissions can be altered.
+  - This role cannot be deleted from the Server, but the name, color, position and permissions can be altered.
 - Your profile will display a [Badge](/badges#server-boosting) if you boost at least one server for a certain period.
 
 ## Badges <img src="/uploads/badges/boosting_icons.png" alt="Server boosting" height="19">
