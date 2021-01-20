@@ -2,7 +2,7 @@
 title: Servers
 description: 
 published: true
-date: 2021-01-20T23:31:36.004Z
+date: 2021-01-20T23:33:01.935Z
 tags: 
 editor: markdown
 dateCreated: 2020-01-09T05:51:32.376Z
@@ -25,7 +25,7 @@ Users can create a server by scrolling to the bottom of their server list and cl
 
 
 # Basic Features
-By default can a Discord Server have [Text Channels](#text-channels), [Voice Channels](#voice-channels), [Roles](#roles) and [Custom Emojis](#custom-emojis).
+By default can a Discord Server have [Text Channels](#text-channels), [Voice Channels](#voice-channels), [Roles](#roles) and [Custom Emojis](#custom-emoji).
 
 ## Text Channels
 Text channels are how users communicate with each other on a server. Users with the "Manage Channels" permission may create and delete text and voice channels. These extra text channels may be edited so that only certain roles and/or users may read it.
@@ -96,4 +96,4 @@ Server administrators may toggle the verification level. When a verification lev
 | Highest | User must have a verified phone on their Discord account.      | Formerly known as `┻━┻ ﾐヽ(ಠ益ಠ)ノ彡┻━┻`              |
 
 # Vanity Invites
-Some servers have the ability to be able to set custom invite links, instead of a randomly generated one. One example is https://discord.gg/discord-developers. Servers gain the ability to set vanity invites if they are a [Discord Partner](/partner), [Verified Server](/verified-servers), the server has reached Level 3 boost through [server boosting](/server-boosting) feature or owned by a Discord Developer. Any member with Manage Server can customize the vanity invite.
+Some servers have the ability to be able to set a custom invite link, instead of a randomly generated one. One example is https://discord.gg/discord-developers. Servers gain the ability to set vanity invites if they are a [Discord Partner](/partner), [Verified Server](/verified-servers), the server has reached Level 3 boost through [server boosting](/server-boosting) feature or is owned by a Discord Developer. Any member with Manage Server can customize the vanity invite.
