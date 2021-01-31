@@ -2,7 +2,7 @@
 title: Servers
 description: 
 published: true
-date: 2021-01-20T23:33:01.935Z
+date: 2021-01-31T14:52:07.663Z
 tags: 
 editor: markdown
 dateCreated: 2020-01-09T05:51:32.376Z
@@ -80,9 +80,13 @@ Published messages support all basic features of a normal message (Formatting, e
 Member screening is a feature which allows you to set a variety of rules that a newly joined member has to accept in order to gain full access to the Discord Server.
 While the new Member hasn't accepted the rules will they be unable to send messages in any channels and also won't be able to send any direct messages to other members of the Server. They still have read access to the channels however.
 
+The text for the displayed rules allow all markdown formatting such as **bold**, *italic* or <u>underline</u>, Channel mentions, user/role mentions and the usage of emojis and custom Emotes, including those of external servers.
+
 ## Welcome Screen
 The welcome screen allows you to set a small Server description alongside a set of channels with a unicode Emoji (Custom ones won't be selectable) and a short description for those.
 The newly joined Member will see that screen and can then select the channel they want to directly jump to, or close the window.
+
+Only channels that `@everyone` has read permissions for can be selected.
 
 # Verification Levels
 Server administrators may toggle the verification level. When a verification level is set, members must meet the criteria before they can create a direct message with someone in the server or send messages in a text channel. If a member is assigned a role, they will bypass the verification.
