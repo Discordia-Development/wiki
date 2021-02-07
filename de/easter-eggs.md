@@ -2,7 +2,7 @@
 title: Easter Eggs
 description: Eine Liste aller gefundenen Discord Easter Eggs
 published: true
-date: 2020-10-02T19:50:22.935Z
+date: 2021-02-07T15:11:21.963Z
 tags: 
 editor: markdown
 dateCreated: 2020-01-22T08:59:41.026Z
@@ -122,3 +122,10 @@ Das schnelle, mehrmalige hovern über eine Boost-Nachricht hat ausserdem eine ge
 Softsoap ist eine Seifen-Marke, oftmals in der Form von Handseifen oder Körper Duschmittel, welches erstmals in 1980 von Robert R. Taylor erfunden wurde, bevor es 7 Jahre später an die Colgate Firma verkauft wurde. Softsoap kann oftmals in in Game Night-Streams gefunden werden aber es kameet auch in einigen "Neue Features" Videos. (Zum Beispiel kann eine Flasche von *Granatapfel und Mango Infusion* Softsoap im Hintergrund des [Discord's Nitro Brew Kaffee Aprilscherz Video](https://www.youtube.com/watch?v=9Z4GW6Vd6NI) gefunden werden) Die zwei häufigsten Flaschen Softsoap sind *"Granatapfel und Mango Infusion Körper waschmittel"* in 18 fl oz. (532.324 ml) und *"Lavendel & Kamille Handseife"* in 7.5 fl oz. (221.801 ml) mengen.
 
 Das Debut des Insider Witz war im Game Night-Stream vom Oktober 2016, in welchem das Discord Teammitglied Zencha mehrmals seine Sätze zu Werbung für *Granatapfel und Mango Infusionen* Softsoab geändert hat und behaupted es würde einem "geschmeidige Haut" geben.
+
+# Namen Bearbeiten Knopf
+Wenn du deinen Namen mit Zeichen bearbeitest, welche die länge deines Namens über ein bestimmtes Limit setzen, ändert sich der "Bearbeiten" Knopf zu `ಠ_ಠ`.
+
+Dies passiert nicht wenn du normale Zeichen (a-z, 0-9) verwendest.
+
+![name-button.png](/uploads/easter-eggs/name-button.png)
