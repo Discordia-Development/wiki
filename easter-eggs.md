@@ -2,7 +2,7 @@
 title: Easter Eggs
 description: List of discovered Discord Easter Eggs
 published: true
-date: 2020-10-02T19:48:46.302Z
+date: 2021-02-07T15:08:34.065Z
 tags: 
 editor: markdown
 dateCreated: 2020-01-09T05:10:50.550Z
@@ -15,7 +15,7 @@ The following is a list of discovered easter eggs on Discord.
 Found an easter egg that isn't on this list? Let a Wiki Editor know! 
 
 # Discord Homepage
-> The Discord website got changed in July 2020 and no longer contains the below easter eggs.
+> The Discord website got changed in July 2020 and no longer contains the below easter egg.
 {.is-info}
 
 
@@ -118,3 +118,10 @@ Hovering over the boost icon multiple times quickly also has a small chance for 
 Softsoap is a brand of soap, most primarily in the forms of hand soap and body wash, that was first created in 1980 by Robert R. Taylor, before being sold to the Colgate company seven years later.  Softsoap is often found in Discord's Game Night streams, though it also occasionally cameos in "new feature" videos. (for example, a bottle of *Pomegranate and Mango Infusions* Softsoap can be found in the background of [Discord's Nitro Brew Coffee April Fools video](https://www.youtube.com/watch?v=9Z4GW6Vd6NI))  The two most referenced bottles of Softsoap are *"Pomegranate and Mango Infusions Bodywash"* in 18 fl oz. quantity and *"Lavender & Chamomile Hand Soap"* in 7.5 fl oz quantity.
 
 The inside joke's debut was in the October 2016 Game Night stream, in which former Discord staff member Zencha frequently transitions his sentences into advertisements for *Pomegranate and Mango Infusions* Softsoap, claiming that it will give the customer "silky smooth skin".
+
+# Name Edit Button
+When you edit your username to contain special characters, and those characters extend the length of your name beyond a specific limit, will the "Edit" button for your name display `ಠ_ಠ`
+
+This does not happen when you just use normal characters (a-z, 0-9).
+
+![name-button.png](/uploads/easter-eggs/name-button.png)
