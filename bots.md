@@ -2,7 +2,7 @@
 title: Bots
 description: Information about Discord bots.
 published: true
-date: 2021-03-13T14:47:55.839Z
+date: 2021-03-13T14:48:06.325Z
 tags: 
 editor: markdown
 dateCreated: 2020-01-09T04:55:32.662Z
