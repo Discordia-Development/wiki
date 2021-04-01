@@ -2,7 +2,7 @@
 title: Server Limits
 description: Limitations placed on how many things you can do in Discord
 published: true
-date: 2021-04-01T20:05:52.953Z
+date: 2021-04-01T20:12:22.940Z
 tags: 
 editor: markdown
 dateCreated: 2020-01-09T05:33:28.029Z
@@ -12,7 +12,7 @@ dateCreated: 2020-01-09T05:33:28.029Z
 This page lists the various "limitations" imposed upon servers in Discord, mostly to answer "how many X can I make?" questions. It's important to note that other than the 5,000 online user limit, **none of these can be modified**. There is currently no feature/method by which a server or user can bypass the limitations noted below.
 
 - A user cannot be on more than **100 servers**. Once this limit is hit, any server invite will display as "Invite Expired".
-- Normally servers have a member limit of **250,000** members. However, some partnered and verified servers can get this limit raised to **500,000**.
+- The Member limit is **250,000** but can be increased by Discord to 500,000, 700,000, etc.
 - Servers reaching **25,000** *simultaneous online* members will need to contact Support to be moved to hardware supporting larger servers - this is when members start getting "Server Unavailable" errors.
 - A server can have *at most* **500 channels**[^1].
   Once 500 channels are reached, no more channels can be created.
