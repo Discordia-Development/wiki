@@ -2,8 +2,10 @@
 title: Server Limits
 description: Limitations placed on how many things you can do in Discord
 published: true
-date: 2020-05-11T12:38:02.971Z
+date: 2021-04-01T19:46:38.973Z
 tags: 
+editor: markdown
+dateCreated: 2020-01-09T05:33:28.029Z
 ---
 
 # Discord Server Limits
@@ -32,7 +34,7 @@ The amount of emojis (Both normal and animated ones) a Server can have can chang
 - Reactions per message: **20** reactions.
 - Maximum attachment size
   - Default: **8 MB (or 8388608 bytes)**.
-  - On Boost-Level 2: **50 MB (or 52428800 bytes)**
+  - On Boost-Level 2 or when having Nitro Classic: **50 MB (or 52428800 bytes)**
   - On Boost-Level 3 or when having Nitro: **100 MB (or 104857600 bytes)**
 - Minimum time for idling: **10 minutes**.
 - Username/nickname: **32 characters**.
