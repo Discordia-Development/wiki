@@ -2,7 +2,7 @@
 title: Server Limits
 description: Limitierungen über wieviele Dinge du auf Discord tun kannst
 published: true
-date: 2021-04-01T19:47:12.319Z
+date: 2021-04-01T19:51:24.651Z
 tags: 
 editor: markdown
 dateCreated: 2020-02-13T10:05:59.783Z
@@ -14,10 +14,12 @@ Diese Seite zeigt die verschiedenen "Einschränkungen" welche einem Server in Di
 - Ein Benutzer kann nicht auf mehr als **100 Server** sein. Sobald dieses Limit ereicht ist wird jede Server-Einladung als "Einladung abgelaufen" angezeigt.
 - Normalerweise hat ein Server ein Mitglieder-Limit von **250'000** Mitgliedern. Jedoch können einige Partner oder Verifizierte Server dieses Limit auf **500'000** anheben.
 - Server welche **5'000** gleichzeitige online Mitglieder erreichen müssen den Support kontaktieren um auf Hardware, welche grosse Server unterstützt, verschoben zu werden. Das ist, wenn Mitglieder "Server nicht verfügbar" Fehler erhalten.
-- Ein Server kann maximal **500 Kanäle** - Text-, Sprachkanäle und Kategorien zusammen - haben. Sobald 500 Kanäle erreicht sind können keine weiteren mehr erstellt werden.
-- Eine Kategory kann maximal **50 Kanäle** - Text- und Sprachkanäle zusammen - haben. Sobald 50 Kanäle erreicht sind können keine weiteren mehr für diese Kategorie erstellt werden.
+- Ein Server kann maximal **500 Kanäle** haben. Dies beinhalted Text-, Sprach-, Ankündigungs, Store-, Stage-Kanäle und Kategorien.
+  Sobald 500 Kanäle erreicht sind können keine weiteren mehr erstellt werden.
+- Eine Kategorie kann maximal **50 Kanäle** unabhängig vom Typ haben.
+  Sobald 50 Kanäle erreicht sind können keine weiteren mehr für diese Kategorie erstellt werden.
 - Ein Server kann maximal **250 Rollen** haben.
-- Server welche **1'000 Mitglieder** erreichen haben die Offline Mitglieds-Liste entfernt.
+- Server welche **1'000 Mitglieder** erreichen haben die Offline Mitglieder-Liste entfernt.
 
 ## Emoji-Grenzen
 Die anzahl Emojis (Sowohl normale wie animierte) welcher ein Server haben kann ändert sich mit dem aktuellen Boost-Level vom Server.
