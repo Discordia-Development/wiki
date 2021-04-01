@@ -2,8 +2,10 @@
 title: Server Limits
 description: Limitierungen über wieviele Dinge du auf Discord tun kannst
 published: true
-date: 2020-04-21T21:15:19.406Z
+date: 2021-04-01T19:47:12.319Z
 tags: 
+editor: markdown
+dateCreated: 2020-02-13T10:05:59.783Z
 ---
 
 # Discord Server Limit
@@ -32,7 +34,7 @@ Die anzahl Emojis (Sowohl normale wie animierte) welcher ein Server haben kann �
 - Reaktionen pro Nachricht: **20** Reaktionen.
 - Maximale Anhang-Grösse
   - Standard: **8 MB (oder 8388608 Bytes)**
-  - Mit Boost-Level 2: **50 MB (oder 52428800 Bytes)**
+  - Mit Boost-Level 2 oder Nitro Classic: **50 MB (oder 52428800 Bytes)**
   - Mit Boost-Level 3 oder Nitro: **100 MB (oder 104857600 Bytes)**
 - Minimale Abwesenheits-Zeit: **10 Minuten**.
 - Benutzername/Spitzname: **32 Zeichen**.
