@@ -2,7 +2,7 @@
 title: Easter Eggs
 description: List of discovered Discord Easter Eggs
 published: true
-date: 2021-02-07T15:08:34.065Z
+date: 2021-04-02T02:51:37.030Z
 tags: 
 editor: markdown
 dateCreated: 2020-01-09T05:10:50.550Z
@@ -125,3 +125,13 @@ When you edit your username to contain special characters, and those characters 
 This does not happen when you just use normal characters (a-z, 0-9).
 
 ![name-button.png](/uploads/easter-eggs/name-button.png)
+
+# Discord 2021 Notification Soundpacks
+# Table {.tabset}
+## First Tab
+
+Testing
+
+## Second Tab
+
+Ignore me this is a test (Hi GitHub viewers!)
