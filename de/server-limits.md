@@ -2,7 +2,7 @@
 title: Server Limits
 description: Limitierungen über wieviele Dinge du auf Discord tun kannst
 published: true
-date: 2021-04-01T20:11:00.016Z
+date: 2021-06-06T20:23:23.524Z
 tags: 
 editor: markdown
 dateCreated: 2020-02-13T10:05:59.783Z
@@ -12,6 +12,7 @@ dateCreated: 2020-02-13T10:05:59.783Z
 Diese Seite zeigt die verschiedenen "Einschränkungen" welche einem Server in Discord auferlegt werden, um meistens "Wieviele X kann ich machen?" Fragen zu beantworten. Es ist wichtig zu betonen, dass ausser dem 5'000 online User Limit **keiner dieser Limitierungen verändert werden kann**. Es gibt im Moment kein Feature/keine Methode durch welche ein Benutzer die unten stehenden Limitierungen umgehen kann.
 
 - Ein Benutzer kann nicht auf mehr als **100 Server** sein. Sobald dieses Limit ereicht ist wird jede Server-Einladung als "Einladung abgelaufen" angezeigt.
+  Benutzer mit [Discord Nitro](nitro) (Nicht Nitro Classic) haben dieses Limit auf **200 Server** erhöht.
 - Das Mitglieder Limit eines Servers ist **250'000**, kann jedoch von Discord auf 500'000, 700'000 usw. angehoben werden.
 - Server welche **25'000** *gleichzeitige* online Mitglieder erreichen müssen den Support kontaktieren um auf Hardware, welche grosse Server unterstützt, verschoben zu werden. Das ist, wenn Mitglieder "Server nicht verfügbar" Fehler erhalten.
 - Ein Server kann maximal **500 Kanäle** haben[^1].
@@ -30,7 +31,8 @@ Die anzahl Emojis (Sowohl normale wie animierte) welcher ein Server haben kann �
 - 30 Boosts (Level 3): **250 normale und 250 animierte Emojis**
 
 # Andere Grenzen
-- Nachrichten-Limit: **2'000 Zeichen**. (Wichtig: Benutzer/Kanal/Rollen-Erwähnungen und Emojis enthalten mehr Zeichen als oftmals angezeigt werden)
+- Nachrichten-Limit: **2'000 Zeichen**.[^3]
+  Benutzer mit [Discord Nitro](nitro) (Nicht Nitro Classic) haben dieses Limit auf **4,000 Zeichen** erhöht.
 - TTS- Limit: **200 Zeichen**.
 - Angeheftete Nachrichten: **50** Nachrichten.
 - Reaktionen pro Nachricht: **20** Reaktionen.
@@ -44,3 +46,4 @@ Die anzahl Emojis (Sowohl normale wie animierte) welcher ein Server haben kann �
 
 [^1]: Kategorien zählen auch als "Kanäle" obwohl sie keine sind.
 [^2]: Jeder Text-, Sprach-, Ankündigungs-, Store oder Staging-Kanal zählt.
+[^3]: Wichtig: Benutzer-, Kanal- und Rollen-Erwähnungen sowie benutzerdefinierte Emotes haben oftmals mehr Zeichen als sie anzeigen.
