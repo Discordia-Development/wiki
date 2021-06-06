@@ -2,14 +2,14 @@
 title: Server Limits
 description: Limitations placed on how many things you can do in Discord
 published: true
-date: 2021-06-06T20:20:41.544Z
+date: 2021-06-06T22:34:39.998Z
 tags: 
 editor: markdown
 dateCreated: 2020-01-09T05:33:28.029Z
 ---
 
-# Discord Server Limits
-This page lists the various "limitations" imposed upon servers in Discord, mostly to answer "how many X can I make?" questions. It's important to note that other than the 5,000 online user limit, **none of these can be modified**. There is currently no feature/method by which a server or user can bypass the limitations noted below.
+# Discord Limits
+This page lists the various "limitations" imposed upon servers and/or users in Discord, mostly to answer "how many X can I make?" questions. It's important to note that other than the 5,000 online user limit, **none of these can be modified**. There is currently no feature/method by which a server or user can bypass the limitations noted below.
 
 - A user cannot be on more than **100 servers**. Once this limit is hit, any server invite will display as "Invite Expired".
   User with [Discord Nitro](nitro) (Not Nitro Classic) have this limit increased to **200 Servers**.
