@@ -2,8 +2,10 @@
 title: Discord Nitro
 description: 
 published: true
-date: 2020-01-31T21:38:37.907Z
+date: 2021-06-06T22:42:34.929Z
 tags: 
+editor: markdown
+dateCreated: 2020-01-09T05:54:41.805Z
 ---
 
 <table style="width:250px; border:1px solid black; float:center">
@@ -49,6 +51,9 @@ The regular Discord Nitro subscription ($9.99/Month, $99.99/Year) gives users ac
 * Higher resolution for screenshare and Go Live (1080p or Source stream quality, or 60 FPS streams).
 * 2 servers boosts.
 * Higher upload limit (100 MB)
+* 4,000 Character limit for messages
+* 200 Server limit
+* Per-Server Avatar
 
 ### Discord Nitro Games
 
@@ -70,6 +75,6 @@ Discord Nitro Brew was Discord's 2017 April Fool's joke.
 
 
 # See Also
-* http://discordapp.com/nitro
-* [Discord Blog](https://blog.discordapp.com/)
-* ["What’s Coming for Nitro"](https://blog.discordapp.com/whats-coming-for-nitro-a732ddc4b5b1)
+* http://discord.com/nitro
+* [Discord Blog](https://blog.discord.com/)
+* ["What’s Coming for Nitro"](https://blog.discord.com/whats-coming-for-nitro-a732ddc4b5b1)
