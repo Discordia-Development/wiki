@@ -2,14 +2,14 @@
 title: Server Limits
 description: Limitierungen über wieviele Dinge du auf Discord tun kannst
 published: true
-date: 2021-06-06T20:23:23.524Z
+date: 2021-06-06T22:34:02.372Z
 tags: 
 editor: markdown
 dateCreated: 2020-02-13T10:05:59.783Z
 ---
 
-# Discord Server Limit
-Diese Seite zeigt die verschiedenen "Einschränkungen" welche einem Server in Discord auferlegt werden, um meistens "Wieviele X kann ich machen?" Fragen zu beantworten. Es ist wichtig zu betonen, dass ausser dem 5'000 online User Limit **keiner dieser Limitierungen verändert werden kann**. Es gibt im Moment kein Feature/keine Methode durch welche ein Benutzer die unten stehenden Limitierungen umgehen kann.
+# Discord Limits
+Diese Seite zeigt die verschiedenen "Einschränkungen" welche einem Server und/oder Benutzer in Discord auferlegt werden, um meistens "Wieviele X kann ich machen?" Fragen zu beantworten. Es ist wichtig zu betonen, dass ausser dem 5'000 online User Limit **keiner dieser Limitierungen verändert werden kann**. Es gibt im Moment kein Feature/keine Methode durch welche ein Benutzer die unten stehenden Limitierungen umgehen kann.
 
 - Ein Benutzer kann nicht auf mehr als **100 Server** sein. Sobald dieses Limit ereicht ist wird jede Server-Einladung als "Einladung abgelaufen" angezeigt.
   Benutzer mit [Discord Nitro](nitro) (Nicht Nitro Classic) haben dieses Limit auf **200 Server** erhöht.
