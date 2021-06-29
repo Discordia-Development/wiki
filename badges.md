@@ -95,7 +95,7 @@ Here is a quick overview of all current badges and how long you need to boost fo
 
 # Early Verified Bot Developer <img src="/uploads/badges/verified_developer_badge.png" alt="Early Verified Developer Badge" width="21" height="21"/>
 This badge was received by having at least one bot verified by Discord.  
-Each bot that reaches over 75 simultanious guilds has a chance of getting verified.
+Each bot that reaches over 75 simultaneous guilds has a chance of getting verified.
 
 Since August 19, 2020 is it [no longer possible](https://github.com/discord/discord-api-docs/issues/1991) to earn this badge by getting your bot verified and it was renamed from "Verified Bot Developer" to "Early Verified Bot Developer".
 
